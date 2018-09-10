@@ -1,0 +1,13 @@
+2017-03-27 txn "Fix sign error on elvis's snack purchase" #adjustment
+  Liabilities:Bar:Members:Elvis			-1.00 EUR
+  Expenses:Correction				 1.00 EUR
+
+# In particular, the first transfer was dropped, and then bloemist bought four
+# wristbands but marquis was only paid for one, leaving two unaccounted for wristbands
+2017-03-29 txn "Rough patch setting up balance transfers for wristbands" #adjustment
+  Liabilities:Bar:Members:Marquis		-1.00 EUR
+  Expenses:Bar					 1.00 EUR
+
+# 2018-08-04 txn "Alex's account overwrote a previous account, losing its balance" #adjustment
+#  Liabilities:Bar:Members:Alex			11.60 EUR
+#  Income:AbandonedMoney
