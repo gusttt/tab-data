@@ -1,0 +1,115 @@
+- name: Soda
+  price: 1.50
+  currency: SODA
+- name: Jupiler
+  price: 1.50
+  currency: JUPILER
+- name: Club Mate
+  price: 2.00
+  currency: CM
+- name: Club Mate Red
+  price: 2.00
+  currency: CMRED
+- name: Club Mate Kraftstoff
+  currency: CMKRAFT
+  price: 2.00
+- name: Club Mate Cola
+  price: 2.00
+  currency: CMCOLA
+- name: Duvel
+  price: 2.50
+  currency: DUVEL
+- name: Pizza
+  # Also listed as 3.50
+  price: 2.00
+  currency: PIZZA
+  payback:
+    account: Liabilities:Bar:Members:Bart
+    amount: 1.63
+- name: Fanta
+  price: 2.00
+  currency: FANTA
+- name: Sprite
+  price: 2.00
+  currency: SPRITE
+- name: Schweppes
+  price: 2.00
+  currency: SCWEPPES
+- name: Snack
+  price: 0.60
+  currency: SNACK
+- name: Chips
+  price: 0.60
+  currency: CHIP
+- name: "whole #!"
+  price: 20.00
+  currency: WHOLENUM
+- name: Snickers
+  price: 0.50
+  currency: SNICKERS
+- name: Twix
+  price: 0.50
+  currency: TWIX
+- name: Cola Light
+  price: 2.50
+  currency: COKE_LIGHT
+- name: Cola Zero
+  price: 1.50
+  currency: COKE_ZERO
+- name: Chimay
+  price: 4.00
+  currency: CHIMAY
+- name: Tea
+  price: 0.50
+  currency: TEA
+- name: Ice Cream
+  price: 1.00
+  currency: ICE_CREAM
+- name: Mars
+  price: 0.50
+  currency: MARS
+- name: Cha-Cha
+  price: 0.50
+  currency: CHACHA
+- name: Water
+  price: 0.50
+  currency: WATER
+- name: Cider
+  price: 1.00
+  currency: CIDER
+- name: "M&M"
+  price: 0.50
+  currency: MNM
+- name: Joylent
+  price: 7.00
+  currency: JOYLENT
+  payback:
+    account: Liabilities:Bar:Members:Bloemist
+    amount: 5.00
+- name: Curry
+  price: 5.00
+  currency: CURRY
+- name: Kriek
+  price: 2.00
+  currency: KRIEK
+- name: Wristband
+  price: 1.00
+  currency: WRISTBAND
+  payback:
+    account: Liabilities:Bar:Members:Marquis
+    amount: 0.50
+- name: T-Shirt
+  price: 20.00
+  currency: TSHIRT
+- name: Croque
+  price: 1.50
+  currency: CROQUE
+  payback:
+    account: Liabilities:Bar:Members:Bloemist
+    amount: 1.00
+- name: Fritz
+  price: 2.00
+  currency: FRITZ
+- name: Hoodie
+  price: 35.00
+  currency: HOODIE
