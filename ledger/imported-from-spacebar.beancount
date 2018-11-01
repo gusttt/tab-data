@@ -47260,3 +47260,2083 @@
   Income:Bar                     -2.00 EUR
   Assets:Inventory:Bar              -1 CM 
   Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-09-13 balance Liabilities:Bar:Members:Koen                    4.50 EUR
+  iline: "7797"
+
+2018-09-13 txn "Koen bought 1 product (-1.50) and has EUR -6.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-13 txn "Koen deposited EUR 10.00 and has now EUR 4.00"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
+2018-09-13 balance Liabilities:Bar:Members:Jens                    -13.50 EUR
+  iline: "7799"
+
+2018-09-13 txn "jens bought 1 product (-2.00) and has EUR 11.50 left"
+  Liabilities:Bar:Members:Jens   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Jens      1 CM 
+
+2018-09-13 balance Liabilities:Bar:Members:Sasja                   -59.60 EUR
+  iline: "7800"
+
+2018-09-13 txn "sasja bought 1 product (-2.00) and has EUR 57.60 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-09-13 balance Liabilities:Bar:Members:Elvis                   -19.10 EUR
+  iline: "7801"
+
+2018-09-13 txn "elvis bought 1 product (-2.00) and has EUR 17.10 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-13 txn "Koen bought 2 products (-2.10) and has EUR 1.90 left"
+  Liabilities:Bar:Members:Koen   2.10 EUR  
+  Income:Bar                    -2.10 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Koen      1 SNACK
+  Assets:Inventory:Bar             -1 SODA 
+  Liabilities:Bar:Members:Koen      1 SODA 
+
+2018-09-13 balance Liabilities:Bar:Members:Ewaut                   -1.60 EUR
+  iline: "7804"
+
+2018-09-13 txn "ewaut bought 1 product (-1.50) and has EUR 0.10 left"
+  Liabilities:Bar:Members:Ewaut   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ewaut      1 JUPILER
+
+2018-09-13 txn "--CASH-- bought 1 product (-1.50) and has EUR -546.40 left"
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+
+2018-09-13 balance Liabilities:Bar:Members:Joris                   -7.50 EUR
+  iline: "7806"
+
+2018-09-13 txn "joris bought 2 products (-3.10) and has EUR 4.40 left"
+  Liabilities:Bar:Members:Joris   3.10 EUR  
+  Income:Bar                     -3.10 EUR  
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-13 balance Liabilities:Bar:Members:Thomas                  5.81 EUR
+  iline: "7807"
+
+2018-09-13 txn "Thomas deposited EUR 20.00 and has now EUR 14.19"
+  Liabilities:Bar:Members:Thomas  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
+2018-09-13 txn "Thomas bought 1 product (-2.50) and has EUR 11.69 left"
+  Liabilities:Bar:Members:Thomas   2.50 EUR  
+  Income:Bar                      -2.50 EUR  
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+
+2018-09-13 txn "Thomas bought 1 product (-0.60) and has EUR 11.09 left"
+  Liabilities:Bar:Members:Thomas   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Thomas      1 SNACK
+
+2018-09-13 txn "ewaut bought 2 products (-3.00) and has EUR -2.90 left"
+  Liabilities:Bar:Members:Ewaut   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Ewaut      2 JUPILER
+
+2018-09-13 balance Liabilities:Bar:Members:Ruleant                 -4.00 EUR
+  iline: "7811"
+
+2018-09-13 txn "ruleant bought 1 product (-1.50) and has EUR 2.50 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-09-13 txn "joris bought 1 product (-0.60) and has EUR 3.80 left"
+  Liabilities:Bar:Members:Joris   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-13 txn "--CASH-- bought 1 product (-1.50) and has EUR -547.90 left"
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+
+2018-09-13 balance Liabilities:Bar:Members:Thequux                 -33.90 EUR
+  iline: "7814"
+
+2018-09-13 txn "thequux bought 1 product (-2.00) and has EUR 31.90 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-13 txn "thequux bought 1 product (-2.50) and has EUR 29.40 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-09-13 txn "--CASH-- bought 2 products (-2.10) and has EUR -550.00 left"
+  Assets:Cash:Bar        2.10 EUR  
+  Income:Bar            -2.10 EUR  
+  Assets:Inventory:Bar     -1 SODA 
+  Assets:Cash:Bar           1 SODA 
+  Assets:Inventory:Bar     -1 SNACK
+  Assets:Cash:Bar           1 SNACK
+
+2018-09-13 txn "--CASH-- bought 1 product (-1.50) and has EUR -551.50 left"
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+
+2018-09-13 balance Liabilities:Bar:Members:Bloemist                9.10 EUR
+  iline: "7818"
+
+2018-09-13 txn "Bloemist bought 1 product (-1.50) and has EUR -10.60 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-09-13 txn "Thomas bought 1 product (-0.60) and has EUR 10.49 left"
+  Liabilities:Bar:Members:Thomas   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Thomas      1 SNACK
+
+2018-09-13 txn "Thomas bought 1 product (-2.00) and has EUR 8.49 left"
+  Liabilities:Bar:Members:Thomas   2.00 EUR
+  Income:Bar                      -2.00 EUR
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Thomas      1 CM 
+
+2018-09-13 txn "Bloemist bought 1 product (-2.00) and has EUR -12.60 left"
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+
+2018-09-13 txn "ruleant bought 1 product (-1.50) and has EUR 1.00 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-09-13 txn "Thomas bought 2 products (-3.10) and has EUR 5.39 left"
+  Liabilities:Bar:Members:Thomas   3.10 EUR  
+  Income:Bar                      -3.10 EUR  
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Thomas      1 SNACK
+
+2018-09-13 txn "joris bought 2 products (-3.10) and has EUR 0.70 left"
+  Liabilities:Bar:Members:Joris   3.10 EUR  
+  Income:Bar                     -3.10 EUR  
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-13 txn "thequux bought 1 product (-2.00) and has EUR 27.40 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-13 txn "--CASH-- bought 1 product (-2.00) and has EUR -553.50 left"
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+
+2018-09-13 txn "Thomas bought 1 product (-0.60) and has EUR 4.79 left"
+  Liabilities:Bar:Members:Thomas   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Thomas      1 SNACK
+
+2018-09-13 txn "thequux bought 1 product (-0.60) and has EUR 26.80 left"
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+
+2018-09-13 txn "elvis bought 1 product (-0.60) and has EUR 16.50 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-14 balance Liabilities:Bar:Members:Elvis                   -16.50 EUR
+  iline: "7830"
+
+2018-09-14 txn "elvis bought 1 product (-0.60) and has EUR 15.90 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-14 balance Liabilities:Bar:Members:Joris                   -0.70 EUR
+  iline: "7831"
+
+2018-09-14 txn "joris bought 1 product (-0.60) and has EUR 0.10 left"
+  Liabilities:Bar:Members:Joris   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-14 txn "joris deposited EUR 20.00 and has now EUR 20.10"
+  Liabilities:Bar:Members:Joris  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
+2018-09-14 txn "joris bought 1 product (-0.60) and has EUR 19.50 left"
+  Liabilities:Bar:Members:Joris   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-15 balance Liabilities:Bar:Members:Elvis                   -15.90 EUR
+  iline: "7834"
+
+2018-09-15 txn "elvis bought 1 product (-2.00) and has EUR 13.90 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-15 balance Liabilities:Bar:Members:Ruleant                 -1.00 EUR
+  iline: "7835"
+
+2018-09-15 txn "ruleant bought 1 product (-1.50) and has EUR -0.50 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-09-15 txn "ruleant deposited EUR 20.00 and has now EUR 19.50"
+  Liabilities:Bar:Members:Ruleant  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
+2018-09-15 balance Liabilities:Bar:Members:Superpumpie             -17.37 EUR
+  iline: "7837"
+
+2018-09-15 txn "superpumpie bought 1 product (-0.60) and has EUR 16.77 left"
+  Liabilities:Bar:Members:Superpumpie   0.60 EUR  
+  Income:Bar                           -0.60 EUR  
+  Assets:Inventory:Bar                    -1 SNACK
+  Liabilities:Bar:Members:Superpumpie      1 SNACK
+
+2018-09-15 txn "superpumpie bought 1 product (-2.00) and has EUR 14.77 left"
+  Liabilities:Bar:Members:Superpumpie   2.00 EUR  
+  Income:Bar                           -2.00 EUR  
+  Assets:Inventory:Bar                    -1 FRITZ
+  Liabilities:Bar:Members:Superpumpie      1 FRITZ
+
+2018-09-15 balance Liabilities:Bar:Members:Koen                    -1.90 EUR
+  iline: "7839"
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR 0.40 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-15 txn "superpumpie bought 1 product (-1.50) and has EUR 13.27 left"
+  Liabilities:Bar:Members:Superpumpie   1.50 EUR 
+  Income:Bar                           -1.50 EUR 
+  Assets:Inventory:Bar                    -1 SODA
+  Liabilities:Bar:Members:Superpumpie      1 SODA
+
+2018-09-15 txn "--CASH-- bought 1 product (-2.00) and has EUR -555.50 left"
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+
+2018-09-15 balance Liabilities:Bar:Members:Thequux                 -26.80 EUR
+  iline: "7842"
+
+2018-09-15 txn "thequux bought 1 product (-2.00) and has EUR 24.80 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-15 txn "--CASH-- bought 1 product (-1.50) and has EUR -557.00 left"
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+
+2018-09-15 txn "thequux deposited EUR -10.00 and has now EUR 14.80"
+  Liabilities:Bar:Members:Thequux   10.00 EUR
+  Assets:Cash:Bar                  -10.00 EUR
+
+2018-09-15 txn "--CASH-- bought 1 product (-1.50) and has EUR -558.50 left"
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+
+2018-09-15 txn "ruleant bought 1 product (-1.50) and has EUR 18.00 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-09-15 txn "thequux bought 1 product (-0.60) and has EUR 14.20 left"
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+
+2018-09-15 txn "thequux bought 1 product (-2.00) and has EUR 12.20 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR -1.10 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-15 txn "elvis bought 1 product (-2.00) and has EUR 11.90 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR -2.60 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-15 txn "superpumpie bought 1 product (-2.50) and has EUR 10.77 left"
+  Liabilities:Bar:Members:Superpumpie   2.50 EUR  
+  Income:Bar                           -2.50 EUR  
+  Assets:Inventory:Bar                    -1 DUVEL
+  Liabilities:Bar:Members:Superpumpie      1 DUVEL
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR -4.10 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-15 txn "superpumpie bought 1 product (-0.60) and has EUR 10.17 left"
+  Liabilities:Bar:Members:Superpumpie   0.60 EUR  
+  Income:Bar                           -0.60 EUR  
+  Assets:Inventory:Bar                    -1 SNACK
+  Liabilities:Bar:Members:Superpumpie      1 SNACK
+
+2018-09-15 txn "thequux bought 1 product (-2.50) and has EUR 9.70 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR -5.60 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-15 txn "thequux bought 1 product (-0.60) and has EUR 9.10 left"
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+
+2018-09-15 txn "elvis bought 1 product (-0.60) and has EUR 11.30 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-15 txn "Koen bought 1 product (-1.50) and has EUR -7.10 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-15 txn "Koen bought 1 product (-0.60) and has EUR -7.70 left"
+  Liabilities:Bar:Members:Koen   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Koen      1 SNACK
+
+2018-09-15 txn "Koen deposited EUR 10.00 and has now EUR 2.30"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
+2018-09-16 txn "--CASH-- bought 1 product (-2.00) and has EUR -560.50 left"
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+
+2018-09-16 txn "--CASH-- bought 1 product (-0.60) and has EUR -561.10 left"
+  Assets:Cash:Bar        0.60 EUR  
+  Income:Bar            -0.60 EUR  
+  Assets:Inventory:Bar     -1 SNACK
+  Assets:Cash:Bar           1 SNACK
+
+2018-09-16 balance Liabilities:Bar:Members:Alex                    -9.30 EUR
+  iline: "7865"
+
+2018-09-16 txn "alex bought 1 product (-0.60) and has EUR 8.70 left"
+  Liabilities:Bar:Members:Alex   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Alex      1 SNACK
+
+2018-09-16 balance Liabilities:Bar:Members:Elvis                   -11.30 EUR
+  iline: "7866"
+
+2018-09-16 txn "elvis bought 1 product (-0.60) and has EUR 10.70 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-16 balance Liabilities:Bar:Members:Koen                    -2.30 EUR
+  iline: "7867"
+
+2018-09-16 txn "Koen bought 1 product (-0.60) and has EUR 1.70 left"
+  Liabilities:Bar:Members:Koen   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Koen      1 SNACK
+
+2018-09-16 txn "Koen bought 1 product (-2.00) and has EUR -0.30 left"
+  Liabilities:Bar:Members:Koen   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Koen      1 CM 
+
+2018-09-16 txn "elvis bought 1 product (-0.60) and has EUR 10.10 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-16 txn "Koen bought 1 product (-1.50) and has EUR -1.80 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-16 txn "Koen deposited EUR 10.00 and has now EUR 8.20"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
+2018-09-16 txn "alex bought 1 product (-1.50) and has EUR 7.20 left"
+  Liabilities:Bar:Members:Alex   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Alex      1 SODA
+
+2018-09-16 balance Liabilities:Bar:Members:Bloemist                12.60 EUR
+  iline: "7873"
+
+2018-09-16 txn "Bloemist bought 1 product (-0.60) and has EUR -13.20 left"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR  
+  Income:Bar                        -0.60 EUR  
+  Assets:Inventory:Bar                 -1 SNACK
+  Liabilities:Bar:Members:Bloemist      1 SNACK
+
+2018-09-16 txn "Bloemist bought 1 product (-0.60) and has EUR -13.80 left"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR  
+  Income:Bar                        -0.60 EUR  
+  Assets:Inventory:Bar                 -1 SNACK
+  Liabilities:Bar:Members:Bloemist      1 SNACK
+
+2018-09-17 balance Liabilities:Bar:Members:Elvis                   -10.10 EUR
+  iline: "7875"
+
+2018-09-17 txn "elvis bought 1 product (-2.00) and has EUR 8.10 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-17 txn "elvis bought 1 product (-0.60) and has EUR 7.50 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-18 balance Liabilities:Bar:Members:Koen                    -8.20 EUR
+  iline: "7877"
+
+2018-09-18 txn "Koen bought 1 product (-1.50) and has EUR 6.70 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-18 txn "Koen bought 1 product (-1.50) and has EUR 5.20 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-19 balance Liabilities:Bar:Members:Koen                    -5.20 EUR
+  iline: "7879"
+
+2018-09-19 txn "Koen bought 2 products (-2.10) and has EUR 3.10 left"
+  Liabilities:Bar:Members:Koen   2.10 EUR  
+  Income:Bar                    -2.10 EUR  
+  Assets:Inventory:Bar             -1 SODA 
+  Liabilities:Bar:Members:Koen      1 SODA 
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Koen      1 SNACK
+
+2018-09-19 balance Liabilities:Bar:Members:Elvis                   -7.50 EUR
+  iline: "7880"
+
+2018-09-19 txn "elvis bought 1 product (-2.00) and has EUR 5.50 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-19 balance Liabilities:Bar:Members:Bart                    0.08 EUR
+  iline: "7881"
+
+2018-09-19 txn "bart bought 1 product (-0.60) and has EUR -0.68 left"
+  Liabilities:Bar:Members:Bart   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bart      1 SNACK
+
+2018-09-19 txn "Koen bought 1 product (-1.50) and has EUR 1.60 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-19 txn "elvis bought 1 product (-0.60) and has EUR 4.90 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-19 txn "elvis bought 1 product (-0.60) and has EUR 4.30 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-20 balance Liabilities:Bar:Members:Elvis                   -4.30 EUR
+  iline: "7885"
+
+2018-09-20 txn "elvis bought 1 product (-2.00) and has EUR 2.30 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-20 balance Liabilities:Bar:Members:Koen                    -1.60 EUR
+  iline: "7886"
+
+2018-09-20 txn "Koen bought 1 product (-1.50) and has EUR 0.10 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-09-20 txn "Koen deposited EUR 0.40 and has now EUR 0.50"
+  Liabilities:Bar:Members:Koen  -0.40 EUR
+  Assets:Cash:Bar                0.40 EUR
+
+2018-09-20 balance Liabilities:Bar:Members:Sasja                   -57.60 EUR
+  iline: "7888"
+
+2018-09-20 txn "sasja bought 2 products (-2.60) and has EUR 55.00 left"
+  Liabilities:Bar:Members:Sasja   2.60 EUR  
+  Income:Bar                     -2.60 EUR  
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Sasja      1 CM   
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-09-20 txn "sasja bought 1 product (-1.50) and has EUR 53.50 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-09-20 txn "elvis bought 1 product (-0.60) and has EUR 1.70 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-20 balance Liabilities:Bar:Members:Superpumpie             -10.17 EUR
+  iline: "7891"
+
+2018-09-20 txn "superpumpie bought 1 product (-0.60) and has EUR 9.57 left"
+  Liabilities:Bar:Members:Superpumpie   0.60 EUR  
+  Income:Bar                           -0.60 EUR  
+  Assets:Inventory:Bar                    -1 SNACK
+  Liabilities:Bar:Members:Superpumpie      1 SNACK
+
+2018-09-20 txn "sasja bought 1 product (-0.60) and has EUR 52.90 left"
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-09-20 balance Liabilities:Bar:Members:Alex                    -7.20 EUR
+  iline: "7893"
+
+2018-09-20 txn "alex bought 1 product (-2.00) and has EUR 5.20 left"
+  Liabilities:Bar:Members:Alex   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Alex      1 CM 
+
+2018-09-20 txn "alex bought 1 product (-0.60) and has EUR 4.60 left"
+  Liabilities:Bar:Members:Alex   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Alex      1 SNACK
+
+2018-09-20 txn "elvis bought 1 product (-2.00) and has EUR -0.30 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-20 txn "Koen deposited EUR -15.00 and has now EUR -14.50"
+  Liabilities:Bar:Members:Koen   15.00 EUR
+  Assets:Cash:Bar               -15.00 EUR
+
+2018-09-20 txn "Koen deposited EUR -7.00 and has now EUR -21.50"
+  Liabilities:Bar:Members:Koen   7.00 EUR
+  Assets:Cash:Bar               -7.00 EUR
+
+2018-09-20 txn "elvis deposited EUR -7.00 and has now EUR -7.30"
+  Liabilities:Bar:Members:Elvis   7.00 EUR
+  Assets:Cash:Bar                -7.00 EUR
+
+2018-09-20 txn "sasja deposited EUR 14.00 and has now EUR 66.90"
+  Liabilities:Bar:Members:Sasja  -14.00 EUR
+  Assets:Cash:Bar                 14.00 EUR
+
+2018-09-20 balance Liabilities:Bar:Members:Thequux                 -9.10 EUR
+  iline: "7901"
+
+2018-09-20 txn "thequux bought 1 product (-2.00) and has EUR 7.10 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-20 txn "sasja bought 1 product (-2.00) and has EUR 64.90 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-09-20 balance Liabilities:Bar:Members:Ewaut                   2.90 EUR
+  iline: "7903"
+
+2018-09-20 txn "ewaut bought 1 product (-2.00) and has EUR -4.90 left"
+  Liabilities:Bar:Members:Ewaut   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ewaut      1 CM 
+
+2018-09-20 balance Liabilities:Bar:Members:Joris                   -19.50 EUR
+  iline: "7904"
+
+2018-09-20 txn "joris bought 2 products (-2.10) and has EUR 17.40 left"
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Joris      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-20 txn "sasja bought 1 product (-1.50) and has EUR 63.40 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Sasja      1 SODA
+
+2018-09-20 txn "sasja bought 1 product (-0.60) and has EUR 62.80 left"
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-09-20 txn "thequux bought 1 product (-2.00) and has EUR 5.10 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-20 txn "thequux bought 1 product (-0.60) and has EUR 4.50 left"
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+
+2018-09-20 balance Liabilities:Bar:Members:Jens                    -11.50 EUR
+  iline: "7909"
+
+2018-09-20 txn "jens bought 1 product (-2.00) and has EUR 9.50 left"
+  Liabilities:Bar:Members:Jens   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Jens      1 CM 
+
+2018-09-20 txn "elvis deposited EUR 20.00 and has now EUR 12.70"
+  Liabilities:Bar:Members:Elvis  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
+2018-09-20 txn "joris bought 2 products (-2.10) and has EUR 15.30 left"
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Joris      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-09-20 balance Liabilities:Bar:Members:Bloemist                13.80 EUR
+  iline: "7913"
+
+2018-09-20 txn "Bloemist bought 1 product (-1.50) and has EUR -15.30 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+  Assets:Inventory:Bar                 -1 SODA
+  Liabilities:Bar:Members:Bloemist      1 SODA
+
+2018-09-20 txn "Bloemist bought 1 product (-1.50) and has EUR -16.80 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-09-20 txn "Koen bought 1 product (-1.50) and has EUR -23.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-09-20 balance Liabilities:Bar:Members:Bart                    0.68 EUR
+  iline: "7918"
+
+2018-09-20 txn "bart deposited EUR 0.00 and has now EUR -0.68"
+  Liabilities:Bar:Members:Bart  0.00 EUR
+  Assets:Cash:Bar               0.00 EUR
+
+2018-09-20 txn "bart deposited EUR 5.00 and has now EUR 4.32"
+  Liabilities:Bar:Members:Bart  -5.00 EUR
+  Assets:Cash:Bar                5.00 EUR
+
+2018-09-20 txn "thequux bought 1 product (-0.60) and has EUR 3.90 left"
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+
+2018-09-20 txn "--CASH-- bought 2 products (-3.00) and has EUR -564.10 left"
+  Assets:Cash:Bar        3.00 EUR 
+  Income:Bar            -3.00 EUR 
+  Assets:Inventory:Bar     -2 SODA
+  Assets:Cash:Bar           2 SODA
+
+2018-09-20 txn "elvis bought 1 product (-1.50) and has EUR 11.20 left"
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Elvis      1 SODA
+
+2018-09-20 balance Liabilities:Bar:Members:Ruleant                 -18.00 EUR
+  iline: "7923"
+
+2018-09-20 txn "ruleant bought 1 product (-1.50) and has EUR 16.50 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-09-21 balance Liabilities:Bar:Members:Sasja                   -62.80 EUR
+  iline: "7924"
+
+2018-09-21 txn "sasja bought 1 product (-2.00) and has EUR 60.80 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-09-21 balance Liabilities:Bar:Members:Elvis                   -11.20 EUR
+  iline: "7925"
+
+2018-09-21 txn "elvis bought 1 product (-2.00) and has EUR 9.20 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-21 txn "elvis bought 1 product (-0.60) and has EUR 8.60 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-09-21 txn "sasja bought 1 product (-0.60) and has EUR 60.20 left"
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-09-21 txn "elvis bought 1 product (-2.00) and has EUR 6.60 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-21 txn "sasja bought 1 product (-1.50) and has EUR 58.70 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Sasja      1 SODA
+
+2018-09-21 txn "sasja bought 1 product (-0.60) and has EUR 58.10 left"
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-09-21 balance Liabilities:Bar:Members:Ruleant                 -16.50 EUR
+  iline: "7931"
+
+2018-09-21 txn "ruleant bought 1 product (-1.50) and has EUR 15.00 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-09-21 txn "elvis deposited EUR -7.60 and has now EUR -1.00"
+  Liabilities:Bar:Members:Elvis   7.60 EUR
+  Assets:Cash:Bar                -7.60 EUR
+
+2018-09-21 txn "ruleant deposited EUR -7.60 and has now EUR 7.40"
+  Liabilities:Bar:Members:Ruleant   7.60 EUR
+  Assets:Cash:Bar                  -7.60 EUR
+
+2018-09-21 txn "sasja deposited EUR 15.20 and has now EUR 73.30"
+  Liabilities:Bar:Members:Sasja  -15.20 EUR
+  Assets:Cash:Bar                 15.20 EUR
+
+2018-09-21 txn "sasja bought 1 product (-2.00) and has EUR 71.30 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-09-21 txn "elvis bought 1 product (-2.00) and has EUR -3.00 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-09-21 balance Liabilities:Bar:Members:Thequux                 -3.90 EUR
+  iline: "7937"
+
+2018-09-21 txn "thequux bought 1 product (-2.00) and has EUR 1.90 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-09-21 txn "ruleant bought 1 product (-1.50) and has EUR 5.90 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-09-21 txn "elvis bought 1 product (-1.50) and has EUR -4.50 left"
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Elvis      1 SODA
+
+2018-09-21 txn "sasja bought 1 product (-1.50) and has EUR 69.80 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-10 balance Liabilities:Bar:Members:Elvis                   4.50 EUR
+  iline: "7941"
+
+2018-10-10 txn "elvis bought 3 products (-6.00) and has EUR -10.50 left"
+  Liabilities:Bar:Members:Elvis   6.00 EUR
+  Income:Bar                     -6.00 EUR
+  Assets:Inventory:Bar              -3 CM 
+  Liabilities:Bar:Members:Elvis      3 CM 
+
+2018-10-10 balance Liabilities:Bar:Members:Sasja                   -69.80 EUR
+  iline: "7942"
+
+2018-10-10 txn "sasja bought 1 product (-2.00) and has EUR 67.80 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-10-10 balance Liabilities:Bar:Members:Thequux                 -1.90 EUR
+  iline: "7943"
+
+2018-10-10 txn "thequux bought 4 products (-8.00) and has EUR -6.10 left"
+  Liabilities:Bar:Members:Thequux   8.00 EUR
+  Income:Bar                       -8.00 EUR
+  Assets:Inventory:Bar                -4 CM 
+  Liabilities:Bar:Members:Thequux      4 CM 
+
+2018-10-10 balance Liabilities:Bar:Members:Enzian                  -25.90 EUR
+  iline: "7944"
+
+2018-10-10 txn "enzian bought 1 product (-2.00) and has EUR 23.90 left"
+  Liabilities:Bar:Members:Enzian   2.00 EUR
+  Income:Bar                      -2.00 EUR
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Enzian      1 CM 
+
+2018-10-10 txn "elvis bought 6 products (-3.60) and has EUR -14.10 left"
+  Liabilities:Bar:Members:Elvis   3.60 EUR  
+  Income:Bar                     -3.60 EUR  
+  Assets:Inventory:Bar              -6 SNACK
+  Liabilities:Bar:Members:Elvis      6 SNACK
+
+2018-10-10 txn "elvis bought 4 products (-8.00) and has EUR -22.10 left"
+  Liabilities:Bar:Members:Elvis   8.00 EUR
+  Income:Bar                     -8.00 EUR
+  Assets:Inventory:Bar              -4 CM 
+  Liabilities:Bar:Members:Elvis      4 CM 
+
+2018-10-10 txn "elvis bought 5 products (-7.50) and has EUR -29.60 left"
+  Liabilities:Bar:Members:Elvis   7.50 EUR 
+  Income:Bar                     -7.50 EUR 
+  Assets:Inventory:Bar              -5 SODA
+  Liabilities:Bar:Members:Elvis      5 SODA
+
+2018-10-10 txn "elvis deposited EUR -12.50 and has now EUR -42.10"
+  Liabilities:Bar:Members:Elvis   12.50 EUR
+  Assets:Cash:Bar                -12.50 EUR
+
+2018-10-10 txn "sasja deposited EUR 12.50 and has now EUR 80.30"
+  Liabilities:Bar:Members:Sasja  -12.50 EUR
+  Assets:Cash:Bar                 12.50 EUR
+
+2018-10-10 txn "elvis deposited EUR -36.00 and has now EUR -78.10"
+  Liabilities:Bar:Members:Elvis   36.00 EUR
+  Assets:Cash:Bar                -36.00 EUR
+
+2018-10-10 txn "thequux deposited EUR 36.00 and has now EUR 29.90"
+  Liabilities:Bar:Members:Thequux  -36.00 EUR
+  Assets:Cash:Bar                   36.00 EUR
+
+2018-10-11 balance Liabilities:Bar:Members:Thequux                 -29.90 EUR
+  iline: "7952"
+
+2018-10-11 txn "thequux bought 1 product (-1.50) and has EUR 28.40 left"
+  Liabilities:Bar:Members:Thequux   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Thequux      1 SODA
+
+2018-10-11 balance Liabilities:Bar:Members:Ewaut                   4.90 EUR
+  iline: "7954"
+
+2018-10-11 txn "ewaut bought 2 products (-2.10) and has EUR -7.00 left"
+  Liabilities:Bar:Members:Ewaut   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Ewaut      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Ewaut      1 SNACK
+
+2018-10-11 balance Liabilities:Bar:Members:Elvis                   78.10 EUR
+  iline: "7955"
+
+2018-10-11 txn "elvis deposited EUR 150.00 and has now EUR 71.90"
+  Liabilities:Bar:Members:Elvis  -150.00 EUR
+  Assets:Cash:Bar                 150.00 EUR
+
+2018-10-11 txn "elvis bought 1 product (-0.60) and has EUR 71.30 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-10-11 balance Liabilities:Bar:Members:Stefaan                 -5.00 EUR
+  iline: "7957"
+
+2018-10-11 txn "Stefaan bought 1 product (-0.60) and has EUR 4.40 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-11 txn "Stefaan bought 1 product (-0.60) and has EUR 3.80 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-11 txn "elvis bought 2 products (-2.60) and has EUR 68.70 left"
+  Liabilities:Bar:Members:Elvis   2.60 EUR  
+  Income:Bar                     -2.60 EUR  
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Elvis      1 CM   
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-10-11 txn "thequux bought 1 product (-2.50) and has EUR 25.90 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-10-11 balance Liabilities:Bar:Members:Joris                   -15.30 EUR
+  iline: "7961"
+
+2018-10-11 txn "joris bought 2 products (-3.10) and has EUR 12.20 left"
+  Liabilities:Bar:Members:Joris   3.10 EUR  
+  Income:Bar                     -3.10 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+
+2018-10-11 balance Liabilities:Bar:Members:Folkaholic              11.67 EUR
+  iline: "7962"
+
+2018-10-11 txn "folkaholic bought 1 product (-2.00) and has EUR -13.67 left"
+  Liabilities:Bar:Members:Folkaholic   2.00 EUR
+  Income:Bar                          -2.00 EUR
+  Assets:Inventory:Bar                   -1 CM 
+  Liabilities:Bar:Members:Folkaholic      1 CM 
+
+2018-10-11 balance Liabilities:Bar:Members:Ruleant                 -5.90 EUR
+  iline: "7963"
+
+2018-10-11 txn "ruleant bought 1 product (-1.50) and has EUR 4.40 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+
+2018-10-11 txn "ruleant bought 1 product (-1.50) and has EUR 2.90 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-10-11 balance Liabilities:Bar:Members:Bert                    -2.90 EUR
+  iline: "7965"
+
+2018-10-11 txn "Bert bought 1 product (-1.50) and has EUR 1.40 left"
+  Liabilities:Bar:Members:Bert   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bert      1 JUPILER
+
+2018-10-11 balance Liabilities:Bar:Members:Merlijn                 -18.18 EUR
+  iline: "7966"
+
+2018-10-11 txn "Merlijn bought 2 products (-1.20) and has EUR 16.98 left"
+  Liabilities:Bar:Members:Merlijn   1.20 EUR  
+  Income:Bar                       -1.20 EUR  
+  Assets:Inventory:Bar                -2 SNACK
+  Liabilities:Bar:Members:Merlijn      2 SNACK
+
+2018-10-11 txn "Stefaan deposited EUR 20.00 and has now EUR 23.80"
+  Liabilities:Bar:Members:Stefaan  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
+2018-10-11 txn "ewaut bought 1 product (-2.00) and has EUR -9.00 left"
+  Liabilities:Bar:Members:Ewaut   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ewaut      1 CM 
+
+2018-10-11 txn "Merlijn bought 1 product (-2.00) and has EUR 14.98 left"
+  Liabilities:Bar:Members:Merlijn   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Merlijn      1 CM 
+
+2018-10-11 txn "Stefaan bought 1 product (-0.60) and has EUR 23.20 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-11 balance Liabilities:Bar:Members:Bart                    -4.32 EUR
+  iline: "7971"
+
+2018-10-11 txn "bart bought 1 product (-1.50) and has EUR 2.82 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-11 balance Liabilities:Bar:Members:Koen                    23.00 EUR
+  iline: "7972"
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -24.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-10-11 txn "--CASH-- bought 1 product (-2.00) and has EUR -566.10 left"
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+
+2018-10-11 txn "Bert bought 1 product (-1.50) and has EUR -0.10 left"
+  Liabilities:Bar:Members:Bert   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bert      1 JUPILER
+
+2018-10-11 txn "ruleant bought 1 product (-1.50) and has EUR 1.40 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-10-11 txn "joris bought 1 product (-2.50) and has EUR 9.70 left"
+  Liabilities:Bar:Members:Joris   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+
+2018-10-11 balance Liabilities:Bar:Members:Bertrand                -22.35 EUR
+  iline: "7977"
+
+2018-10-11 txn "Bertrand bought 1 product (-1.50) and has EUR 20.85 left"
+  Liabilities:Bar:Members:Bertrand   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bertrand      1 JUPILER
+
+2018-10-11 balance Liabilities:Bar:Members:Sasja                   -80.30 EUR
+  iline: "7978"
+
+2018-10-11 txn "sasja bought 1 product (-1.50) and has EUR 78.80 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-11 txn "--CASH-- bought 1 product (-2.00) and has EUR -568.10 left"
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+
+2018-10-11 txn "bart bought 1 product (-1.50) and has EUR 1.32 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -26.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-11 txn "sasja bought 1 product (-2.00) and has EUR 76.80 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Sasja      1 FRITZ
+
+2018-10-11 balance Liabilities:Bar:Members:Els                     83.84 EUR
+  iline: "7983"
+
+2018-10-11 txn "els bought 1 product (-1.50) and has EUR -85.34 left"
+  Liabilities:Bar:Members:Els   1.50 EUR    
+  Income:Bar                   -1.50 EUR    
+  Assets:Inventory:Bar            -1 JUPILER
+  Liabilities:Bar:Members:Els      1 JUPILER
+
+2018-10-11 txn "elvis bought 1 product (-0.50) and has EUR 68.20 left"
+  Liabilities:Bar:Members:Elvis   0.50 EUR  
+  Income:Bar                     -0.50 EUR  
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Elvis      1 WATER
+
+2018-10-11 txn "thequux bought 1 product (-2.50) and has EUR 23.40 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-10-11 txn "Bert bought 1 product (-1.50) and has EUR -1.60 left"
+  Liabilities:Bar:Members:Bert   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bert      1 JUPILER
+
+2018-10-11 txn "els deposited EUR 100.00 and has now EUR 14.66"
+  Liabilities:Bar:Members:Els  -100.00 EUR
+  Assets:Cash:Bar               100.00 EUR
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -27.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-11 txn "sasja bought 1 product (-1.50) and has EUR 75.30 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-11 txn "ewaut bought 1 product (-0.60) and has EUR -9.60 left"
+  Liabilities:Bar:Members:Ewaut   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Ewaut      1 SNACK
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -29.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-11 txn "ruleant bought 1 product (-1.50) and has EUR -0.10 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-10-11 txn "bart bought 1 product (-1.50) and has EUR -0.18 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-11 txn "Bert bought 2 products (-3.50) and has EUR -5.10 left"
+  Liabilities:Bar:Members:Bert   3.50 EUR    
+  Income:Bar                    -3.50 EUR    
+  Assets:Inventory:Bar             -1 CM     
+  Liabilities:Bar:Members:Bert      1 CM     
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bert      1 JUPILER
+
+2018-10-11 txn "Bertrand bought 1 product (-1.50) and has EUR 19.35 left"
+  Liabilities:Bar:Members:Bertrand   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+  Assets:Inventory:Bar                 -1 SODA
+  Liabilities:Bar:Members:Bertrand      1 SODA
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -30.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-11 txn "--CASH-- bought 1 product (-1.50) and has EUR -569.60 left"
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+
+2018-10-11 txn "Koen bought 1 product (-1.50) and has EUR -32.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-11 txn "Bert bought 1 product (-2.00) and has EUR -7.10 left"
+  Liabilities:Bar:Members:Bert   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bert      1 CM 
+
+2018-10-11 txn "els bought 1 product (-2.00) and has EUR 12.66 left"
+  Liabilities:Bar:Members:Els   2.00 EUR
+  Income:Bar                   -2.00 EUR
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Els      1 CM 
+
+2018-10-11 balance Liabilities:Bar:Members:Superpumpie             -9.57 EUR
+  iline: "8001"
+
+2018-10-11 txn "superpumpie bought 1 product (-1.50) and has EUR 8.07 left"
+  Liabilities:Bar:Members:Superpumpie   1.50 EUR    
+  Income:Bar                           -1.50 EUR    
+  Assets:Inventory:Bar                    -1 JUPILER
+  Liabilities:Bar:Members:Superpumpie      1 JUPILER
+
+2018-10-11 txn "superpumpie bought 1 product (-1.50) and has EUR 6.57 left"
+  Liabilities:Bar:Members:Superpumpie   1.50 EUR    
+  Income:Bar                           -1.50 EUR    
+  Assets:Inventory:Bar                    -1 JUPILER
+  Liabilities:Bar:Members:Superpumpie      1 JUPILER
+
+2018-10-11 txn "superpumpie bought 1 product (-1.50) and has EUR 5.07 left"
+  Liabilities:Bar:Members:Superpumpie   1.50 EUR    
+  Income:Bar                           -1.50 EUR    
+  Assets:Inventory:Bar                    -1 JUPILER
+  Liabilities:Bar:Members:Superpumpie      1 JUPILER
+
+2018-10-12 balance Liabilities:Bar:Members:Elvis                   -68.20 EUR
+  iline: "8004"
+
+2018-10-12 txn "elvis bought 1 product (-0.60) and has EUR 67.60 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-10-14 balance Liabilities:Bar:Members:Thequux                 -23.40 EUR
+  iline: "8005"
+
+2018-10-14 txn "thequux bought 1 product (-2.00) and has EUR 21.40 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-10-14 balance Liabilities:Bar:Members:Els                     -12.66 EUR
+  iline: "8006"
+
+2018-10-14 txn "els bought 1 product (-1.50) and has EUR 11.16 left"
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+  Assets:Inventory:Bar            -1 SODA
+  Liabilities:Bar:Members:Els      1 SODA
+
+2018-10-16 balance Liabilities:Bar:Members:Sasja                   -75.30 EUR
+  iline: "8007"
+
+2018-10-16 txn "sasja bought 1 product (-2.00) and has EUR 73.30 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-10-17 balance Liabilities:Bar:Members:Elvis                   -67.60 EUR
+  iline: "8008"
+
+2018-10-17 txn "elvis bought 1 product (-0.50) and has EUR 67.10 left"
+  Liabilities:Bar:Members:Elvis   0.50 EUR  
+  Income:Bar                     -0.50 EUR  
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Elvis      1 WATER
+
+2018-10-17 balance Liabilities:Bar:Members:Sasja                   -73.30 EUR
+  iline: "8009"
+
+2018-10-17 txn "sasja bought 1 product (-2.00) and has EUR 71.30 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-10-17 txn "sasja bought 20 products (-26.80) and has EUR 44.50 left"
+  Liabilities:Bar:Members:Sasja   26.80 EUR    
+  Income:Bar                     -26.80 EUR    
+  Assets:Inventory:Bar               -8 SNACK  
+  Liabilities:Bar:Members:Sasja       8 SNACK  
+  Assets:Inventory:Bar               -2 JUPILER
+  Liabilities:Bar:Members:Sasja       2 JUPILER
+  Assets:Inventory:Bar               -8 CM     
+  Liabilities:Bar:Members:Sasja       8 CM     
+  Assets:Inventory:Bar               -2 SODA   
+  Liabilities:Bar:Members:Sasja       2 SODA   
+
+2018-10-18 balance Liabilities:Bar:Members:Ewaut                   9.60 EUR
+  iline: "8013"
+
+2018-10-18 txn "ewaut bought 1 product (-1.50) and has EUR -11.10 left"
+  Liabilities:Bar:Members:Ewaut   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Ewaut      1 SODA
+
+2018-10-18 balance Liabilities:Bar:Members:Sasja                   -44.50 EUR
+  iline: "8015"
+
+2018-10-18 txn "sasja bought 1 product (-1.50) and has EUR 43.00 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-18 balance Liabilities:Bar:Members:Elvis                   -67.10 EUR
+  iline: "8016"
+
+2018-10-18 txn "elvis bought 1 product (-2.00) and has EUR 65.10 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-10-18 balance Liabilities:Bar:Members:Ruben                   -0.40 EUR
+  iline: "8017"
+
+2018-10-18 txn "ruben bought 2 products (-4.00) and has EUR -3.60 left"
+  Liabilities:Bar:Members:Ruben   4.00 EUR
+  Income:Bar                     -4.00 EUR
+  Assets:Inventory:Bar              -2 CM 
+  Liabilities:Bar:Members:Ruben      2 CM 
+
+2018-10-18 txn "ruben bought 1 product (-2.00) and has EUR -5.60 left"
+  Liabilities:Bar:Members:Ruben   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ruben      1 CM 
+
+2018-10-18 balance Liabilities:Bar:Members:Stefaan                 -23.20 EUR
+  iline: "8019"
+
+2018-10-18 txn "Stefaan bought 1 product (-0.60) and has EUR 22.60 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-18 txn "Stefaan bought 1 product (-0.50) and has EUR 22.10 left"
+  Liabilities:Bar:Members:Stefaan   0.50 EUR  
+  Income:Bar                       -0.50 EUR  
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Stefaan      1 WATER
+
+2018-10-18 txn "sasja bought 1 product (-1.50) and has EUR 41.50 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-18 txn "Stefaan bought 1 product (-0.60) and has EUR 21.50 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-18 txn "Stefaan bought 1 product (-0.60) and has EUR 20.90 left"
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+
+2018-10-18 balance Liabilities:Bar:Members:Bloemist                16.80 EUR
+  iline: "8024"
+
+2018-10-18 txn "Bloemist bought 1 product (-1.50) and has EUR -18.30 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-10-18 balance Liabilities:Bar:Members:Gust                    -10.78 EUR
+  iline: "8025"
+
+2018-10-18 txn "Gust bought 1 product (-2.00) and has EUR 8.78 left"
+  Liabilities:Bar:Members:Gust   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+
+2018-10-18 txn "ruben bought 1 product (-1.50) and has EUR -7.10 left"
+  Liabilities:Bar:Members:Ruben   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+
+2018-10-18 balance Liabilities:Bar:Members:Ruleant                 0.10 EUR
+  iline: "8028"
+
+2018-10-18 txn "ruleant bought 1 product (-1.50) and has EUR -1.60 left"
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+
+2018-10-18 txn "sasja bought 1 product (-0.60) and has EUR 40.90 left"
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+
+2018-10-18 balance Liabilities:Bar:Members:Koen                    32.00 EUR
+  iline: "8030"
+
+2018-10-18 txn "Koen bought 1 product (-1.50) and has EUR -33.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-18 txn "Bloemist bought 2 products (-3.50) and has EUR -21.80 left"
+  Liabilities:Bar:Members:Bloemist   3.50 EUR 
+  Income:Bar                        -3.50 EUR 
+  Assets:Inventory:Bar                 -1 CM  
+  Liabilities:Bar:Members:Bloemist      1 CM  
+  Assets:Inventory:Bar                 -1 SODA
+  Liabilities:Bar:Members:Bloemist      1 SODA
+
+2018-10-18 txn "Bloemist bought 1 product (-1.50) and has EUR -23.30 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-10-18 balance Liabilities:Bar:Members:Bart                    0.18 EUR
+  iline: "8033"
+
+2018-10-18 txn "bart bought 1 product (-2.00) and has EUR -2.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-10-18 txn "bart deposited EUR 10.00 and has now EUR 7.82"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
+2018-10-18 txn "sasja bought 1 product (-1.50) and has EUR 39.40 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-18 txn "ruleant deposited EUR 20.00 and has now EUR 18.40"
+  Liabilities:Bar:Members:Ruleant  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
+2018-10-18 txn "Koen bought 1 product (-1.50) and has EUR -35.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-18 txn "ruben bought 1 product (-1.50) and has EUR -8.60 left"
+  Liabilities:Bar:Members:Ruben   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+
+2018-10-18 txn "Gust bought 1 product (-2.00) and has EUR 6.78 left"
+  Liabilities:Bar:Members:Gust   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+
+2018-10-18 txn "Gust bought 1 product (-0.60) and has EUR 6.18 left"
+  Liabilities:Bar:Members:Gust   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Gust      1 SNACK
+
+2018-10-18 txn "Koen bought 2 products (-3.00) and has EUR -38.00 left"
+  Liabilities:Bar:Members:Koen   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+
+2018-10-18 txn "Koen bought 1 product (-1.50) and has EUR -39.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-18 txn "Koen bought 1 product (-1.50) and has EUR -41.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-19 balance Liabilities:Bar:Members:Bart                    -7.82 EUR
+  iline: "8046"
+
+2018-10-19 txn "bart bought 1 product (-1.50) and has EUR 6.32 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-19 balance Liabilities:Bar:Members:Gust                    -6.18 EUR
+  iline: "8047"
+
+2018-10-19 txn "Gust bought 1 product (-0.60) and has EUR 5.58 left"
+  Liabilities:Bar:Members:Gust   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Gust      1 SNACK
+
+2018-10-19 txn "Gust bought 1 product (-1.50) and has EUR 4.08 left"
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Gust      1 SODA
+
+2018-10-19 balance Liabilities:Bar:Members:Ewaut                   11.10 EUR
+  iline: "8049"
+
+2018-10-19 txn "ewaut bought 1 product (-1.50) and has EUR -12.60 left"
+  Liabilities:Bar:Members:Ewaut   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Ewaut      1 SODA
+
+2018-10-20 balance Liabilities:Bar:Members:Folkaholic              13.67 EUR
+  iline: "8051"
+
+2018-10-20 txn "folkaholic bought 1 product (-0.50) and has EUR -14.17 left"
+  Liabilities:Bar:Members:Folkaholic   0.50 EUR  
+  Income:Bar                          -0.50 EUR  
+  Assets:Inventory:Bar                   -1 WATER
+  Liabilities:Bar:Members:Folkaholic      1 WATER
+
+2018-10-20 txn "folkaholic deposited EUR 15.00 and has now EUR 0.83"
+  Liabilities:Bar:Members:Folkaholic  -15.00 EUR
+  Assets:Cash:Bar                      15.00 EUR
+
+2018-10-20 balance Liabilities:Bar:Members:Koen                    41.00 EUR
+  iline: "8053"
+
+2018-10-20 txn "Koen bought 1 product (-1.50) and has EUR -42.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+
+2018-10-20 balance Liabilities:Bar:Members:Bart                    -6.32 EUR
+  iline: "8054"
+
+2018-10-20 txn "bart bought 1 product (-1.50) and has EUR 4.82 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-20 txn "Koen deposited EUR 50.00 and has now EUR 7.50"
+  Liabilities:Bar:Members:Koen  -50.00 EUR
+  Assets:Cash:Bar                50.00 EUR
+
+2018-10-20 txn "bart bought 2 products (-3.00) and has EUR 1.82 left"
+  Liabilities:Bar:Members:Bart   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Bart      2 JUPILER
+
+2018-10-21 balance Liabilities:Bar:Members:Folkaholic              -0.83 EUR
+  iline: "8057"
+
+2018-10-21 txn "folkaholic bought 1 product (-0.50) and has EUR 0.33 left"
+  Liabilities:Bar:Members:Folkaholic   0.50 EUR  
+  Income:Bar                          -0.50 EUR  
+  Assets:Inventory:Bar                   -1 WATER
+  Liabilities:Bar:Members:Folkaholic      1 WATER
+
+2018-10-22 balance Liabilities:Bar:Members:Superpumpie             -5.07 EUR
+  iline: "8058"
+
+2018-10-22 txn "superpumpie bought 5 products (-5.70) and has EUR -0.63 left"
+  Liabilities:Bar:Members:Superpumpie   5.70 EUR  
+  Income:Bar                           -5.70 EUR  
+  Assets:Inventory:Bar                    -2 SNACK
+  Liabilities:Bar:Members:Superpumpie      2 SNACK
+  Assets:Inventory:Bar                    -3 SODA 
+  Liabilities:Bar:Members:Superpumpie      3 SODA 
+
+2018-10-22 balance Liabilities:Bar:Members:Elvis                   -65.10 EUR
+  iline: "8059"
+
+2018-10-22 txn "elvis bought 1 product (-2.00) and has EUR 63.10 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-10-22 balance Liabilities:Bar:Members:Sasja                   -39.40 EUR
+  iline: "8060"
+
+2018-10-22 txn "sasja bought 1 product (-2.00) and has EUR 37.40 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+
+2018-10-22 balance Liabilities:Bar:Members:Bart                    -1.82 EUR
+  iline: "8061"
+
+2018-10-22 txn "bart bought 1 product (-1.50) and has EUR 0.32 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+
+2018-10-22 balance Liabilities:Bar:Members:Koen                    -7.50 EUR
+  iline: "8063"
+
+2018-10-22 txn "Koen bought 1 product (-1.50) and has EUR 6.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-22 txn "Koen bought 1 product (-1.50) and has EUR 4.50 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-23 balance Liabilities:Bar:Members:Elvis                   -63.10 EUR
+  iline: "8065"
+
+2018-10-23 txn "elvis bought 1 product (-0.50) and has EUR 62.60 left"
+  Liabilities:Bar:Members:Elvis   0.50 EUR  
+  Income:Bar                     -0.50 EUR  
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Elvis      1 WATER
+
+2018-10-23 txn "elvis bought 1 product (-0.60) and has EUR 62.00 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-10-24 balance Liabilities:Bar:Members:Thequux                 -21.40 EUR
+  iline: "8067"
+
+2018-10-24 txn "thequux bought 1 product (-2.00) and has EUR 19.40 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-10-24 balance Liabilities:Bar:Members:Bart                    -0.32 EUR
+  iline: "8068"
+
+2018-10-24 txn "bart bought 1 product (-1.50) and has EUR -1.18 left"
+  Liabilities:Bar:Members:Bart   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Bart      1 SODA
+
+2018-10-24 txn "thequux bought 1 product (-2.50) and has EUR 16.90 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-10-24 txn "thequux bought 1 product (-2.50) and has EUR 14.40 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-10-25 balance Liabilities:Bar:Members:Joris                   -9.70 EUR
+  iline: "8071"
+
+2018-10-25 txn "joris bought 2 products (-2.10) and has EUR 7.60 left"
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Joris      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-10-25 balance Liabilities:Bar:Members:Bloemist                23.30 EUR
+  iline: "8072"
+
+2018-10-25 txn "Bloemist bought 1 product (-2.00) and has EUR -25.30 left"
+  Liabilities:Bar:Members:Bloemist   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Bloemist      1 FRITZ
+
+2018-10-25 txn "Bloemist bought 1 product (-0.60) and has EUR -25.90 left"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR  
+  Income:Bar                        -0.60 EUR  
+  Assets:Inventory:Bar                 -1 SNACK
+  Liabilities:Bar:Members:Bloemist      1 SNACK
+
+2018-10-25 balance Liabilities:Bar:Members:Koen                    -4.50 EUR
+  iline: "8074"
+
+2018-10-25 txn "Koen deposited EUR -6.00 and has now EUR -1.50"
+  Liabilities:Bar:Members:Koen   6.00 EUR
+  Assets:Cash:Bar               -6.00 EUR
+
+2018-10-25 balance Liabilities:Bar:Members:Thequux                 -14.40 EUR
+  iline: "8075"
+
+2018-10-25 txn "thequux bought 1 product (-2.00) and has EUR 12.40 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-10-25 balance Liabilities:Bar:Members:Elvis                   -62.00 EUR
+  iline: "8076"
+
+2018-10-25 txn "elvis bought 1 product (-2.00) and has EUR 60.00 left"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+
+2018-10-25 balance Liabilities:Bar:Members:Folkaholic              -0.33 EUR
+  iline: "8077"
+
+2018-10-25 txn "folkaholic bought 1 product (-2.00) and has EUR -1.67 left"
+  Liabilities:Bar:Members:Folkaholic   2.00 EUR
+  Income:Bar                          -2.00 EUR
+  Assets:Inventory:Bar                   -1 CM 
+  Liabilities:Bar:Members:Folkaholic      1 CM 
+
+2018-10-25 txn "Koen bought 1 product (-1.50) and has EUR -3.00 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-25 txn "joris bought 1 product (-0.60) and has EUR 7.00 left"
+  Liabilities:Bar:Members:Joris   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+
+2018-10-25 balance Liabilities:Bar:Members:Bart                    1.18 EUR
+  iline: "8080"
+
+2018-10-25 txn "bart bought 1 product (-2.00) and has EUR -3.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-10-25 txn "Bloemist bought 1 product (-1.50) and has EUR -27.40 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-10-25 txn "elvis bought 1 product (-0.60) and has EUR 59.40 left"
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+
+2018-10-25 txn "Maja deposited EUR -5.80 and has now EUR -5.80"
+  Liabilities:Bar:Members:Maja   5.80 EUR
+  Assets:Cash:Bar               -5.80 EUR
+
+2018-10-25 txn "Bloemist deposited EUR 5.80 and has now EUR -21.60"
+  Liabilities:Bar:Members:Bloemist  -5.80 EUR
+  Assets:Cash:Bar                    5.80 EUR
+
+2018-10-25 txn "Koen deposited EUR -12.70 and has now EUR -15.70"
+  Liabilities:Bar:Members:Koen   12.70 EUR
+  Assets:Cash:Bar               -12.70 EUR
+
+2018-10-25 txn "Bloemist deposited EUR 12.70 and has now EUR -8.90"
+  Liabilities:Bar:Members:Bloemist  -12.70 EUR
+  Assets:Cash:Bar                    12.70 EUR
+
+2018-10-25 txn "joris bought 2 products (-2.10) and has EUR 4.90 left"
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Joris      1 SODA 
+
+2018-10-25 txn "thequux bought 2 products (-2.60) and has EUR 9.80 left"
+  Liabilities:Bar:Members:Thequux   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+  Assets:Inventory:Bar                -1 CM   
+  Liabilities:Bar:Members:Thequux      1 CM   
+
+2018-10-25 txn "thequux deposited EUR 0.60 and has now EUR 10.40"
+  Liabilities:Bar:Members:Thequux  -0.60 EUR
+  Assets:Cash:Bar                   0.60 EUR
+
+2018-10-25 txn "Koen bought 1 product (-1.50) and has EUR -17.20 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-30 balance Liabilities:Bar:Members:Koen                    17.20 EUR
+  iline: "8091"
+
+2018-10-30 txn "Koen deposited EUR 30.00 and has now EUR 12.80"
+  Liabilities:Bar:Members:Koen  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
+2018-10-30 balance Liabilities:Bar:Members:Bart                    3.18 EUR
+  iline: "8092"
+
+2018-10-30 txn "bart bought 1 product (-2.00) and has EUR -5.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-10-30 txn "bart bought 1 product (-2.00) and has EUR -7.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-10-30 txn "bart bought 1 product (-2.00) and has EUR -9.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-10-30 balance Liabilities:Bar:Members:Thequux                 -10.40 EUR
+  iline: "8095"
+
+2018-10-30 txn "thequux bought 1 product (-2.00) and has EUR 8.40 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-10-30 balance Liabilities:Bar:Members:Sasja                   -37.40 EUR
+  iline: "8096"
+
+2018-10-30 txn "sasja bought 1 product (-1.50) and has EUR 35.90 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-30 txn "sasja bought 1 product (-1.50) and has EUR 34.40 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-30 balance Liabilities:Bar:Members:Bloemist                8.90 EUR
+  iline: "8098"
+
+2018-10-30 txn "Bloemist bought 1 product (-1.50) and has EUR -10.40 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-10-30 txn "Bloemist bought 1 product (-0.60) and has EUR -11.00 left"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR  
+  Income:Bar                        -0.60 EUR  
+  Assets:Inventory:Bar                 -1 SNACK
+  Liabilities:Bar:Members:Bloemist      1 SNACK
+
+2018-10-30 txn "Koen bought 1 product (-1.50) and has EUR 11.30 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-30 txn "sasja bought 1 product (-1.50) and has EUR 32.90 left"
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+
+2018-10-30 txn "Bloemist bought 1 product (-1.50) and has EUR -12.50 left"
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+
+2018-10-30 txn "thequux bought 1 product (-2.50) and has EUR 5.90 left"
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+
+2018-10-30 txn "Koen bought 1 product (-1.50) and has EUR 9.80 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-31 balance Liabilities:Bar:Members:Koen                    -9.80 EUR
+  iline: "8105"
+
+2018-10-31 txn "Koen bought 1 product (-1.50) and has EUR 8.30 left"
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+
+2018-10-31 txn "Koen deposited EUR -5.00 and has now EUR 3.30"
+  Liabilities:Bar:Members:Koen   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
+2018-10-31 balance Liabilities:Bar:Members:Thequux                 -5.90 EUR
+  iline: "8107"
+
+2018-10-31 txn "thequux bought 1 product (-2.00) and has EUR 3.90 left"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+
+2018-10-31 balance Liabilities:Bar:Members:Bart                    9.18 EUR
+  iline: "8108"
+
+2018-10-31 txn "bart bought 1 product (-2.00) and has EUR -11.18 left"
+  Liabilities:Bar:Members:Bart   2.00 EUR
+  Income:Bar                    -2.00 EUR
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+
+2018-11-01 balance Liabilities:Bar:Members:Sasja                   -32.90 EUR
+  iline: "8109"
+
+2018-11-01 txn "sasja bought 1 product (-2.00) and has EUR 30.90 left"
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
