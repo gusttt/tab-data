@@ -82,6 +82,15 @@
   event_price: 0.75
   currency: TWIX
   category: food
+- name: Ice Tea
+  price: 2.50
+  event_price: 3.50
+  category: drink
+- name: Cola
+  price: 2.50
+  event_price: 3.50
+  currency: COKE
+  category: drink
 - name: Cola Light
   price: 2.50
   event_price: 3.50
@@ -180,3 +189,25 @@
   event_price: 53.00
   currency: HOODIE
   category: swag
+- name: Jenever
+  price: 2.00
+  event_price: 3.00
+  category: alcohol
+  payback:
+    account: Liabilities:Bar:Members:Bloemist
+    amount: 1.00
+- name: KitKat
+  price: 0.50
+  event_price: 0.75
+  category: food
+  currency: KITKAT
+- name: Leffe
+  price: 2.00
+  event_price: 3.00
+  category: alcohol
+  currency: LEFFE
+- name: Orval
+  price: 3.00
+  event_price: 4.50
+  category: alcohol
+  currency: ORVL
