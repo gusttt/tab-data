@@ -1,34 +1,42 @@
 - name: Soda
   price: 1.50
+  event_price: 2.50
   currency: SODA
   category: drink
 - name: Jupiler
   price: 1.50
+  event_price: 2.50
   currency: JUPILER
   category: alcohol
 - name: Club Mate
   price: 2.00
+  event_price: 3.00
   currency: CM
   category: drink
 - name: Club Mate Red
   price: 2.00
+  event_price: 3.00
   currency: CMRED
   category: drink
 - name: Club Mate Kraftstoff
   currency: CMKRAFT
   price: 2.00
+  event_price: 3.00
   category: drink
 - name: Club Mate Cola
   price: 2.00
+  event_price: 3.00
   currency: CMCOLA
   category: drink
 - name: Duvel
   price: 2.50
+  event_price: 3.50
   currency: DUVEL
   category: alcohol
 - name: Pizza
   # Also listed as 3.50
   price: 2.00
+  event_price: 3.50
   currency: PIZZA
   payback:
     account: Liabilities:Bar:Members:Bart
@@ -36,92 +44,114 @@
   category: food
 - name: Fanta
   price: 2.00
+  event_price: 3.00
   currency: FANTA
   category: drink
 - name: Sprite
   price: 2.00
+  event_price: 3.00
   currency: SPRITE
   category: drink
 - name: Schweppes
   price: 2.00
+  event_price: 3.00
   currency: SCWEPPES
   category: drink
 - name: Snack
   price: 0.60
+  event_price: 0.90
   currency: SNACK
   category: food
 - name: Chips
   price: 0.60
+  event_price: 0.90
   currency: CHIP
   category: food
 - name: "whole #!"
   price: 20.00
+  event_price: 30.00
   currency: WHOLENUM
   category: misc
 - name: Snickers
   price: 0.50
+  event_price: 0.75
   currency: SNICKERS
   category: food
 - name: Twix
   price: 0.50
+  event_price: 0.75
   currency: TWIX
   category: food
 - name: Cola Light
   price: 2.50
+  event_price: 3.50
   currency: COKE_LIGHT
   category: drink
 - name: Cola Zero
   price: 1.50
+  event_price: 2.50
   currency: COKE_ZERO
   category: drink
 - name: Chimay
   price: 4.00
+  event_price: 6.00
   currency: CHIMAY
   category: alcohol
 - name: Tea
   price: 0.50
+  event_price: 0.75
   currency: TEA
   category: drink
 - name: Ice Cream
   price: 1.00
+  event_price: 1.50
   currency: ICE_CREAM
   category: food
 - name: Mars
   price: 0.50
+  event_price: 0.75
   currency: MARS
   category: food
 - name: Cha-Cha
   price: 0.50
+  event_price: 0.75
   currency: CHACHA
   category: food
 - name: Water
   price: 0.50
+  event_price: 0.75
   currency: WATER
   category: drink
 - name: Cider
   price: 1.00
+  event_price: 1.50
   currency: CIDER
   category: alcohol
 - name: "M&M"
   price: 0.50
+  event_price: 0.75
   currency: MNM
   category: food
 - name: Joylent
   price: 7.00
+  event_price: 10.00
   currency: JOYLENT
   payback:
     account: Liabilities:Bar:Members:Bloemist
     amount: 5.00
 - name: Curry
   price: 5.00
+  event_price: 7.50
   currency: CURRY
   category: food
 - name: Kriek
   price: 2.00
+  event_price: 3.00
   currency: KRIEK
   category: alcohol
 - name: Wristband
   price: 1.00
+  event_price: 1.50
   currency: WRISTBAND
   payback:
     account: Liabilities:Bar:Members:Marquis
@@ -129,10 +159,12 @@
   category: swag
 - name: T-Shirt
   price: 20.00
+  event_price: 30.00
   currency: TSHIRT
   category: swag
 - name: Croque
   price: 1.50
+  event_price: 2.25
   currency: CROQUE
   payback:
     account: Liabilities:Bar:Members:Bloemist
@@ -140,9 +172,11 @@
   category: food
 - name: Fritz
   price: 2.00
+  event_price: 3.00
   currency: FRITZ
   category: drink
 - name: Hoodie
   price: 35.00
+  event_price: 53.00
   currency: HOODIE
   category: swag
