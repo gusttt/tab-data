@@ -150,10 +150,10 @@
   Liabilities:Bar:Members:Koen      1 ICETEA
 
 2016-10-27 txn "Bloemist bought 1 product (-0.50) and has EUR -5.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-27 txn "Tom bought 2 products (-3.00) and has EUR 4.00 left"
   Liabilities:Bar:Members:Superpumpie   3.00 EUR    
@@ -180,10 +180,10 @@
   Liabilities:Bar:Members:Sasja      1 WATER
 
 2016-10-27 txn "Bloemist bought 1 product (-0.50) and has EUR -6.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-28 balance Liabilities:Bar:Members:Elvis                   -3.00 EUR
   iline: "41"
@@ -235,10 +235,10 @@
   Assets:Cash:Bar                10.00 EUR
 
 2016-10-28 txn "Bloemist bought 1 product (-0.50) and has EUR -9.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-30 balance Liabilities:Bar:Members:Sasja                   -9.10 EUR
   iline: "60"
@@ -265,16 +265,16 @@
   Liabilities:Bar:Members:Superpumpie      1 COKE
 
 2016-10-30 txn "Tom bought 1 product (-0.50) and has EUR 2.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-10-30 txn "Tom bought 1 product (-0.50) and has EUR 1.50 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR
-  Income:Bar                           -0.50 EUR
-  Assets:Inventory:Bar                    -1 TWX
-  Liabilities:Bar:Members:Superpumpie      1 TWX
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR 
+  Income:Bar                           -0.50 EUR 
+  Assets:Inventory:Bar                    -1 TWIX
+  Liabilities:Bar:Members:Superpumpie      1 TWIX
 
 2016-10-30 balance Liabilities:Bar:Members:Bloemist                9.10 EUR
   iline: "66"
@@ -284,8 +284,8 @@
   Income:Bar                        -2.00 EUR 
   Assets:Inventory:Bar                 -1 COKE
   Liabilities:Bar:Members:Bloemist      1 COKE
-  Assets:Inventory:Bar                 -1 TWX 
-  Liabilities:Bar:Members:Bloemist      1 TWX 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-30 balance Liabilities:Bar:Members:Joris                   -9.50 EUR
   iline: "68"
@@ -307,10 +307,10 @@
   Liabilities:Bar:Members:Bloemist      1 CM  
 
 2016-10-30 txn "Bloemist bought 1 product (-0.50) and has EUR -14.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-31 balance Liabilities:Bar:Members:Bloemist                14.10 EUR
   iline: "71"
@@ -387,10 +387,10 @@
   Liabilities:Bar:Members:Sasja      1 JUPILER
 
 2016-10-31 txn "Bloemist bought 1 product (-0.50) and has EUR -23.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-31 txn "Merlijn bought 1 product (-2.00) and has EUR 25.75 left"
   Liabilities:Bar:Members:Merlijn   2.00 EUR
@@ -399,10 +399,10 @@
   Liabilities:Bar:Members:Merlijn      1 CM 
 
 2016-10-31 txn "Merlijn bought 1 product (-0.50) and has EUR 25.25 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2016-10-31 txn "Koen bought 1 product (-1.50) and has EUR 1.50 left"
   Liabilities:Bar:Members:Koen   1.50 EUR    
@@ -423,10 +423,10 @@
   Liabilities:Bar:Members:Koen      1 JUPILER
 
 2016-10-31 txn "Bloemist bought 1 product (-0.50) and has EUR -23.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-10-31 txn "Bloemist bought 1 product (-2.00) and has EUR -25.60 left"
   Liabilities:Bar:Members:Bloemist   2.00 EUR
@@ -483,10 +483,10 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2016-11-01 txn "Bloemist bought 1 product (-0.50) and has EUR -26.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-01 txn "Koen bought 1 product (-1.50) and has EUR -2.50 left"
   Liabilities:Bar:Members:Koen   1.50 EUR 
@@ -525,10 +525,10 @@
   Liabilities:Bar:Members:Sasja      1 MARS
 
 2016-11-01 txn "sasja bought 1 product (-0.50) and has EUR -10.90 left"
-  Liabilities:Bar:Members:Sasja   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Sasja      1 SNICK
+  Liabilities:Bar:Members:Sasja   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Sasja      1 SNICKERS
 
 2016-11-01 txn "sasja bought 1 product (-2.00) and has EUR -12.90 left"
   Liabilities:Bar:Members:Sasja   2.00 EUR
@@ -543,16 +543,16 @@
   Liabilities:Bar:Members:Bloemist      1 CM 
 
 2016-11-01 txn "Bloemist bought 1 product (-0.50) and has EUR -29.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-01 txn "Bloemist bought 1 product (-0.50) and has EUR -29.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-03 balance Liabilities:Bar:Members:Koen                    0.00 EUR
   iline: "109"
@@ -569,18 +569,18 @@
   iline: "110"
 
 2016-11-03 txn "Merlijn bought 1 product (-0.50) and has EUR 24.75 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2016-11-03 txn "Koen bought 2 products (-2.00) and has EUR -4.00 left"
-  Liabilities:Bar:Members:Koen   2.00 EUR    
-  Income:Bar                    -2.00 EUR    
-  Assets:Inventory:Bar             -1 SNICK  
-  Liabilities:Bar:Members:Koen      1 SNICK  
-  Assets:Inventory:Bar             -1 JUPILER
-  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   2.00 EUR     
+  Income:Bar                    -2.00 EUR     
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Koen      1 SNICKERS
+  Assets:Inventory:Bar             -1 JUPILER 
+  Liabilities:Bar:Members:Koen      1 JUPILER 
 
 2016-11-03 balance Liabilities:Bar:Members:Joris                   -7.50 EUR
   iline: "113"
@@ -641,10 +641,10 @@
   Assets:Cash:Bar                    4.00 EUR
 
 2016-11-03 txn "bart bought 1 product (-0.50) and has EUR 3.80 left"
-  Liabilities:Bar:Members:Bart   0.50 EUR  
-  Income:Bar                    -0.50 EUR  
-  Assets:Inventory:Bar             -1 SNICK
-  Liabilities:Bar:Members:Bart      1 SNICK
+  Liabilities:Bar:Members:Bart   0.50 EUR     
+  Income:Bar                    -0.50 EUR     
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bart      1 SNICKERS
 
 2016-11-03 txn "gillesj bought 2 products (-3.00) and has EUR 5.50 left"
   Liabilities:Bar:Members:Enzian   3.00 EUR    
@@ -661,12 +661,12 @@
   Liabilities:Bar:Members:Bloemist      1 JUPILER
 
 2016-11-03 txn "Bert bought 2 products (-2.00) and has EUR -3.30 left"
-  Liabilities:Bar:Members:Bert   2.00 EUR    
-  Income:Bar                    -2.00 EUR    
-  Assets:Inventory:Bar             -1 JUPILER
-  Liabilities:Bar:Members:Bert      1 JUPILER
-  Assets:Inventory:Bar             -1 SNICK  
-  Liabilities:Bar:Members:Bert      1 SNICK  
+  Liabilities:Bar:Members:Bert   2.00 EUR     
+  Income:Bar                    -2.00 EUR     
+  Assets:Inventory:Bar             -1 JUPILER 
+  Liabilities:Bar:Members:Bert      1 JUPILER 
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bert      1 SNICKERS
 
 2016-11-03 txn "Koen bought 1 product (-1.50) and has EUR -4.00 left"
   Liabilities:Bar:Members:Koen   1.50 EUR    
@@ -675,12 +675,12 @@
   Liabilities:Bar:Members:Koen      1 JUPILER
 
 2016-11-03 txn "Bloemist bought 2 products (-1.00) and has EUR -29.60 left"
-  Liabilities:Bar:Members:Bloemist   1.00 EUR
-  Income:Bar                        -1.00 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
-  Assets:Inventory:Bar                 -1 MNM
-  Liabilities:Bar:Members:Bloemist      1 MNM
+  Liabilities:Bar:Members:Bloemist   1.00 EUR 
+  Income:Bar                        -1.00 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Assets:Inventory:Bar                 -1 MNM 
+  Liabilities:Bar:Members:Bloemist      1 MNM 
 
 2016-11-03 balance Liabilities:Bar:Members:Sasja                   12.90 EUR
   iline: "130"
@@ -692,10 +692,10 @@
   Liabilities:Bar:Members:Sasja      2 JUPILER
 
 2016-11-03 txn "Merlijn bought 1 product (-0.50) and has EUR 24.25 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2016-11-03 txn "bart deposited EUR 1.63 and has now EUR 5.43"
   Liabilities:Bar:Members:Bart  -1.63 EUR
@@ -709,10 +709,10 @@
   Liabilities:Bar:Members:Bloemist      1 ORVL
 
 2016-11-03 txn "Bloemist bought 1 product (-0.50) and has EUR -33.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-03 txn "thijs bought 2 products (-2.50) and has EUR 4.65 left"
   Liabilities:Bar:Members:Thijs   2.50 EUR  
@@ -749,10 +749,10 @@
   Liabilities:Bar:Members:Koen      1 CHIP   
 
 2016-11-03 txn "Bloemist bought 1 product (-0.50) and has EUR -33.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR  
-  Income:Bar                        -0.50 EUR  
-  Assets:Inventory:Bar                 -1 SNICK
-  Liabilities:Bar:Members:Bloemist      1 SNICK
+  Liabilities:Bar:Members:Bloemist   0.50 EUR     
+  Income:Bar                        -0.50 EUR     
+  Assets:Inventory:Bar                 -1 SNICKERS
+  Liabilities:Bar:Members:Bloemist      1 SNICKERS
 
 2016-11-03 txn "Bloemist bought 1 product (-1.50) and has EUR -35.10 left"
   Liabilities:Bar:Members:Bloemist   1.50 EUR   
@@ -761,10 +761,10 @@
   Liabilities:Bar:Members:Bloemist      1 ICETEA
 
 2016-11-03 txn "Bloemist bought 1 product (-0.50) and has EUR -35.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-03 txn "sasja deposited EUR 30.00 and has now EUR 12.60"
   Liabilities:Bar:Members:Sasja  -30.00 EUR
@@ -803,26 +803,26 @@
   iline: "154"
 
 2016-11-06 txn "Tom bought 1 product (-0.50) and has EUR -4.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-11-06 txn "Tom deposited EUR 0.50 and has now EUR -3.50"
   Liabilities:Bar:Members:Superpumpie  -0.50 EUR
   Assets:Cash:Bar                       0.50 EUR
 
 2016-11-06 txn "thijs bought 1 product (-0.50) and has EUR 2.15 left"
-  Liabilities:Bar:Members:Thijs   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Thijs      1 TWX
+  Liabilities:Bar:Members:Thijs   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Thijs      1 TWIX
 
 2016-11-06 txn "thijs bought 1 product (-0.50) and has EUR 1.65 left"
-  Liabilities:Bar:Members:Thijs   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Thijs      1 TWX
+  Liabilities:Bar:Members:Thijs   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Thijs      1 TWIX
 
 2016-11-06 balance Liabilities:Bar:Members:Bloemist                35.60 EUR
   iline: "158"
@@ -853,10 +853,10 @@
   Liabilities:Bar:Members:Thijs      1 ORVL
 
 2016-11-06 txn "thijs bought 1 product (-0.50) and has EUR -1.85 left"
-  Liabilities:Bar:Members:Thijs   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Thijs      1 SNICK
+  Liabilities:Bar:Members:Thijs   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Thijs      1 SNICKERS
 
 2016-11-06 balance Liabilities:Bar:Members:Sasja                   -12.60 EUR
   iline: "162"
@@ -876,60 +876,60 @@
 2016-11-06 txn "Bloemist bought 2 products (-2.00) and has EUR -39.10 left"
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
-  Assets:Inventory:Bar                 -1 TWX   
-  Liabilities:Bar:Members:Bloemist      1 TWX   
+  Assets:Inventory:Bar                 -1 TWIX  
+  Liabilities:Bar:Members:Bloemist      1 TWIX  
   Assets:Inventory:Bar                 -1 ICETEA
   Liabilities:Bar:Members:Bloemist      1 ICETEA
 
 2016-11-06 txn "Bloemist bought 2 products (-2.00) and has EUR -41.10 left"
-  Liabilities:Bar:Members:Bloemist   2.00 EUR   
-  Income:Bar                        -2.00 EUR   
-  Assets:Inventory:Bar                 -1 SNICK 
-  Liabilities:Bar:Members:Bloemist      1 SNICK 
-  Assets:Inventory:Bar                 -1 ICETEA
-  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR     
+  Income:Bar                        -2.00 EUR     
+  Assets:Inventory:Bar                 -1 SNICKERS
+  Liabilities:Bar:Members:Bloemist      1 SNICKERS
+  Assets:Inventory:Bar                 -1 ICETEA  
+  Liabilities:Bar:Members:Bloemist      1 ICETEA  
 
 2016-11-06 txn "Bloemist bought 1 product (-0.50) and has EUR -41.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-08 balance Liabilities:Bar:Members:Elvis                   -4.50 EUR
   iline: "167"
 
 2016-11-08 txn "elvis bought 1 product (-0.50) and has EUR 4.00 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2016-11-08 balance Liabilities:Bar:Members:Bloemist                41.60 EUR
   iline: "168"
 
 2016-11-08 txn "Bloemist bought 1 product (-0.50) and has EUR -42.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-08 txn "Bloemist bought 1 product (-0.50) and has EUR -42.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-08 txn "elvis bought 1 product (-0.50) and has EUR 3.50 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Elvis      1 TWX
+  Liabilities:Bar:Members:Elvis   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
 
 2016-11-08 txn "Bloemist bought 1 product (-0.50) and has EUR -43.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-08 balance Liabilities:Bar:Members:Koen                    -2.00 EUR
   iline: "172"
@@ -974,10 +974,10 @@
   Assets:Cash:Bar                6.00 EUR
 
 2016-11-08 txn "Tom bought 1 product (-0.50) and has EUR -9.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-11-09 balance Liabilities:Bar:Members:Superpumpie             9.00 EUR
   iline: "179"
@@ -992,10 +992,10 @@
   Liabilities:Bar:Members:Superpumpie      1 ORVL
 
 2016-11-09 txn "bart bought 1 product (-0.50) and has EUR 9.82 left"
-  Liabilities:Bar:Members:Bart   0.50 EUR  
-  Income:Bar                    -0.50 EUR  
-  Assets:Inventory:Bar             -1 SNICK
-  Liabilities:Bar:Members:Bart      1 SNICK
+  Liabilities:Bar:Members:Bart   0.50 EUR     
+  Income:Bar                    -0.50 EUR     
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bart      1 SNICKERS
 
 2016-11-10 txn "els bought 1 product (-1.50) and has EUR 35.70 left"
   Liabilities:Bar:Members:Els   1.50 EUR   
@@ -1008,8 +1008,8 @@
   Income:Bar                   -2.00 EUR 
   Assets:Inventory:Bar            -1 COKE
   Liabilities:Bar:Members:Els      1 COKE
-  Assets:Inventory:Bar            -1 TWX 
-  Liabilities:Bar:Members:Els      1 TWX 
+  Assets:Inventory:Bar            -1 TWIX
+  Liabilities:Bar:Members:Els      1 TWIX
 
 2016-11-10 balance Liabilities:Bar:Members:Bert                    3.30 EUR
   iline: "185"
@@ -1046,10 +1046,10 @@
   Liabilities:Bar:Members:Sasja      2 JUPILER
 
 2016-11-10 txn "Merlijn bought 1 product (-0.50) and has EUR 22.25 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2016-11-10 balance Liabilities:Bar:Members:Elvis                   -3.50 EUR
   iline: "191"
@@ -1068,12 +1068,12 @@
   Assets:Cash:Bar                 10.00 EUR
 
 2016-11-10 txn "Bert bought 2 products (-2.50) and has EUR 41.20 left"
-  Liabilities:Bar:Members:Bert   2.50 EUR  
-  Income:Bar                    -2.50 EUR  
-  Assets:Inventory:Bar             -1 CM   
-  Liabilities:Bar:Members:Bert      1 CM   
-  Assets:Inventory:Bar             -1 SNICK
-  Liabilities:Bar:Members:Bert      1 SNICK
+  Liabilities:Bar:Members:Bert   2.50 EUR     
+  Income:Bar                    -2.50 EUR     
+  Assets:Inventory:Bar             -1 CM      
+  Liabilities:Bar:Members:Bert      1 CM      
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bert      1 SNICKERS
 
 2016-11-10 balance Liabilities:Bar:Members:Joris                   -5.00 EUR
   iline: "194"
@@ -1123,10 +1123,10 @@
   Liabilities:Bar:Members:Els      1 FANTA
 
 2016-11-10 txn "elvis bought 1 product (-0.50) and has EUR 1.50 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2016-11-10 balance Liabilities:Bar:Members:Enzian                  -5.50 EUR
   iline: "202"
@@ -1139,18 +1139,18 @@
   Liabilities:Bar:Members:Enzian      1 ORVL
 
 2016-11-10 txn "Merlijn bought 1 product (-0.50) and has EUR 21.75 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR
-  Income:Bar                       -0.50 EUR
-  Assets:Inventory:Bar                -1 TWX
-  Liabilities:Bar:Members:Merlijn      1 TWX
+  Liabilities:Bar:Members:Merlijn   0.50 EUR 
+  Income:Bar                       -0.50 EUR 
+  Assets:Inventory:Bar                -1 TWIX
+  Liabilities:Bar:Members:Merlijn      1 TWIX
 
 2016-11-10 txn "Bert bought 2 products (-2.50) and has EUR 37.20 left"
-  Liabilities:Bar:Members:Bert   2.50 EUR
-  Income:Bar                    -2.50 EUR
-  Assets:Inventory:Bar             -1 TWX
-  Liabilities:Bar:Members:Bert      1 TWX
-  Assets:Inventory:Bar             -1 CM 
-  Liabilities:Bar:Members:Bert      1 CM 
+  Liabilities:Bar:Members:Bert   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Bert      1 TWIX
+  Assets:Inventory:Bar             -1 CM  
+  Liabilities:Bar:Members:Bert      1 CM  
 
 2016-11-10 txn "Merlijn bought 1 product (-1.50) and has EUR 20.25 left"
   Liabilities:Bar:Members:Merlijn   1.50 EUR   
@@ -1172,18 +1172,18 @@
   Liabilities:Bar:Members:Enzian      1 ORVL
 
 2016-11-10 txn "joris bought 2 products (-2.00) and has EUR 0.50 left"
-  Liabilities:Bar:Members:Joris   2.00 EUR    
-  Income:Bar                     -2.00 EUR    
-  Assets:Inventory:Bar              -1 JUPILER
-  Liabilities:Bar:Members:Joris      1 JUPILER
-  Assets:Inventory:Bar              -1 SNICK  
-  Liabilities:Bar:Members:Joris      1 SNICK  
+  Liabilities:Bar:Members:Joris   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+  Assets:Inventory:Bar              -1 JUPILER 
+  Liabilities:Bar:Members:Joris      1 JUPILER 
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joris      1 SNICKERS
 
 2016-11-10 txn "els bought 1 product (-0.50) and has EUR 31.70 left"
-  Liabilities:Bar:Members:Els   0.50 EUR
-  Income:Bar                   -0.50 EUR
-  Assets:Inventory:Bar            -1 TWX
-  Liabilities:Bar:Members:Els      1 TWX
+  Liabilities:Bar:Members:Els   0.50 EUR 
+  Income:Bar                   -0.50 EUR 
+  Assets:Inventory:Bar            -1 TWIX
+  Liabilities:Bar:Members:Els      1 TWIX
 
 2016-11-10 txn "elvis bought 1 product (-1.50) and has EUR 0.00 left"
   Liabilities:Bar:Members:Elvis   1.50 EUR  
@@ -1192,16 +1192,16 @@
   Liabilities:Bar:Members:Elvis      1 FANTA
 
 2016-11-10 txn "Koen bought 1 product (-0.50) and has EUR -3.00 left"
-  Liabilities:Bar:Members:Koen   0.50 EUR
-  Income:Bar                    -0.50 EUR
-  Assets:Inventory:Bar             -1 TWX
-  Liabilities:Bar:Members:Koen      1 TWX
+  Liabilities:Bar:Members:Koen   0.50 EUR 
+  Income:Bar                    -0.50 EUR 
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Koen      1 TWIX
 
 2016-11-10 txn "joris bought 1 product (-0.50) and has EUR 0.00 left"
-  Liabilities:Bar:Members:Joris   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Joris      1 TWX
+  Liabilities:Bar:Members:Joris   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Joris      1 TWIX
 
 2016-11-10 txn "Bert bought 1 product (-1.50) and has EUR 35.70 left"
   Liabilities:Bar:Members:Bert   1.50 EUR    
@@ -1264,10 +1264,10 @@
   iline: "222"
 
 2016-11-11 txn "ewaut bought 1 product (-0.50) and has EUR 4.50 left"
-  Liabilities:Bar:Members:Ewaut   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Ewaut      1 SNICK
+  Liabilities:Bar:Members:Ewaut   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Ewaut      1 SNICKERS
 
 2016-11-11 balance Liabilities:Bar:Members:Thijs                   -4.65 EUR
   iline: "223"
@@ -1289,16 +1289,16 @@
   Liabilities:Bar:Members:Enzian      1 ORVL
 
 2016-11-11 txn "elvis bought 2 products (-1.00) and has EUR 3.50 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR  
-  Income:Bar                     -1.00 EUR  
-  Assets:Inventory:Bar              -2 SNICK
-  Liabilities:Bar:Members:Elvis      2 SNICK
+  Liabilities:Bar:Members:Elvis   1.00 EUR     
+  Income:Bar                     -1.00 EUR     
+  Assets:Inventory:Bar              -2 SNICKERS
+  Liabilities:Bar:Members:Elvis      2 SNICKERS
 
 2016-11-11 txn "Bert bought 1 product (-0.50) and has EUR 33.20 left"
-  Liabilities:Bar:Members:Bert   0.50 EUR
-  Income:Bar                    -0.50 EUR
-  Assets:Inventory:Bar             -1 TWX
-  Liabilities:Bar:Members:Bert      1 TWX
+  Liabilities:Bar:Members:Bert   0.50 EUR 
+  Income:Bar                    -0.50 EUR 
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Bert      1 TWIX
 
 2016-11-11 balance Liabilities:Bar:Members:Superpumpie             12.00 EUR
   iline: "228"
@@ -1329,10 +1329,10 @@
   Liabilities:Bar:Members:Bloemist      1 JUPILER
 
 2016-11-11 txn "Bloemist bought 1 product (-0.50) and has EUR -45.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-11 txn "Bloemist bought 1 product (-0.50) and has EUR -45.60 left"
   Liabilities:Bar:Members:Bloemist   0.50 EUR 
@@ -1351,8 +1351,8 @@
   Income:Bar                        -1.00 EUR 
   Assets:Inventory:Bar                 -1 CHIP
   Liabilities:Bar:Members:Bloemist      1 CHIP
-  Assets:Inventory:Bar                 -1 TWX 
-  Liabilities:Bar:Members:Bloemist      1 TWX 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-13 balance Liabilities:Bar:Members:Joris                   0.00 EUR
   iline: "237"
@@ -1380,16 +1380,16 @@
   Assets:Cash:Bar                       5.00 EUR
 
 2016-11-13 txn "Tom bought 1 product (-0.50) and has EUR 1.50 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR
-  Income:Bar                           -0.50 EUR
-  Assets:Inventory:Bar                    -1 TWX
-  Liabilities:Bar:Members:Superpumpie      1 TWX
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR 
+  Income:Bar                           -0.50 EUR 
+  Assets:Inventory:Bar                    -1 TWIX
+  Liabilities:Bar:Members:Superpumpie      1 TWIX
 
 2016-11-13 txn "Tom bought 1 product (-0.50) and has EUR 1.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-11-13 balance Liabilities:Bar:Members:Sasja                   -8.60 EUR
   iline: "242"
@@ -1408,12 +1408,12 @@
   iline: "243"
 
 2016-11-13 txn "Bloemist bought 2 products (-2.50) and has EUR -51.10 left"
-  Liabilities:Bar:Members:Bloemist   2.50 EUR
-  Income:Bar                        -2.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
-  Assets:Inventory:Bar                 -1 CM 
-  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.50 EUR 
+  Income:Bar                        -2.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Assets:Inventory:Bar                 -1 CM  
+  Liabilities:Bar:Members:Bloemist      1 CM  
 
 2016-11-13 txn "Bloemist bought 1 product (-0.50) and has EUR -51.60 left"
   Liabilities:Bar:Members:Bloemist   0.50 EUR 
@@ -1513,8 +1513,8 @@
   Income:Bar                     -1.00 EUR   
   Assets:Inventory:Bar              -1 KITKAT
   Liabilities:Bar:Members:Joris      1 KITKAT
-  Assets:Inventory:Bar              -1 TWX   
-  Liabilities:Bar:Members:Joris      1 TWX   
+  Assets:Inventory:Bar              -1 TWIX  
+  Liabilities:Bar:Members:Joris      1 TWIX  
 
 2016-11-17 txn "Koen deposited EUR 12.70 and has now EUR 5.20"
   Liabilities:Bar:Members:Koen  -12.70 EUR
@@ -1621,10 +1621,10 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2016-11-18 txn "Bloemist bought 1 product (-0.50) and has EUR -58.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-18 txn "Bloemist bought 1 product (-2.00) and has EUR -60.60 left"
   Liabilities:Bar:Members:Bloemist   2.00 EUR
@@ -1639,19 +1639,19 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2016-11-18 txn "Bloemist bought 1 product (-0.50) and has EUR -61.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-19 balance Liabilities:Bar:Members:Bloemist                61.60 EUR
   iline: "282"
 
 2016-11-19 txn "Bloemist bought 1 product (-0.50) and has EUR -62.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-19 txn "Bloemist bought 1 product (-2.00) and has EUR -64.10 left"
   Liabilities:Bar:Members:Bloemist   2.00 EUR
@@ -1660,10 +1660,10 @@
   Liabilities:Bar:Members:Bloemist      1 CM 
 
 2016-11-19 txn "Bloemist bought 1 product (-0.50) and has EUR -64.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-20 balance Liabilities:Bar:Members:Els                     -31.70 EUR
   iline: "292"
@@ -1834,22 +1834,22 @@
   Liabilities:Bar:Members:Sasja      1 CHIP
 
 2016-11-22 txn "Bloemist bought 1 product (-0.50) and has EUR -69.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-22 txn "Bloemist bought 1 product (-0.50) and has EUR -69.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-11-22 txn "Tom bought 1 product (-0.50) and has EUR -1.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-11-22 txn "sasja bought 1 product (-0.50) and has EUR 10.10 left"
   Liabilities:Bar:Members:Sasja   0.50 EUR 
@@ -1858,12 +1858,12 @@
   Liabilities:Bar:Members:Sasja      1 CHIP
 
 2016-11-22 txn "sasja bought 2 products (-2.50) and has EUR 7.60 left"
-  Liabilities:Bar:Members:Sasja   2.50 EUR  
-  Income:Bar                     -2.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Sasja      1 SNICK
-  Assets:Inventory:Bar              -1 CM   
-  Liabilities:Bar:Members:Sasja      1 CM   
+  Liabilities:Bar:Members:Sasja   2.50 EUR     
+  Income:Bar                     -2.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Sasja      1 SNICKERS
+  Assets:Inventory:Bar              -1 CM      
+  Liabilities:Bar:Members:Sasja      1 CM      
 
 2016-11-23 balance Liabilities:Bar:Members:Sasja                   -7.60 EUR
   iline: "326"
@@ -1878,16 +1878,16 @@
   iline: "327"
 
 2016-11-23 txn "Bert bought 6 products (-6.50) and has EUR 26.70 left"
-  Liabilities:Bar:Members:Bert   6.50 EUR    
-  Income:Bar                    -6.50 EUR    
-  Assets:Inventory:Bar             -2 SNICK  
-  Liabilities:Bar:Members:Bert      2 SNICK  
-  Assets:Inventory:Bar             -1 CHIP   
-  Liabilities:Bar:Members:Bert      1 CHIP   
-  Assets:Inventory:Bar             -1 CM     
-  Liabilities:Bar:Members:Bert      1 CM     
-  Assets:Inventory:Bar             -2 JUPILER
-  Liabilities:Bar:Members:Bert      2 JUPILER
+  Liabilities:Bar:Members:Bert   6.50 EUR     
+  Income:Bar                    -6.50 EUR     
+  Assets:Inventory:Bar             -2 SNICKERS
+  Liabilities:Bar:Members:Bert      2 SNICKERS
+  Assets:Inventory:Bar             -1 CHIP    
+  Liabilities:Bar:Members:Bert      1 CHIP    
+  Assets:Inventory:Bar             -1 CM      
+  Liabilities:Bar:Members:Bert      1 CM      
+  Assets:Inventory:Bar             -2 JUPILER 
+  Liabilities:Bar:Members:Bert      2 JUPILER 
 
 2016-11-24 balance Liabilities:Bar:Members:Merlijn                 -20.25 EUR
   iline: "329"
@@ -1919,10 +1919,10 @@
   Liabilities:Bar:Members:Joris      1 DUVEL
 
 2016-11-24 txn "Merlijn bought 1 product (-0.50) and has EUR 18.25 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2016-11-24 txn "joris bought 1 product (-0.50) and has EUR 1.50 left"
   Liabilities:Bar:Members:Joris   0.50 EUR 
@@ -2167,8 +2167,8 @@
   Income:Bar                     -2.00 EUR 
   Assets:Inventory:Bar              -1 COKE
   Liabilities:Bar:Members:Joris      1 COKE
-  Assets:Inventory:Bar              -1 TWX 
-  Liabilities:Bar:Members:Joris      1 TWX 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Joris      1 TWIX
 
 2016-12-01 balance Liabilities:Bar:Members:Bloemist                71.60 EUR
   iline: "378"
@@ -2301,10 +2301,10 @@
   Liabilities:Bar:Members:Thijs      1 COKE
 
 2016-12-02 txn "elvis bought 1 product (-0.50) and has EUR 0.50 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2016-12-03 balance Liabilities:Bar:Members:Koen                    -4.20 EUR
   iline: "402"
@@ -2442,19 +2442,19 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2016-12-04 txn "Bloemist bought 1 product (-0.50) and has EUR -20.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-12-07 balance Liabilities:Bar:Members:Superpumpie             5.50 EUR
   iline: "467"
 
 2016-12-07 txn "Tom bought 1 product (-0.50) and has EUR -6.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2016-12-08 balance Liabilities:Bar:Members:Ewaut                   -3.00 EUR
   iline: "469"
@@ -2596,10 +2596,10 @@
   Liabilities:Bar:Members:Enzian      1 ORVL
 
 2016-12-08 txn "Bloemist bought 1 product (-0.50) and has EUR -13.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-12-08 balance Liabilities:Bar:Members:Bert                    -31.20 EUR
   iline: "493"
@@ -2659,10 +2659,10 @@
   Liabilities:Bar:Members:Enzian      1 FANTA
 
 2016-12-08 txn "thijs bought 1 product (-0.50) and has EUR -0.85 left"
-  Liabilities:Bar:Members:Thijs   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Thijs      1 SNICK
+  Liabilities:Bar:Members:Thijs   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Thijs      1 SNICKERS
 
 2016-12-08 txn "bart bought 2 products (-3.00) and has EUR 3.49 left"
   Liabilities:Bar:Members:Bart   3.00 EUR      
@@ -2763,10 +2763,10 @@
   Liabilities:Bar:Members:Joris      1 CHIP 
 
 2016-12-15 txn "Bloemist bought 1 product (-0.50) and has EUR -19.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-12-15 balance Liabilities:Bar:Members:Bert                    -27.70 EUR
   iline: "548"
@@ -2780,10 +2780,10 @@
   Liabilities:Bar:Members:Bert      1 CHIP
 
 2016-12-15 txn "joris bought 1 product (-0.50) and has EUR 5.50 left"
-  Liabilities:Bar:Members:Joris   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Joris      1 SNICK
+  Liabilities:Bar:Members:Joris   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joris      1 SNICKERS
 
 2016-12-15 balance Liabilities:Bar:Members:Koen                    1.80 EUR
   iline: "552"
@@ -2951,8 +2951,8 @@
   Income:Bar                       -2.00 EUR      
   Assets:Inventory:Bar                -1 COKE_ZERO
   Liabilities:Bar:Members:Merlijn      1 COKE_ZERO
-  Assets:Inventory:Bar                -1 SNICK    
-  Liabilities:Bar:Members:Merlijn      1 SNICK    
+  Assets:Inventory:Bar                -1 SNICKERS 
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS 
 
 2016-12-17 txn "gillesj bought 1 product (-2.00) and has EUR 16.00 left"
   Liabilities:Bar:Members:Enzian   2.00 EUR
@@ -3045,12 +3045,12 @@
   iline: "594"
 
 2016-12-18 txn "Koen bought 2 products (-2.00) and has EUR -6.80 left"
-  Liabilities:Bar:Members:Koen   2.00 EUR   
-  Income:Bar                    -2.00 EUR   
-  Assets:Inventory:Bar             -1 SNICK 
-  Liabilities:Bar:Members:Koen      1 SNICK 
-  Assets:Inventory:Bar             -1 ICETEA
-  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   2.00 EUR     
+  Income:Bar                    -2.00 EUR     
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Koen      1 SNICKERS
+  Assets:Inventory:Bar             -1 ICETEA  
+  Liabilities:Bar:Members:Koen      1 ICETEA  
 
 2016-12-18 balance Liabilities:Bar:Members:Merlijn                 5.75 EUR
   iline: "595"
@@ -3203,10 +3203,10 @@
   iline: "625"
 
 2016-12-18 txn "Bloemist bought 1 product (-0.50) and has EUR -0.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2016-12-18 txn "Tom bought 2 products (-3.00) and has EUR -8.50 left"
   Liabilities:Bar:Members:Superpumpie   3.00 EUR    
@@ -3330,10 +3330,10 @@
   Liabilities:Bar:Members:Thijs      1 JUPILER
 
 2016-12-29 txn "elvis bought 1 product (-0.50) and has EUR 1.50 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Elvis      1 TWX
+  Liabilities:Bar:Members:Elvis   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
 
 2016-12-29 balance Liabilities:Bar:Members:Koen                    -1.10 EUR
   iline: "647"
@@ -3472,12 +3472,12 @@
   iline: "674"
 
 2017-01-05 txn "Merlijn bought 2 products (-2.00) and has EUR 15.18 left"
-  Liabilities:Bar:Members:Merlijn   2.00 EUR   
-  Income:Bar                       -2.00 EUR   
-  Assets:Inventory:Bar                -1 ICETEA
-  Liabilities:Bar:Members:Merlijn      1 ICETEA
-  Assets:Inventory:Bar                -1 SNICK 
-  Liabilities:Bar:Members:Merlijn      1 SNICK 
+  Liabilities:Bar:Members:Merlijn   2.00 EUR     
+  Income:Bar                       -2.00 EUR     
+  Assets:Inventory:Bar                -1 ICETEA  
+  Liabilities:Bar:Members:Merlijn      1 ICETEA  
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-01-05 balance Liabilities:Bar:Members:Sasja                   4.00 EUR
   iline: "675"
@@ -3489,10 +3489,10 @@
   Liabilities:Bar:Members:Sasja      1 KITKAT
 
 2017-01-05 txn "ewaut bought 1 product (-0.50) and has EUR 3.00 left"
-  Liabilities:Bar:Members:Ewaut   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Ewaut      1 SNICK
+  Liabilities:Bar:Members:Ewaut   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Ewaut      1 SNICKERS
 
 2017-01-05 txn "Bloemist bought 1 product (-0.50) and has EUR -6.10 left"
   Liabilities:Bar:Members:Bloemist   0.50 EUR   
@@ -3617,10 +3617,10 @@
   iline: "695"
 
 2017-01-08 txn "Tom bought 1 product (-0.50) and has EUR 11.00 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2017-01-08 txn "Koen bought 1 product (-1.50) and has EUR -6.40 left"
   Liabilities:Bar:Members:Koen   1.50 EUR   
@@ -3718,10 +3718,10 @@
   Liabilities:Bar:Members:Thijs      1 KITKAT
 
 2017-01-10 txn "gillesj bought 1 product (-0.50) and has EUR 4.50 left"
-  Liabilities:Bar:Members:Enzian   0.50 EUR  
-  Income:Bar                      -0.50 EUR  
-  Assets:Inventory:Bar               -1 SNICK
-  Liabilities:Bar:Members:Enzian      1 SNICK
+  Liabilities:Bar:Members:Enzian   0.50 EUR     
+  Income:Bar                      -0.50 EUR     
+  Assets:Inventory:Bar               -1 SNICKERS
+  Liabilities:Bar:Members:Enzian      1 SNICKERS
 
 2017-01-11 balance Liabilities:Bar:Members:Thijs                   -5.65 EUR
   iline: "713"
@@ -3786,10 +3786,10 @@
   Liabilities:Bar:Members:Ruben      1 CM 
 
 2017-01-12 txn "Merlijn bought 1 product (-0.50) and has EUR 13.18 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-01-12 balance Liabilities:Bar:Members:Thijs                   -5.15 EUR
   iline: "722"
@@ -3893,10 +3893,10 @@
   Liabilities:Bar:Members:Bart      1 JUPILER
 
 2017-01-12 txn "Merlijn bought 1 product (-0.50) and has EUR 12.68 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-01-15 balance Liabilities:Bar:Members:Els                     0.30 EUR
   iline: "741"
@@ -4123,10 +4123,10 @@
   Liabilities:Bar:Members:Sasja      1 CHIP
 
 2017-01-19 txn "Merlijn bought 1 product (-0.50) and has EUR 10.68 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-01-19 txn "Bert bought 1 product (-1.50) and has EUR 15.20 left"
   Liabilities:Bar:Members:Bert   1.50 EUR   
@@ -4186,10 +4186,10 @@
   Liabilities:Bar:Members:Bert      1 CM 
 
 2017-01-19 txn "ewaut bought 1 product (-0.50) and has EUR 9.50 left"
-  Liabilities:Bar:Members:Ewaut   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Ewaut      1 SNICK
+  Liabilities:Bar:Members:Ewaut   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Ewaut      1 SNICKERS
 
 2017-01-19 txn "Bloemist bought 1 product (-0.50) and has EUR -0.10 left"
   Liabilities:Bar:Members:Bloemist   0.50 EUR   
@@ -4440,12 +4440,12 @@
   Liabilities:Bar:Members:Joris      1 DUVEL
 
 2017-01-26 txn "els bought 2 products (-2.00) and has EUR 3.70 left"
-  Liabilities:Bar:Members:Els   2.00 EUR  
-  Income:Bar                   -2.00 EUR  
-  Assets:Inventory:Bar            -1 FANTA
-  Liabilities:Bar:Members:Els      1 FANTA
-  Assets:Inventory:Bar            -1 SNICK
-  Liabilities:Bar:Members:Els      1 SNICK
+  Liabilities:Bar:Members:Els   2.00 EUR     
+  Income:Bar                   -2.00 EUR     
+  Assets:Inventory:Bar            -1 FANTA   
+  Liabilities:Bar:Members:Els      1 FANTA   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
 
 2017-01-26 txn "Bloemist bought 1 product (-1.50) and has EUR -12.60 left"
   Liabilities:Bar:Members:Bloemist   1.50 EUR  
@@ -4527,18 +4527,18 @@
   Liabilities:Bar:Members:Elvis      1 MARS
 
 2017-01-26 txn "Joren bought 1 product (-0.50) and has EUR 3.10 left"
-  Liabilities:Bar:Members:Joren   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Joren      1 SNICK
+  Liabilities:Bar:Members:Joren   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joren      1 SNICKERS
 
 2017-01-26 txn "joris bought 2 products (-2.50) and has EUR 0.00 left"
-  Liabilities:Bar:Members:Joris   2.50 EUR  
-  Income:Bar                     -2.50 EUR  
-  Assets:Inventory:Bar              -1 LEFFE
-  Liabilities:Bar:Members:Joris      1 LEFFE
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Joris      1 SNICK
+  Liabilities:Bar:Members:Joris   2.50 EUR     
+  Income:Bar                     -2.50 EUR     
+  Assets:Inventory:Bar              -1 LEFFE   
+  Liabilities:Bar:Members:Joris      1 LEFFE   
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joris      1 SNICKERS
 
 2017-01-26 txn "Merlijn bought 1 product (-1.50) and has EUR -18.82 left"
   Liabilities:Bar:Members:Merlijn   1.50 EUR  
@@ -4547,10 +4547,10 @@
   Liabilities:Bar:Members:Merlijn      1 FANTA
 
 2017-01-26 txn "Merlijn bought 1 product (-0.50) and has EUR -19.32 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-01-26 txn "ewaut bought 1 product (-2.00) and has EUR 2.00 left"
   Liabilities:Bar:Members:Ewaut   2.00 EUR
@@ -4758,10 +4758,10 @@
   Liabilities:Bar:Members:Elvis      1 FANTA
 
 2017-02-02 txn "Merlijn bought 1 product (-0.50) and has EUR -21.32 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-02-02 balance Liabilities:Bar:Members:Ewaut                   -2.00 EUR
   iline: "936"
@@ -4906,12 +4906,12 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2017-02-05 txn "Bloemist bought 2 products (-2.50) and has EUR -25.60 left"
-  Liabilities:Bar:Members:Bloemist   2.50 EUR
-  Income:Bar                        -2.50 EUR
-  Assets:Inventory:Bar                 -1 CM 
-  Liabilities:Bar:Members:Bloemist      1 CM 
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   2.50 EUR 
+  Income:Bar                        -2.50 EUR 
+  Assets:Inventory:Bar                 -1 CM  
+  Liabilities:Bar:Members:Bloemist      1 CM  
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-05 balance Liabilities:Bar:Members:Elvis                   -9.50 EUR
   iline: "962"
@@ -4998,10 +4998,10 @@
   iline: "975"
 
 2017-02-06 txn "Merlijn bought 1 product (-0.50) and has EUR -23.32 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-02-06 txn "Merlijn deposited EUR 40.00 and has now EUR 16.68"
   Liabilities:Bar:Members:Merlijn  -40.00 EUR
@@ -5023,10 +5023,10 @@
   Liabilities:Bar:Members:Elvis      1 COKE
 
 2017-02-06 txn "Merlijn bought 1 product (-0.50) and has EUR 16.18 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-02-06 balance Liabilities:Bar:Members:Joris                   2.00 EUR
   iline: "981"
@@ -5083,10 +5083,10 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2017-02-07 txn "Bloemist bought 1 product (-0.50) and has EUR -21.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-07 balance Liabilities:Bar:Members:Elvis                   -14.00 EUR
   iline: "990"
@@ -5236,10 +5236,10 @@
   Liabilities:Bar:Members:Bloemist      1 CM 
 
 2017-02-08 txn "Bloemist bought 1 product (-0.50) and has EUR -23.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-08 balance Liabilities:Bar:Members:Thijs                   -18.15 EUR
   iline: "1015"
@@ -5347,10 +5347,10 @@
   Liabilities:Bar:Members:Bloemist      1 MNM
 
 2017-02-09 txn "elvis bought 1 product (-0.50) and has EUR -1.00 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR
-  Income:Bar                     -0.50 EUR
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Elvis      1 TWX
+  Liabilities:Bar:Members:Elvis   0.50 EUR 
+  Income:Bar                     -0.50 EUR 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
 
 2017-02-09 txn "Bloemist bought 1 product (-1.50) and has EUR -29.60 left"
   Liabilities:Bar:Members:Bloemist   1.50 EUR   
@@ -5483,12 +5483,12 @@
   Liabilities:Bar:Members:Ewaut      1 ICETEA
 
 2017-02-09 txn "ewaut bought 2 products (-1.00) and has EUR -2.00 left"
-  Liabilities:Bar:Members:Ewaut   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 MNM
-  Liabilities:Bar:Members:Ewaut      1 MNM
-  Assets:Inventory:Bar              -1 TWX
-  Liabilities:Bar:Members:Ewaut      1 TWX
+  Liabilities:Bar:Members:Ewaut   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+  Assets:Inventory:Bar              -1 MNM 
+  Liabilities:Bar:Members:Ewaut      1 MNM 
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Ewaut      1 TWIX
 
 2017-02-09 txn "sasja bought 1 product (-1.50) and has EUR 21.50 left"
   Liabilities:Bar:Members:Sasja   1.50 EUR    
@@ -5644,10 +5644,10 @@
   Liabilities:Bar:Members:Superpumpie      1 JUPILER
 
 2017-02-11 txn "Tom bought 1 product (-0.50) and has EUR 5.50 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR
-  Income:Bar                           -0.50 EUR
-  Assets:Inventory:Bar                    -1 TWX
-  Liabilities:Bar:Members:Superpumpie      1 TWX
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR 
+  Income:Bar                           -0.50 EUR 
+  Assets:Inventory:Bar                    -1 TWIX
+  Liabilities:Bar:Members:Superpumpie      1 TWIX
 
 2017-02-11 txn "Koen bought 1 product (-1.50) and has EUR 12.10 left"
   Liabilities:Bar:Members:Koen   1.50 EUR    
@@ -5683,12 +5683,12 @@
   Liabilities:Bar:Members:Superpumpie      1 JUPILER
 
 2017-02-11 txn "Koen bought 5 products (-6.50) and has EUR 5.60 left"
-  Liabilities:Bar:Members:Koen   6.50 EUR  
-  Income:Bar                    -6.50 EUR  
-  Assets:Inventory:Bar             -4 COKE 
-  Liabilities:Bar:Members:Koen      4 COKE 
-  Assets:Inventory:Bar             -1 SNICK
-  Liabilities:Bar:Members:Koen      1 SNICK
+  Liabilities:Bar:Members:Koen   6.50 EUR     
+  Income:Bar                    -6.50 EUR     
+  Assets:Inventory:Bar             -4 COKE    
+  Liabilities:Bar:Members:Koen      4 COKE    
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Koen      1 SNICKERS
 
 2017-02-11 txn "sasja bought 4 products (-6.00) and has EUR 4.00 left"
   Liabilities:Bar:Members:Sasja   6.00 EUR 
@@ -5713,19 +5713,19 @@
   Liabilities:Bar:Members:Sasja      1 JUPILER
 
 2017-02-11 txn "Bloemist bought 1 product (-0.50) and has EUR -46.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-12 balance Liabilities:Bar:Members:Bloemist                46.10 EUR
   iline: "1095"
 
 2017-02-12 txn "Bloemist bought 1 product (-0.50) and has EUR -46.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-12 balance Liabilities:Bar:Members:Koen                    -5.60 EUR
   iline: "1097"
@@ -5783,12 +5783,12 @@
   Assets:Cash:Bar                    20.00 EUR
 
 2017-02-12 txn "Bloemist bought 2 products (-1.00) and has EUR -29.60 left"
-  Liabilities:Bar:Members:Bloemist   1.00 EUR
-  Income:Bar                        -1.00 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
-  Assets:Inventory:Bar                 -1 MNM
-  Liabilities:Bar:Members:Bloemist      1 MNM
+  Liabilities:Bar:Members:Bloemist   1.00 EUR 
+  Income:Bar                        -1.00 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Assets:Inventory:Bar                 -1 MNM 
+  Liabilities:Bar:Members:Bloemist      1 MNM 
 
 2017-02-12 txn "Koen bought 1 product (-0.50) and has EUR 2.10 left"
   Liabilities:Bar:Members:Koen   0.50 EUR   
@@ -5840,8 +5840,8 @@
   Income:Bar                        -1.00 EUR 
   Assets:Inventory:Bar                 -1 CHIP
   Liabilities:Bar:Members:Bloemist      1 CHIP
-  Assets:Inventory:Bar                 -1 TWX 
-  Liabilities:Bar:Members:Bloemist      1 TWX 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-13 balance Liabilities:Bar:Members:Koen                    -2.10 EUR
   iline: "1115"
@@ -5911,10 +5911,10 @@
   Liabilities:Bar:Members:Bloemist      1 CHIP
 
 2017-02-15 txn "Bloemist bought 1 product (-0.50) and has EUR -39.60 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR
-  Income:Bar                        -0.50 EUR
-  Assets:Inventory:Bar                 -1 TWX
-  Liabilities:Bar:Members:Bloemist      1 TWX
+  Liabilities:Bar:Members:Bloemist   0.50 EUR 
+  Income:Bar                        -0.50 EUR 
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
 
 2017-02-15 txn "Bloemist bought 1 product (-0.50) and has EUR -40.10 left"
   Liabilities:Bar:Members:Bloemist   0.50 EUR 
@@ -5993,10 +5993,10 @@
   Liabilities:Bar:Members:Merlijn      1 ICETEA
 
 2017-02-16 txn "Merlijn bought 1 product (-0.50) and has EUR 14.18 left"
-  Liabilities:Bar:Members:Merlijn   0.50 EUR  
-  Income:Bar                       -0.50 EUR  
-  Assets:Inventory:Bar                -1 SNICK
-  Liabilities:Bar:Members:Merlijn      1 SNICK
+  Liabilities:Bar:Members:Merlijn   0.50 EUR     
+  Income:Bar                       -0.50 EUR     
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
 
 2017-02-16 balance Liabilities:Bar:Members:Joris                   -13.50 EUR
   iline: "1137"
@@ -6240,10 +6240,10 @@
   iline: "1176"
 
 2017-02-19 txn "Tom bought 4 products (-2.00) and has EUR 10.50 left"
-  Liabilities:Bar:Members:Superpumpie   2.00 EUR  
-  Income:Bar                           -2.00 EUR  
-  Assets:Inventory:Bar                    -4 SNICK
-  Liabilities:Bar:Members:Superpumpie      4 SNICK
+  Liabilities:Bar:Members:Superpumpie   2.00 EUR     
+  Income:Bar                           -2.00 EUR     
+  Assets:Inventory:Bar                    -4 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      4 SNICKERS
 
 2017-02-19 txn "elvis bought 1 product (-0.50) and has EUR 5.50 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR 
@@ -6377,10 +6377,10 @@
   iline: "1197"
 
 2017-02-21 txn "Tom bought 4 products (-2.00) and has EUR 3.50 left"
-  Liabilities:Bar:Members:Superpumpie   2.00 EUR  
-  Income:Bar                           -2.00 EUR  
-  Assets:Inventory:Bar                    -4 SNICK
-  Liabilities:Bar:Members:Superpumpie      4 SNICK
+  Liabilities:Bar:Members:Superpumpie   2.00 EUR     
+  Income:Bar                           -2.00 EUR     
+  Assets:Inventory:Bar                    -4 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      4 SNICKERS
 
 2017-02-22 balance Liabilities:Bar:Members:Els                     5.80 EUR
   iline: "1198"
@@ -9218,10 +9218,10 @@
   iline: "1671"
 
 2017-03-25 txn "Ellen bought 1 product (-0.50) and has EUR -2.75 left"
-  Liabilities:Bar:Members:Folkaholic   0.50 EUR
-  Income:Bar                          -0.50 EUR
-  Assets:Inventory:Bar                   -1 TWX
-  Liabilities:Bar:Members:Folkaholic      1 TWX
+  Liabilities:Bar:Members:Folkaholic   0.50 EUR 
+  Income:Bar                          -0.50 EUR 
+  Assets:Inventory:Bar                   -1 TWIX
+  Liabilities:Bar:Members:Folkaholic      1 TWIX
 
 2017-03-25 txn "Bertrand bought 1 product (-1.50) and has EUR 0.00 left"
   Liabilities:Bar:Members:Bertrand   1.50 EUR    
@@ -9291,10 +9291,10 @@
   iline: "1681"
 
 2017-03-26 txn "Bloemist bought 1 product (-0.50) and has EUR -29.10 left"
-  Liabilities:Bar:Members:Bloemist   0.50 EUR  
-  Income:Bar                        -0.50 EUR  
-  Assets:Inventory:Bar                 -1 SNICK
-  Liabilities:Bar:Members:Bloemist      1 SNICK
+  Liabilities:Bar:Members:Bloemist   0.50 EUR     
+  Income:Bar                        -0.50 EUR     
+  Assets:Inventory:Bar                 -1 SNICKERS
+  Liabilities:Bar:Members:Bloemist      1 SNICKERS
 
 2017-03-26 txn "Bloemist deposited EUR 15.00 and has now EUR -14.10"
   Liabilities:Bar:Members:Bloemist  -15.00 EUR
@@ -9310,10 +9310,10 @@
   iline: "1684"
 
 2017-03-26 txn "Tom bought 1 product (-0.50) and has EUR 0.50 left"
-  Liabilities:Bar:Members:Superpumpie   0.50 EUR  
-  Income:Bar                           -0.50 EUR  
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   0.50 EUR     
+  Income:Bar                           -0.50 EUR     
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2017-03-26 txn "Tom bought 1 product (-1.50) and has EUR -1.00 left"
   Liabilities:Bar:Members:Superpumpie   1.50 EUR   
@@ -9558,12 +9558,12 @@
   Assets:Cash:Bar                 8.00 EUR
 
 2017-03-28 txn "Tom bought 2 products (-2.50) and has EUR 9.50 left"
-  Liabilities:Bar:Members:Superpumpie   2.50 EUR  
-  Income:Bar                           -2.50 EUR  
-  Assets:Inventory:Bar                    -1 LEFFE
-  Liabilities:Bar:Members:Superpumpie      1 LEFFE
-  Assets:Inventory:Bar                    -1 SNICK
-  Liabilities:Bar:Members:Superpumpie      1 SNICK
+  Liabilities:Bar:Members:Superpumpie   2.50 EUR     
+  Income:Bar                           -2.50 EUR     
+  Assets:Inventory:Bar                    -1 LEFFE   
+  Liabilities:Bar:Members:Superpumpie      1 LEFFE   
+  Assets:Inventory:Bar                    -1 SNICKERS
+  Liabilities:Bar:Members:Superpumpie      1 SNICKERS
 
 2017-03-28 txn "elvis bought 1 product (-0.50) and has EUR 49.50 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR 
@@ -9606,10 +9606,10 @@
   Liabilities:Bar:Members:Elvis      1 MARS
 
 2017-03-29 txn "elvis bought 1 product (-0.50) and has EUR 47.50 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2017-03-29 balance Liabilities:Bar:Members:Bloemist                16.10 EUR
   iline: "1740"
@@ -9769,10 +9769,10 @@
   Liabilities:Bar:Members:Bertrand      1 CM 
 
 2017-03-30 txn "joris bought 1 product (-0.50) and has EUR -5.00 left"
-  Liabilities:Bar:Members:Joris   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Joris      1 SNICK
+  Liabilities:Bar:Members:Joris   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joris      1 SNICKERS
 
 2017-03-30 txn "thijs bought 1 product (-1.50) and has EUR -34.35 left"
   Liabilities:Bar:Members:Thijs   1.50 EUR    
@@ -9933,10 +9933,10 @@
   iline: "1790"
 
 2017-04-01 txn "Bertrand bought 1 product (-0.50) and has EUR 6.50 left"
-  Liabilities:Bar:Members:Bertrand   0.50 EUR  
-  Income:Bar                        -0.50 EUR  
-  Assets:Inventory:Bar                 -1 SNICK
-  Liabilities:Bar:Members:Bertrand      1 SNICK
+  Liabilities:Bar:Members:Bertrand   0.50 EUR     
+  Income:Bar                        -0.50 EUR     
+  Assets:Inventory:Bar                 -1 SNICKERS
+  Liabilities:Bar:Members:Bertrand      1 SNICKERS
 
 2017-04-01 balance Liabilities:Bar:Members:Bloemist                27.60 EUR
   iline: "1791"
@@ -10094,10 +10094,10 @@
   Liabilities:Bar:Members:Koen      1 ICETEA
 
 2017-04-02 txn "elvis bought 1 product (-0.50) and has EUR 34.00 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2017-04-02 txn "sasja bought 1 product (-0.50) and has EUR 27.00 left"
   Liabilities:Bar:Members:Sasja   0.50 EUR   
@@ -10256,10 +10256,10 @@
   Liabilities:Bar:Members:Bart      1 CM   
 
 2017-04-04 txn "elvis bought 1 product (-0.50) and has EUR 29.00 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2017-04-04 txn "elvis bought 1 product (-0.50) and has EUR 28.50 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR 
@@ -10356,10 +10356,10 @@
   Liabilities:Bar:Members:Bloemist      1 MNM
 
 2017-04-05 txn "elvis bought 1 product (-0.50) and has EUR 22.00 left"
-  Liabilities:Bar:Members:Elvis   0.50 EUR  
-  Income:Bar                     -0.50 EUR  
-  Assets:Inventory:Bar              -1 SNICK
-  Liabilities:Bar:Members:Elvis      1 SNICK
+  Liabilities:Bar:Members:Elvis   0.50 EUR     
+  Income:Bar                     -0.50 EUR     
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
 
 2017-04-05 txn "elvis bought 1 product (-0.50) and has EUR 21.50 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR   
@@ -10529,10 +10529,10 @@
   iline: "1884"
 
 2017-04-07 txn "Koen bought 1 product (-0.50) and has EUR -11.40 left"
-  Liabilities:Bar:Members:Koen   0.50 EUR
-  Income:Bar                    -0.50 EUR
-  Assets:Inventory:Bar             -1 TWX
-  Liabilities:Bar:Members:Koen      1 TWX
+  Liabilities:Bar:Members:Koen   0.50 EUR 
+  Income:Bar                    -0.50 EUR 
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Koen      1 TWIX
 
 2017-04-07 txn "Koen deposited EUR 0.50 and has now EUR -10.90"
   Liabilities:Bar:Members:Koen  -0.50 EUR
@@ -12574,11 +12574,11 @@
   iline: "2229"
 
 2017-04-10 txn "els bought 1 product (-7.00) and has EUR 9.20 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2017-04-10 txn "els bought 1 product (-0.50) and has EUR 8.70 left"
   Liabilities:Bar:Members:Els   0.50 EUR  
@@ -13404,18 +13404,18 @@
   iline: "2352"
 
 2017-04-22 txn "els bought 1 product (-7.00) and has EUR -7.30 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2017-04-22 txn "els bought 1 product (-7.00) and has EUR -14.30 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2017-04-22 txn "els deposited EUR 50.00 and has now EUR 35.70"
   Liabilities:Bar:Members:Els  -50.00 EUR
@@ -14212,11 +14212,11 @@
   iline: "2475"
 
 2017-05-06 txn "sasja bought 1 product (-7.00) and has EUR 38.20 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2017-05-06 txn "sasja bought 1 product (-2.00) and has EUR 36.20 left"
   Liabilities:Bar:Members:Sasja   2.00 EUR
@@ -14568,11 +14568,11 @@
   iline: "2533"
 
 2017-05-13 txn "Bertrand bought 1 product (-7.00) and has EUR -5.50 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Bertrand   7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Bertrand      1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Bertrand   7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Bertrand      1 JOYLENT
 
 2017-05-13 txn "Bertrand bought 1 product (-1.50) and has EUR -7.00 left"
   Liabilities:Bar:Members:Bertrand   1.50 EUR 
@@ -14791,11 +14791,11 @@
   Liabilities:Bar:Members:Elvis      1 SNACK
 
 2017-05-13 txn "sasja bought 1 product (-7.00) and has EUR 20.20 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2017-05-13 txn "elvis bought 1 product (-0.50) and has EUR 8.72 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR  
@@ -14977,11 +14977,11 @@
   iline: "2595"
 
 2017-05-15 txn "Tom bought 1 product (-7.00) and has EUR -8.29 left"
-  Liabilities:Bar:Members:Bloemist     -5.00 EUR     
-  Liabilities:Bar:Members:Superpumpie   7.00 EUR     
-  Income:Bar                           -2.00 EUR     
-  Assets:Inventory:Bar                    -1 JOILENTS
-  Liabilities:Bar:Members:Superpumpie      1 JOILENTS
+  Liabilities:Bar:Members:Bloemist     -5.00 EUR    
+  Liabilities:Bar:Members:Superpumpie   7.00 EUR    
+  Income:Bar                           -2.00 EUR    
+  Assets:Inventory:Bar                    -1 JOYLENT
+  Liabilities:Bar:Members:Superpumpie      1 JOYLENT
 
 2017-05-16 balance Liabilities:Bar:Members:Thijs                   -2.77 EUR
   iline: "2596"
@@ -15318,18 +15318,18 @@
   iline: "2647"
 
 2017-05-21 txn "els bought 1 product (-7.00) and has EUR 19.60 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2017-05-21 txn "els bought 1 product (-7.00) and has EUR 12.60 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2017-05-21 txn "els bought 1 product (-0.50) and has EUR 12.10 left"
   Liabilities:Bar:Members:Els   0.50 EUR  
@@ -15818,8 +15818,8 @@
   Income:Bar                     -2.50 EUR      
   Assets:Inventory:Bar              -1 COKE_ZERO
   Liabilities:Bar:Members:Mimor      1 COKE_ZERO
-  Assets:Inventory:Bar              -1 IJS      
-  Liabilities:Bar:Members:Mimor      1 IJS      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Mimor      1 ICE_CREAM
 
 2017-06-02 txn "mimor deposited EUR 20.00 and has now EUR 19.00"
   Liabilities:Bar:Members:Mimor  -20.00 EUR
@@ -16394,11 +16394,11 @@
   iline: "2839"
 
 2017-06-12 txn "Bertrand bought 1 product (-7.00) and has EUR -29.50 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Bertrand   7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Bertrand      1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Bertrand   7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Bertrand      1 JOYLENT
 
 2017-06-13 balance Liabilities:Bar:Members:Folkaholic              -32.75 EUR
   iline: "2840"
@@ -28201,11 +28201,11 @@
   iline: "4629"
 
 2018-01-28 txn "els bought 1 product (-7.00) and has EUR 24.60 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Els        7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Els           1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Els        7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Els           1 JOYLENT
 
 2018-01-28 balance Liabilities:Bar:Members:Sasja                   -7.53 EUR
   iline: "4630"
@@ -28322,11 +28322,11 @@
   Assets:Cash:Bar               1.40 EUR
 
 2018-01-28 txn "sasja bought 1 product (-7.00) and has EUR 5.53 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2018-01-29 balance Liabilities:Bar:Members:Bloemist                18.70 EUR
   iline: "4653"
@@ -28951,11 +28951,11 @@
   iline: "4745"
 
 2018-02-08 txn "sasja bought 1 product (-7.00) and has EUR 13.53 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2018-02-08 balance Liabilities:Bar:Members:Elvis                   -19.15 EUR
   iline: "4746"
@@ -29586,13 +29586,13 @@
   iline: "4867"
 
 2018-02-17 txn "bart bought 2 products (-8.50) and has EUR 1.50 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Bart       8.50 EUR     
-  Income:Bar                        -3.50 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Bart          1 JOILENTS
-  Assets:Inventory:Bar                 -1 JUPILER 
-  Liabilities:Bar:Members:Bart          1 JUPILER 
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Bart       8.50 EUR    
+  Income:Bar                        -3.50 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Bart          1 JOYLENT
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bart          1 JUPILER
 
 2018-02-17 txn "elvis bought 1 product (-0.50) and has EUR 28.15 left"
   Liabilities:Bar:Members:Elvis   0.50 EUR  
@@ -29676,11 +29676,11 @@
   iline: "4884"
 
 2018-02-18 txn "sasja bought 1 product (-7.00) and has EUR -1.97 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2018-02-18 txn "sasja deposited EUR 50.00 and has now EUR 48.03"
   Liabilities:Bar:Members:Sasja  -50.00 EUR
@@ -31825,11 +31825,11 @@
   iline: "5255"
 
 2018-04-01 txn "sasja bought 1 product (-7.00) and has EUR 24.03 left"
-  Liabilities:Bar:Members:Bloemist  -5.00 EUR     
-  Liabilities:Bar:Members:Sasja      7.00 EUR     
-  Income:Bar                        -2.00 EUR     
-  Assets:Inventory:Bar                 -1 JOILENTS
-  Liabilities:Bar:Members:Sasja         1 JOILENTS
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR    
+  Liabilities:Bar:Members:Sasja      7.00 EUR    
+  Income:Bar                        -2.00 EUR    
+  Assets:Inventory:Bar                 -1 JOYLENT
+  Liabilities:Bar:Members:Sasja         1 JOYLENT
 
 2018-04-01 txn "elvis bought 1 product (-2.00) and has EUR 17.85 left"
   Liabilities:Bar:Members:Elvis   2.00 EUR
@@ -34115,10 +34115,10 @@
   iline: "5701"
 
 2018-04-14 txn "Ellen bought 1 product (-1.50) and has EUR 3.53 left"
-  Liabilities:Bar:Members:Folkaholic   1.50 EUR
-  Income:Bar                          -1.50 EUR
-  Assets:Inventory:Bar                   -1 IJS
-  Liabilities:Bar:Members:Folkaholic      1 IJS
+  Liabilities:Bar:Members:Folkaholic   1.50 EUR      
+  Income:Bar                          -1.50 EUR      
+  Assets:Inventory:Bar                   -1 ICE_CREAM
+  Liabilities:Bar:Members:Folkaholic      1 ICE_CREAM
 
 2018-04-14 txn "elvis bought 1 product (-2.00) and has EUR 2.35 left"
   Liabilities:Bar:Members:Elvis   2.00 EUR    
@@ -34139,10 +34139,10 @@
   Liabilities:Bar:Members:Sasja      1 WATER
 
 2018-04-14 txn "Snicksie bought 1 product (-1.50) and has EUR 5.50 left"
-  Liabilities:Bar:Members:Snicksie   1.50 EUR
-  Income:Bar                        -1.50 EUR
-  Assets:Inventory:Bar                 -1 IJS
-  Liabilities:Bar:Members:Snicksie      1 IJS
+  Liabilities:Bar:Members:Snicksie   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+  Assets:Inventory:Bar                 -1 ICE_CREAM
+  Liabilities:Bar:Members:Snicksie      1 ICE_CREAM
 
 2018-04-14 txn "Bertrand bought 1 product (-1.50) and has EUR -29.50 left"
   Liabilities:Bar:Members:Bloemist  -1.00 EUR   
@@ -35050,10 +35050,10 @@
   Liabilities:Bar:Members:Bloemist      1 JUPILER
 
 2018-04-14 txn "Michael bought 1 product (-1.50) and has EUR 3.00 left"
-  Liabilities:Bar:Members:Michael   1.50 EUR
-  Income:Bar                       -1.50 EUR
-  Assets:Inventory:Bar                -1 IJS
-  Liabilities:Bar:Members:Michael      1 IJS
+  Liabilities:Bar:Members:Michael   1.50 EUR      
+  Income:Bar                       -1.50 EUR      
+  Assets:Inventory:Bar                -1 ICE_CREAM
+  Liabilities:Bar:Members:Michael      1 ICE_CREAM
 
 2018-04-14 txn "ruleant bought 1 product (-2.00) and has EUR 9.00 left"
   Liabilities:Bar:Members:Ruleant   2.00 EUR  
@@ -36550,16 +36550,16 @@
   Liabilities:Bar:Members:Elvis      1 SODA
 
 2018-04-19 txn "Bloemist bought 1 product (-1.00) and has EUR 34.80 left"
-  Liabilities:Bar:Members:Bloemist   1.00 EUR
-  Income:Bar                        -1.00 EUR
-  Assets:Inventory:Bar                 -1 IJS
-  Liabilities:Bar:Members:Bloemist      1 IJS
+  Liabilities:Bar:Members:Bloemist   1.00 EUR      
+  Income:Bar                        -1.00 EUR      
+  Assets:Inventory:Bar                 -1 ICE_CREAM
+  Liabilities:Bar:Members:Bloemist      1 ICE_CREAM
 
 2018-04-19 txn "Tom bought 1 product (-1.00) and has EUR 9.37 left"
-  Liabilities:Bar:Members:Superpumpie   1.00 EUR
-  Income:Bar                           -1.00 EUR
-  Assets:Inventory:Bar                    -1 IJS
-  Liabilities:Bar:Members:Superpumpie      1 IJS
+  Liabilities:Bar:Members:Superpumpie   1.00 EUR      
+  Income:Bar                           -1.00 EUR      
+  Assets:Inventory:Bar                    -1 ICE_CREAM
+  Liabilities:Bar:Members:Superpumpie      1 ICE_CREAM
 
 2018-04-19 txn "Tom bought 1 product (-2.00) and has EUR 7.37 left"
   Liabilities:Bar:Members:Superpumpie   2.00 EUR  
@@ -38622,10 +38622,10 @@
   Liabilities:Bar:Members:Folkaholic      1 SNACK
 
 2018-05-22 txn "folkaholic bought 1 product (-1.00) and has EUR -9.07 left"
-  Liabilities:Bar:Members:Folkaholic   1.00 EUR
-  Income:Bar                          -1.00 EUR
-  Assets:Inventory:Bar                   -1 IJS
-  Liabilities:Bar:Members:Folkaholic      1 IJS
+  Liabilities:Bar:Members:Folkaholic   1.00 EUR      
+  Income:Bar                          -1.00 EUR      
+  Assets:Inventory:Bar                   -1 ICE_CREAM
+  Liabilities:Bar:Members:Folkaholic      1 ICE_CREAM
 
 2018-05-22 balance Liabilities:Bar:Members:Thequux                 -28.50 EUR
   iline: "6441"
@@ -39882,10 +39882,10 @@
   Liabilities:Bar:Members:Folkaholic      1 SODA
 
 2018-06-07 txn "folkaholic bought 1 product (-1.00) and has EUR -8.57 left"
-  Liabilities:Bar:Members:Folkaholic   1.00 EUR
-  Income:Bar                          -1.00 EUR
-  Assets:Inventory:Bar                   -1 IJS
-  Liabilities:Bar:Members:Folkaholic      1 IJS
+  Liabilities:Bar:Members:Folkaholic   1.00 EUR      
+  Income:Bar                          -1.00 EUR      
+  Assets:Inventory:Bar                   -1 ICE_CREAM
+  Liabilities:Bar:Members:Folkaholic      1 ICE_CREAM
 
 2018-06-07 txn "sasja deposited EUR -5.00 and has now EUR 10.51"
   Liabilities:Bar:Members:Sasja   5.00 EUR
@@ -40540,16 +40540,16 @@
   Liabilities:Bar:Members:Koen      1 JUPILER
 
 2018-06-14 txn "Merlijn bought 1 product (-1.00) and has EUR 25.78 left"
-  Liabilities:Bar:Members:Merlijn   1.00 EUR
-  Income:Bar                       -1.00 EUR
-  Assets:Inventory:Bar                -1 IJS
-  Liabilities:Bar:Members:Merlijn      1 IJS
+  Liabilities:Bar:Members:Merlijn   1.00 EUR      
+  Income:Bar                       -1.00 EUR      
+  Assets:Inventory:Bar                -1 ICE_CREAM
+  Liabilities:Bar:Members:Merlijn      1 ICE_CREAM
 
 2018-06-14 txn "joris bought 1 product (-1.00) and has EUR -0.70 left"
-  Liabilities:Bar:Members:Joris   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Joris      1 IJS
+  Liabilities:Bar:Members:Joris   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Joris      1 ICE_CREAM
 
 2018-06-14 txn "thequux bought 1 product (-2.00) and has EUR 6.60 left"
   Liabilities:Bar:Members:Thequux   2.00 EUR  
@@ -40645,10 +40645,10 @@
   Assets:Cash:Bar                 50.00 EUR
 
 2018-06-15 txn "elvis bought 1 product (-1.00) and has EUR 45.75 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Elvis      1 IJS
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
 
 2018-06-15 txn "sasja bought 1 product (-1.50) and has EUR 12.51 left"
   Liabilities:Bar:Members:Sasja   1.50 EUR    
@@ -40877,16 +40877,16 @@
   Liabilities:Bar:Members:Sasja      1 CM 
 
 2018-06-18 txn "elvis bought 1 product (-1.00) and has EUR 30.95 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Elvis      1 IJS
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
 
 2018-06-18 txn "sasja bought 1 product (-1.00) and has EUR 39.19 left"
-  Liabilities:Bar:Members:Sasja   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Sasja      1 IJS
+  Liabilities:Bar:Members:Sasja   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Sasja      1 ICE_CREAM
 
 2018-06-18 txn "sasja deposited EUR -1.41 and has now EUR 37.78"
   Liabilities:Bar:Members:Sasja   1.41 EUR
@@ -43919,12 +43919,12 @@
   iline: "7265"
 
 2018-08-03 txn "els bought 2 products (-1.60) and has EUR 5.90 left"
-  Liabilities:Bar:Members:Els   1.60 EUR  
-  Income:Bar                   -1.60 EUR  
-  Assets:Inventory:Bar            -1 SNACK
-  Liabilities:Bar:Members:Els      1 SNACK
-  Assets:Inventory:Bar            -1 IJS  
-  Liabilities:Bar:Members:Els      1 IJS  
+  Liabilities:Bar:Members:Els   1.60 EUR      
+  Income:Bar                   -1.60 EUR      
+  Assets:Inventory:Bar            -1 SNACK    
+  Liabilities:Bar:Members:Els      1 SNACK    
+  Assets:Inventory:Bar            -1 ICE_CREAM
+  Liabilities:Bar:Members:Els      1 ICE_CREAM
 
 2018-08-03 txn "els bought 1 product (-0.50) and has EUR 5.40 left"
   Liabilities:Bar:Members:Els   0.50 EUR  
@@ -44066,10 +44066,10 @@
   Assets:Cash:Bar                   0.00 EUR
 
 2018-08-03 txn "Merlijn bought 2 products (-2.00) and has EUR 33.78 left"
-  Liabilities:Bar:Members:Merlijn   2.00 EUR
-  Income:Bar                       -2.00 EUR
-  Assets:Inventory:Bar                -2 IJS
-  Liabilities:Bar:Members:Merlijn      2 IJS
+  Liabilities:Bar:Members:Merlijn   2.00 EUR      
+  Income:Bar                       -2.00 EUR      
+  Assets:Inventory:Bar                -2 ICE_CREAM
+  Liabilities:Bar:Members:Merlijn      2 ICE_CREAM
 
 2018-08-03 txn "sasja bought 1 product (-1.50) and has EUR 27.60 left"
   Liabilities:Bar:Members:Sasja   1.50 EUR 
@@ -44146,10 +44146,10 @@
   Liabilities:Bar:Members:Els      1 WATER
 
 2018-08-03 txn "elvis bought 1 product (-1.00) and has EUR 27.80 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Elvis      1 IJS
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
 
 2018-08-03 txn "bart bought 2 products (-5.50) and has EUR -29.28 left"
   Liabilities:Bar:Members:Bart   5.50 EUR    
@@ -44320,10 +44320,10 @@
   Liabilities:Bar:Members:Merlijn      1 SNACK
 
 2018-08-04 txn "elvis bought 1 product (-1.00) and has EUR 19.90 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Elvis      1 IJS
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
 
 2018-08-04 balance Liabilities:Bar:Members:Ewaut                   22.60 EUR
   iline: "7332"
@@ -44567,10 +44567,10 @@
   Liabilities:Bar:Members:Superpumpie      1 DUVEL
 
 2018-08-05 txn "alex bought 1 product (-1.00) and has EUR 19.00 left"
-  Liabilities:Bar:Members:Alex   1.00 EUR
-  Income:Bar                    -1.00 EUR
-  Assets:Inventory:Bar             -1 IJS
-  Liabilities:Bar:Members:Alex      1 IJS
+  Liabilities:Bar:Members:Alex   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Alex      1 ICE_CREAM
 
 2018-08-05 txn "sasja bought 1 product (-0.60) and has EUR 22.30 left"
   Liabilities:Bar:Members:Sasja   0.60 EUR  
@@ -44715,16 +44715,16 @@
   Liabilities:Bar:Members:Sasja      1 SNACK
 
 2018-08-06 txn "sasja bought 1 product (-1.00) and has EUR 17.60 left"
-  Liabilities:Bar:Members:Sasja   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Sasja      1 IJS
+  Liabilities:Bar:Members:Sasja   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Sasja      1 ICE_CREAM
 
 2018-08-06 txn "betz bought 1 product (-1.00) and has EUR 7.40 left"
-  Liabilities:Bar:Members:Betz   1.00 EUR
-  Income:Bar                    -1.00 EUR
-  Assets:Inventory:Bar             -1 IJS
-  Liabilities:Bar:Members:Betz      1 IJS
+  Liabilities:Bar:Members:Betz   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Betz      1 ICE_CREAM
 
 2018-08-07 balance Liabilities:Bar:Members:Sasja                   -17.60 EUR
   iline: "7397"
@@ -45158,10 +45158,10 @@
   Assets:Cash:Bar                 20.00 EUR
 
 2018-08-14 txn "elvis bought 1 product (-1.00) and has EUR 20.40 left"
-  Liabilities:Bar:Members:Elvis   1.00 EUR
-  Income:Bar                     -1.00 EUR
-  Assets:Inventory:Bar              -1 IJS
-  Liabilities:Bar:Members:Elvis      1 IJS
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
 
 2018-08-15 balance Liabilities:Bar:Members:Bloemist                19.50 EUR
   iline: "7469"
