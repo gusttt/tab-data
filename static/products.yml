@@ -86,6 +86,7 @@
   price: 2.50
   event_price: 3.50
   category: drink
+  currency: ICETEA
 - name: Cola
   price: 2.50
   event_price: 3.50
