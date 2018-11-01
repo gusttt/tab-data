@@ -197,6 +197,7 @@
   payback:
     account: Liabilities:Bar:Members:Bloemist
     amount: 1.00
+  currency: JNVR
 - name: KitKat
   price: 0.50
   event_price: 0.75
