@@ -36,3 +36,11 @@
   Liabilities:Bar:Members:Ruleant   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2018-11-25 txn "TQ bought 1 items for €0.60"
+  timestamp: "2018-11-25 16:25:42.496322"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+  Liabilities:Bar:Members:Thequux   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
