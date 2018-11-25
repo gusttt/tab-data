@@ -1,0 +1,10 @@
+2018-11-25 txn "TQ bought 3 items for €6.50"
+  timestamp: "2018-11-25 04:30:29.992167"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 CMRED
+  Liabilities:Bar:Members:Thequux      2 CMRED
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   6.50 EUR  
+  Income:Bar                       -6.50 EUR  
+
