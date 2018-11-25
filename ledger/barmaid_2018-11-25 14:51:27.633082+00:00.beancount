@@ -68,3 +68,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2018-11-25 txn "Elvis bought 1 items for €0.50"
+  timestamp: "2018-11-25 20:49:41.021431"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:Elvis      1 MNM
+  Liabilities:Bar:Members:Elvis   0.50 EUR
+  Income:Bar                     -0.50 EUR
+
