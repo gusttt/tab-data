@@ -26,3 +26,11 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR      
   Income:Bar                     -3.00 EUR      
 
+2018-11-25 txn "Elvis bought 2 items for €3.00"
+  timestamp: "2018-11-25 04:31:58.972157"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 COKE_ZERO
+  Liabilities:Bar:Members:Elvis      2 COKE_ZERO
+  Liabilities:Bar:Members:Elvis   3.00 EUR      
+  Income:Bar                     -3.00 EUR      
+
