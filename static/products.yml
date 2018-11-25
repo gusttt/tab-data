@@ -1,34 +1,34 @@
 # soft drinks
-- NAME: FANTA
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
-  CURRENCY: FANTA
-  CATEGORY: DRINK
+- name: FANTA
+  price: 1.50
+  event_price: 2.50
+  currency: FANTA
+  category: DRINK
 - name: Ice Tea
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
+  price: 1.50
+  event_price: 2.50
   category: drink
   currency: ICETEA
 - name: Ice Tea Zero
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
+  price: 1.50
+  event_price: 2.50
   category: drink
   currency: ICETEA_ZERO
 - name: Cola
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
+  price: 1.50
+  event_price: 2.50
   currency: COKE
   category: drink
 - name: Cola Zero
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
+  price: 1.50
+  event_price: 2.50
   currency: COKE_ZERO
   category: drink
-- NAME: SCHWEPPES
-  PRICE: 1.50
-  EVENT_PRICE: 2.50
-  CURRENCY: SCWEPPES
-  CATEGORY: DRINK
+- name: SCHWEPPES
+  price: 1.50
+  event_price: 2.50
+  currency: SCWEPPES
+  category: DRINK
 
 # weird german stuff
 - name: Fritz
@@ -176,11 +176,11 @@
 #  event_price: 3.00
 #  currency: CMCOLA
 #  category: drink
-#- NAME: SPRITE
-#  PRICE: 2.00
-#  EVENT_PRICE: 3.00
-#  CURRENCY: SPRITE
-#  CATEGORY: DRINK
+#- name: SPRITE
+#  price: 2.00
+#  event_price: 3.00
+#  currency: SPRITE
+#  category: DRINK
 #- name: "whole #!"
 #  price: 20.00
 #  event_price: 30.00
