@@ -9,6 +9,11 @@
   EVENT_PRICE: 2.50
   category: drink
   currency: ICETEA
+- name: Ice Tea Zero
+  PRICE: 1.50
+  EVENT_PRICE: 2.50
+  category: drink
+  currency: ICETEA_ZERO
 - name: Cola
   PRICE: 1.50
   EVENT_PRICE: 2.50
