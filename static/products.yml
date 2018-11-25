@@ -1,13 +1,46 @@
-- name: Soda
+# soft drinks
+- name: FANTA
   price: 1.50
   event_price: 2.50
-  currency: SODA
+  currency: FANTA
+  category: DRINK
+- name: Ice Tea
+  price: 1.50
+  event_price: 2.50
   category: drink
-- name: Jupiler
+  currency: ICETEA
+- name: Ice Tea Zero
   price: 1.50
   event_price: 2.50
-  currency: JUPILER
-  category: alcohol
+  category: drink
+  currency: ICETEA_ZERO
+- name: Cola
+  price: 1.50
+  event_price: 2.50
+  currency: COKE
+  category: drink
+- name: Cola Zero
+  price: 1.50
+  event_price: 2.50
+  currency: COKE_ZERO
+  category: drink
+- name: SCHWEPPES
+  price: 1.50
+  event_price: 2.50
+  currency: SCWEPPES
+  category: DRINK
+
+# weird german stuff
+- name: Fritz
+  price: 2.00
+  event_price: 3.00
+  currency: FRITZ
+  category: drink
+- name: Fritz Zero
+  price: 2.00
+  event_price: 3.00
+  currency: FRITZ_ZERO
+  category: drink
 - name: Club Mate
   price: 2.00
   event_price: 3.00
@@ -18,46 +51,38 @@
   event_price: 3.00
   currency: CMRED
   category: drink
-- name: Club Mate Kraftstoff
-  currency: CMKRAFT
-  price: 2.00
-  event_price: 3.00
+
+# plain drinks
+- name: Water
+  price: 0.50
+  event_price: 0.75
+  currency: WATER
   category: drink
-- name: Club Mate Cola
-  price: 2.00
-  event_price: 3.00
-  currency: CMCOLA
+- name: Tea
+  price: 0.50
+  event_price: 0.75
+  currency: TEA
   category: drink
+
+# alcoholics
+- name: Jupiler
+  price: 1.50
+  event_price: 2.50
+  currency: JUPILER
+  category: alcohol
 - name: Duvel
   price: 2.50
   event_price: 3.50
   currency: DUVEL
   category: alcohol
-- name: Pizza
-  # Also listed as 3.50
-  price: 2.00
-  event_price: 3.50
-  currency: PIZZA
-  payback:
-    account: Liabilities:Bar:Members:Bart
-    amount: 1.63
-  category: food
-- name: Fanta
-  price: 2.00
-  event_price: 3.00
-  currency: FANTA
-  category: drink
-- name: Sprite
-  price: 2.00
-  event_price: 3.00
-  currency: SPRITE
-  category: drink
-- name: Schweppes
-  price: 2.00
-  event_price: 3.00
-  currency: SCWEPPES
-  category: drink
-- name: Snack
+- name: Chimay
+  price: 4.00
+  event_price: 6.00
+  currency: CHIMAY
+  category: alcohol
+
+# snacks
+- name: Other Snack
   price: 0.60
   event_price: 0.90
   currency: SNACK
@@ -67,98 +92,54 @@
   event_price: 0.90
   currency: CHIP
   category: food
-- name: "whole #!"
-  price: 20.00
-  event_price: 30.00
-  currency: WHOLENUM
-  category: misc
 - name: Snickers
-  price: 0.50
-  event_price: 0.75
+  price: 0.60
+  event_price: 0.90
   currency: SNICKERS
   category: food
 - name: Twix
-  price: 0.50
-  event_price: 0.75
+  price: 0.60
+  event_price: 0.90
   currency: TWIX
   category: food
-- name: Ice Tea
-  price: 2.50
-  event_price: 3.50
-  category: drink
-  currency: ICETEA
-- name: Cola
-  price: 2.50
-  event_price: 3.50
-  currency: COKE
-  category: drink
-- name: Cola Light
-  price: 2.50
-  event_price: 3.50
-  currency: COKE_LIGHT
-  category: drink
-- name: Cola Zero
-  price: 1.50
-  event_price: 2.50
-  currency: COKE_ZERO
-  category: drink
-- name: Chimay
-  price: 4.00
-  event_price: 6.00
-  currency: CHIMAY
-  category: alcohol
-- name: Tea
-  price: 0.50
-  event_price: 0.75
-  currency: TEA
-  category: drink
+- name: Mars
+  price: 0.60
+  event_price: 0.90
+  currency: MARS
+  category: food
+- name: "M&M"
+  price: 0.60
+  event_price: 0.90
+  currency: MNM
+  category: food
+- name: KitKat
+  price: 0.60
+  event_price: 0.90
+  category: food
+  currency: KITKAT
+- name: King Mints
+  price: 0.60
+  event_price: 0.90
+  category: food
+  currency: KING
+
+# frozen goods
 - name: Ice Cream
   price: 1.00
   event_price: 1.50
   currency: ICE_CREAM
   category: food
-- name: Mars
-  price: 0.50
-  event_price: 0.75
-  currency: MARS
-  category: food
-- name: Cha-Cha
-  price: 0.50
-  event_price: 0.75
-  currency: CHACHA
-  category: food
-- name: Water
-  price: 0.50
-  event_price: 0.75
-  currency: WATER
-  category: drink
-- name: Cider
-  price: 1.00
-  event_price: 1.50
-  currency: CIDER
-  category: alcohol
-- name: "M&M"
-  price: 0.50
-  event_price: 0.75
-  currency: MNM
-  category: food
-- name: Joylent
-  price: 7.00
-  event_price: 10.00
-  currency: JOYLENT
-  payback:
-    account: Liabilities:Bar:Members:Bloemist
-    amount: 5.00
-- name: Curry
-  price: 5.00
-  event_price: 7.50
-  currency: CURRY
-  category: food
-- name: Kriek
+- name: Pizza
+  # Also listed as 3.50
   price: 2.00
-  event_price: 3.00
-  currency: KRIEK
-  category: alcohol
+  event_price: 3.50
+  currency: PIZZA
+  payback:
+    account: Liabilities:Bar:Members:Bart
+    amount: 1.63
+  category: food
+
+# apparel
 - name: Wristband
   price: 1.00
   event_price: 1.50
@@ -172,44 +153,94 @@
   event_price: 30.00
   currency: TSHIRT
   category: swag
-- name: Croque
-  price: 1.50
-  event_price: 2.25
-  currency: CROQUE
-  payback:
-    account: Liabilities:Bar:Members:Bloemist
-    amount: 1.00
-  category: food
-- name: Fritz
-  price: 2.00
-  event_price: 3.00
-  currency: FRITZ
-  category: drink
 - name: Hoodie
   price: 35.00
   event_price: 53.00
   currency: HOODIE
   category: swag
-- name: Jenever
-  price: 2.00
-  event_price: 3.00
-  category: alcohol
-  payback:
-    account: Liabilities:Bar:Members:Bloemist
-    amount: 1.00
-  currency: JNVR
-- name: KitKat
-  price: 0.50
-  event_price: 0.75
-  category: food
-  currency: KITKAT
-- name: Leffe
-  price: 2.00
-  event_price: 3.00
-  category: alcohol
-  currency: LEFFE
-- name: Orval
-  price: 3.00
-  event_price: 4.50
-  category: alcohol
-  currency: ORVL
+
+# unused products below
+
+#- name: Soda
+#  price: 1.50
+#  event_price: 2.50
+#  currency: SODA
+#  category: drink
+#- name: Club Mate Kraftstoff
+#  currency: CMKRAFT
+#  price: 2.00
+#  event_price: 3.00
+#  category: drink
+#- name: Club Mate Cola
+#  price: 2.00
+#  event_price: 3.00
+#  currency: CMCOLA
+#  category: drink
+#- name: SPRITE
+#  price: 2.00
+#  event_price: 3.00
+#  currency: SPRITE
+#  category: DRINK
+#- name: "whole #!"
+#  price: 20.00
+#  event_price: 30.00
+#  currency: WHOLENUM
+#  category: misc
+#- name: Cola Light
+#  price: 2.50
+#  event_price: 3.50
+#  currency: COKE_LIGHT
+#  category: drink
+#- name: Cha-Cha
+#  price: 0.50
+#  event_price: 0.75
+#  currency: CHACHA
+#  category: food
+#- name: Cider
+#  price: 1.00
+#  event_price: 1.50
+#  currency: CIDER
+#  category: alcohol
+#- name: Joylent
+#  price: 7.00
+#  event_price: 10.00
+#  currency: JOYLENT
+#  payback:
+#    account: Liabilities:Bar:Members:Bloemist
+#    amount: 5.00
+#- name: Curry
+#  price: 5.00
+#  event_price: 7.50
+#  currency: CURRY
+#  category: food
+#- name: Kriek
+#  price: 2.00
+#  event_price: 3.00
+#  currency: KRIEK
+#  category: alcohol
+#- name: Croque
+#  price: 1.50
+#  event_price: 2.25
+#  currency: CROQUE
+#  payback:
+#    account: Liabilities:Bar:Members:Bloemist
+#    amount: 1.00
+#  category: food
+#- name: Jenever
+#  price: 2.00
+#  event_price: 3.00
+#  category: alcohol
+#  payback:
+#    account: Liabilities:Bar:Members:Bloemist
+#    amount: 1.00
+#  currency: JNVR
+#- name: Leffe
+#  price: 2.00
+#  event_price: 3.00
+#  category: alcohol
+#  currency: LEFFE
+#- name: Orval
+#  price: 3.00
+#  event_price: 4.50
+#  category: alcohol
+#  currency: ORVL
