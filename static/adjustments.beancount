@@ -8,6 +8,22 @@
   Liabilities:Bar:Members:Marquis		-1.00 EUR
   Expenses:Bar					 1.00 EUR
 
-# 2018-08-04 txn "Alex's account overwrote a previous account, losing its balance" #adjustment
-#  Liabilities:Bar:Members:Alex			11.60 EUR
-#  Income:AbandonedMoney
+# We had some double transactions for the first day or so.
+# Fix them all up at once
+2018-11-25 txn "Tons of double transactions" #adjustment
+  Assets:Inventory:Bar                          3 CMRED
+  Assets:Inventory:Bar                          1 DUVEL
+  Assets:Inventory:Bar                          2 COKE_ZERO
+  Assets:Inventory:Bar                          1 SNACK
+  Assets:Inventory:Bar                          1 FANTA
+  Liabilities:Bar:Members:Thequux              -3 CMRED
+  Liabilities:Bar:Members:Thequux              -1 DUVEL
+  Liabilities:Bar:Members:Thequux           -8.50 EUR
+  Liabilities:Bar:Members:Elvis                -1 SNACK
+  Liabilities:Bar:Members:Elvis                -2 COKE_ZERO
+  Liabilities:Bar:Members:Elvis             -3.60 EUR
+  Liabilities:Bar:Members:Ruleant           -2.00 EUR
+  Liabilities:Bar:Members:Ruleant              -1 FANTA
+  Income:Bar                                14.10 EUR
+
+
