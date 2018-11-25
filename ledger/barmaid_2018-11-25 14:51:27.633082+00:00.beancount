@@ -28,3 +28,11 @@
   Liabilities:Bar:Members:Ruleant   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2018-11-25 txn "Ruleant bought 1 items for €2.00"
+  timestamp: "2018-11-25 16:15:36.065852"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
