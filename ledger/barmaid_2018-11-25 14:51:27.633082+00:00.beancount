@@ -90,3 +90,9 @@
   Liabilities:Bar:Members:Els  -40.00 EUR
   Assets:Cash:Bar               40.00 EUR
 
+2018-11-27 txn "--CASH-- deposited €50.00"
+  timestamp: "2018-11-27 13:39:26.939986"
+  type: "deposit"
+  Assets:Cash:Bar  -50.00 EUR
+  Assets:Cash:Bar   50.00 EUR
+
