@@ -104,3 +104,13 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Income:Bar                   -2.00 EUR
 
+2018-11-29 txn "--CASH-- bought 2 items for €2.60"
+  timestamp: "2018-11-29 17:46:35.864343"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM  
+  Assets:Cash:Bar           1 CM  
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        2.60 EUR 
+  Income:Bar            -2.60 EUR 
+
