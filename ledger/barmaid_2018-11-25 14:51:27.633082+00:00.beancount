@@ -224,3 +224,11 @@
   Liabilities:Bar:Members:Joris   2.10 EUR     
   Income:Bar                     -2.10 EUR     
 
+2018-11-29 txn "Ewaut bought 1 items for €1.50"
+  timestamp: "2018-11-29 20:04:12.663848"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Ewaut      1 ICETEA
+  Liabilities:Bar:Members:Ewaut   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
