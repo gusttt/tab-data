@@ -248,3 +248,13 @@
   Liabilities:Bar:Members:Ewaut   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2018-11-29 txn "Joris bought 2 items for €2.10"
+  timestamp: "2018-11-29 20:56:44.288427"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Joris      1 FANTA
+  Assets:Inventory:Bar              -1 CHIP 
+  Liabilities:Bar:Members:Joris      1 CHIP 
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+
