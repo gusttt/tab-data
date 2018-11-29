@@ -240,3 +240,11 @@
   Liabilities:Bar:Members:Maja   3.00 EUR   
   Income:Bar                    -3.00 EUR   
 
+2018-11-29 txn "Ewaut bought 1 items for €1.50"
+  timestamp: "2018-11-29 20:54:12.579767"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Ewaut      1 ICETEA
+  Liabilities:Bar:Members:Ewaut   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
