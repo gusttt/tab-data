@@ -232,3 +232,11 @@
   Liabilities:Bar:Members:Ewaut   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2018-11-29 txn "Maja bought 2 items for €3.00"
+  timestamp: "2018-11-29 20:41:36.992252"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 ICETEA
+  Liabilities:Bar:Members:Maja      2 ICETEA
+  Liabilities:Bar:Members:Maja   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
