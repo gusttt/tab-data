@@ -206,3 +206,11 @@
   Liabilities:Bar:Members:Stefaan   2.10 EUR  
   Income:Bar                       -2.10 EUR  
 
+2018-11-29 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2018-11-29 19:36:23.677404"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
