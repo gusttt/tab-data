@@ -1,9 +1,9 @@
 # soft drinks
-- name: FANTA
+- name: Fanta
   price: 1.50
   event_price: 2.50
   currency: FANTA
-  category: DRINK
+  category: drink
 - name: Ice Tea
   price: 1.50
   event_price: 2.50
@@ -24,11 +24,11 @@
   event_price: 2.50
   currency: COKE_ZERO
   category: drink
-- name: SCHWEPPES
+- name: Schweppes
   price: 1.50
   event_price: 2.50
   currency: SCWEPPES
-  category: DRINK
+  category: drink
 
 # weird german stuff
 - name: Fritz
