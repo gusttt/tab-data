@@ -178,3 +178,9 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2018-11-29 txn "Maja deposited €20.00"
+  timestamp: "2018-11-29 19:08:14.914975"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
