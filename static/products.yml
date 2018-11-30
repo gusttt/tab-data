@@ -27,7 +27,7 @@
 - name: Schweppes
   price: 1.50
   event_price: 2.50
-  currency: SCWEPPES
+  currency: SCHWEPPES
   category: drink
 
 # weird german stuff
