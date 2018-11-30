@@ -122,6 +122,11 @@
   event_price: 0.90
   category: food
   currency: KING
+- name: "1 Chupa Chups"
+  price: 0.20
+  event_price: 0.30
+  currency: CHUPACHUPS
+  category: food
 
 # frozen goods
 - name: Ice Cream
