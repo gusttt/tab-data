@@ -1,0 +1,10 @@
+2018-12-05 txn "Els bought 2 items for €2.10"
+  timestamp: "2018-12-05 16:14:27.864347"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Assets:Inventory:Bar            -1 KITKAT     
+  Liabilities:Bar:Members:Els      1 KITKAT     
+  Liabilities:Bar:Members:Els   2.10 EUR        
+  Income:Bar                   -2.10 EUR        
+
