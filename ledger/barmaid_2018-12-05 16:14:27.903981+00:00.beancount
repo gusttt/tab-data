@@ -56,3 +56,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2018-12-06 txn "Joris bought 2 items for €3.10"
+  timestamp: "2018-12-06 20:16:08.663814"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Assets:Inventory:Bar              -1 CHIP 
+  Liabilities:Bar:Members:Joris      1 CHIP 
+  Liabilities:Bar:Members:Joris   3.10 EUR  
+  Income:Bar                     -3.10 EUR  
+
