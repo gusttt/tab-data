@@ -92,3 +92,9 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2018-12-06 txn "On8wr deposited €0.20"
+  timestamp: "2018-12-06 21:58:53.052666"
+  type: "deposit"
+  Liabilities:Bar:Members:On8wr  -0.20 EUR
+  Assets:Cash:Bar                 0.20 EUR
+
