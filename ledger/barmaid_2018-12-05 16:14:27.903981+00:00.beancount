@@ -40,3 +40,11 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2018-12-06 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2018-12-06 20:03:01.224705"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:On8wr      1 COKE
+  Liabilities:Bar:Members:On8wr   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
