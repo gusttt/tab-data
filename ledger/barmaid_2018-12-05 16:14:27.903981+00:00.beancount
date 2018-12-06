@@ -84,3 +84,11 @@
   Assets:Cash:Bar        2.10 EUR 
   Income:Bar            -2.10 EUR 
 
+2018-12-06 txn "Joris bought 1 items for €0.60"
+  timestamp: "2018-12-06 21:32:04.998671"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
