@@ -32,3 +32,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2018-12-06 txn "On8wr bought 1 items for €2.00"
+  timestamp: "2018-12-06 19:07:07.901526"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Liabilities:Bar:Members:On8wr   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
