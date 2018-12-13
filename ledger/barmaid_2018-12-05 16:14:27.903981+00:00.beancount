@@ -138,3 +138,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2018-12-13 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2018-12-13 20:05:29.222666"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
