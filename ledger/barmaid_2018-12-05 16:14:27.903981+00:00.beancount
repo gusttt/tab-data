@@ -154,3 +154,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2018-12-15 txn "Els bought 1 items for €0.60"
+  timestamp: "2018-12-15 08:26:50.594566"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.60 EUR   
+  Income:Bar                   -0.60 EUR   
+
