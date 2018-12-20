@@ -218,3 +218,11 @@
   Liabilities:Bar:Members:Thomas   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2018-12-20 txn "Joris bought 2 items for €8.00"
+  timestamp: "2018-12-20 20:07:12.717536"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CHIMAY
+  Liabilities:Bar:Members:Joris      2 CHIMAY
+  Liabilities:Bar:Members:Joris   8.00 EUR   
+  Income:Bar                     -8.00 EUR   
+
