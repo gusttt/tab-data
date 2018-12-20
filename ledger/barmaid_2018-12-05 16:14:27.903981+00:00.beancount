@@ -210,3 +210,11 @@
   Liabilities:Bar:Members:Thequux  -30.00 EUR
   Assets:Cash:Bar                   30.00 EUR
 
+2018-12-20 txn "Thomas bought 1 items for €4.00"
+  timestamp: "2018-12-20 19:45:49.720914"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:Thomas      1 CHIMAY
+  Liabilities:Bar:Members:Thomas   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
