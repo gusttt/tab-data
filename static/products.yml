@@ -127,6 +127,11 @@
   event_price: 0.30
   currency: CHUPACHUPS
   category: food
+- name: "Rolo"
+  price: 0.60
+  event_price: 0.90
+  category: food
+  currency: ROLO
 
 # frozen goods
 - name: Ice Cream
