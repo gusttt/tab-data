@@ -322,3 +322,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2018-12-21 txn "Evils bought 1 items for €2.00"
+  timestamp: "2018-12-21 19:25:16.680539"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WINTER_MATE
+  Liabilities:Bar:Members:Elvis      1 WINTER_MATE
+  Liabilities:Bar:Members:Elvis   2.00 EUR        
+  Income:Bar                     -2.00 EUR        
+
