@@ -314,3 +314,11 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2018-12-21 txn "TQ bought 1 items for €2.00"
+  timestamp: "2018-12-21 18:23:34.506179"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Thequux      1 FRITZ
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
