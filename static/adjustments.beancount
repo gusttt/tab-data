@@ -26,4 +26,11 @@
   Liabilities:Bar:Members:Ruleant              -1 FANTA
   Income:Bar                                14.10 EUR
 
-
+# Apparently both negative deposits and transfers to cash don't work.
+# So, we do this with an adjustment...
+# Note that this transaction represents removing €17 from the bar 
+# and putting it in my pocket (and therefore increasing the amount
+# I owe the space by €17)
+2018-12-22 txn "Pay back bar for dinner" #adjustment
+  Liabilities:Bar:Members:Thequux            17 EUR
+  Assets:Inventory:Bar                      -17 EUR
