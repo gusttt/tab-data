@@ -352,3 +352,11 @@
   Liabilities:Bar:Members:Elvis     8.90 EUR
   Liabilities:Bar:Members:Thequux  -8.90 EUR
 
+2018-12-22 txn "Evils bought 1 items for €2.00"
+  timestamp: "2018-12-22 02:00:35.431557"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
