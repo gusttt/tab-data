@@ -398,3 +398,11 @@
   Liabilities:Bar:Members:Thomas   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2018-12-27 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2018-12-27 20:27:41.497704"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
