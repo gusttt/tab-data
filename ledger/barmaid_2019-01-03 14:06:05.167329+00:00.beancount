@@ -46,3 +46,11 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR        
   Income:Bar                       -1.50 EUR        
 
+2019-01-03 txn "Alex bought 1 items for €1.50"
+  timestamp: "2019-01-03 19:08:28.884146"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Alex      1 ICETEA
+  Liabilities:Bar:Members:Alex   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
