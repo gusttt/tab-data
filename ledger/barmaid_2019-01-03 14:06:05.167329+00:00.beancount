@@ -78,3 +78,13 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2019-01-03 txn "Joris bought 2 items for €4.60"
+  timestamp: "2019-01-03 20:03:39.268979"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Joris      1 CHIMAY
+  Assets:Inventory:Bar              -1 MNM   
+  Liabilities:Bar:Members:Joris      1 MNM   
+  Liabilities:Bar:Members:Joris   4.60 EUR   
+  Income:Bar                     -4.60 EUR   
+
