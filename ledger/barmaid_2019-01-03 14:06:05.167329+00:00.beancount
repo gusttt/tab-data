@@ -38,3 +38,11 @@
   Liabilities:Bar:Members:Koen   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2019-01-03 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2019-01-03 18:57:53.003838"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn   1.50 EUR        
+  Income:Bar                       -1.50 EUR        
+
