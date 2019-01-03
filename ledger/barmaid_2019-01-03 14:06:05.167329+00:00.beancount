@@ -174,3 +174,13 @@
   Liabilities:Bar:Members:Joris   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2019-01-03 txn "Evils bought 2 items for €1.20"
+  timestamp: "2019-01-03 23:04:24.428963"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Assets:Inventory:Bar              -1 MNM   
+  Liabilities:Bar:Members:Elvis      1 MNM   
+  Liabilities:Bar:Members:Elvis   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
