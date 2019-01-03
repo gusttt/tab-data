@@ -158,3 +158,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-01-03 txn "Joris deposited €10.00"
+  timestamp: "2019-01-03 21:58:11.123052"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
