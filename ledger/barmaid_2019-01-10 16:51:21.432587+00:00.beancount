@@ -104,3 +104,13 @@
   Assets:Cash:Bar  -3.21 EUR
   Assets:Cash:Bar   3.21 EUR
 
+2019-01-10 txn "Thomas bought 2 items for €5.50"
+  timestamp: "2019-01-10 19:34:02.256098"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Assets:Inventory:Bar               -1 CHIMAY 
+  Liabilities:Bar:Members:Thomas      1 CHIMAY 
+  Liabilities:Bar:Members:Thomas   5.50 EUR    
+  Income:Bar                      -5.50 EUR    
+
