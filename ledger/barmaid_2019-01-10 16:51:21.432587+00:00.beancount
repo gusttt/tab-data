@@ -66,3 +66,11 @@
   Liabilities:Bar:Members:Folkaholic   2.00 EUR  
   Income:Bar                          -2.00 EUR  
 
+2019-01-10 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2019-01-10 18:54:33.668263"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
