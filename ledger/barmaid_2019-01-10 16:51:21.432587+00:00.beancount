@@ -58,3 +58,11 @@
   Liabilities:Bar:Members:Folkaholic  -10.00 EUR
   Assets:Cash:Bar                      10.00 EUR
 
+2019-01-10 txn "Folkaholic bought 1 items for €2.00"
+  timestamp: "2019-01-10 18:31:59.991520"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 CMRED
+  Liabilities:Bar:Members:Folkaholic      1 CMRED
+  Liabilities:Bar:Members:Folkaholic   2.00 EUR  
+  Income:Bar                          -2.00 EUR  
+
