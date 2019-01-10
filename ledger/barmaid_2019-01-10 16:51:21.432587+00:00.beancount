@@ -286,3 +286,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2019-01-10 txn "TQ bought 2 items for €3.50"
+  timestamp: "2019-01-10 21:10:33.626890"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Thequux      1 JUPILER
+  Assets:Inventory:Bar                -1 FRITZ  
+  Liabilities:Bar:Members:Thequux      1 FRITZ  
+  Liabilities:Bar:Members:Thequux   3.50 EUR    
+  Income:Bar                       -3.50 EUR    
+
