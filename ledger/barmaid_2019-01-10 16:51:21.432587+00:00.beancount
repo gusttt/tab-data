@@ -228,3 +228,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2019-01-10 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2019-01-10 20:26:37.473830"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CMCOLA
+  Assets:Cash:Bar           1 CMCOLA
+  Assets:Cash:Bar        2.00 EUR   
+  Income:Bar            -2.00 EUR   
+
