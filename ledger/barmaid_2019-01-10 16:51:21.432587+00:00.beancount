@@ -306,3 +306,13 @@
   Liabilities:Bar:Members:Thomas   2.60 EUR  
   Income:Bar                      -2.60 EUR  
 
+2019-01-10 txn "Joris bought 2 items for €2.10"
+  timestamp: "2019-01-10 21:14:23.221103"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP   
+  Liabilities:Bar:Members:Joris      1 CHIP   
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Joris      1 JUPILER
+  Liabilities:Bar:Members:Joris   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
