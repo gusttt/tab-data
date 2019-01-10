@@ -52,3 +52,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-01-10 txn "Folkaholic deposited €10.00"
+  timestamp: "2019-01-10 18:31:11.367293"
+  type: "deposit"
+  Liabilities:Bar:Members:Folkaholic  -10.00 EUR
+  Assets:Cash:Bar                      10.00 EUR
+
