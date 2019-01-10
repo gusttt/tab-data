@@ -380,3 +380,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-01-10 txn "TQ bought 1 items for €1.50"
+  timestamp: "2019-01-10 23:27:47.179995"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Thequux      1 JUPILER
+  Liabilities:Bar:Members:Thequux   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
