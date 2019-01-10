@@ -296,3 +296,13 @@
   Liabilities:Bar:Members:Thequux   3.50 EUR    
   Income:Bar                       -3.50 EUR    
 
+2019-01-10 txn "Thomas bought 2 items for €2.60"
+  timestamp: "2019-01-10 21:14:00.796292"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:Thomas      1 FRITZ
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
