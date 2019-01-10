@@ -236,3 +236,13 @@
   Assets:Cash:Bar        2.00 EUR   
   Income:Bar            -2.00 EUR   
 
+2019-01-10 txn "Thomas bought 2 items for €2.60"
+  timestamp: "2019-01-10 20:30:48.092371"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:Thomas      1 FRITZ
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
