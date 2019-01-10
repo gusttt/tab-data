@@ -140,3 +140,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2019-01-10 txn "TQ bought 1 items for €2.00"
+  timestamp: "2019-01-10 19:51:01.382936"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WINTER_MATE
+  Liabilities:Bar:Members:Thequux      1 WINTER_MATE
+  Liabilities:Bar:Members:Thequux   2.00 EUR        
+  Income:Bar                       -2.00 EUR        
+
