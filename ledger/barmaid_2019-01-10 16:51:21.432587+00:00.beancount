@@ -484,3 +484,11 @@
   Liabilities:Bar:Members:Gust   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-01-11 txn "Gust bought 1 items for €0.60"
+  timestamp: "2019-01-11 18:48:13.999683"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ROLO
+  Liabilities:Bar:Members:Gust      1 ROLO
+  Liabilities:Bar:Members:Gust   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
