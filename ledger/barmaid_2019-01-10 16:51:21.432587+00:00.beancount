@@ -414,3 +414,11 @@
   Liabilities:Bar:Members:On8wr   2.10 EUR      
   Income:Bar                     -2.10 EUR      
 
+2019-01-11 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-01-11 01:45:22.343917"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
