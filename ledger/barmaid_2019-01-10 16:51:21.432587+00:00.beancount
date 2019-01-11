@@ -444,3 +444,11 @@
   Liabilities:Bar:Members:Joris   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2019-01-11 txn "Joris bought 1 items for €1.50"
+  timestamp: "2019-01-11 11:43:30.477546"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Joris      1 SCHWEPPES
+  Liabilities:Bar:Members:Joris   1.50 EUR      
+  Income:Bar                     -1.50 EUR      
+
