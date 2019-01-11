@@ -532,3 +532,11 @@
   Liabilities:Bar:Members:Gust   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2019-01-11 txn "Gust bought 1 items for €1.50"
+  timestamp: "2019-01-11 22:14:00.600229"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Gust      1 ICETEA
+  Liabilities:Bar:Members:Gust   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
