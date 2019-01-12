@@ -548,3 +548,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR
   Income:Bar                       -2.00 EUR
 
+2019-01-12 txn "Joren bought 1 items for €0.60"
+  timestamp: "2019-01-12 14:00:45.998651"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Joren      1 TWIX
+  Liabilities:Bar:Members:Joren   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
