@@ -660,3 +660,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-01-12 txn "Alex bought 1 items for €2.00"
+  timestamp: "2019-01-12 19:01:26.570662"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WINTER_MATE
+  Liabilities:Bar:Members:Alex      1 WINTER_MATE
+  Liabilities:Bar:Members:Alex   2.00 EUR        
+  Income:Bar                    -2.00 EUR        
+
