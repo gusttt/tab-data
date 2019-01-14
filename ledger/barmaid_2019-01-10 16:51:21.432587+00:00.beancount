@@ -810,3 +810,11 @@
   Liabilities:Bar:Members:Elvis   0.20 EUR       
   Income:Bar                     -0.20 EUR       
 
+2019-01-14 txn "Evils bought 1 items for €1.50"
+  timestamp: "2019-01-14 20:48:08.615528"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Elvis      1 ICETEA
+  Liabilities:Bar:Members:Elvis   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
