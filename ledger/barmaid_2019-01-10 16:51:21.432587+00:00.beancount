@@ -1152,3 +1152,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR      
   Income:Bar                     -1.50 EUR      
 
+2019-01-17 txn "Joris bought 1 items for €0.60"
+  timestamp: "2019-01-17 21:12:28.531312"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Joris      1 TWIX
+  Liabilities:Bar:Members:Joris   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
