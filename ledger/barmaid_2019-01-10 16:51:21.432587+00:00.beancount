@@ -1242,3 +1242,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2019-01-18 txn "Evils bought 1 items for €0.20"
+  timestamp: "2019-01-18 01:16:39.939715"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHUPACHUPS
+  Liabilities:Bar:Members:Elvis      1 CHUPACHUPS
+  Liabilities:Bar:Members:Elvis   0.20 EUR       
+  Income:Bar                     -0.20 EUR       
+
