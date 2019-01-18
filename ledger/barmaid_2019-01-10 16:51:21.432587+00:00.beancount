@@ -1250,3 +1250,11 @@
   Liabilities:Bar:Members:Elvis   0.20 EUR       
   Income:Bar                     -0.20 EUR       
 
+2019-01-18 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-01-18 13:51:09.986084"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
