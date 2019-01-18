@@ -1298,3 +1298,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-01-18 txn "On8wr bought 1 items for €0.60"
+  timestamp: "2019-01-18 22:28:22.916511"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:On8wr      1 MNM
+  Liabilities:Bar:Members:On8wr   0.60 EUR
+  Income:Bar                     -0.60 EUR
+
