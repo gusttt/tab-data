@@ -62,3 +62,13 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
 
+2019-01-20 txn "Koen bought 2 items for €2.10"
+  timestamp: "2019-01-20 19:49:11.919172"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Assets:Inventory:Bar             -1 ROLO  
+  Liabilities:Bar:Members:Koen      1 ROLO  
+  Liabilities:Bar:Members:Koen   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
