@@ -30,3 +30,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR        
   Income:Bar                       -2.00 EUR        
 
+2019-01-20 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-01-20 18:55:19.418403"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
