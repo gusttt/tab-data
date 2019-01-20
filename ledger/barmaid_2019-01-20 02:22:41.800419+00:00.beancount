@@ -72,3 +72,13 @@
   Liabilities:Bar:Members:Koen   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2019-01-20 txn "TQ bought 2 items for €2.60"
+  timestamp: "2019-01-20 20:06:39.159775"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WINTER_MATE
+  Liabilities:Bar:Members:Thequux      1 WINTER_MATE
+  Assets:Inventory:Bar                -1 ROLO       
+  Liabilities:Bar:Members:Thequux      1 ROLO       
+  Liabilities:Bar:Members:Thequux   2.60 EUR        
+  Income:Bar                       -2.60 EUR        
+
