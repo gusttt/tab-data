@@ -322,3 +322,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2019-01-24 txn "Maja bought 1 items for €1.50"
+  timestamp: "2019-01-24 23:08:03.206101"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Liabilities:Bar:Members:Maja   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
