@@ -1,0 +1,8 @@
+2019-01-24 txn "TQ bought 1 items for €0.60"
+  timestamp: "2019-01-24 23:52:36.873439"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROLO
+  Liabilities:Bar:Members:Thequux      1 ROLO
+  Liabilities:Bar:Members:Thequux   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
