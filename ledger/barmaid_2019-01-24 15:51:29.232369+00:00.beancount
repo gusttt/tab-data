@@ -174,3 +174,11 @@
   Liabilities:Bar:Members:Stefaan  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2019-01-24 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2019-01-24 20:13:28.878117"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Liabilities:Bar:Members:Thomas   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
