@@ -314,3 +314,11 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-01-24 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-01-24 22:39:09.892498"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
