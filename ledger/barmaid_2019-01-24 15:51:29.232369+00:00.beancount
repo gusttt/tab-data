@@ -168,3 +168,9 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-01-24 txn "Stefaan deposited €10.00"
+  timestamp: "2019-01-24 20:04:51.931122"
+  type: "deposit"
+  Liabilities:Bar:Members:Stefaan  -10.00 EUR
+  Assets:Cash:Bar                   10.00 EUR
+
