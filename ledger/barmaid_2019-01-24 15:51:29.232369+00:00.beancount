@@ -274,3 +274,11 @@
   Liabilities:Bar:Members:Thomas   4.50 EUR    
   Income:Bar                      -4.50 EUR    
 
+2019-01-24 txn "Maja bought 1 items for €1.50"
+  timestamp: "2019-01-24 21:23:42.340101"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Maja      1 COKE
+  Liabilities:Bar:Members:Maja   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
