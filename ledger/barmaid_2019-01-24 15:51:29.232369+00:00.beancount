@@ -182,3 +182,11 @@
   Liabilities:Bar:Members:Thomas   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2019-01-24 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2019-01-24 20:27:28.867719"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICETEA
+  Assets:Cash:Bar           1 ICETEA
+  Assets:Cash:Bar        1.50 EUR   
+  Income:Bar            -1.50 EUR   
+
