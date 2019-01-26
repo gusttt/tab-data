@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2019-01-26 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2019-01-26 09:28:26.297533"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
