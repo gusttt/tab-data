@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR
   Income:Bar                       -2.00 EUR
 
+2019-01-28 txn "TQ bought 1 items for €0.60 (and has €29.20 remaining)"
+  timestamp: "2019-01-28 18:03:45.218478"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Thequux      1 MARS
+  Liabilities:Bar:Members:Thequux   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
