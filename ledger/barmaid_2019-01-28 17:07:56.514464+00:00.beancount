@@ -20,3 +20,11 @@
   Liabilities:Bar:Members:Els     3.50 EUR
   Liabilities:Bar:Members:Elvis  -3.50 EUR
 
+2019-01-28 txn "Evils bought 1 items for €2.00 (and has €-49.45 remaining)"
+  timestamp: "2019-01-28 18:04:38.186763"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
