@@ -14,3 +14,9 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2019-01-28 txn "Els gave Evils a gift of €3.50"
+  timestamp: "2019-01-28 18:04:16.798757"
+  type: "transfer"
+  Liabilities:Bar:Members:Els     3.50 EUR
+  Liabilities:Bar:Members:Elvis  -3.50 EUR
+
