@@ -134,3 +134,13 @@
   Liabilities:Bar:Members:Joris   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2019-01-31 txn "Maja bought 2 items for €3.00"
+  timestamp: "2019-01-31 22:17:54.911976"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Maja      1 ICE_CREAM
+  Assets:Inventory:Bar             -1 CMCOLA   
+  Liabilities:Bar:Members:Maja      1 CMCOLA   
+  Liabilities:Bar:Members:Maja   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
