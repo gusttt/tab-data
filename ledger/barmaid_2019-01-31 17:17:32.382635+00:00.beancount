@@ -1,0 +1,8 @@
+2019-01-31 txn "Alex bought 1 items for €0.60"
+  timestamp: "2019-01-31 17:17:32.322272"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Alex      1 SNICKERS
+  Liabilities:Bar:Members:Alex   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
