@@ -14,3 +14,11 @@
   Liabilities:Bar:Members:Alex   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2019-01-31 txn "Merlijn bought 1 items for €0.50"
+  timestamp: "2019-01-31 17:24:44.904074"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Merlijn      1 WATER
+  Liabilities:Bar:Members:Merlijn   0.50 EUR  
+  Income:Bar                       -0.50 EUR  
+
