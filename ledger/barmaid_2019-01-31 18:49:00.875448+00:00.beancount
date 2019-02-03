@@ -174,3 +174,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-02-03 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-02-03 14:13:28.759189"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ROLO
+  Liabilities:Bar:Members:Els      1 ROLO
+  Liabilities:Bar:Members:Els   0.60 EUR 
+  Income:Bar                   -0.60 EUR 
+
