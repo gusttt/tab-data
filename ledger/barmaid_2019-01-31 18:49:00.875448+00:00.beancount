@@ -314,3 +314,13 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2019-02-07 txn "Jens bought 2 items for €3.10"
+  timestamp: "2019-02-07 22:29:50.152313"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL   
+  Liabilities:Bar:Members:Jens      1 DUVEL   
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Jens      1 SNICKERS
+  Liabilities:Bar:Members:Jens   3.10 EUR     
+  Income:Bar                    -3.10 EUR     
+
