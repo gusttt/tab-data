@@ -228,3 +228,11 @@
   Liabilities:Bar:Members:Sasja   0.50 EUR  
   Income:Bar                     -0.50 EUR  
 
+2019-02-07 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-02-07 18:38:52.688125"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
