@@ -4,3 +4,13 @@
   Liabilities:Bar:Members:Yvan  -50.00 EUR
   Assets:Cash:Bar                50.00 EUR
 
+2019-02-08 txn "Yvan & Lauren bought 3 items for €4.60"
+  timestamp: "2019-02-08 21:07:42.873649"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CMCOLA
+  Liabilities:Bar:Members:Yvan      2 CMCOLA
+  Assets:Inventory:Bar             -1 MARS  
+  Liabilities:Bar:Members:Yvan      1 MARS  
+  Liabilities:Bar:Members:Yvan   4.60 EUR   
+  Income:Bar                    -4.60 EUR   
+
