@@ -1,0 +1,6 @@
+2019-02-08 txn "Yvan & Lauren deposited €50.00"
+  timestamp: "2019-02-08 21:07:05.667586"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -50.00 EUR
+  Assets:Cash:Bar                50.00 EUR
+
