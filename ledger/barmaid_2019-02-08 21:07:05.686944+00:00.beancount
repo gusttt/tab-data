@@ -38,3 +38,11 @@
   Liabilities:Bar:Members:Els   40.00 EUR   
   Income:Bar                   -40.00 EUR   
 
+2019-02-09 txn "Els bought 1 items for €2.00"
+  timestamp: "2019-02-09 19:11:31.060704"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ
+  Liabilities:Bar:Members:Els      1 FRITZ
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
