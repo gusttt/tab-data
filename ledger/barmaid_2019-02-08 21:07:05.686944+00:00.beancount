@@ -30,3 +30,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-02-09 txn "Els bought 2 items for €40.00"
+  timestamp: "2019-02-09 19:10:35.790969"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 TSHIRT
+  Liabilities:Bar:Members:Els       2 TSHIRT
+  Liabilities:Bar:Members:Els   40.00 EUR   
+  Income:Bar                   -40.00 EUR   
+
