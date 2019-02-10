@@ -118,3 +118,11 @@
   Liabilities:Bar:Members:Elvis   0.20 EUR       
   Income:Bar                     -0.20 EUR       
 
+2019-02-10 txn "Bloemist bought 1 items for €2.50"
+  timestamp: "2019-02-10 18:48:03.579881"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 DUVEL
+  Liabilities:Bar:Members:Bloemist      1 DUVEL
+  Liabilities:Bar:Members:Bloemist   2.50 EUR  
+  Income:Bar                        -2.50 EUR  
+
