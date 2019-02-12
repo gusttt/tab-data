@@ -164,3 +164,13 @@
   Liabilities:Bar:Members:Bloemist   1.20 EUR 
   Income:Bar                        -1.20 EUR 
 
+2019-02-12 txn "TQ bought 2 items for €2.60"
+  timestamp: "2019-02-12 19:01:55.835959"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Thequux      1 SNACK
+  Assets:Inventory:Bar                -1 CM   
+  Liabilities:Bar:Members:Thequux      1 CM   
+  Liabilities:Bar:Members:Thequux   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+
