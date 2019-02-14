@@ -330,3 +330,11 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR
   Assets:Cash:Bar                -2.50 EUR
 
+2019-02-14 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-02-14 21:43:19.017813"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
