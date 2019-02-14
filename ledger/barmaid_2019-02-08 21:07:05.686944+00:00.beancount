@@ -234,3 +234,15 @@
   Assets:Cash:Bar        0.50 EUR  
   Income:Bar            -0.50 EUR  
 
+2019-02-14 txn "Joris bought 3 items for €4.60"
+  timestamp: "2019-02-14 19:26:25.056230"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL    
+  Liabilities:Bar:Members:Joris      1 DUVEL    
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Joris      1 SCHWEPPES
+  Assets:Inventory:Bar              -1 SNACK    
+  Liabilities:Bar:Members:Joris      1 SNACK    
+  Liabilities:Bar:Members:Joris   4.60 EUR      
+  Income:Bar                     -4.60 EUR      
+
