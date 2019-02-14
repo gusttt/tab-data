@@ -324,3 +324,9 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR
   Income:Bar                      -0.60 EUR
 
+2019-02-14 txn "Evils deposited €-2.50"
+  timestamp: "2019-02-14 21:37:51.261035"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   2.50 EUR
+  Assets:Cash:Bar                -2.50 EUR
+
