@@ -382,3 +382,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2019-02-20 txn "Els bought 2 items for €2.10"
+  timestamp: "2019-02-20 21:38:04.826212"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Assets:Inventory:Bar            -1 SNACK      
+  Liabilities:Bar:Members:Els      1 SNACK      
+  Liabilities:Bar:Members:Els   2.10 EUR        
+  Income:Bar                   -2.10 EUR        
+
