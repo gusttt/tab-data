@@ -22,3 +22,11 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2019-02-21 txn "Thomas bought 2 items for €5.00"
+  timestamp: "2019-02-21 19:54:54.005603"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 DUVEL
+  Liabilities:Bar:Members:Thomas      2 DUVEL
+  Liabilities:Bar:Members:Thomas   5.00 EUR  
+  Income:Bar                      -5.00 EUR  
+
