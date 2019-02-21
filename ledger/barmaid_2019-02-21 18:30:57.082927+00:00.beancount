@@ -60,3 +60,13 @@
   Liabilities:Bar:Members:Marquis  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2019-02-21 txn "Marquis bought 3 items for €1.80"
+  timestamp: "2019-02-21 20:11:12.060226"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 MNM 
+  Liabilities:Bar:Members:Marquis      2 MNM 
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Marquis      1 MARS
+  Liabilities:Bar:Members:Marquis   1.80 EUR 
+  Income:Bar                       -1.80 EUR 
+
