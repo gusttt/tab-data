@@ -112,3 +112,13 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-02-21 txn "Thomas bought 2 items for €2.10"
+  timestamp: "2019-02-21 21:26:36.007584"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Thomas      1 SCHWEPPES
+  Assets:Inventory:Bar               -1 MNM      
+  Liabilities:Bar:Members:Thomas      1 MNM      
+  Liabilities:Bar:Members:Thomas   2.10 EUR      
+  Income:Bar                      -2.10 EUR      
+
