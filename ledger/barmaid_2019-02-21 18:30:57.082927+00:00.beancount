@@ -46,3 +46,11 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2019-02-21 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-02-21 20:09:05.689488"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Sasja      1 CMCOLA
+  Liabilities:Bar:Members:Sasja   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
