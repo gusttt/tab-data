@@ -104,3 +104,11 @@
   Liabilities:Bar:Members:Sasja   3.50 EUR      
   Income:Bar                     -3.50 EUR      
 
+2019-02-21 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2019-02-21 21:23:10.632272"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:Sasja      1 MNM
+  Liabilities:Bar:Members:Sasja   0.60 EUR
+  Income:Bar                     -0.60 EUR
+
