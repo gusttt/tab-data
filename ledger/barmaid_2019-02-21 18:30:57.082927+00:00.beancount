@@ -162,3 +162,11 @@
   Assets:Cash:Bar        1.50 EUR   
   Income:Bar            -1.50 EUR   
 
+2019-02-22 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-02-22 02:21:50.182306"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Sasja      1 ICETEA
+  Liabilities:Bar:Members:Sasja   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
