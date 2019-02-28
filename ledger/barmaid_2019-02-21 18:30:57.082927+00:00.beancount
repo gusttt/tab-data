@@ -210,3 +210,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR
   Income:Bar                       -2.00 EUR
 
+2019-02-28 txn "Enzian bought 2 items for €1.20"
+  timestamp: "2019-02-28 19:24:44.235124"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 CHIP
+  Liabilities:Bar:Members:Enzian      2 CHIP
+  Liabilities:Bar:Members:Enzian   1.20 EUR 
+  Income:Bar                      -1.20 EUR 
+
