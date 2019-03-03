@@ -358,3 +358,9 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-03-03 txn "MrProzakc deposited €25.00"
+  timestamp: "2019-03-03 17:44:02.011310"
+  type: "deposit"
+  Liabilities:Bar:Members:Mircea  -25.00 EUR
+  Assets:Cash:Bar                  25.00 EUR
+
