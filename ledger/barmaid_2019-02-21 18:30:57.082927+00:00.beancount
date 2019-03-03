@@ -388,3 +388,13 @@
   Liabilities:Bar:Members:Mircea   1.00 EUR      
   Income:Bar                      -1.00 EUR      
 
+2019-03-03 txn "MrProzakc bought 2 items for €2.60"
+  timestamp: "2019-03-03 19:42:01.744432"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 VITAMALZ
+  Liabilities:Bar:Members:Mircea      1 VITAMALZ
+  Assets:Inventory:Bar               -1 TWIX    
+  Liabilities:Bar:Members:Mircea      1 TWIX    
+  Liabilities:Bar:Members:Mircea   2.60 EUR     
+  Income:Bar                      -2.60 EUR     
+
