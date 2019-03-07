@@ -86,3 +86,9 @@
   Liabilities:Bar:Members:Enzian   5.00 EUR      
   Income:Bar                      -5.00 EUR      
 
+2019-03-07 txn "Enzian deposited €3.50"
+  timestamp: "2019-03-07 19:38:34.673736"
+  type: "deposit"
+  Liabilities:Bar:Members:Enzian  -3.50 EUR
+  Assets:Cash:Bar                  3.50 EUR
+
