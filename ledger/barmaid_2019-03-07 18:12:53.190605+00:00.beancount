@@ -66,3 +66,11 @@
   Liabilities:Bar:Members:Bertrand   0.60 EUR     
   Income:Bar                        -0.60 EUR     
 
+2019-03-07 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-03-07 19:35:27.988523"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
