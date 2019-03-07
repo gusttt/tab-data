@@ -164,3 +164,9 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
 
+2019-03-07 txn "Joris gave Sasja a gift of €12.40"
+  timestamp: "2019-03-07 21:22:18.419329"
+  type: "transfer"
+  Liabilities:Bar:Members:Joris   12.40 EUR
+  Liabilities:Bar:Members:Sasja  -12.40 EUR
+
