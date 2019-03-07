@@ -92,3 +92,13 @@
   Liabilities:Bar:Members:Enzian  -3.50 EUR
   Assets:Cash:Bar                  3.50 EUR
 
+2019-03-07 txn "Els bought 2 items for €2.10"
+  timestamp: "2019-03-07 19:51:58.594910"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Assets:Inventory:Bar            -1 KITKAT     
+  Liabilities:Bar:Members:Els      1 KITKAT     
+  Liabilities:Bar:Members:Els   2.10 EUR        
+  Income:Bar                   -2.10 EUR        
+
