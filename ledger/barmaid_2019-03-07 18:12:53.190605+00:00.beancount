@@ -170,3 +170,11 @@
   Liabilities:Bar:Members:Joris   12.40 EUR
   Liabilities:Bar:Members:Sasja  -12.40 EUR
 
+2019-03-07 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2019-03-07 21:29:06.783768"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Liabilities:Bar:Members:Bloemist   0.60 EUR 
+  Income:Bar                        -0.60 EUR 
+
