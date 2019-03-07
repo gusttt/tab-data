@@ -120,3 +120,13 @@
   Liabilities:Bar:Members:Joris   2.10 EUR      
   Income:Bar                     -2.10 EUR      
 
+2019-03-07 txn "Sasja bought 2 items for €2.60"
+  timestamp: "2019-03-07 20:32:56.465086"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Sasja      1 SNICKERS
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
