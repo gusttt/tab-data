@@ -48,3 +48,13 @@
   Liabilities:Bar:Members:Enzian   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2019-03-07 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2019-03-07 19:25:17.026509"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICETEA
+  Assets:Cash:Bar           1 ICETEA
+  Assets:Inventory:Bar     -1 COKE  
+  Assets:Cash:Bar           1 COKE  
+  Assets:Cash:Bar        3.00 EUR   
+  Income:Bar            -3.00 EUR   
+
