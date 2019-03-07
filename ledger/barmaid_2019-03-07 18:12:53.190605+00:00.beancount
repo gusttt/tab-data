@@ -1,0 +1,8 @@
+2019-03-07 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2019-03-07 18:12:53.155043"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
