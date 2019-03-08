@@ -1,0 +1,6 @@
+2019-03-08 txn "Els deposited €100.00"
+  timestamp: "2019-03-08 17:31:52.378199"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -100.00 EUR
+  Assets:Cash:Bar               100.00 EUR
+
