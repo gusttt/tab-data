@@ -12,3 +12,11 @@
   Liabilities:Bar:Members:Thequux  -3.00 EUR
   Assets:Cash:Bar                   3.00 EUR
 
+2019-03-08 txn "TQ bought 1 items for €3.50"
+  timestamp: "2019-03-08 18:11:49.937747"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   3.50 EUR  
+  Income:Bar                       -3.50 EUR  
+
