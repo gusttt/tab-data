@@ -20,3 +20,13 @@
   Liabilities:Bar:Members:Thequux   3.50 EUR  
   Income:Bar                       -3.50 EUR  
 
+2019-03-08 txn "--CASH-- bought 2 items for €5.50"
+  timestamp: "2019-03-08 18:23:36.768648"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Inventory:Bar     -1 FRITZ  
+  Assets:Cash:Bar           1 FRITZ  
+  Assets:Cash:Bar        5.50 EUR    
+  Income:Bar            -5.50 EUR    
+
