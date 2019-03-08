@@ -4,3 +4,9 @@
   Liabilities:Bar:Members:Els  -100.00 EUR
   Assets:Cash:Bar               100.00 EUR
 
+2019-03-08 txn "Els deposited €-1.00"
+  timestamp: "2019-03-08 17:33:02.469923"
+  type: "deposit"
+  Liabilities:Bar:Members:Els   1.00 EUR
+  Assets:Cash:Bar              -1.00 EUR
+
