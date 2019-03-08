@@ -220,3 +220,11 @@
   Assets:Cash:Bar        5.00 EUR        
   Income:Bar            -5.00 EUR        
 
+2019-03-08 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2019-03-08 21:50:01.617374"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MNM
+  Assets:Cash:Bar           1 MNM
+  Assets:Cash:Bar        0.90 EUR
+  Income:Bar            -0.90 EUR
+
