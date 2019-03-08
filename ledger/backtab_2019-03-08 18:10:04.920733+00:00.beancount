@@ -244,3 +244,11 @@
   Assets:Cash:Bar        2.50 EUR    
   Income:Bar            -2.50 EUR    
 
+2019-03-08 txn "--CASH-- bought 1 items for €0.50"
+  timestamp: "2019-03-08 21:57:35.193325"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 POPCORN
+  Assets:Cash:Bar           1 POPCORN
+  Assets:Cash:Bar        0.50 EUR    
+  Income:Bar            -0.50 EUR    
+
