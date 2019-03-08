@@ -252,3 +252,13 @@
   Assets:Cash:Bar        0.50 EUR    
   Income:Bar            -0.50 EUR    
 
+2019-03-08 txn "Els bought 2 items for €3.40"
+  timestamp: "2019-03-08 22:01:25.173870"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Assets:Inventory:Bar            -1 SNACK      
+  Liabilities:Bar:Members:Els      1 SNACK      
+  Liabilities:Bar:Members:Els   3.40 EUR        
+  Income:Bar                   -3.40 EUR        
+
