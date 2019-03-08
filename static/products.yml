@@ -56,21 +56,31 @@
   event_price: 3.00
   category: drink
   currency: CMCOLA
-- name : "Winter Mate"
+- name : Club Mate Winter
   price: 2.00
   event_price: 3.00
   category: drink
   currency: WINTER_MATE
+- name: Flora Power
+  price: 2.00
+  event_price: 3.00
+  category: drink
+  currency: FLORA
 - name : "Vitamalz"
   price: 2.00
-  event_price: 2.00
+  event_price: 3.00
   category: drink
   currency: VITAMALZ
 
 # plain drinks
-- name: Water
+- name: Water (glass)
   price: 0.50
-  event_price: 0.75
+  event_price: 0.50
+  currency: WATER_GLASS
+  category: drink
+- name: Water (bottle)
+  price: 0.75
+  event_price: 1.00
   currency: WATER
   category: drink
 - name: Tea
