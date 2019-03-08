@@ -1,0 +1,8 @@
+2019-03-08 txn "TQ bought 1 items for €3.00"
+  timestamp: "2019-03-08 18:10:04.909035"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
