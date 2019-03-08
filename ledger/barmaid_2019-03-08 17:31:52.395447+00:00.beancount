@@ -10,3 +10,11 @@
   Liabilities:Bar:Members:Els   1.00 EUR
   Assets:Cash:Bar              -1.00 EUR
 
+2019-03-08 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-03-08 17:35:24.443031"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   0.90 EUR  
+  Income:Bar                   -0.90 EUR  
+
