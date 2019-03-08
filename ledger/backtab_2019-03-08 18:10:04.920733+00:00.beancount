@@ -262,3 +262,11 @@
   Liabilities:Bar:Members:Els   3.40 EUR        
   Income:Bar                   -3.40 EUR        
 
+2019-03-08 txn "Merlijn bought 1 items for €0.90"
+  timestamp: "2019-03-08 22:02:03.358697"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MNM
+  Liabilities:Bar:Members:Merlijn      1 MNM
+  Liabilities:Bar:Members:Merlijn   0.90 EUR
+  Income:Bar                       -0.90 EUR
+
