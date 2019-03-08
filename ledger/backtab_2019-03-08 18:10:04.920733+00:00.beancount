@@ -6,3 +6,9 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2019-03-08 txn "TQ deposited €3.00"
+  timestamp: "2019-03-08 18:11:34.594192"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -3.00 EUR
+  Assets:Cash:Bar                   3.00 EUR
+
