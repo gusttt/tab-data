@@ -72,3 +72,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR
   Income:Bar                        -0.60 EUR
 
+2019-03-10 txn "TQ bought 1 items for €2.50"
+  timestamp: "2019-03-10 19:44:39.574557"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
