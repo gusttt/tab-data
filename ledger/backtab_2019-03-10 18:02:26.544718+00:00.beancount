@@ -120,3 +120,11 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
 
+2019-03-10 txn "Bertrand bought 1 items for €1.50"
+  timestamp: "2019-03-10 21:02:46.095168"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bertrand      1 ICETEA
+  Liabilities:Bar:Members:Bertrand   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
