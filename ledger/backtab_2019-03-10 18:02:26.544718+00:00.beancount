@@ -46,3 +46,13 @@
   Liabilities:Bar:Members:Sasja   3.10 EUR     
   Income:Bar                     -3.10 EUR     
 
+2019-03-10 txn "MrProzakc bought 2 items for €2.60"
+  timestamp: "2019-03-10 19:10:33.986976"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMRED
+  Liabilities:Bar:Members:Mircea      1 CMRED
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Mircea      1 SNACK
+  Liabilities:Bar:Members:Mircea   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
