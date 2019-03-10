@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Mircea   2.60 EUR  
   Income:Bar                      -2.60 EUR  
 
+2019-03-10 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-03-10 19:19:34.761302"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
