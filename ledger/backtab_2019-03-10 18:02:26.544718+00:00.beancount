@@ -216,3 +216,9 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-03-13 txn "Evils gave Sasja a gift of €7.00"
+  timestamp: "2019-03-13 18:35:27.914011"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   7.00 EUR
+  Liabilities:Bar:Members:Sasja  -7.00 EUR
+
