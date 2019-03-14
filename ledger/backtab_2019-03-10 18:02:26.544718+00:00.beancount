@@ -286,3 +286,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2019-03-14 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-03-14 19:57:16.532336"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
