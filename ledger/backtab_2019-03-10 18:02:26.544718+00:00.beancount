@@ -600,3 +600,11 @@
   Assets:Cash:Bar        2.10 EUR   
   Income:Bar            -2.10 EUR   
 
+2019-03-21 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-03-21 21:39:06.945523"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
