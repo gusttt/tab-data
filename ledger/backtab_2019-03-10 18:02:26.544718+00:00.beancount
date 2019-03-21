@@ -590,3 +590,13 @@
   Liabilities:Bar:Members:Els   2.10 EUR        
   Income:Bar                   -2.10 EUR        
 
+2019-03-21 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-03-21 21:24:17.799458"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FANTA 
+  Assets:Cash:Bar           1 FANTA 
+  Assets:Inventory:Bar     -1 KITKAT
+  Assets:Cash:Bar           1 KITKAT
+  Assets:Cash:Bar        2.10 EUR   
+  Income:Bar            -2.10 EUR   
+
