@@ -580,3 +580,13 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2019-03-21 txn "Els bought 2 items for €2.10"
+  timestamp: "2019-03-21 21:23:07.522209"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT     
+  Liabilities:Bar:Members:Els      1 KITKAT     
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els   2.10 EUR        
+  Income:Bar                   -2.10 EUR        
+
