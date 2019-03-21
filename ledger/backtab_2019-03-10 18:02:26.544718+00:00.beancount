@@ -546,3 +546,11 @@
   Liabilities:Bar:Members:Joris   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-03-21 txn "MrProzakc bought 1 items for €2.00"
+  timestamp: "2019-03-21 20:36:31.784004"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMRED
+  Liabilities:Bar:Members:Mircea      1 CMRED
+  Liabilities:Bar:Members:Mircea   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
