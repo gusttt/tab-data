@@ -750,3 +750,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2019-03-28 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2019-03-28 22:09:42.878690"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
