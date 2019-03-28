@@ -632,3 +632,9 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-03-28 txn "qwaxys deposited €10.00"
+  timestamp: "2019-03-28 17:29:41.725445"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
