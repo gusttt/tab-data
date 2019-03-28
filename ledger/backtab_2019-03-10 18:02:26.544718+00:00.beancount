@@ -680,3 +680,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2019-03-28 txn "TQ gave ruleant a gift of €11.46"
+  timestamp: "2019-03-28 19:48:43.839533"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   11.46 EUR
+  Liabilities:Bar:Members:Ruleant  -11.46 EUR
+
