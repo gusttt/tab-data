@@ -656,3 +656,11 @@
   Liabilities:Bar:Members:Elvis   1.52 EUR
   Assets:Cash:Bar                -1.52 EUR
 
+2019-03-28 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2019-03-28 18:12:02.625014"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
