@@ -686,3 +686,11 @@
   Liabilities:Bar:Members:Thequux   11.46 EUR
   Liabilities:Bar:Members:Ruleant  -11.46 EUR
 
+2019-03-28 txn "Koen bought 2 items for €3.00"
+  timestamp: "2019-03-28 19:54:59.223828"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+  Liabilities:Bar:Members:Koen   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
