@@ -736,3 +736,9 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-03-28 txn "Koen deposited €6.00"
+  timestamp: "2019-03-28 22:01:32.943800"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -6.00 EUR
+  Assets:Cash:Bar                6.00 EUR
+
