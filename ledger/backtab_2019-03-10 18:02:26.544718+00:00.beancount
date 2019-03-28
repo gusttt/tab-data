@@ -742,3 +742,11 @@
   Liabilities:Bar:Members:Koen  -6.00 EUR
   Assets:Cash:Bar                6.00 EUR
 
+2019-03-28 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2019-03-28 22:05:45.623197"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Bart      1 COKE
+  Liabilities:Bar:Members:Bart   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
