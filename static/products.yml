@@ -162,6 +162,11 @@
   event_price: 0.50
   currency: POPCORN
   category: food
+- name: Bounty
+  price: 0.60
+  event_price: 0.90
+  currency: BOUNTY
+  category: food
 
 # frozen goods
 - name: Ice Cream
