@@ -167,6 +167,11 @@
   event_price: 0.90
   currency: BOUNTY
   category: food
+- name: Lion
+  price: 0.60
+  event_price: 0.90
+  currency: LION
+  category: food
 
 # frozen goods
 - name: Ice Cream
