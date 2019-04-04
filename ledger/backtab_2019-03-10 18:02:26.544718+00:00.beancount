@@ -926,3 +926,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-04-04 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2019-04-04 19:15:45.995018"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:Thomas      1 ICETEA
+  Liabilities:Bar:Members:Thomas   1.50 EUR   
+  Income:Bar                      -1.50 EUR   
+
