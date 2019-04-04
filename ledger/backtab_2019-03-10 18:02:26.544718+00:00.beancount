@@ -900,3 +900,13 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR    
   Income:Bar                       -3.00 EUR    
 
+2019-04-04 txn "MrProzakc bought 2 items for €2.60"
+  timestamp: "2019-04-04 18:35:38.821466"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ   
+  Liabilities:Bar:Members:Mircea      1 FRITZ   
+  Assets:Inventory:Bar               -1 SNICKERS
+  Liabilities:Bar:Members:Mircea      1 SNICKERS
+  Liabilities:Bar:Members:Mircea   2.60 EUR     
+  Income:Bar                      -2.60 EUR     
+
