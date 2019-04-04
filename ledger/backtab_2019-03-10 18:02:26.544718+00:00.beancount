@@ -956,3 +956,13 @@
   Liabilities:Bar:Members:Maja  -3.50 EUR
   Assets:Cash:Bar                3.50 EUR
 
+2019-04-04 txn "Maja bought 2 items for €2.60"
+  timestamp: "2019-04-04 19:36:03.997562"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MNM   
+  Liabilities:Bar:Members:Maja      1 MNM   
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
