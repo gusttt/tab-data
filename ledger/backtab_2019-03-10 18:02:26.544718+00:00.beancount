@@ -882,3 +882,13 @@
   Liabilities:Bar:Members:Maja   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2019-04-04 txn "Stefaan bought 2 items for €2.10"
+  timestamp: "2019-04-04 18:33:30.526955"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA 
+  Liabilities:Bar:Members:Stefaan      1 FANTA 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   2.10 EUR   
+  Income:Bar                       -2.10 EUR   
+
