@@ -1170,3 +1170,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2019-04-07 txn "MrProzakc bought 1 items for €2.50"
+  timestamp: "2019-04-07 18:08:25.313352"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Mircea      1 DUVEL
+  Liabilities:Bar:Members:Mircea   2.50 EUR  
+  Income:Bar                      -2.50 EUR  
+
