@@ -1226,3 +1226,13 @@
   Liabilities:Bar:Members:Mircea   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2019-04-07 txn "Gust bought 2 items for €3.00"
+  timestamp: "2019-04-07 19:24:53.590348"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE     
+  Liabilities:Bar:Members:Gust      1 COKE     
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Gust      1 COKE_ZERO
+  Liabilities:Bar:Members:Gust   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
