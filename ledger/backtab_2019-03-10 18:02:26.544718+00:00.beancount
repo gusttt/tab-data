@@ -1236,3 +1236,9 @@
   Liabilities:Bar:Members:Gust   3.00 EUR      
   Income:Bar                    -3.00 EUR      
 
+2019-04-07 txn "Alex deposited €3.00"
+  timestamp: "2019-04-07 19:27:22.769100"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -3.00 EUR
+  Assets:Cash:Bar                3.00 EUR
+
