@@ -1466,3 +1466,9 @@
   Liabilities:Bar:Members:Elvis     18.00 EUR
   Liabilities:Bar:Members:Thequux  -18.00 EUR
 
+2019-04-09 txn "Koen gave TQ a gift of €5.00"
+  timestamp: "2019-04-09 23:35:18.954336"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen      5.00 EUR
+  Liabilities:Bar:Members:Thequux  -5.00 EUR
+
