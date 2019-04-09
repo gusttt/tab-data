@@ -1428,3 +1428,11 @@
   Liabilities:Bar:Members:Koen  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2019-04-09 txn "TQ bought 1 items for €1.50"
+  timestamp: "2019-04-09 21:20:28.354902"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Thequux      1 ICETEA
+  Liabilities:Bar:Members:Thequux   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
