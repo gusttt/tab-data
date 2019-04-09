@@ -1368,3 +1368,9 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-04-09 txn "Joris gave Sasja a gift of €4.50"
+  timestamp: "2019-04-09 13:07:40.100234"
+  type: "transfer"
+  Liabilities:Bar:Members:Joris   4.50 EUR
+  Liabilities:Bar:Members:Sasja  -4.50 EUR
+
