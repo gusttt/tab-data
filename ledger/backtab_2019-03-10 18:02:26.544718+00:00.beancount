@@ -1478,3 +1478,11 @@
   Liabilities:Bar:Members:Sasja     5.00 EUR
   Liabilities:Bar:Members:Thequux  -5.00 EUR
 
+2019-04-10 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-04-10 07:05:33.712632"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
