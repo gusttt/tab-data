@@ -1542,3 +1542,11 @@
   Liabilities:Bar:Members:Joris   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2019-04-11 txn "Koen bought 2 items for €3.00"
+  timestamp: "2019-04-11 20:22:29.020135"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+  Liabilities:Bar:Members:Koen   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
