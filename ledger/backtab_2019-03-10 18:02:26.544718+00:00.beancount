@@ -1586,3 +1586,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2019-04-11 txn "Ewaut bought 2 items for €2.10"
+  timestamp: "2019-04-11 22:34:43.730011"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA  
+  Liabilities:Bar:Members:Ewaut      1 ICETEA  
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Ewaut      1 SNICKERS
+  Liabilities:Bar:Members:Ewaut   2.10 EUR     
+  Income:Bar                     -2.10 EUR     
+
