@@ -1550,3 +1550,9 @@
   Liabilities:Bar:Members:Koen   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2019-04-11 txn "Evils gave Koen a gift of €9.20"
+  timestamp: "2019-04-11 20:45:01.882137"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   9.20 EUR
+  Liabilities:Bar:Members:Koen   -9.20 EUR
+
