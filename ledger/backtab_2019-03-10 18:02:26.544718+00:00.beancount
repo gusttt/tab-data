@@ -1578,3 +1578,11 @@
   Liabilities:Bar:Members:Bloemist  -5.00 EUR
   Assets:Cash:Bar                    5.00 EUR
 
+2019-04-11 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-04-11 22:22:12.058981"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
