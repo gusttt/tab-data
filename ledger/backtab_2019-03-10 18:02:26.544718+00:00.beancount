@@ -1684,3 +1684,13 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2019-04-14 txn "Els bought 2 items for €4.00"
+  timestamp: "2019-04-14 18:15:22.192663"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 VITAMALZ
+  Liabilities:Bar:Members:Els      1 VITAMALZ
+  Assets:Inventory:Bar            -1 FRITZ   
+  Liabilities:Bar:Members:Els      1 FRITZ   
+  Liabilities:Bar:Members:Els   4.00 EUR     
+  Income:Bar                   -4.00 EUR     
+
