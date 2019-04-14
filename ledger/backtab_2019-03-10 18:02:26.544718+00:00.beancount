@@ -1710,3 +1710,13 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR        
   Income:Bar                     -1.50 EUR        
 
+2019-04-14 txn "Els bought 2 items for €2.10"
+  timestamp: "2019-04-14 19:25:04.940126"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Assets:Inventory:Bar            -1 SNICKERS   
+  Liabilities:Bar:Members:Els      1 SNICKERS   
+  Liabilities:Bar:Members:Els   2.10 EUR        
+  Income:Bar                   -2.10 EUR        
+
