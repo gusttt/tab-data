@@ -1736,3 +1736,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2019-04-14 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-04-14 20:19:47.658779"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
