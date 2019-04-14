@@ -1702,3 +1702,11 @@
   Liabilities:Bar:Members:Gust   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2019-04-14 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-04-14 19:23:44.038266"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Sasja      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Sasja   1.50 EUR        
+  Income:Bar                     -1.50 EUR        
+
