@@ -1694,3 +1694,11 @@
   Liabilities:Bar:Members:Els   4.00 EUR     
   Income:Bar                   -4.00 EUR     
 
+2019-04-14 txn "Gust bought 1 items for €1.50"
+  timestamp: "2019-04-14 18:45:46.572443"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Gust      1 COKE
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
