@@ -1,0 +1,8 @@
+2019-04-17 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-04-17 21:41:23.574888"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
