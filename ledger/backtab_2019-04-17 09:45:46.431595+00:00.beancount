@@ -1,0 +1,8 @@
+2019-04-17 txn "Gust bought 2 items for €4.00"
+  timestamp: "2019-04-17 09:45:46.423190"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CMCOLA
+  Liabilities:Bar:Members:Gust      2 CMCOLA
+  Liabilities:Bar:Members:Gust   4.00 EUR   
+  Income:Bar                    -4.00 EUR   
+
