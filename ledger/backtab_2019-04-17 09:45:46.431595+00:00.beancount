@@ -6,3 +6,13 @@
   Liabilities:Bar:Members:Gust   4.00 EUR   
   Income:Bar                    -4.00 EUR   
 
+2019-04-17 txn "Sasja bought 2 items for €4.00"
+  timestamp: "2019-04-17 17:25:37.783697"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM      
+  Liabilities:Bar:Members:Sasja      1 CM      
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   4.00 EUR     
+  Income:Bar                     -4.00 EUR     
+
