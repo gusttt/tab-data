@@ -84,3 +84,11 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-04-18 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-04-18 23:37:10.547735"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
