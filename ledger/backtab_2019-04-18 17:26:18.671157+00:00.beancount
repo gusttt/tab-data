@@ -6,3 +6,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-04-18 txn "Koen bought 2 items for €1.35"
+  timestamp: "2019-04-18 17:29:23.630278"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER 
+  Liabilities:Bar:Members:Koen      1 WATER 
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Koen      1 KITKAT
+  Liabilities:Bar:Members:Koen   1.35 EUR   
+  Income:Bar                    -1.35 EUR   
+
