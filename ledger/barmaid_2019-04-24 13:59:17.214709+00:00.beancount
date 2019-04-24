@@ -78,3 +78,9 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2019-04-24 txn "Bloemist deposited €100.00"
+  timestamp: "2019-04-24 18:52:29.026472"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -100.00 EUR
+  Assets:Cash:Bar                    100.00 EUR
+
