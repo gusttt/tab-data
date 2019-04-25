@@ -48,3 +48,11 @@
   Liabilities:Bar:Members:Gust   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2019-04-25 txn "Gust bought 1 items for €1.50"
+  timestamp: "2019-04-25 20:16:38.120610"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Gust      1 JUPILER
+  Liabilities:Bar:Members:Gust   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
