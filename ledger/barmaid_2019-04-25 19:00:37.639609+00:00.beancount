@@ -86,3 +86,11 @@
   Liabilities:Bar:Members:Merlijn   2.95 EUR
   Liabilities:Bar:Members:Elvis    -2.95 EUR
 
+2019-04-25 txn "Koen bought 1 items for €0.75"
+  timestamp: "2019-04-25 21:17:56.050338"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Koen      1 WATER
+  Liabilities:Bar:Members:Koen   0.75 EUR  
+  Income:Bar                    -0.75 EUR  
+
