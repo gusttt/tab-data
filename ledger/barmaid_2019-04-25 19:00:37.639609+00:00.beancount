@@ -94,3 +94,11 @@
   Liabilities:Bar:Members:Koen   0.75 EUR  
   Income:Bar                    -0.75 EUR  
 
+2019-04-25 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-25 21:23:58.420074"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
