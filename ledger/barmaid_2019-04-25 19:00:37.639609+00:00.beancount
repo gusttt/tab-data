@@ -1,0 +1,8 @@
+2019-04-25 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-04-25 19:00:37.609545"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
