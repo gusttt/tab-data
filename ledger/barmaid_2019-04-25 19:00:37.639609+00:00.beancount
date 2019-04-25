@@ -64,3 +64,11 @@
   Liabilities:Bar:Members:Gust   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2019-04-25 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-04-25 20:34:19.288035"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
