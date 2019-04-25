@@ -8,3 +8,11 @@
   Liabilities:Bar:Members:Merlijn   4.60 EUR   
   Income:Bar                       -4.60 EUR   
 
+2019-04-25 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-04-25 18:16:04.604357"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Bloemist      1 FANTA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR  
+  Income:Bar                        -1.50 EUR  
+
