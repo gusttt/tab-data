@@ -38,3 +38,11 @@
   Liabilities:Bar:Members:Gust   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-04-25 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-04-25 14:02:02.010922"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Sasja      1 FRITZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
