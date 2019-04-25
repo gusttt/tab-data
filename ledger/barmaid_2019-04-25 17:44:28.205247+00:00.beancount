@@ -1,0 +1,10 @@
+2019-04-25 txn "Merlijn bought 3 items for €4.60"
+  timestamp: "2019-04-25 17:44:28.170843"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 FRITZ 
+  Liabilities:Bar:Members:Merlijn      2 FRITZ 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Merlijn      1 KITKAT
+  Liabilities:Bar:Members:Merlijn   4.60 EUR   
+  Income:Bar                       -4.60 EUR   
+
