@@ -22,3 +22,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-04-25 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-04-25 19:28:45.610018"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Inventory:Bar     -1 KITKAT   
+  Assets:Cash:Bar           1 KITKAT   
+  Assets:Cash:Bar        2.10 EUR      
+  Income:Bar            -2.10 EUR      
+
