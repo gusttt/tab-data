@@ -16,3 +16,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR  
   Income:Bar                        -1.50 EUR  
 
+2019-04-25 txn "MrProzakc bought 2 items for €1.35"
+  timestamp: "2019-04-25 18:21:51.392022"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNICKERS
+  Liabilities:Bar:Members:Mircea      1 SNICKERS
+  Assets:Inventory:Bar               -1 WATER   
+  Liabilities:Bar:Members:Mircea      1 WATER   
+  Liabilities:Bar:Members:Mircea   1.35 EUR     
+  Income:Bar                      -1.35 EUR     
+
