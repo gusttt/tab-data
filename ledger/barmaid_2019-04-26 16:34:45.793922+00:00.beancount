@@ -380,3 +380,9 @@
   Liabilities:Bar:Members:Bertrand   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2019-04-26 txn "qwaxys deposited €5.00"
+  timestamp: "2019-04-26 20:31:41.981442"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -5.00 EUR
+  Assets:Cash:Bar                5.00 EUR
+
