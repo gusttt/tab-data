@@ -412,3 +412,11 @@
   Liabilities:Bar:Members:Bloemist   5.50 EUR 
   Income:Bar                        -5.50 EUR 
 
+2019-04-26 txn "TQ bought 1 items for €3.00"
+  timestamp: "2019-04-26 21:38:37.063834"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
