@@ -50,3 +50,9 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2019-04-26 txn "Merlijn deposited €4.00"
+  timestamp: "2019-04-26 17:37:00.118741"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn  -4.00 EUR
+  Assets:Cash:Bar                   4.00 EUR
+
