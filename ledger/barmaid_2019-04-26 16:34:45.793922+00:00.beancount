@@ -266,3 +266,11 @@
   Liabilities:Bar:Members:Bertrand   7.50 EUR    
   Income:Bar                        -7.50 EUR    
 
+2019-04-26 txn "Bertrand bought 2 items for €5.00"
+  timestamp: "2019-04-26 19:38:52.131263"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 COKE
+  Liabilities:Bar:Members:Bertrand      2 COKE
+  Liabilities:Bar:Members:Bertrand   5.00 EUR 
+  Income:Bar                        -5.00 EUR 
+
