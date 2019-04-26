@@ -78,3 +78,9 @@
   Liabilities:Bar:Members:Ruleant   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2019-04-26 txn "Alex deposited €10.00"
+  timestamp: "2019-04-26 17:48:58.250392"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
