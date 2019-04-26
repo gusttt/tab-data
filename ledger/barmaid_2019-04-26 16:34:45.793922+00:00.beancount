@@ -532,3 +532,11 @@
   Liabilities:Bar:Members:Folkaholic   2.50 EUR    
   Income:Bar                          -2.50 EUR    
 
+2019-04-26 txn "Els bought 2 items for €1.80"
+  timestamp: "2019-04-26 23:14:00.623995"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 CHIP
+  Liabilities:Bar:Members:Els      2 CHIP
+  Liabilities:Bar:Members:Els   1.80 EUR 
+  Income:Bar                   -1.80 EUR 
+
