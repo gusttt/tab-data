@@ -364,3 +364,11 @@
   Liabilities:Bar:Members:Bertrand   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2019-04-26 txn "Merlijn bought 1 items for €3.00"
+  timestamp: "2019-04-26 20:22:07.854789"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Merlijn      1 CM 
+  Liabilities:Bar:Members:Merlijn   3.00 EUR
+  Income:Bar                       -3.00 EUR
+
