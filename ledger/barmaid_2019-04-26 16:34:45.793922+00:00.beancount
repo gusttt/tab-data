@@ -500,3 +500,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2019-04-26 txn "Sasja bought 1 items for €3.00"
+  timestamp: "2019-04-26 22:52:10.672709"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Sasja      1 CMRED
+  Liabilities:Bar:Members:Sasja   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
