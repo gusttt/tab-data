@@ -298,3 +298,19 @@
   Liabilities:Bar:Members:Bart   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2019-04-26 txn "Bertrand bought 6 items for €17.50"
+  timestamp: "2019-04-26 20:01:14.984969"
+  type: "purchase"
+  Assets:Inventory:Bar                  -1 DUVEL      
+  Liabilities:Bar:Members:Bertrand       1 DUVEL      
+  Assets:Inventory:Bar                  -1 JUPILER    
+  Liabilities:Bar:Members:Bertrand       1 JUPILER    
+  Assets:Inventory:Bar                  -2 FRITZ      
+  Liabilities:Bar:Members:Bertrand       2 FRITZ      
+  Assets:Inventory:Bar                  -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Bertrand       1 ICETEA_ZERO
+  Assets:Inventory:Bar                  -1 CMRED      
+  Liabilities:Bar:Members:Bertrand       1 CMRED      
+  Liabilities:Bar:Members:Bertrand   17.50 EUR        
+  Income:Bar                        -17.50 EUR        
+
