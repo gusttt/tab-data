@@ -446,3 +446,11 @@
   Liabilities:Bar:Members:Bart   9.50 EUR        
   Income:Bar                    -9.50 EUR        
 
+2019-04-26 txn "Merlijn bought 1 items for €0.90"
+  timestamp: "2019-04-26 21:57:17.570463"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Merlijn      1 KITKAT
+  Liabilities:Bar:Members:Merlijn   0.90 EUR   
+  Income:Bar                       -0.90 EUR   
+
