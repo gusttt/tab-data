@@ -282,3 +282,11 @@
   Liabilities:Bar:Members:Ruleant   6.00 EUR   
   Income:Bar                       -6.00 EUR   
 
+2019-04-26 txn "Bloemist bought 2 items for €5.00"
+  timestamp: "2019-04-26 19:54:25.539478"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 JUPILER
+  Liabilities:Bar:Members:Bloemist      2 JUPILER
+  Liabilities:Bar:Members:Bloemist   5.00 EUR    
+  Income:Bar                        -5.00 EUR    
+
