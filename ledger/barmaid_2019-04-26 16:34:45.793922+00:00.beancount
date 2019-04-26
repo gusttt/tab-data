@@ -462,3 +462,11 @@
   Liabilities:Bar:Members:Ruleant   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2019-04-26 txn "Koen bought 1 items for €2.50"
+  timestamp: "2019-04-26 22:03:53.447510"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   2.50 EUR    
+  Income:Bar                    -2.50 EUR    
+
