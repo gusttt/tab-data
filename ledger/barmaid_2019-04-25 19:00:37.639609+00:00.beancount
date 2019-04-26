@@ -172,3 +172,13 @@
   Liabilities:Bar:Members:Elvis   0.50 EUR        
   Income:Bar                     -0.50 EUR        
 
+2019-04-26 txn "Els bought 2 items for €3.50"
+  timestamp: "2019-04-26 12:00:07.599192"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM         
+  Liabilities:Bar:Members:Els      1 CM         
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els   3.50 EUR        
+  Income:Bar                   -3.50 EUR        
+
