@@ -108,3 +108,11 @@
   Liabilities:Bar:Members:Bart   2.50 EUR    
   Income:Bar                    -2.50 EUR    
 
+2019-04-26 txn "Bertrand bought 1 items for €3.00"
+  timestamp: "2019-04-26 18:06:58.052977"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Bertrand      1 FRITZ
+  Liabilities:Bar:Members:Bertrand   3.00 EUR  
+  Income:Bar                        -3.00 EUR  
+
