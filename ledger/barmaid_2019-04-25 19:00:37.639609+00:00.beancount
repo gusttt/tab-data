@@ -198,3 +198,11 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-04-26 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-04-26 13:28:25.334434"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.60 EUR   
+  Income:Bar                   -0.60 EUR   
+
