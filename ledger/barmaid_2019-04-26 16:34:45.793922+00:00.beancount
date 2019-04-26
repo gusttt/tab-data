@@ -194,3 +194,13 @@
   Liabilities:Bar:Members:Alex   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2019-04-26 txn "Bertrand bought 2 items for €5.00"
+  timestamp: "2019-04-26 18:50:07.124525"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE_ZERO
+  Liabilities:Bar:Members:Bertrand      1 COKE_ZERO
+  Assets:Inventory:Bar                 -1 JUPILER  
+  Liabilities:Bar:Members:Bertrand      1 JUPILER  
+  Liabilities:Bar:Members:Bertrand   5.00 EUR      
+  Income:Bar                        -5.00 EUR      
+
