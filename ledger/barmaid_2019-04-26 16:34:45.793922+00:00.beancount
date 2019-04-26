@@ -484,3 +484,11 @@
   Liabilities:Bar:Members:Koen  -6.00 EUR
   Assets:Cash:Bar                6.00 EUR
 
+2019-04-26 txn "TQ bought 1 items for €3.00"
+  timestamp: "2019-04-26 22:29:44.635668"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMRED
+  Liabilities:Bar:Members:Thequux      1 CMRED
+  Liabilities:Bar:Members:Thequux   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
