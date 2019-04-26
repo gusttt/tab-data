@@ -132,3 +132,11 @@
   Liabilities:Bar:Members:On8wr   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2019-04-26 txn "Bloemist bought 1 items for €0.90"
+  timestamp: "2019-04-26 18:24:00.846200"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Bloemist      1 CHIP
+  Liabilities:Bar:Members:Bloemist   0.90 EUR 
+  Income:Bar                        -0.90 EUR 
+
