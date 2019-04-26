@@ -28,3 +28,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2019-04-26 txn "On8wr bought 1 items for €3.00"
+  timestamp: "2019-04-26 17:04:59.800250"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Liabilities:Bar:Members:On8wr   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
