@@ -508,3 +508,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2019-04-26 txn "Els bought 1 items for €1.00"
+  timestamp: "2019-04-26 22:53:12.020605"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   1.00 EUR  
+  Income:Bar                   -1.00 EUR  
+
