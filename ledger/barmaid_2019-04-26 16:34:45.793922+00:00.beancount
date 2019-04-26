@@ -274,3 +274,11 @@
   Liabilities:Bar:Members:Bertrand   5.00 EUR 
   Income:Bar                        -5.00 EUR 
 
+2019-04-26 txn "ruleant bought 1 items for €6.00"
+  timestamp: "2019-04-26 19:42:29.617918"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIMAY
+  Liabilities:Bar:Members:Ruleant      1 CHIMAY
+  Liabilities:Bar:Members:Ruleant   6.00 EUR   
+  Income:Bar                       -6.00 EUR   
+
