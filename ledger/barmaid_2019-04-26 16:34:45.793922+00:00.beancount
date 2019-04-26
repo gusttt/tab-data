@@ -332,3 +332,11 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2019-04-26 txn "Bertrand bought 1 items for €3.50"
+  timestamp: "2019-04-26 20:10:24.792989"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 DUVEL
+  Liabilities:Bar:Members:Bertrand      1 DUVEL
+  Liabilities:Bar:Members:Bertrand   3.50 EUR  
+  Income:Bar                        -3.50 EUR  
+
