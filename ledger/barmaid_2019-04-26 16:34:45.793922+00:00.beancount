@@ -92,3 +92,11 @@
   Liabilities:Bar:Members:Els   2.50 EUR        
   Income:Bar                   -2.50 EUR        
 
+2019-04-26 txn "Alex bought 1 items for €2.50"
+  timestamp: "2019-04-26 17:54:34.471984"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Alex      1 JUPILER
+  Liabilities:Bar:Members:Alex   2.50 EUR    
+  Income:Bar                    -2.50 EUR    
+
