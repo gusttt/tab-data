@@ -70,3 +70,11 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR     
   Income:Bar                     -3.00 EUR     
 
+2019-04-26 txn "ruleant bought 1 items for €2.50"
+  timestamp: "2019-04-26 17:48:31.453172"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
