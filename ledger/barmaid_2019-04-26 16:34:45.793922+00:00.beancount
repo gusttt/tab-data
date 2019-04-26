@@ -258,3 +258,11 @@
   Liabilities:Bar:Members:Bertrand   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2019-04-26 txn "Bertrand bought 3 items for €7.50"
+  timestamp: "2019-04-26 19:36:49.932365"
+  type: "purchase"
+  Assets:Inventory:Bar                 -3 JUPILER
+  Liabilities:Bar:Members:Bertrand      3 JUPILER
+  Liabilities:Bar:Members:Bertrand   7.50 EUR    
+  Income:Bar                        -7.50 EUR    
+
