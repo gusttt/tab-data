@@ -580,3 +580,11 @@
   Liabilities:Bar:Members:Els   1.00 EUR  
   Income:Bar                   -1.00 EUR  
 
+2019-04-27 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2019-04-27 08:36:05.347067"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Bart      1 CMRED
+  Liabilities:Bar:Members:Bart   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
