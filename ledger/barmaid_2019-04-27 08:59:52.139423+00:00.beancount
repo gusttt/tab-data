@@ -88,3 +88,11 @@
   Liabilities:Bar:Members:Els   2.50 EUR  
   Income:Bar                   -2.50 EUR  
 
+2019-04-27 txn "Evils bought 1 items for €3.00"
+  timestamp: "2019-04-27 13:15:03.998809"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
