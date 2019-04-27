@@ -308,3 +308,13 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2019-04-27 txn "Gust bought 2 items for €3.90"
+  timestamp: "2019-04-27 23:49:29.148657"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WINTER_MATE
+  Liabilities:Bar:Members:Gust      1 WINTER_MATE
+  Assets:Inventory:Bar             -1 CHIP       
+  Liabilities:Bar:Members:Gust      1 CHIP       
+  Liabilities:Bar:Members:Gust   3.90 EUR        
+  Income:Bar                    -3.90 EUR        
+
