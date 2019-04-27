@@ -96,3 +96,11 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2019-04-27 txn "Sasja bought 1 items for €1.00"
+  timestamp: "2019-04-27 13:31:36.826569"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Sasja      1 WATER
+  Liabilities:Bar:Members:Sasja   1.00 EUR  
+  Income:Bar                     -1.00 EUR  
+
