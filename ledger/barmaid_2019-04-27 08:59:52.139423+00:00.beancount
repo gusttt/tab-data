@@ -224,3 +224,11 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2019-04-27 txn "Merlijn bought 1 items for €3.00"
+  timestamp: "2019-04-27 19:30:22.803604"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Merlijn      1 FLORA
+  Liabilities:Bar:Members:Merlijn   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
