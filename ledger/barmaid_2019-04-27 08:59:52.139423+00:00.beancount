@@ -162,3 +162,11 @@
   Liabilities:Bar:Members:Superpumpie  -0.94 EUR
   Assets:Cash:Bar                       0.94 EUR
 
+2019-04-27 txn "Evils bought 1 items for €3.00"
+  timestamp: "2019-04-27 17:58:41.779574"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
