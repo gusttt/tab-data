@@ -194,3 +194,11 @@
   Liabilities:Bar:Members:Superpumpie   2.50 EUR  
   Income:Bar                           -2.50 EUR  
 
+2019-04-27 txn "Super​pumpie bought 1 items for €3.00"
+  timestamp: "2019-04-27 18:54:39.730642"
+  type: "purchase"
+  Assets:Inventory:Bar                    -1 VITAMALZ
+  Liabilities:Bar:Members:Superpumpie      1 VITAMALZ
+  Liabilities:Bar:Members:Superpumpie   3.00 EUR     
+  Income:Bar                           -3.00 EUR     
+
