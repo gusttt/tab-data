@@ -105,6 +105,11 @@
   event_price: 6.00
   currency: CHIMAY
   category: alcohol
+- name: Kriek
+  price: 1.50
+  event_price: 2.50
+  currency: KRIEK
+  category: alcohol
 
 # snacks
 - name: Other Snack
