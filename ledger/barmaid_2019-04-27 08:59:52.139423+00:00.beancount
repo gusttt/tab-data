@@ -42,3 +42,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR
   Income:Bar                        -3.00 EUR
 
+2019-04-27 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2019-04-27 09:57:13.828388"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Bart      1 CMRED
+  Liabilities:Bar:Members:Bart   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
