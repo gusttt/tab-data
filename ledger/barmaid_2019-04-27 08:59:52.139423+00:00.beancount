@@ -232,3 +232,11 @@
   Liabilities:Bar:Members:Merlijn   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2019-04-27 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2019-04-27 20:46:26.897544"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
