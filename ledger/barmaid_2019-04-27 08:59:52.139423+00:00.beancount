@@ -148,3 +148,11 @@
   Liabilities:Bar:Members:Alex   0.90 EUR 
   Income:Bar                    -0.90 EUR 
 
+2019-04-27 txn "Els bought 1 items for €1.00"
+  timestamp: "2019-04-27 16:55:37.465134"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   1.00 EUR  
+  Income:Bar                   -1.00 EUR  
+
