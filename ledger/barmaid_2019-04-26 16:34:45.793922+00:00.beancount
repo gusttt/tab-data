@@ -548,3 +548,11 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2019-04-27 txn "Folkaholic bought 1 items for €2.50"
+  timestamp: "2019-04-27 00:40:13.780264"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 ICETEA
+  Liabilities:Bar:Members:Folkaholic      1 ICETEA
+  Liabilities:Bar:Members:Folkaholic   2.50 EUR   
+  Income:Bar                          -2.50 EUR   
+
