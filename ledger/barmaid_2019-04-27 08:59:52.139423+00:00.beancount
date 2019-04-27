@@ -72,3 +72,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2019-04-27 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-04-27 12:47:40.513266"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 TWIX
+  Liabilities:Bar:Members:Els      1 TWIX
+  Liabilities:Bar:Members:Els   0.90 EUR 
+  Income:Bar                   -0.90 EUR 
+
