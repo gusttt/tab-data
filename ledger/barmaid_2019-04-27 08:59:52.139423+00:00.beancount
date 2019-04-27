@@ -20,3 +20,9 @@
   Liabilities:Bar:Members:Bart  -6.00 EUR
   Assets:Cash:Bar                6.00 EUR
 
+2019-04-27 txn "Sasja deposited €3.00"
+  timestamp: "2019-04-27 09:00:51.378204"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -3.00 EUR
+  Assets:Cash:Bar                 3.00 EUR
+
