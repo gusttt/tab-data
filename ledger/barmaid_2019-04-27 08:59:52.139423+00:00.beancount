@@ -14,3 +14,9 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2019-04-27 txn "qwaxys deposited €6.00"
+  timestamp: "2019-04-27 09:00:41.615103"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -6.00 EUR
+  Assets:Cash:Bar                6.00 EUR
+
