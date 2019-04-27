@@ -210,3 +210,9 @@
   Liabilities:Bar:Members:Alex   1.00 EUR  
   Income:Bar                    -1.00 EUR  
 
+2019-04-27 txn "Els deposited €50.00"
+  timestamp: "2019-04-27 19:26:48.784399"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -50.00 EUR
+  Assets:Cash:Bar               50.00 EUR
+
