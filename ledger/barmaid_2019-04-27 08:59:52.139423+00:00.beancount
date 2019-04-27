@@ -50,3 +50,11 @@
   Liabilities:Bar:Members:Bart   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2019-04-27 txn "Alex bought 1 items for €3.00"
+  timestamp: "2019-04-27 10:25:03.137088"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Alex      1 CMRED
+  Liabilities:Bar:Members:Alex   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
