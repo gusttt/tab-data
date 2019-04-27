@@ -264,3 +264,13 @@
   Liabilities:Bar:Members:Gust   3.00 EUR
   Income:Bar                    -3.00 EUR
 
+2019-04-27 txn "Bloemist bought 2 items for €3.90"
+  timestamp: "2019-04-27 22:58:52.153938"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Bloemist      1 FRITZ_ZERO
+  Assets:Inventory:Bar                 -1 MARS      
+  Liabilities:Bar:Members:Bloemist      1 MARS      
+  Liabilities:Bar:Members:Bloemist   3.90 EUR       
+  Income:Bar                        -3.90 EUR       
+
