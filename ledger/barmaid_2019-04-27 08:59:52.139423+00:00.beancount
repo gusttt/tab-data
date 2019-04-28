@@ -386,3 +386,13 @@
   Liabilities:Bar:Members:Sasja  -25.00 EUR
   Assets:Cash:Bar                 25.00 EUR
 
+2019-04-28 txn "On8wr bought 2 items for €1.90"
+  timestamp: "2019-04-28 01:27:01.019487"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:On8wr      1 KITKAT
+  Assets:Inventory:Bar              -1 WATER 
+  Liabilities:Bar:Members:On8wr      1 WATER 
+  Liabilities:Bar:Members:On8wr   1.90 EUR   
+  Income:Bar                     -1.90 EUR   
+
