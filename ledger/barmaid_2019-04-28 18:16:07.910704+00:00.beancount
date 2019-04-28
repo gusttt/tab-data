@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:On8wr   1.50 EUR  
   Income:Bar                     -1.50 EUR  
 
+2019-04-28 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-04-28 18:23:19.113097"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
