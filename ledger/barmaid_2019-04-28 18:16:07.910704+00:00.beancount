@@ -1,0 +1,8 @@
+2019-04-28 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2019-04-28 18:16:07.880793"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:On8wr      1 FANTA
+  Liabilities:Bar:Members:On8wr   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
