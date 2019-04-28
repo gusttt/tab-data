@@ -478,3 +478,15 @@
   Liabilities:Bar:Members:Bart   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2019-04-28 txn "Evils bought 3 items for €2.70"
+  timestamp: "2019-04-28 15:17:49.933025"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM   
+  Liabilities:Bar:Members:Elvis      1 MNM   
+  Assets:Inventory:Bar              -1 MARS  
+  Liabilities:Bar:Members:Elvis      1 MARS  
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   2.70 EUR   
+  Income:Bar                     -2.70 EUR   
+
