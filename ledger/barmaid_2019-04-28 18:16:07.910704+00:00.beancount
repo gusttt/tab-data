@@ -184,3 +184,9 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2019-05-01 txn "Joris deposited €30.00"
+  timestamp: "2019-05-01 13:19:01.329928"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -30.00 EUR
+  Assets:Cash:Bar                 30.00 EUR
+
