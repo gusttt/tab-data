@@ -176,3 +176,11 @@
   Liabilities:Bar:Members:Alex   3.50 EUR        
   Income:Bar                    -3.50 EUR        
 
+2019-05-01 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2019-05-01 11:56:06.356786"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
