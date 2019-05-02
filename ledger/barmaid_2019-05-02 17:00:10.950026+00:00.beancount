@@ -202,3 +202,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-05-02 txn "qwaxys bought 1 items for €0.75"
+  timestamp: "2019-05-02 22:01:14.522160"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Bart      1 WATER
+  Liabilities:Bar:Members:Bart   0.75 EUR  
+  Income:Bar                    -0.75 EUR  
+
