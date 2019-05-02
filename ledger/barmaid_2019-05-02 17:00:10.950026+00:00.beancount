@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Stefaan   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2019-05-02 txn "Koen bought 1 items for €0.60"
+  timestamp: "2019-05-02 18:14:48.264817"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Liabilities:Bar:Members:Koen   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
