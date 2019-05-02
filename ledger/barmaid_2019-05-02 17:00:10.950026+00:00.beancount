@@ -38,3 +38,11 @@
   Liabilities:Bar:Members:Merlijn   5.30 EUR     
   Income:Bar                       -5.30 EUR     
 
+2019-05-02 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-05-02 18:03:04.778778"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
