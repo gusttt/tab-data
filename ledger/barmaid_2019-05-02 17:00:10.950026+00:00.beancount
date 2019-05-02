@@ -102,3 +102,11 @@
   Liabilities:Bar:Members:Koen  -0.50 EUR
   Assets:Cash:Bar                0.50 EUR
 
+2019-05-02 txn "Alex bought 1 items for €2.00"
+  timestamp: "2019-05-02 18:49:11.728858"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Alex      1 FRITZ
+  Liabilities:Bar:Members:Alex   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
