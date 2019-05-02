@@ -156,3 +156,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-05-02 txn "Alex bought 1 items for €0.60"
+  timestamp: "2019-05-02 20:13:42.149153"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MARS
+  Liabilities:Bar:Members:Alex      1 MARS
+  Liabilities:Bar:Members:Alex   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
