@@ -22,3 +22,9 @@
   Liabilities:Bar:Members:Els   0.60 EUR   
   Income:Bar                   -0.60 EUR   
 
+2019-05-07 txn "Els gave Evils a gift of €24.00"
+  timestamp: "2019-05-07 12:25:16.169059"
+  type: "transfer"
+  Liabilities:Bar:Members:Els     24.00 EUR
+  Liabilities:Bar:Members:Elvis  -24.00 EUR
+
