@@ -210,3 +210,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR     
   Income:Bar                      -0.60 EUR     
 
+2019-05-09 txn "Thomas bought 1 items for €1.00"
+  timestamp: "2019-05-09 21:13:41.753950"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICE_CREAM
+  Liabilities:Bar:Members:Thomas      1 ICE_CREAM
+  Liabilities:Bar:Members:Thomas   1.00 EUR      
+  Income:Bar                      -1.00 EUR      
+
