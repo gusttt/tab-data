@@ -144,3 +144,13 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2019-05-09 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-05-09 20:13:33.455827"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SNICKERS 
+  Assets:Cash:Bar           1 SNICKERS 
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Cash:Bar        2.10 EUR      
+  Income:Bar            -2.10 EUR      
+
