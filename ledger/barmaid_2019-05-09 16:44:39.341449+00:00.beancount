@@ -164,3 +164,11 @@
   Liabilities:Bar:Members:Thomas   2.10 EUR    
   Income:Bar                      -2.10 EUR    
 
+2019-05-09 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-05-09 20:31:30.553546"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
