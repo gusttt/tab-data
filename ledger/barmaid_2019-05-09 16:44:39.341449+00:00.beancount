@@ -128,3 +128,11 @@
   Liabilities:Bar:Members:Ewaut   3.50 EUR  
   Income:Bar                     -3.50 EUR  
 
+2019-05-09 txn "Alex bought 1 items for €2.00"
+  timestamp: "2019-05-09 19:52:22.397878"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Alex      1 FRITZ
+  Liabilities:Bar:Members:Alex   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
