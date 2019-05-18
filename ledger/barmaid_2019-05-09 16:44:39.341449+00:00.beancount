@@ -462,3 +462,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-05-18 txn "Bertrand deposited €50.00"
+  timestamp: "2019-05-18 13:41:51.152697"
+  type: "deposit"
+  Liabilities:Bar:Members:Bertrand  -50.00 EUR
+  Assets:Cash:Bar                    50.00 EUR
+
