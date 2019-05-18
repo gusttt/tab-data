@@ -454,3 +454,11 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2019-05-18 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-05-18 13:25:46.289769"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
