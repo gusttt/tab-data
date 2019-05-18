@@ -468,3 +468,11 @@
   Liabilities:Bar:Members:Bertrand  -50.00 EUR
   Assets:Cash:Bar                    50.00 EUR
 
+2019-05-18 txn "Merlijn bought 1 items for €0.75"
+  timestamp: "2019-05-18 15:22:32.428218"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Merlijn      1 WATER
+  Liabilities:Bar:Members:Merlijn   0.75 EUR  
+  Income:Bar                       -0.75 EUR  
+
