@@ -568,3 +568,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Assets:Cash:Bar                -2.00 EUR
 
+2019-05-22 txn "Evils deposited €-8.00"
+  timestamp: "2019-05-22 15:37:48.582528"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   8.00 EUR
+  Assets:Cash:Bar                -8.00 EUR
+
