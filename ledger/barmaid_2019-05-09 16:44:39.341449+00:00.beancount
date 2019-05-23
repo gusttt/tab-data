@@ -688,3 +688,13 @@
   Liabilities:Bar:Members:Joris   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-05-23 txn "Thomas bought 2 items for €4.60"
+  timestamp: "2019-05-23 19:48:04.570436"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:Thomas      1 CHIMAY
+  Assets:Inventory:Bar               -1 CHIP  
+  Liabilities:Bar:Members:Thomas      1 CHIP  
+  Liabilities:Bar:Members:Thomas   4.60 EUR   
+  Income:Bar                      -4.60 EUR   
+
