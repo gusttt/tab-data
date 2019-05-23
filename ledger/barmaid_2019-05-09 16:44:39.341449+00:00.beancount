@@ -612,3 +612,9 @@
   Liabilities:Bar:Members:Stefaan   3.50 EUR  
   Income:Bar                       -3.50 EUR  
 
+2019-05-23 txn "Ewaut deposited €50.00"
+  timestamp: "2019-05-23 18:13:56.792092"
+  type: "deposit"
+  Liabilities:Bar:Members:Ewaut  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
