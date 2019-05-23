@@ -706,3 +706,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-05-23 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-05-23 19:54:53.857003"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Cash:Bar        2.10 EUR 
+  Income:Bar            -2.10 EUR 
+
