@@ -618,3 +618,11 @@
   Liabilities:Bar:Members:Ewaut  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2019-05-23 txn "Ewaut bought 1 items for €2.00"
+  timestamp: "2019-05-23 18:14:16.408579"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ewaut      1 CM 
+  Liabilities:Bar:Members:Ewaut   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
