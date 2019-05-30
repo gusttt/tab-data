@@ -834,3 +834,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-05-30 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2019-05-30 19:26:21.854997"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
