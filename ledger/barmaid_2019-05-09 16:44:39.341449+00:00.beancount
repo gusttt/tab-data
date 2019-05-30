@@ -942,3 +942,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2019-05-30 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2019-05-30 22:51:30.688748"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KING
+  Liabilities:Bar:Members:Sasja      1 KING
+  Liabilities:Bar:Members:Sasja   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
