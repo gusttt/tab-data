@@ -856,3 +856,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR
   Assets:Cash:Bar                  -2.00 EUR
 
+2019-05-30 txn "Merlijn bought 1 items for €0.60"
+  timestamp: "2019-05-30 19:32:33.254642"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Merlijn      1 KITKAT
+  Liabilities:Bar:Members:Merlijn   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
