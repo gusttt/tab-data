@@ -850,3 +850,9 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR  
   Income:Bar                     -1.50 EUR  
 
+2019-05-30 txn "Merlijn deposited €-2.00"
+  timestamp: "2019-05-30 19:31:54.215105"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn   2.00 EUR
+  Assets:Cash:Bar                  -2.00 EUR
+
