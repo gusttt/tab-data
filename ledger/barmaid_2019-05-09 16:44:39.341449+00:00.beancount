@@ -818,3 +818,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-05-30 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-05-30 19:05:03.194341"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE
+  Liabilities:Bar:Members:Bloemist      1 COKE
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
