@@ -912,3 +912,11 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2019-05-30 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2019-05-30 21:16:29.912028"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
