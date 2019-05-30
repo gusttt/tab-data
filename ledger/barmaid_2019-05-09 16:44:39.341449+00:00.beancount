@@ -794,3 +794,11 @@
   Liabilities:Bar:Members:Stefaan   1.20 EUR  
   Income:Bar                       -1.20 EUR  
 
+2019-05-30 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-05-30 18:01:58.772503"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Elvis      1 BOUNTY
+  Liabilities:Bar:Members:Elvis   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
