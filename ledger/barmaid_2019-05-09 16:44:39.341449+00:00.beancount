@@ -1070,3 +1070,11 @@
   Liabilities:Bar:Members:Bart  -4.00 EUR
   Assets:Cash:Bar                4.00 EUR
 
+2019-06-03 txn "Enzian bought 1 items for €4.00"
+  timestamp: "2019-06-03 17:39:29.496193"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:Enzian      1 CHIMAY
+  Liabilities:Bar:Members:Enzian   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
