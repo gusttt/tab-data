@@ -24,3 +24,9 @@
   Liabilities:Bar:Members:Elvis   2.60 EUR  
   Income:Bar                     -2.60 EUR  
 
+2019-06-05 txn "Evils gave qwaxys a gift of €2.72"
+  timestamp: "2019-06-05 16:33:04.514979"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   2.72 EUR
+  Liabilities:Bar:Members:Bart   -2.72 EUR
+
