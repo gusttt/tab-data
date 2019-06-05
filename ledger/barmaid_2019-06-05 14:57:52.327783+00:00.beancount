@@ -54,3 +54,11 @@
   Liabilities:Bar:Members:Joris   4.60 EUR   
   Income:Bar                     -4.60 EUR   
 
+2019-06-05 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2019-06-05 18:45:33.329821"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 KRIEK
+  Liabilities:Bar:Members:Thomas      1 KRIEK
+  Liabilities:Bar:Members:Thomas   1.50 EUR  
+  Income:Bar                      -1.50 EUR  
+
