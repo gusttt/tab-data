@@ -162,3 +162,11 @@
   Liabilities:Bar:Members:Els   2.10 EUR   
   Income:Bar                   -2.10 EUR   
 
+2019-06-06 txn "TQ bought 2 items for €3.00"
+  timestamp: "2019-06-06 21:21:39.992827"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 JUPILER
+  Liabilities:Bar:Members:Thequux      2 JUPILER
+  Liabilities:Bar:Members:Thequux   3.00 EUR    
+  Income:Bar                       -3.00 EUR    
+
