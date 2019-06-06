@@ -130,3 +130,9 @@
   Liabilities:Bar:Members:Thequux   4.00 EUR
   Liabilities:Bar:Members:Bart     -4.00 EUR
 
+2019-06-06 txn "Merlijn gave qwaxys a gift of €4.00"
+  timestamp: "2019-06-06 20:44:45.239368"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   4.00 EUR
+  Liabilities:Bar:Members:Bart     -4.00 EUR
+
