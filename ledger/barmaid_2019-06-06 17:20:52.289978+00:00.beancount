@@ -176,3 +176,13 @@
   Liabilities:Bar:Members:Thequux  -1.50 EUR
   Assets:Cash:Bar                   1.50 EUR
 
+2019-06-06 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-06-06 21:30:09.335725"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Inventory:Bar     -1 MARS     
+  Assets:Cash:Bar           1 MARS     
+  Assets:Cash:Bar        2.10 EUR      
+  Income:Bar            -2.10 EUR      
+
