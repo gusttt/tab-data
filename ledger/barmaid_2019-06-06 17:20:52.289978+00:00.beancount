@@ -84,3 +84,11 @@
   Liabilities:Bar:Members:Folkaholic   14.33 EUR
   Liabilities:Bar:Members:Stefaan     -14.33 EUR
 
+2019-06-06 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2019-06-06 19:45:55.469395"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
