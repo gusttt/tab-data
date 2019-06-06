@@ -189,12 +189,9 @@
   price: 2.00
   event_price: 3.50
   currency: PIZZA
-  payback:
-    account: Liabilities:Bar:Members:Bart
-    amount: 1.63
   category: food
 
-# apparel
+# swag
 - name: Wristband
   price: 1.00
   event_price: 1.50
@@ -212,6 +209,13 @@
   price: 35.00
   event_price: 53.00
   currency: HOODIE
+  category: swag
+- name: Passport
+  price: 2.50
+  event_price: 3.60
+  payback:
+    account: Liabilities:Bar:Members:Qwaxys
+    amount: 1.20
   category: swag
 
 # unused products below
