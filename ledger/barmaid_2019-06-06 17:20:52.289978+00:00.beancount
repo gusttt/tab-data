@@ -220,3 +220,11 @@
   Liabilities:Bar:Members:Els   2.60 EUR  
   Income:Bar                   -2.60 EUR  
 
+2019-06-06 txn "Evils bought 1 items for €1.50"
+  timestamp: "2019-06-06 23:15:16.138641"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Elvis      1 FANTA
+  Liabilities:Bar:Members:Elvis   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
