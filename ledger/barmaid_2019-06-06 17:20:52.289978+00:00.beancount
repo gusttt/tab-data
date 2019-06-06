@@ -186,3 +186,11 @@
   Assets:Cash:Bar        2.10 EUR      
   Income:Bar            -2.10 EUR      
 
+2019-06-06 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-06-06 21:30:15.205634"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
