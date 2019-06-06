@@ -78,3 +78,9 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-06-06 txn "Folkaholic gave Stefaan a gift of €14.33"
+  timestamp: "2019-06-06 19:30:02.007501"
+  type: "transfer"
+  Liabilities:Bar:Members:Folkaholic   14.33 EUR
+  Liabilities:Bar:Members:Stefaan     -14.33 EUR
+
