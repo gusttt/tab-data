@@ -213,6 +213,7 @@
 - name: Passport
   price: 2.50
   event_price: 3.60
+  currency: PASSPORT
   payback:
     account: Liabilities:Bar:Members:Qwaxys
     amount: 1.20
