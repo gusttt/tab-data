@@ -218,3 +218,11 @@
   Liabilities:Bar:Members:Maja   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-06-09 txn "Enzian bought 1 items for €2.00"
+  timestamp: "2019-06-09 20:22:18.561095"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Enzian      1 CM 
+  Liabilities:Bar:Members:Enzian   2.00 EUR
+  Income:Bar                      -2.00 EUR
+
