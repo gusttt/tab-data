@@ -156,3 +156,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-06-09 txn "Maja bought 2 items for €3.00"
+  timestamp: "2019-06-09 17:54:15.204891"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 ICETEA
+  Liabilities:Bar:Members:Maja      2 ICETEA
+  Liabilities:Bar:Members:Maja   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
