@@ -210,3 +210,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2019-06-09 txn "Maja bought 1 items for €2.00"
+  timestamp: "2019-06-09 20:03:27.312387"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Maja      1 FRITZ
+  Liabilities:Bar:Members:Maja   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
