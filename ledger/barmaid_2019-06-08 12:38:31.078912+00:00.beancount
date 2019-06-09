@@ -188,3 +188,9 @@
   Liabilities:Bar:Members:Enzian   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2019-06-09 txn "Merlijn gave qwaxys a gift of €4.00"
+  timestamp: "2019-06-09 19:41:58.696172"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   4.00 EUR
+  Liabilities:Bar:Members:Bart     -4.00 EUR
+
