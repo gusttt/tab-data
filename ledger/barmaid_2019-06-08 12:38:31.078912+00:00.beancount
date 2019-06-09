@@ -142,3 +142,9 @@
   Liabilities:Bar:Members:Bart   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2019-06-09 txn "qwaxys deposited €4.00"
+  timestamp: "2019-06-09 17:45:50.630293"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -4.00 EUR
+  Assets:Cash:Bar                4.00 EUR
+
