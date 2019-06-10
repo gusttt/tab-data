@@ -282,3 +282,11 @@
   Liabilities:Bar:Members:Maja  -0.50 EUR
   Assets:Cash:Bar                0.50 EUR
 
+2019-06-10 txn "Joris bought 1 items for €0.60"
+  timestamp: "2019-06-10 10:58:59.124681"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
