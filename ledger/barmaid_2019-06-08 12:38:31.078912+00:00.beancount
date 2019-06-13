@@ -592,3 +592,9 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-06-13 txn "Koen gave qwaxys a gift of €2.00"
+  timestamp: "2019-06-13 21:00:50.318047"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   2.00 EUR
+  Liabilities:Bar:Members:Bart  -2.00 EUR
+
