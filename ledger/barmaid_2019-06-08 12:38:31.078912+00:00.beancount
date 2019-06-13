@@ -398,3 +398,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-06-13 txn "Thomas bought 1 items for €4.00"
+  timestamp: "2019-06-13 18:35:04.474105"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:Thomas      1 CHIMAY
+  Liabilities:Bar:Members:Thomas   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
