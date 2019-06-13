@@ -434,3 +434,13 @@
   Liabilities:Bar:Members:Thomas   2.10 EUR    
   Income:Bar                      -2.10 EUR    
 
+2019-06-13 txn "Koen bought 2 items for €1.20"
+  timestamp: "2019-06-13 19:49:18.930626"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Assets:Inventory:Bar             -1 MNM 
+  Liabilities:Bar:Members:Koen      1 MNM 
+  Liabilities:Bar:Members:Koen   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
