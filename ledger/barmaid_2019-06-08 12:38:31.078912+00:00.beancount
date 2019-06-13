@@ -406,3 +406,11 @@
   Liabilities:Bar:Members:Thomas   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2019-06-13 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2019-06-13 18:35:17.836791"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROLO
+  Liabilities:Bar:Members:Stefaan      1 ROLO
+  Liabilities:Bar:Members:Stefaan   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
