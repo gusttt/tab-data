@@ -474,3 +474,11 @@
   Liabilities:Bar:Members:Ewaut   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2019-06-13 txn "TQ bought 1 items for €0.60"
+  timestamp: "2019-06-13 19:51:00.177208"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Thequux      1 BOUNTY
+  Liabilities:Bar:Members:Thequux   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
