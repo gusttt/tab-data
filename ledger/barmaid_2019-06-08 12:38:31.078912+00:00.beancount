@@ -450,3 +450,11 @@
   Liabilities:Bar:Members:Koen  -0.60 EUR
   Assets:Cash:Bar                0.60 EUR
 
+2019-06-13 txn "Maja bought 1 items for €2.00"
+  timestamp: "2019-06-13 19:50:04.691566"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Maja      1 FRITZ
+  Liabilities:Bar:Members:Maja   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
