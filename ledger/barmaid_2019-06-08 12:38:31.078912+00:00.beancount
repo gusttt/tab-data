@@ -372,3 +372,13 @@
   Liabilities:Bar:Members:Ewaut   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2019-06-13 txn "Stefaan bought 2 items for €2.60"
+  timestamp: "2019-06-13 18:17:20.669116"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Stefaan      1 FRITZ
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+  Liabilities:Bar:Members:Stefaan   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+
