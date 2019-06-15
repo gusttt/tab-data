@@ -760,3 +760,13 @@
   Liabilities:Bar:Members:Joris   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2019-06-15 txn "Gust bought 2 items for €2.10"
+  timestamp: "2019-06-15 19:50:17.734066"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Gust      1 COKE
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Liabilities:Bar:Members:Gust   2.10 EUR 
+  Income:Bar                    -2.10 EUR 
+
