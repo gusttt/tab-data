@@ -716,3 +716,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-06-15 txn "Joris bought 2 items for €4.60"
+  timestamp: "2019-06-15 18:38:36.535929"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Joris      1 CHIMAY
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   4.60 EUR   
+  Income:Bar                     -4.60 EUR   
+
