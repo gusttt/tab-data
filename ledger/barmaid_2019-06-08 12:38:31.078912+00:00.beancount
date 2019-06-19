@@ -904,3 +904,11 @@
   Liabilities:Bar:Members:Sasja         6.19 EUR
   Liabilities:Bar:Members:Superpumpie  -6.19 EUR
 
+2019-06-19 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2019-06-19 11:17:45.374728"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KING
+  Liabilities:Bar:Members:Sasja      1 KING
+  Liabilities:Bar:Members:Sasja   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
