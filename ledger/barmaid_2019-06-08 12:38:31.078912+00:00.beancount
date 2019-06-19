@@ -898,3 +898,9 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-06-19 txn "Sasja gave Super​pumpie a gift of €6.19"
+  timestamp: "2019-06-19 10:49:54.082386"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja         6.19 EUR
+  Liabilities:Bar:Members:Superpumpie  -6.19 EUR
+
