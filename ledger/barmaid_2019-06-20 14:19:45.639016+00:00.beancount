@@ -254,3 +254,11 @@
   Liabilities:Bar:Members:Bloemist   4.00 EUR
   Liabilities:Bar:Members:Bart      -4.00 EUR
 
+2019-06-20 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2019-06-20 21:20:24.957037"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+
