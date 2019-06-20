@@ -134,3 +134,11 @@
   Liabilities:Bar:Members:Joris   4.60 EUR   
   Income:Bar                     -4.60 EUR   
 
+2019-06-20 txn "Joris bought 1 items for €4.00"
+  timestamp: "2019-06-20 19:22:00.055608"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Joris      1 CHIMAY
+  Liabilities:Bar:Members:Joris   4.00 EUR   
+  Income:Bar                     -4.00 EUR   
+
