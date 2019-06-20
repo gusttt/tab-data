@@ -196,3 +196,9 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2019-06-20 txn "ruleant deposited €20.00"
+  timestamp: "2019-06-20 20:00:06.281293"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruleant  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
