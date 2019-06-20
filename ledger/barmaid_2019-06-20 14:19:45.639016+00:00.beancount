@@ -44,3 +44,9 @@
   Liabilities:Bar:Members:Bart   3.00 EUR 
   Income:Bar                    -3.00 EUR 
 
+2019-06-20 txn "Els deposited €7.11"
+  timestamp: "2019-06-20 18:10:20.402473"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -7.11 EUR
+  Assets:Cash:Bar               7.11 EUR
+
