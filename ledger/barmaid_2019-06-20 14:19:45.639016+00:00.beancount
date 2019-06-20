@@ -248,3 +248,9 @@
   Liabilities:Bar:Members:Bart  -4.00 EUR
   Assets:Cash:Bar                4.00 EUR
 
+2019-06-20 txn "Bloemist gave qwaxys a gift of €4.00"
+  timestamp: "2019-06-20 21:11:58.504234"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   4.00 EUR
+  Liabilities:Bar:Members:Bart      -4.00 EUR
+
