@@ -242,3 +242,9 @@
   Liabilities:Bar:Members:Ruleant   4.00 EUR   
   Income:Bar                       -4.00 EUR   
 
+2019-06-20 txn "qwaxys deposited €4.00"
+  timestamp: "2019-06-20 21:06:50.367902"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -4.00 EUR
+  Assets:Cash:Bar                4.00 EUR
+
