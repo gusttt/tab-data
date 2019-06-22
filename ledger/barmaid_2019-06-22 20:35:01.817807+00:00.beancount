@@ -22,3 +22,15 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2019-06-22 txn "Yvan & Lauren bought 3 items for €2.70"
+  timestamp: "2019-06-22 22:03:53.151176"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Assets:Inventory:Bar             -1 ROLO  
+  Liabilities:Bar:Members:Yvan      1 ROLO  
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   2.70 EUR   
+  Income:Bar                    -2.70 EUR   
+
