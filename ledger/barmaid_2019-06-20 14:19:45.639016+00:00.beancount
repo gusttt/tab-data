@@ -330,3 +330,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2019-06-22 txn "TQ bought 2 items for €4.50"
+  timestamp: "2019-06-22 18:31:54.095232"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Thequux      1 FRITZ
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   4.50 EUR  
+  Income:Bar                       -4.50 EUR  
+
