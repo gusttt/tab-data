@@ -198,3 +198,9 @@
   Liabilities:Bar:Members:On8wr   2.60 EUR  
   Income:Bar                     -2.60 EUR  
 
+2019-06-27 txn "Evils gave On8wr a gift of €5.50"
+  timestamp: "2019-06-27 20:08:15.533064"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   5.50 EUR
+  Liabilities:Bar:Members:On8wr  -5.50 EUR
+
