@@ -204,3 +204,11 @@
   Liabilities:Bar:Members:Elvis   5.50 EUR
   Liabilities:Bar:Members:On8wr  -5.50 EUR
 
+2019-06-27 txn "TQ bought 1 items for €1.50"
+  timestamp: "2019-06-27 20:17:48.632472"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Thequux      1 JUPILER
+  Liabilities:Bar:Members:Thequux   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
