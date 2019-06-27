@@ -176,3 +176,9 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR
   Liabilities:Bar:Members:Els    -2.00 EUR
 
+2019-06-27 txn "TQ gave On8wr a gift of €8.00"
+  timestamp: "2019-06-27 19:28:10.008544"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   8.00 EUR
+  Liabilities:Bar:Members:On8wr    -8.00 EUR
+
