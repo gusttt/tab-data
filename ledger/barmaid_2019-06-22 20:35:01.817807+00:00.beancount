@@ -148,3 +148,11 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-06-27 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-06-27 18:04:39.553872"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   0.60 EUR 
+  Income:Bar                   -0.60 EUR 
+
