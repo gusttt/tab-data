@@ -188,3 +188,13 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2019-06-27 txn "On8wr bought 2 items for €2.60"
+  timestamp: "2019-06-27 19:49:31.321114"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:On8wr      1 FRITZ
+  Assets:Inventory:Bar              -1 CHIP 
+  Liabilities:Bar:Members:On8wr      1 CHIP 
+  Liabilities:Bar:Members:On8wr   2.60 EUR  
+  Income:Bar                     -2.60 EUR  
+
