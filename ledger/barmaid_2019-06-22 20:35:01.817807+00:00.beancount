@@ -170,3 +170,9 @@
   Liabilities:Bar:Members:Elvis   8.00 EUR
   Liabilities:Bar:Members:On8wr  -8.00 EUR
 
+2019-06-27 txn "On8wr gave Els a gift of €2.00"
+  timestamp: "2019-06-27 19:27:41.422146"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr   2.00 EUR
+  Liabilities:Bar:Members:Els    -2.00 EUR
+
