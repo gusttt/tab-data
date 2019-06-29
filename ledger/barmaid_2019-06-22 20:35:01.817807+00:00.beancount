@@ -364,3 +364,11 @@
   Liabilities:Bar:Members:Mircea   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2019-06-29 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2019-06-29 20:01:28.884359"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 FRITZ
+  Liabilities:Bar:Members:Yvan      2 FRITZ
+  Liabilities:Bar:Members:Yvan   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
