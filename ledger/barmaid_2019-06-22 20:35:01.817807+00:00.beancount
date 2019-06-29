@@ -372,3 +372,11 @@
   Liabilities:Bar:Members:Yvan   4.00 EUR  
   Income:Bar                    -4.00 EUR  
 
+2019-06-29 txn "MrProzakc bought 1 items for €0.60"
+  timestamp: "2019-06-29 20:22:58.228291"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:Mircea      1 TWIX
+  Liabilities:Bar:Members:Mircea   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
