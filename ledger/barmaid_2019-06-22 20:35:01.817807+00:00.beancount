@@ -302,3 +302,11 @@
   Liabilities:Bar:Members:Yvan   3.30 EUR   
   Income:Bar                    -3.30 EUR   
 
+2019-06-29 txn "Yvan & Lauren bought 1 items for €1.50"
+  timestamp: "2019-06-29 17:08:59.327781"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Yvan      1 JUPILER
+  Liabilities:Bar:Members:Yvan   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
