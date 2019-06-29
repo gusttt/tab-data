@@ -272,3 +272,11 @@
   Liabilities:Bar:Members:Mircea   182.00 EUR
   Assets:Cash:Bar                 -182.00 EUR
 
+2019-06-29 txn "MrProzakc bought 1 items for €2.00"
+  timestamp: "2019-06-29 15:58:29.767292"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Mircea      1 CM 
+  Liabilities:Bar:Members:Mircea   2.00 EUR
+  Income:Bar                      -2.00 EUR
+
