@@ -260,3 +260,9 @@
   Liabilities:Bar:Members:Yvan   3.50 EUR   
   Income:Bar                    -3.50 EUR   
 
+2019-06-29 txn "MrProzakc deposited €202.00"
+  timestamp: "2019-06-29 15:56:08.129155"
+  type: "deposit"
+  Liabilities:Bar:Members:Mircea  -202.00 EUR
+  Assets:Cash:Bar                  202.00 EUR
+
