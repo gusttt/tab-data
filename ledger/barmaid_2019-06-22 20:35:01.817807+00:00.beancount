@@ -280,3 +280,13 @@
   Liabilities:Bar:Members:Mircea   2.00 EUR
   Income:Bar                      -2.00 EUR
 
+2019-06-29 txn "Yvan & Lauren bought 2 items for €2.10"
+  timestamp: "2019-06-29 16:07:29.245247"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Assets:Inventory:Bar             -1 TWIX  
+  Liabilities:Bar:Members:Yvan      1 TWIX  
+  Liabilities:Bar:Members:Yvan   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
