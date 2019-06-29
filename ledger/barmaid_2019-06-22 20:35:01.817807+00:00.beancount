@@ -234,3 +234,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-06-29 txn "TQ bought 1 items for €2.00"
+  timestamp: "2019-06-29 15:19:47.962476"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Thequux      1 FRITZ
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
