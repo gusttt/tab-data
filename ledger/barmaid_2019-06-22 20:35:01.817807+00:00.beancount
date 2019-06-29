@@ -342,3 +342,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2019-06-29 txn "TQ deposited €100.00"
+  timestamp: "2019-06-29 17:54:14.889073"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -100.00 EUR
+  Assets:Cash:Bar                   100.00 EUR
+
