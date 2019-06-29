@@ -404,3 +404,11 @@
   Liabilities:Bar:Members:Yvan  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2019-06-29 txn "Yvan & Lauren bought 55 items for €11.00"
+  timestamp: "2019-06-29 20:30:30.807120"
+  type: "purchase"
+  Assets:Inventory:Bar             -55 CHUPACHUPS
+  Liabilities:Bar:Members:Yvan      55 CHUPACHUPS
+  Liabilities:Bar:Members:Yvan   11.00 EUR       
+  Income:Bar                    -11.00 EUR       
+
