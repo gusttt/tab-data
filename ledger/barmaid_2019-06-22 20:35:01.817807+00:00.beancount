@@ -458,3 +458,15 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR  
   Income:Bar                    -2.10 EUR  
 
+2019-06-30 txn "Yvan & Lauren bought 3 items for €4.10"
+  timestamp: "2019-06-30 11:47:05.928502"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM       
+  Liabilities:Bar:Members:Yvan      1 CM       
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 KING     
+  Liabilities:Bar:Members:Yvan      1 KING     
+  Liabilities:Bar:Members:Yvan   4.10 EUR      
+  Income:Bar                    -4.10 EUR      
+
