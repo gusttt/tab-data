@@ -518,3 +518,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-07-01 txn "Yvan & Lauren deposited €50.00"
+  timestamp: "2019-07-01 14:06:08.040760"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -50.00 EUR
+  Assets:Cash:Bar                50.00 EUR
+
