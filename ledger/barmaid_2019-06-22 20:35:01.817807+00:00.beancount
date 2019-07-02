@@ -576,3 +576,11 @@
   Liabilities:Bar:Members:On8wr     8.00 EUR
   Liabilities:Bar:Members:Thequux  -8.00 EUR
 
+2019-07-02 txn "Evils bought 2 items for €1.20"
+  timestamp: "2019-07-02 10:45:18.037433"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 SNACK
+  Liabilities:Bar:Members:Elvis      2 SNACK
+  Liabilities:Bar:Members:Elvis   1.20 EUR  
+  Income:Bar                     -1.20 EUR  
+
