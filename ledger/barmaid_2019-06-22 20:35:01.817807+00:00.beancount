@@ -604,3 +604,11 @@
   Liabilities:Bar:Members:Yvan   2.60 EUR 
   Income:Bar                    -2.60 EUR 
 
+2019-07-02 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-07-02 13:15:50.620392"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
