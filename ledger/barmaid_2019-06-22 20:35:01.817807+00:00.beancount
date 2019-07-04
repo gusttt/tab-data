@@ -820,3 +820,13 @@
   Liabilities:Bar:Members:Joris   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-07-04 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2019-07-04 20:30:21.240194"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Inventory:Bar     -1 MARS     
+  Assets:Cash:Bar           1 MARS     
+  Assets:Cash:Bar        2.10 EUR      
+  Income:Bar            -2.10 EUR      
+
