@@ -744,3 +744,9 @@
   Liabilities:Bar:Members:Maja   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2019-07-04 txn "Thomas deposited €10.00"
+  timestamp: "2019-07-04 19:07:38.189013"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
