@@ -774,3 +774,13 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-07-04 txn "Maja bought 2 items for €2.60"
+  timestamp: "2019-07-04 19:56:03.064579"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM    
+  Liabilities:Bar:Members:Maja      1 CM    
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Maja      1 BOUNTY
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
