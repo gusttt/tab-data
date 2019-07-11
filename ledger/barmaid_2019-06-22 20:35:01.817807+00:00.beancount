@@ -952,3 +952,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2019-07-11 txn "Thomas bought 2 items for €3.50"
+  timestamp: "2019-07-11 19:12:49.588650"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE_ZERO
+  Liabilities:Bar:Members:Thomas      1 COKE_ZERO
+  Assets:Inventory:Bar               -1 CM       
+  Liabilities:Bar:Members:Thomas      1 CM       
+  Liabilities:Bar:Members:Thomas   3.50 EUR      
+  Income:Bar                      -3.50 EUR      
+
