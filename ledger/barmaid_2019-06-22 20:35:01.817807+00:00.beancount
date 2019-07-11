@@ -1012,3 +1012,9 @@
   Liabilities:Bar:Members:Joris   3.10 EUR  
   Income:Bar                     -3.10 EUR  
 
+2019-07-11 txn "Thomas deposited €10.00"
+  timestamp: "2019-07-11 20:10:17.365059"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
