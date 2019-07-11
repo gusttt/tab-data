@@ -926,3 +926,13 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR
   Income:Bar                       -2.00 EUR
 
+2019-07-11 txn "Joris bought 2 items for €4.60"
+  timestamp: "2019-07-11 18:50:32.550495"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Joris      1 CHIMAY
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   4.60 EUR   
+  Income:Bar                     -4.60 EUR   
+
