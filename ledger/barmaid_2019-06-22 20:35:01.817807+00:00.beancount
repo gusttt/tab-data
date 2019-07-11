@@ -904,3 +904,9 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-07-11 txn "Evils gave qwaxys a gift of €3.42"
+  timestamp: "2019-07-11 16:41:51.069364"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   3.42 EUR
+  Liabilities:Bar:Members:Bart   -3.42 EUR
+
