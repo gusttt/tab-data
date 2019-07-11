@@ -1034,3 +1034,9 @@
   Liabilities:Bar:Members:Koen   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2019-07-11 txn "Thomas deposited €0.01"
+  timestamp: "2019-07-11 20:17:37.508671"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -0.01 EUR
+  Assets:Cash:Bar                  0.01 EUR
+
