@@ -878,3 +878,11 @@
   Liabilities:Bar:Members:Alex   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2019-07-11 txn "Alex bought 3 items for €1.80"
+  timestamp: "2019-07-11 08:16:21.719972"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 CHIP
+  Liabilities:Bar:Members:Alex      3 CHIP
+  Liabilities:Bar:Members:Alex   1.80 EUR 
+  Income:Bar                    -1.80 EUR 
+
