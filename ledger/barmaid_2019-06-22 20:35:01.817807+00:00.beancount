@@ -910,3 +910,11 @@
   Liabilities:Bar:Members:Elvis   3.42 EUR
   Liabilities:Bar:Members:Bart   -3.42 EUR
 
+2019-07-11 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-07-11 18:18:27.512066"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Koen      1 COKE_ZERO
+  Liabilities:Bar:Members:Koen   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
