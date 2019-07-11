@@ -868,3 +868,13 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-07-11 txn "Alex bought 2 items for €2.10"
+  timestamp: "2019-07-11 08:07:28.120380"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Alex      1 ICETEA
+  Assets:Inventory:Bar             -1 MNM   
+  Liabilities:Bar:Members:Alex      1 MNM   
+  Liabilities:Bar:Members:Alex   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
