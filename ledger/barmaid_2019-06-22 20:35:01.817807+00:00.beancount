@@ -1124,3 +1124,11 @@
   Liabilities:Bar:Members:Enzian   3.00 EUR      
   Income:Bar                      -3.00 EUR      
 
+2019-07-14 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-07-14 18:46:58.891920"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
