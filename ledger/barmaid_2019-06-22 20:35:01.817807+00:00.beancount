@@ -1098,3 +1098,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2019-07-14 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2019-07-14 15:21:06.396251"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bart      1 SNACK
+  Liabilities:Bar:Members:Bart   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
