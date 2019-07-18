@@ -1304,3 +1304,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2019-07-18 txn "Merlijn bought 2 items for €3.00"
+  timestamp: "2019-07-18 20:24:18.400648"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE_ZERO
+  Liabilities:Bar:Members:Merlijn      1 COKE_ZERO
+  Assets:Inventory:Bar                -1 JUPILER  
+  Liabilities:Bar:Members:Merlijn      1 JUPILER  
+  Liabilities:Bar:Members:Merlijn   3.00 EUR      
+  Income:Bar                       -3.00 EUR      
+
