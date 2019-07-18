@@ -1314,3 +1314,13 @@
   Liabilities:Bar:Members:Merlijn   3.00 EUR      
   Income:Bar                       -3.00 EUR      
 
+2019-07-18 txn "Els bought 2 items for €1.20"
+  timestamp: "2019-07-18 20:30:07.780938"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 MNM     
+  Liabilities:Bar:Members:Els      1 MNM     
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   1.20 EUR     
+  Income:Bar                   -1.20 EUR     
+
