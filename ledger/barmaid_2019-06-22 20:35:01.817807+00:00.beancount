@@ -1176,3 +1176,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-07-18 txn "Lisa deposited €15.00"
+  timestamp: "2019-07-18 17:31:37.414790"
+  type: "deposit"
+  Liabilities:Bar:Members:Lisa  -15.00 EUR
+  Assets:Cash:Bar                15.00 EUR
+
