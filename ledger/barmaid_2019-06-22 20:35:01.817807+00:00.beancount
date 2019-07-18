@@ -1206,3 +1206,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-07-18 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2019-07-18 17:59:14.632493"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
