@@ -1254,3 +1254,13 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2019-07-18 txn "Els bought 2 items for €2.10"
+  timestamp: "2019-07-18 19:09:16.184759"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KRIEK
+  Liabilities:Bar:Members:Els      1 KRIEK
+  Assets:Inventory:Bar            -1 TWIX 
+  Liabilities:Bar:Members:Els      1 TWIX 
+  Liabilities:Bar:Members:Els   2.10 EUR  
+  Income:Bar                   -2.10 EUR  
+
