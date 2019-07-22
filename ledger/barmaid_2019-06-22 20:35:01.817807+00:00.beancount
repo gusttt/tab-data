@@ -1458,3 +1458,11 @@
   Liabilities:Bar:Members:Mircea   2.60 EUR
   Income:Bar                      -2.60 EUR
 
+2019-07-22 txn "TQ bought 1 items for €0.60"
+  timestamp: "2019-07-22 21:38:08.124777"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MNM
+  Liabilities:Bar:Members:Thequux      1 MNM
+  Liabilities:Bar:Members:Thequux   0.60 EUR
+  Income:Bar                       -0.60 EUR
+
