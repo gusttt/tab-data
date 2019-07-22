@@ -1416,3 +1416,13 @@
   Liabilities:Bar:Members:Alex   0.50 EUR
   Income:Bar                    -0.50 EUR
 
+2019-07-22 txn "MrProzakc bought 2 items for €3.50"
+  timestamp: "2019-07-22 18:41:02.727991"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FLORA    
+  Liabilities:Bar:Members:Mircea      1 FLORA    
+  Assets:Inventory:Bar               -1 COKE_ZERO
+  Liabilities:Bar:Members:Mircea      1 COKE_ZERO
+  Liabilities:Bar:Members:Mircea   3.50 EUR      
+  Income:Bar                      -3.50 EUR      
+
