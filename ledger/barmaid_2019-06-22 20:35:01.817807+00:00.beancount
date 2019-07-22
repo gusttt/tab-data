@@ -1426,3 +1426,9 @@
   Liabilities:Bar:Members:Mircea   3.50 EUR      
   Income:Bar                      -3.50 EUR      
 
+2019-07-22 txn "MrProzakc deposited €2.00"
+  timestamp: "2019-07-22 18:41:42.563347"
+  type: "deposit"
+  Liabilities:Bar:Members:Mircea  -2.00 EUR
+  Assets:Cash:Bar                  2.00 EUR
+
