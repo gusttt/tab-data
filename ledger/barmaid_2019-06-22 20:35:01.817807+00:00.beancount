@@ -1466,3 +1466,11 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR
   Income:Bar                       -0.60 EUR
 
+2019-07-23 txn "Els bought 3 items for €1.80"
+  timestamp: "2019-07-23 00:16:36.029588"
+  type: "purchase"
+  Assets:Inventory:Bar            -3 MNM
+  Liabilities:Bar:Members:Els      3 MNM
+  Liabilities:Bar:Members:Els   1.80 EUR
+  Income:Bar                   -1.80 EUR
+
