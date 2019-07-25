@@ -1578,3 +1578,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-07-25 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-07-25 17:13:43.476686"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
