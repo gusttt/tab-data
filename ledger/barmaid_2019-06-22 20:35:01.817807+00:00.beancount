@@ -1694,3 +1694,13 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR
   Income:Bar                       -0.60 EUR
 
+2019-07-25 txn "Joris bought 2 items for €2.10"
+  timestamp: "2019-07-25 19:56:50.564193"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Joris      1 JUPILER
+  Assets:Inventory:Bar              -1 TWIX   
+  Liabilities:Bar:Members:Joris      1 TWIX   
+  Liabilities:Bar:Members:Joris   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
