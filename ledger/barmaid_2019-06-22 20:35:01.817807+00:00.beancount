@@ -1712,3 +1712,13 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR
   Income:Bar                      -2.00 EUR
 
+2019-07-25 txn "Stefaan bought 2 items for €1.35"
+  timestamp: "2019-07-25 20:14:25.754212"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Stefaan      1 WATER
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Stefaan      1 MARS 
+  Liabilities:Bar:Members:Stefaan   1.35 EUR  
+  Income:Bar                       -1.35 EUR  
+
