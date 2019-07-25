@@ -1538,3 +1538,13 @@
   Liabilities:Bar:Members:Els   0.60 EUR
   Income:Bar                   -0.60 EUR
 
+2019-07-25 txn "Els bought 2 items for €2.60"
+  timestamp: "2019-07-25 09:46:26.550779"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Els      1 CM 
+  Assets:Inventory:Bar            -1 MNM
+  Liabilities:Bar:Members:Els      1 MNM
+  Liabilities:Bar:Members:Els   2.60 EUR
+  Income:Bar                   -2.60 EUR
+
