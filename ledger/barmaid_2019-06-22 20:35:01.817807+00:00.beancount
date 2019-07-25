@@ -1620,3 +1620,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-07-25 txn "Joris bought 2 items for €4.60"
+  timestamp: "2019-07-25 18:54:27.455077"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Joris      1 CHIMAY
+  Assets:Inventory:Bar              -1 MNM   
+  Liabilities:Bar:Members:Joris      1 MNM   
+  Liabilities:Bar:Members:Joris   4.60 EUR   
+  Income:Bar                     -4.60 EUR   
+
