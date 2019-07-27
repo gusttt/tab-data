@@ -17,3 +17,11 @@
   Liabilities:Bar:Members:Qwaxys  -1.20 EUR     
   Income:Bar                      -1.90 EUR     
 
+2019-07-27 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-07-27 16:52:16.342798"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
