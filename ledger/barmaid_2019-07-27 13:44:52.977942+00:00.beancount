@@ -151,3 +151,11 @@
   Liabilities:Bar:Members:Ruleant   4.00 EUR   
   Income:Bar                       -4.00 EUR   
 
+2019-08-01 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-08-01 19:34:06.020993"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
