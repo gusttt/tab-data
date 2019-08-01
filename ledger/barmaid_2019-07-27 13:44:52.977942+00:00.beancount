@@ -117,3 +117,13 @@
   Liabilities:Bar:Members:Mircea   0.60 EUR
   Income:Bar                      -0.60 EUR
 
+2019-08-01 txn "Merlijn bought 2 items for €1.35"
+  timestamp: "2019-08-01 19:07:50.952794"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Merlijn      1 WATER
+  Assets:Inventory:Bar                -1 MNM  
+  Liabilities:Bar:Members:Merlijn      1 MNM  
+  Liabilities:Bar:Members:Merlijn   1.35 EUR  
+  Income:Bar                       -1.35 EUR  
+
