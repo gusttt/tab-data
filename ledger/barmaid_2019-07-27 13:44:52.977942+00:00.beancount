@@ -77,3 +77,11 @@
   Liabilities:Bar:Members:Mircea   0.60 EUR     
   Income:Bar                      -0.60 EUR     
 
+2019-08-01 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2019-08-01 18:05:17.926409"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ruleant      1 JUPILER
+  Liabilities:Bar:Members:Ruleant   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
