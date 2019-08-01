@@ -143,3 +143,11 @@
   Liabilities:Bar:Members:Joris   4.60 EUR     
   Income:Bar                     -4.60 EUR     
 
+2019-08-01 txn "ruleant bought 1 items for €4.00"
+  timestamp: "2019-08-01 19:27:38.041310"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIMAY
+  Liabilities:Bar:Members:Ruleant      1 CHIMAY
+  Liabilities:Bar:Members:Ruleant   4.00 EUR   
+  Income:Bar                       -4.00 EUR   
+
