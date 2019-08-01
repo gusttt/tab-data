@@ -85,3 +85,11 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2019-08-01 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-08-01 18:13:42.945468"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
