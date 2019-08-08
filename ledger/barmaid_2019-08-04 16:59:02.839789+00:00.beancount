@@ -212,3 +212,11 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-08-08 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2019-08-08 20:02:58.967690"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MNM
+  Liabilities:Bar:Members:Bart      1 MNM
+  Liabilities:Bar:Members:Bart   0.60 EUR
+  Income:Bar                    -0.60 EUR
+
