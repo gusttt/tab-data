@@ -128,3 +128,13 @@
   Liabilities:Bar:Members:Sasja   4.50 EUR    
   Income:Bar                     -4.50 EUR    
 
+2019-08-08 txn "Stefaan bought 2 items for €2.60"
+  timestamp: "2019-08-08 18:48:44.415708"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MNM  
+  Liabilities:Bar:Members:Stefaan      1 MNM  
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Stefaan      1 FRITZ
+  Liabilities:Bar:Members:Stefaan   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+
