@@ -250,3 +250,9 @@
   Liabilities:Bar:Members:Koen   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2019-08-08 txn "Sasja deposited €30.00"
+  timestamp: "2019-08-08 20:50:20.331988"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -30.00 EUR
+  Assets:Cash:Bar                 30.00 EUR
+
