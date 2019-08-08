@@ -138,3 +138,11 @@
   Liabilities:Bar:Members:Stefaan   2.60 EUR  
   Income:Bar                       -2.60 EUR  
 
+2019-08-08 txn "Joris bought 1 items for €0.60"
+  timestamp: "2019-08-08 18:48:59.185065"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:Joris      1 MNM
+  Liabilities:Bar:Members:Joris   0.60 EUR
+  Income:Bar                     -0.60 EUR
+
