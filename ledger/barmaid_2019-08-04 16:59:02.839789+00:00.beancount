@@ -516,3 +516,11 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
 
+2019-08-15 txn "Evils bought 2 items for €4.00"
+  timestamp: "2019-08-15 22:09:51.540343"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FRITZ
+  Liabilities:Bar:Members:Elvis      2 FRITZ
+  Liabilities:Bar:Members:Elvis   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
