@@ -436,3 +436,11 @@
   Liabilities:Bar:Members:Thequux   4.00 EUR    
   Income:Bar                       -4.00 EUR    
 
+2019-08-15 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-08-15 19:46:09.822264"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
