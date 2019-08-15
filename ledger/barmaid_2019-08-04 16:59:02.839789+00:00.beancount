@@ -358,3 +358,13 @@
   Liabilities:Bar:Members:Els   2.00 EUR  
   Income:Bar                   -2.00 EUR  
 
+2019-08-15 txn "Joris bought 2 items for €2.10"
+  timestamp: "2019-08-15 18:22:46.206426"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM      
+  Liabilities:Bar:Members:Joris      1 MNM      
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Joris      1 SCHWEPPES
+  Liabilities:Bar:Members:Joris   2.10 EUR      
+  Income:Bar                     -2.10 EUR      
+
