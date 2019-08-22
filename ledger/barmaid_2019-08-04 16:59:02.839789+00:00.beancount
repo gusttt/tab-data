@@ -580,3 +580,15 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-08-22 txn "--CASH-- bought 4 items for €7.00"
+  timestamp: "2019-08-22 19:11:29.915731"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 JUPILER 
+  Assets:Cash:Bar           2 JUPILER 
+  Assets:Inventory:Bar     -1 CMCOLA  
+  Assets:Cash:Bar           1 CMCOLA  
+  Assets:Inventory:Bar     -1 VITAMALZ
+  Assets:Cash:Bar           1 VITAMALZ
+  Assets:Cash:Bar        7.00 EUR     
+  Income:Bar            -7.00 EUR     
+
