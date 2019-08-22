@@ -612,3 +612,13 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-08-22 txn "Joris bought 2 items for €2.10"
+  timestamp: "2019-08-22 20:10:25.101702"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE_ZERO
+  Liabilities:Bar:Members:Joris      1 COKE_ZERO
+  Assets:Inventory:Bar              -1 MNM      
+  Liabilities:Bar:Members:Joris      1 MNM      
+  Liabilities:Bar:Members:Joris   2.10 EUR      
+  Income:Bar                     -2.10 EUR      
+
