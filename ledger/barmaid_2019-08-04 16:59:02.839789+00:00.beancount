@@ -1094,3 +1094,11 @@
   Liabilities:Bar:Members:Maja   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2019-08-29 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-08-29 23:32:40.349994"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist      1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
