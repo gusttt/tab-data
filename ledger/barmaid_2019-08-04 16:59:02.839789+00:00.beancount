@@ -1078,3 +1078,11 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-08-29 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2019-08-29 21:32:39.324296"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR   
+  Income:Bar                        -2.00 EUR   
+
