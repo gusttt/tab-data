@@ -906,3 +906,9 @@
   Liabilities:Bar:Members:Elvis  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2019-08-29 txn "Evils gave Bertrand a gift of €7.50"
+  timestamp: "2019-08-29 17:08:26.712421"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      7.50 EUR
+  Liabilities:Bar:Members:Bertrand  -7.50 EUR
+
