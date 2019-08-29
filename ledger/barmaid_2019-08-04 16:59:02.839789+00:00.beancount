@@ -1002,3 +1002,11 @@
   Liabilities:Bar:Members:Koen  -23.60 EUR
   Assets:Cash:Bar                23.60 EUR
 
+2019-08-29 txn "Enzian bought 1 items for €2.00"
+  timestamp: "2019-08-29 19:55:37.304380"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Enzian      1 CM 
+  Liabilities:Bar:Members:Enzian   2.00 EUR
+  Income:Bar                      -2.00 EUR
+
