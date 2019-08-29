@@ -1016,3 +1016,13 @@
   Liabilities:Bar:Members:Enzian  -0.30 EUR
   Assets:Cash:Bar                  0.30 EUR
 
+2019-08-29 txn "Thomas bought 2 items for €2.10"
+  timestamp: "2019-08-29 19:57:04.880719"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Assets:Inventory:Bar               -1 BOUNTY 
+  Liabilities:Bar:Members:Thomas      1 BOUNTY 
+  Liabilities:Bar:Members:Thomas   2.10 EUR    
+  Income:Bar                      -2.10 EUR    
+
