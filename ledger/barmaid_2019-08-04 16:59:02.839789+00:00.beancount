@@ -976,3 +976,9 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR   
   Income:Bar                        -2.00 EUR   
 
+2019-08-29 txn "Evils gave Sasja a gift of €9.20"
+  timestamp: "2019-08-29 19:26:08.699933"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   9.20 EUR
+  Liabilities:Bar:Members:Sasja  -9.20 EUR
+
