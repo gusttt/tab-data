@@ -888,3 +888,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR   
   Income:Bar                     -2.00 EUR   
 
+2019-08-29 txn "Els deposited €1.00"
+  timestamp: "2019-08-29 17:07:14.945486"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -1.00 EUR
+  Assets:Cash:Bar               1.00 EUR
+
