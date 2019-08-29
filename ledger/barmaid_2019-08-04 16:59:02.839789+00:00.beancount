@@ -1040,3 +1040,11 @@
   Liabilities:Bar:Members:Sasja  -25.00 EUR
   Assets:Cash:Bar                 25.00 EUR
 
+2019-08-29 txn "Miker bought 1 items for €1.50"
+  timestamp: "2019-08-29 20:31:55.750632"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Liabilities:Bar:Members:Miker   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
