@@ -1056,3 +1056,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2019-08-29 txn "Maja bought 1 items for €2.00"
+  timestamp: "2019-08-29 20:47:31.080930"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.00 EUR   
+  Income:Bar                    -2.00 EUR   
+
