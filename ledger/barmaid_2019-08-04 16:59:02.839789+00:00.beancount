@@ -1144,3 +1144,11 @@
   Liabilities:Bar:Members:Bloemist   2.60 EUR   
   Income:Bar                        -2.60 EUR   
 
+2019-09-01 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2019-09-01 15:18:44.967461"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR   
+  Income:Bar                        -2.00 EUR   
+
