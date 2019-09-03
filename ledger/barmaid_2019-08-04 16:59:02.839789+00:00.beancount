@@ -1264,3 +1264,9 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-09-03 txn "Evils deposited €50.00"
+  timestamp: "2019-09-03 18:52:44.499821"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
