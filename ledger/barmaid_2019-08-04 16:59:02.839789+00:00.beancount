@@ -1270,3 +1270,11 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2019-09-03 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-09-03 18:52:58.513263"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
