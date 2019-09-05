@@ -1468,3 +1468,9 @@
   Liabilities:Bar:Members:Bart  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2019-09-05 txn "Thomas deposited €9.00"
+  timestamp: "2019-09-05 20:18:25.343109"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -9.00 EUR
+  Assets:Cash:Bar                  9.00 EUR
+
