@@ -1826,3 +1826,11 @@
   Liabilities:Bar:Members:Elvis   2.60 EUR   
   Income:Bar                     -2.60 EUR   
 
+2019-09-07 txn "TQ bought 1 items for €2.50"
+  timestamp: "2019-09-07 18:31:35.352264"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
