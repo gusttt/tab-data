@@ -1776,3 +1776,9 @@
   Liabilities:Bar:Members:Bertrand   1.95 EUR
   Liabilities:Bar:Members:Lisa      -1.95 EUR
 
+2019-09-07 txn "Yvan & Lauren gave Lisa a gift of €3.85"
+  timestamp: "2019-09-07 17:55:02.815002"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   3.85 EUR
+  Liabilities:Bar:Members:Lisa  -3.85 EUR
+
