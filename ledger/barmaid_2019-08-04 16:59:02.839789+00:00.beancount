@@ -1562,3 +1562,11 @@
   Liabilities:Bar:Members:Bloemist   4.00 EUR   
   Income:Bar                        -4.00 EUR   
 
+2019-09-07 txn "Els bought 1 items for €2.00"
+  timestamp: "2019-09-07 12:19:24.612332"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FLORA
+  Liabilities:Bar:Members:Els      1 FLORA
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
