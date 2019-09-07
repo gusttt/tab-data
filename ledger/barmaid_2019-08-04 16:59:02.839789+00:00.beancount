@@ -1788,3 +1788,9 @@
   Liabilities:Bar:Members:Yvan   2.60 EUR
   Liabilities:Bar:Members:Lisa  -2.60 EUR
 
+2019-09-07 txn "TQ gave Lisa a gift of €2.60"
+  timestamp: "2019-09-07 17:55:44.775635"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   2.60 EUR
+  Liabilities:Bar:Members:Lisa     -2.60 EUR
+
