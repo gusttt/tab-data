@@ -1764,3 +1764,9 @@
   Liabilities:Bar:Members:Jens   2.60 EUR     
   Income:Bar                    -2.60 EUR     
 
+2019-09-07 txn "Els gave Lisa a gift of €1.95"
+  timestamp: "2019-09-07 17:53:54.454241"
+  type: "transfer"
+  Liabilities:Bar:Members:Els    1.95 EUR
+  Liabilities:Bar:Members:Lisa  -1.95 EUR
+
