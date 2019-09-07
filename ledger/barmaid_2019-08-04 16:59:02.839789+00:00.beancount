@@ -1612,3 +1612,11 @@
   Liabilities:Bar:Members:Joris   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-09-07 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-09-07 13:24:21.613657"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 TWIX
+  Liabilities:Bar:Members:Els      1 TWIX
+  Liabilities:Bar:Members:Els   0.60 EUR 
+  Income:Bar                   -0.60 EUR 
+
