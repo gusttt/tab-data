@@ -1554,3 +1554,11 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-09-07 txn "Bloemist bought 2 items for €4.00"
+  timestamp: "2019-09-07 12:04:41.088308"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CMCOLA
+  Liabilities:Bar:Members:Bloemist      2 CMCOLA
+  Liabilities:Bar:Members:Bloemist   4.00 EUR   
+  Income:Bar                        -4.00 EUR   
+
