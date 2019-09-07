@@ -1586,3 +1586,13 @@
   Liabilities:Bar:Members:Jens   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-09-07 txn "Stefaan bought 2 items for €1.20"
+  timestamp: "2019-09-07 13:15:40.010605"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MNM  
+  Liabilities:Bar:Members:Stefaan      1 MNM  
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+  Liabilities:Bar:Members:Stefaan   1.20 EUR  
+  Income:Bar                       -1.20 EUR  
+
