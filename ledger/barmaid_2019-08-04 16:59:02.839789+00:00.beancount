@@ -1794,3 +1794,9 @@
   Liabilities:Bar:Members:Thequux   2.60 EUR
   Liabilities:Bar:Members:Lisa     -2.60 EUR
 
+2019-09-07 txn "Sasja gave Yvan & Lauren a gift of €3.85"
+  timestamp: "2019-09-07 17:57:42.881541"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja   3.85 EUR
+  Liabilities:Bar:Members:Yvan   -3.85 EUR
+
