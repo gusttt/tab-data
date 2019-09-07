@@ -1770,3 +1770,9 @@
   Liabilities:Bar:Members:Els    1.95 EUR
   Liabilities:Bar:Members:Lisa  -1.95 EUR
 
+2019-09-07 txn "Bertrand gave Lisa a gift of €1.95"
+  timestamp: "2019-09-07 17:54:10.784393"
+  type: "transfer"
+  Liabilities:Bar:Members:Bertrand   1.95 EUR
+  Liabilities:Bar:Members:Lisa      -1.95 EUR
+
