@@ -2028,3 +2028,11 @@
   Liabilities:Bar:Members:Sasja  -15.00 EUR
   Assets:Cash:Bar                 15.00 EUR
 
+2019-09-12 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2019-09-12 20:33:47.588186"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Thomas      1 CM 
+  Liabilities:Bar:Members:Thomas   2.00 EUR
+  Income:Bar                      -2.00 EUR
+
