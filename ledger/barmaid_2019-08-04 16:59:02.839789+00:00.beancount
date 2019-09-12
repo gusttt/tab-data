@@ -1880,3 +1880,9 @@
   Liabilities:Bar:Members:Bart   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2019-09-12 txn "qwaxys gave Lisa a gift of €1.50"
+  timestamp: "2019-09-12 16:47:23.885860"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   1.50 EUR
+  Liabilities:Bar:Members:Lisa  -1.50 EUR
+
