@@ -1904,3 +1904,11 @@
   Liabilities:Bar:Members:Merlijn   2.60 EUR   
   Income:Bar                       -2.60 EUR   
 
+2019-09-12 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2019-09-12 17:48:05.851613"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Bart      1 CMCOLA
+  Liabilities:Bar:Members:Bart   2.00 EUR   
+  Income:Bar                    -2.00 EUR   
+
