@@ -1912,3 +1912,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2019-09-12 txn "Bertrand bought 1 items for €2.00"
+  timestamp: "2019-09-12 17:51:00.252081"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FLORA
+  Liabilities:Bar:Members:Bertrand      1 FLORA
+  Liabilities:Bar:Members:Bertrand   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
