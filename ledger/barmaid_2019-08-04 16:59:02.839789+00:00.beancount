@@ -1936,3 +1936,9 @@
   Liabilities:Bar:Members:Merlijn   7.50 EUR    
   Income:Bar                       -7.50 EUR    
 
+2019-09-12 txn "Miker deposited €-7.25"
+  timestamp: "2019-09-12 18:07:24.836383"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker   7.25 EUR
+  Assets:Cash:Bar                -7.25 EUR
+
