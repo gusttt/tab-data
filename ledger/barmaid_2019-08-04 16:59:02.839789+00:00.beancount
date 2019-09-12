@@ -1972,3 +1972,11 @@
   Liabilities:Bar:Members:Thequux   7.00 EUR  
   Income:Bar                       -7.00 EUR  
 
+2019-09-12 txn "qwaxys bought 3 items for €6.00"
+  timestamp: "2019-09-12 18:45:11.353934"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 CM 
+  Liabilities:Bar:Members:Bart      3 CM 
+  Liabilities:Bar:Members:Bart   6.00 EUR
+  Income:Bar                    -6.00 EUR
+
