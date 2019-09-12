@@ -1894,3 +1894,13 @@
   Liabilities:Bar:Members:Yvan   6.00 EUR    
   Income:Bar                    -6.00 EUR    
 
+2019-09-12 txn "Merlijn bought 2 items for €2.60"
+  timestamp: "2019-09-12 17:33:08.919826"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Merlijn      1 FRITZ 
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Merlijn      1 BOUNTY
+  Liabilities:Bar:Members:Merlijn   2.60 EUR   
+  Income:Bar                       -2.60 EUR   
+
