@@ -1872,3 +1872,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2019-09-12 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2019-09-12 16:08:14.016650"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Bart      1 COKE
+  Liabilities:Bar:Members:Bart   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
