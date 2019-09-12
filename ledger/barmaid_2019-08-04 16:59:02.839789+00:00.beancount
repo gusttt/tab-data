@@ -1948,3 +1948,9 @@
   Liabilities:Bar:Members:Bloemist   10.25 EUR
   Assets:Cash:Bar                   -10.25 EUR
 
+2019-09-12 txn "Evils deposited €-3.25"
+  timestamp: "2019-09-12 18:27:29.338764"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   3.25 EUR
+  Assets:Cash:Bar                -3.25 EUR
+
