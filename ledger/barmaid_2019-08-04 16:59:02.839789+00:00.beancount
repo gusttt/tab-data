@@ -2072,3 +2072,11 @@
   Liabilities:Bar:Members:Alex   4.50 EUR
   Assets:Cash:Bar               -4.50 EUR
 
+2019-09-18 txn "Alex bought 1 items for €2.00"
+  timestamp: "2019-09-18 15:24:34.407543"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Alex      1 CMCOLA
+  Liabilities:Bar:Members:Alex   2.00 EUR   
+  Income:Bar                    -2.00 EUR   
+
