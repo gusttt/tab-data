@@ -2244,3 +2244,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2019-09-19 txn "Els bought 1 items for €0.20"
+  timestamp: "2019-09-19 19:23:20.068116"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHUPACHUPS
+  Liabilities:Bar:Members:Els      1 CHUPACHUPS
+  Liabilities:Bar:Members:Els   0.20 EUR       
+  Income:Bar                   -0.20 EUR       
+
