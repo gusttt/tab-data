@@ -2292,3 +2292,11 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2019-09-19 txn "Ruben bought 1 items for €1.50"
+  timestamp: "2019-09-19 20:05:24.394067"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+  Liabilities:Bar:Members:Ruben   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
