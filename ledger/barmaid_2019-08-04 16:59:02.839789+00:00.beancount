@@ -2158,3 +2158,9 @@
   Liabilities:Bar:Members:Merlijn   5.20 EUR  
   Income:Bar                       -5.20 EUR  
 
+2019-09-19 txn "Ruben deposited €17.00"
+  timestamp: "2019-09-19 18:07:24.259203"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruben  -17.00 EUR
+  Assets:Cash:Bar                 17.00 EUR
+
