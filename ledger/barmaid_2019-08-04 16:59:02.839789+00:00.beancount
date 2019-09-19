@@ -2130,3 +2130,13 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-09-19 txn "Els bought 2 items for €2.60"
+  timestamp: "2019-09-19 17:19:13.779880"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ   
+  Liabilities:Bar:Members:Els      1 FRITZ   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.60 EUR     
+  Income:Bar                   -2.60 EUR     
+
