@@ -2476,3 +2476,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-09-22 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-09-22 14:50:01.199097"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
