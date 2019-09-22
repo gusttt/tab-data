@@ -2452,3 +2452,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR   
   Income:Bar                     -2.00 EUR   
 
+2019-09-22 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-09-22 13:56:58.828427"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Sasja      1 FLORA
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
