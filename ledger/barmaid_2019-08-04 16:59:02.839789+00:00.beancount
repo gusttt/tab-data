@@ -2436,3 +2436,11 @@
   Liabilities:Bar:Members:Sasja  -25.00 EUR
   Assets:Cash:Bar                 25.00 EUR
 
+2019-09-22 txn "TQ bought 1 items for €2.00"
+  timestamp: "2019-09-22 12:22:45.521408"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
