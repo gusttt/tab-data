@@ -2756,3 +2756,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-09-23 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2019-09-23 01:45:15.619827"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Liabilities:Bar:Members:Bloemist   0.60 EUR 
+  Income:Bar                        -0.60 EUR 
+
