@@ -2764,3 +2764,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-09-23 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-09-23 01:52:07.485605"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
+  Liabilities:Bar:Members:Elvis   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
