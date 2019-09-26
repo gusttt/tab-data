@@ -2924,3 +2924,13 @@
   Liabilities:Bar:Members:Joris   3.10 EUR  
   Income:Bar                     -3.10 EUR  
 
+2019-09-26 txn "Thomas bought 2 items for €3.10"
+  timestamp: "2019-09-26 20:00:05.317984"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Assets:Inventory:Bar               -1 MARS 
+  Liabilities:Bar:Members:Thomas      1 MARS 
+  Liabilities:Bar:Members:Thomas   3.10 EUR  
+  Income:Bar                      -3.10 EUR  
+
