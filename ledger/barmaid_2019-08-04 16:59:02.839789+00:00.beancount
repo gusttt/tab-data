@@ -2974,3 +2974,11 @@
   Liabilities:Bar:Members:Miker   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2019-09-26 txn "Thomas bought 1 items for €0.50"
+  timestamp: "2019-09-26 20:46:02.282786"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 POPCORN
+  Liabilities:Bar:Members:Thomas      1 POPCORN
+  Liabilities:Bar:Members:Thomas   0.50 EUR    
+  Income:Bar                      -0.50 EUR    
+
