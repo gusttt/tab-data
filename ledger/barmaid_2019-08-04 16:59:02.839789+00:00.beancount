@@ -2882,3 +2882,11 @@
   Liabilities:Bar:Members:Koen   4.50 EUR 
   Income:Bar                    -4.50 EUR 
 
+2019-09-26 txn "TQ bought 3 items for €4.50"
+  timestamp: "2019-09-26 19:15:14.923541"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 COKE
+  Liabilities:Bar:Members:Thequux      3 COKE
+  Liabilities:Bar:Members:Thequux   4.50 EUR 
+  Income:Bar                       -4.50 EUR 
+
