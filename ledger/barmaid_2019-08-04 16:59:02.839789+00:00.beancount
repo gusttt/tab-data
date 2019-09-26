@@ -2866,3 +2866,11 @@
   Liabilities:Bar:Members:Thomas   3.00 EUR    
   Income:Bar                      -3.00 EUR    
 
+2019-09-26 txn "Lisa bought 2 items for €3.00"
+  timestamp: "2019-09-26 19:14:47.029053"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 COKE
+  Liabilities:Bar:Members:Lisa      2 COKE
+  Liabilities:Bar:Members:Lisa   3.00 EUR 
+  Income:Bar                    -3.00 EUR 
+
