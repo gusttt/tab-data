@@ -2982,3 +2982,11 @@
   Liabilities:Bar:Members:Thomas   0.50 EUR    
   Income:Bar                      -0.50 EUR    
 
+2019-09-26 txn "Thomas bought 1 items for €0.60"
+  timestamp: "2019-09-26 20:56:58.910078"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:Thomas      1 TWIX
+  Liabilities:Bar:Members:Thomas   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
