@@ -177,6 +177,11 @@
   event_price: 0.90
   currency: LION
   category: food
+- name: Taco Snack Pack
+  price: 7.50
+  event_price: 10.00
+  currency: TACOSNACKPACK
+  category: food
 
 # frozen goods
 - name: Ice Cream
