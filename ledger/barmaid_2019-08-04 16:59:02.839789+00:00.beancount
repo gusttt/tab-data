@@ -2874,3 +2874,11 @@
   Liabilities:Bar:Members:Lisa   3.00 EUR 
   Income:Bar                    -3.00 EUR 
 
+2019-09-26 txn "Koen bought 3 items for €4.50"
+  timestamp: "2019-09-26 19:15:09.294282"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 COKE
+  Liabilities:Bar:Members:Koen      3 COKE
+  Liabilities:Bar:Members:Koen   4.50 EUR 
+  Income:Bar                    -4.50 EUR 
+
