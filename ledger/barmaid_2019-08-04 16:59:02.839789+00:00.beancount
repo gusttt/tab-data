@@ -2940,3 +2940,11 @@
   Liabilities:Bar:Members:Thomas  -10.00 EUR
   Assets:Cash:Bar                  10.00 EUR
 
+2019-09-26 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-09-26 20:17:25.169378"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
