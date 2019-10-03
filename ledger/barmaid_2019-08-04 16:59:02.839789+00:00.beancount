@@ -3044,3 +3044,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-10-03 txn "On8wr bought 2 items for €2.60"
+  timestamp: "2019-10-03 14:21:16.905690"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:On8wr      1 MNM
+  Liabilities:Bar:Members:On8wr   2.60 EUR
+  Income:Bar                     -2.60 EUR
+
