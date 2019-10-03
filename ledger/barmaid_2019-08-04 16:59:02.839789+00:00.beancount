@@ -3122,3 +3122,11 @@
   Liabilities:Bar:Members:Ewaut  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2019-10-03 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2019-10-03 17:57:24.902171"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+  Liabilities:Bar:Members:Stefaan   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
