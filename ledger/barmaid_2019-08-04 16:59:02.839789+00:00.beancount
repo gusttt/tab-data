@@ -3180,3 +3180,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2019-10-03 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-10-03 18:54:25.750302"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
