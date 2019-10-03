@@ -3156,3 +3156,11 @@
   Liabilities:Bar:Members:Joris   3.10 EUR  
   Income:Bar                     -3.10 EUR  
 
+2019-10-03 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2019-10-03 18:30:59.226843"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Liabilities:Bar:Members:Thomas   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
