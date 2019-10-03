@@ -3172,3 +3172,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2019-10-03 txn "Miker bought 1 items for €2.00"
+  timestamp: "2019-10-03 18:54:09.776173"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Miker      1 VITAMALZ
+  Liabilities:Bar:Members:Miker   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
