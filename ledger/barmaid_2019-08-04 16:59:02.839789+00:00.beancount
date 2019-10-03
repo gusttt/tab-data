@@ -3116,3 +3116,9 @@
   Liabilities:Bar:Members:Ewaut   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-10-03 txn "Ewaut deposited €20.00"
+  timestamp: "2019-10-03 17:45:42.631826"
+  type: "deposit"
+  Liabilities:Bar:Members:Ewaut  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
