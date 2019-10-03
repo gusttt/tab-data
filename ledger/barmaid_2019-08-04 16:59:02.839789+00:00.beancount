@@ -3194,3 +3194,11 @@
   Liabilities:Bar:Members:Elvis   10.05 EUR
   Liabilities:Bar:Members:Miker  -10.05 EUR
 
+2019-10-03 txn "Joris bought 1 items for €0.60"
+  timestamp: "2019-10-03 19:05:46.974975"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM
+  Liabilities:Bar:Members:Joris      1 MNM
+  Liabilities:Bar:Members:Joris   0.60 EUR
+  Income:Bar                     -0.60 EUR
+
