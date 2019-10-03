@@ -3102,3 +3102,9 @@
   Liabilities:Bar:Members:Bertrand   2.00 EUR
   Income:Bar                        -2.00 EUR
 
+2019-10-03 txn "Bertrand deposited €2.00"
+  timestamp: "2019-10-03 17:44:55.626337"
+  type: "deposit"
+  Liabilities:Bar:Members:Bertrand  -2.00 EUR
+  Assets:Cash:Bar                    2.00 EUR
+
