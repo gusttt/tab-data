@@ -3108,3 +3108,11 @@
   Liabilities:Bar:Members:Bertrand  -2.00 EUR
   Assets:Cash:Bar                    2.00 EUR
 
+2019-10-03 txn "Ewaut bought 1 items for €2.00"
+  timestamp: "2019-10-03 17:45:06.507803"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ewaut      1 CM 
+  Liabilities:Bar:Members:Ewaut   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
