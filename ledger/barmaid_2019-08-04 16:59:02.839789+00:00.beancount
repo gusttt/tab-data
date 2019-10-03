@@ -3224,3 +3224,13 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2019-10-03 txn "Thomas bought 2 items for €2.10"
+  timestamp: "2019-10-03 19:18:26.301092"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Assets:Inventory:Bar               -1 MNM    
+  Liabilities:Bar:Members:Thomas      1 MNM    
+  Liabilities:Bar:Members:Thomas   2.10 EUR    
+  Income:Bar                      -2.10 EUR    
+
