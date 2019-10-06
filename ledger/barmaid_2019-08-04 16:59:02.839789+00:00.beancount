@@ -3324,3 +3324,15 @@
   Liabilities:Bar:Members:Jens  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2019-10-06 txn "Els bought 3 items for €6.60"
+  timestamp: "2019-10-06 11:24:04.681186"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIMAY
+  Liabilities:Bar:Members:Els      1 CHIMAY
+  Assets:Inventory:Bar            -1 FLORA 
+  Liabilities:Bar:Members:Els      1 FLORA 
+  Assets:Inventory:Bar            -1 MNM   
+  Liabilities:Bar:Members:Els      1 MNM   
+  Liabilities:Bar:Members:Els   6.60 EUR   
+  Income:Bar                   -6.60 EUR   
+
