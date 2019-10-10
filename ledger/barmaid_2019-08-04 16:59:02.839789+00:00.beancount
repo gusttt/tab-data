@@ -3374,3 +3374,11 @@
   Liabilities:Bar:Members:Jens   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-10-10 txn "Jens bought 1 items for €2.00"
+  timestamp: "2019-10-10 11:00:17.466546"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Jens      1 CM 
+  Liabilities:Bar:Members:Jens   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
