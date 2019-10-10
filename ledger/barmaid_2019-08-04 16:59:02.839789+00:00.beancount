@@ -3468,3 +3468,13 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2019-10-10 txn "--CASH-- bought 2 items for €3.50"
+  timestamp: "2019-10-10 18:54:00.518536"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Inventory:Bar     -1 FRITZ  
+  Assets:Cash:Bar           1 FRITZ  
+  Assets:Cash:Bar        3.50 EUR    
+  Income:Bar            -3.50 EUR    
+
