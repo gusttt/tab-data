@@ -3500,3 +3500,9 @@
   Liabilities:Bar:Members:Bloemist  -14.00 EUR
   Assets:Cash:Bar                    14.00 EUR
 
+2019-10-10 txn "Jens deposited €1.00"
+  timestamp: "2019-10-10 19:05:48.300279"
+  type: "deposit"
+  Liabilities:Bar:Members:Jens  -1.00 EUR
+  Assets:Cash:Bar                1.00 EUR
+
