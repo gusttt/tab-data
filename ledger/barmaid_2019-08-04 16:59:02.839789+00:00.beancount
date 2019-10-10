@@ -3588,3 +3588,13 @@
   Assets:Cash:Bar        2.00 EUR     
   Income:Bar            -2.00 EUR     
 
+2019-10-10 txn "Jens bought 2 items for €2.60"
+  timestamp: "2019-10-10 20:39:26.145647"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Jens      1 CMCOLA
+  Assets:Inventory:Bar             -1 MNM   
+  Liabilities:Bar:Members:Jens      1 MNM   
+  Liabilities:Bar:Members:Jens   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
