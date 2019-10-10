@@ -3416,3 +3416,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2019-10-10 txn "Miker bought 2 items for €3.00"
+  timestamp: "2019-10-10 17:51:12.161421"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Miker      2 JUPILER
+  Liabilities:Bar:Members:Miker   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
