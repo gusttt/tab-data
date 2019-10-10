@@ -3580,3 +3580,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR
   Income:Bar                      -0.60 EUR
 
+2019-10-10 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2019-10-10 20:18:05.938870"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 VITAMALZ
+  Assets:Cash:Bar           1 VITAMALZ
+  Assets:Cash:Bar        2.00 EUR     
+  Income:Bar            -2.00 EUR     
+
