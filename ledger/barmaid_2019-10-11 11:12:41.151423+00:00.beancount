@@ -10,3 +10,11 @@
   Liabilities:Bar:Members:Elvis      2.50 EUR
   Liabilities:Bar:Members:Bloemist  -2.50 EUR
 
+2019-10-11 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2019-10-11 18:35:17.715636"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
