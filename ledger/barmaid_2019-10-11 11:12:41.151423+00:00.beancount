@@ -4,3 +4,9 @@
   Liabilities:Bar:Members:Jens    3.99 EUR
   Liabilities:Bar:Members:Elvis  -3.99 EUR
 
+2019-10-11 txn "Evils gave Bloemist a gift of €2.50"
+  timestamp: "2019-10-11 11:12:50.953702"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      2.50 EUR
+  Liabilities:Bar:Members:Bloemist  -2.50 EUR
+
