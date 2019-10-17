@@ -190,3 +190,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2019-10-17 txn "Miker gave Evils a gift of €18.51"
+  timestamp: "2019-10-17 21:16:31.537495"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker   18.51 EUR
+  Liabilities:Bar:Members:Elvis  -18.51 EUR
+
