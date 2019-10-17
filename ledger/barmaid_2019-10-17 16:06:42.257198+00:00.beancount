@@ -182,3 +182,11 @@
   Liabilities:Bar:Members:Elvis   0.50 EUR        
   Income:Bar                     -0.50 EUR        
 
+2019-10-17 txn "Miker bought 1 items for €1.50"
+  timestamp: "2019-10-17 21:13:05.485881"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Miker      1 ICETEA
+  Liabilities:Bar:Members:Miker   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
