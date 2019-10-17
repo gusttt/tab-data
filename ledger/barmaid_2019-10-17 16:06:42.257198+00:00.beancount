@@ -68,3 +68,11 @@
   Liabilities:Bar:Members:Elvis   0.50 EUR        
   Income:Bar                     -0.50 EUR        
 
+2019-10-17 txn "Merlijn bought 1 items for €0.50"
+  timestamp: "2019-10-17 18:56:35.149335"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER_GLASS
+  Liabilities:Bar:Members:Merlijn      1 WATER_GLASS
+  Liabilities:Bar:Members:Merlijn   0.50 EUR        
+  Income:Bar                       -0.50 EUR        
+
