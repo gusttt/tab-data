@@ -126,3 +126,11 @@
   Liabilities:Bar:Members:Merlijn   0.50 EUR        
   Income:Bar                       -0.50 EUR        
 
+2019-10-17 txn "Sasja bought 1 items for €0.50"
+  timestamp: "2019-10-17 19:23:37.759779"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      1 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   0.50 EUR        
+  Income:Bar                     -0.50 EUR        
+
