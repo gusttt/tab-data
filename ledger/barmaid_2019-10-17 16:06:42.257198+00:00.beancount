@@ -218,3 +218,9 @@
   Liabilities:Bar:Members:Jens  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2019-10-17 txn "Evils deposited €-2.50"
+  timestamp: "2019-10-17 23:16:47.280684"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   2.50 EUR
+  Assets:Cash:Bar                -2.50 EUR
+
