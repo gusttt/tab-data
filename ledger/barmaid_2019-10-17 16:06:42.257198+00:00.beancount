@@ -92,3 +92,13 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-10-17 txn "Joren bought 3 items for €5.50"
+  timestamp: "2019-10-17 19:09:45.759723"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FRITZ  
+  Liabilities:Bar:Members:Joren      2 FRITZ  
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Joren      1 JUPILER
+  Liabilities:Bar:Members:Joren   5.50 EUR    
+  Income:Bar                     -5.50 EUR    
+
