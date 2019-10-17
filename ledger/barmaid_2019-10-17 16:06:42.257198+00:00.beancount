@@ -14,3 +14,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-10-17 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2019-10-17 17:44:45.680435"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+
