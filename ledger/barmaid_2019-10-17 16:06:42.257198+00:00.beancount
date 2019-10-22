@@ -224,3 +224,11 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR
   Assets:Cash:Bar                -2.50 EUR
 
+2019-10-22 txn "Els bought 1 items for €2.00"
+  timestamp: "2019-10-22 07:41:58.618836"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FLORA
+  Liabilities:Bar:Members:Els      1 FLORA
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
