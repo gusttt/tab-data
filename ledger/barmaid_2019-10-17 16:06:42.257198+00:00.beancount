@@ -254,3 +254,11 @@
   Liabilities:Bar:Members:Sasja  -25.00 EUR
   Assets:Cash:Bar                 25.00 EUR
 
+2019-10-23 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-10-23 18:51:24.276784"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Sasja      1 VITAMALZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
