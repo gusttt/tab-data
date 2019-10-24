@@ -342,3 +342,13 @@
   Liabilities:Bar:Members:Ewaut   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-10-24 txn "--CASH-- bought 2 items for €2.60"
+  timestamp: "2019-10-24 18:41:30.783538"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MARS 
+  Assets:Cash:Bar           1 MARS 
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        2.60 EUR  
+  Income:Bar            -2.60 EUR  
+
