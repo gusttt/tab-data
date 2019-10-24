@@ -434,3 +434,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2019-10-24 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-10-24 23:40:04.202273"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Elvis      1 MARS
+  Liabilities:Bar:Members:Elvis   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
