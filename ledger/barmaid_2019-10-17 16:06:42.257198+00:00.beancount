@@ -382,3 +382,11 @@
   Liabilities:Bar:Members:Miker   2.10 EUR 
   Income:Bar                     -2.10 EUR 
 
+2019-10-24 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2019-10-24 19:22:39.789300"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Bart      1 DUVEL
+  Liabilities:Bar:Members:Bart   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
