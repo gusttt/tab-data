@@ -418,3 +418,11 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR
   Assets:Cash:Bar                -1.00 EUR
 
+2019-10-24 txn "Miker bought 1 items for €2.50"
+  timestamp: "2019-10-24 21:12:47.973480"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Miker      1 DUVEL
+  Liabilities:Bar:Members:Miker   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
