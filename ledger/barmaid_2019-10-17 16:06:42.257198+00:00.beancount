@@ -442,3 +442,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-10-25 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-10-25 13:01:03.001188"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
