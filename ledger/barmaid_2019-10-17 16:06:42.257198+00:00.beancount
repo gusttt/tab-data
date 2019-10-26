@@ -466,3 +466,11 @@
   Liabilities:Bar:Members:Lisa  -1.50 EUR
   Assets:Cash:Bar                1.50 EUR
 
+2019-10-26 txn "Joris bought 1 items for €1.50"
+  timestamp: "2019-10-26 12:27:42.891249"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Joris      1 ICETEA
+  Liabilities:Bar:Members:Joris   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
