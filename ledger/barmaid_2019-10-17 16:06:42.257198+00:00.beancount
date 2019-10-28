@@ -498,3 +498,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-10-28 txn "Jens bought 1 items for €1.50"
+  timestamp: "2019-10-28 18:36:44.045951"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KRIEK
+  Liabilities:Bar:Members:Jens      1 KRIEK
+  Liabilities:Bar:Members:Jens   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
