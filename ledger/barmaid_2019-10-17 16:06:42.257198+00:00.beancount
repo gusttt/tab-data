@@ -530,3 +530,9 @@
   Liabilities:Bar:Members:Elvis   4.00 EUR   
   Income:Bar                     -4.00 EUR   
 
+2019-10-31 txn "--CASH-- gave Evils a gift of €2.00"
+  timestamp: "2019-10-31 18:39:50.067633"
+  type: "transfer"
+  Assets:Cash:Bar                 2.00 EUR
+  Liabilities:Bar:Members:Elvis  -2.00 EUR
+
