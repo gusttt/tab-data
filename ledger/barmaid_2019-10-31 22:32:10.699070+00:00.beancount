@@ -24,3 +24,9 @@
   Liabilities:Bar:Members:Lisa   3.50 EUR  
   Income:Bar                    -3.50 EUR  
 
+2019-11-02 txn "Lisa deposited €2.90"
+  timestamp: "2019-11-02 15:11:48.120401"
+  type: "deposit"
+  Liabilities:Bar:Members:Lisa  -2.90 EUR
+  Assets:Cash:Bar                2.90 EUR
+
