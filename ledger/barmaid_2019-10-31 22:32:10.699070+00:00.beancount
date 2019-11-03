@@ -122,3 +122,11 @@
   Liabilities:Bar:Members:Koen   2.40 EUR  
   Income:Bar                    -2.40 EUR  
 
+2019-11-03 txn "qwaxys bought 4 items for €2.40"
+  timestamp: "2019-11-03 22:55:44.399918"
+  type: "purchase"
+  Assets:Inventory:Bar             -4 SNACK
+  Liabilities:Bar:Members:Bart      4 SNACK
+  Liabilities:Bar:Members:Bart   2.40 EUR  
+  Income:Bar                    -2.40 EUR  
+
