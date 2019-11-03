@@ -114,3 +114,11 @@
   Liabilities:Bar:Members:Koen  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2019-11-03 txn "Koen bought 4 items for €2.40"
+  timestamp: "2019-11-03 22:55:29.886957"
+  type: "purchase"
+  Assets:Inventory:Bar             -4 SNACK
+  Liabilities:Bar:Members:Koen      4 SNACK
+  Liabilities:Bar:Members:Koen   2.40 EUR  
+  Income:Bar                    -2.40 EUR  
+
