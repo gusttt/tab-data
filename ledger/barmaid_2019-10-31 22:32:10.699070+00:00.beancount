@@ -254,3 +254,11 @@
   Assets:Cash:Bar        2.60 EUR  
   Income:Bar            -2.60 EUR  
 
+2019-11-07 txn "Joris bought 1 items for €0.60"
+  timestamp: "2019-11-07 20:38:19.221824"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joris      1 SNICKERS
+  Liabilities:Bar:Members:Joris   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
