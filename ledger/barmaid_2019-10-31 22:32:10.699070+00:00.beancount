@@ -222,3 +222,11 @@
   Assets:Cash:Bar        0.60 EUR     
   Income:Bar            -0.60 EUR     
 
+2019-11-07 txn "Merlijn bought 1 items for €0.60"
+  timestamp: "2019-11-07 20:08:22.005248"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Merlijn      1 SNICKERS
+  Liabilities:Bar:Members:Merlijn   0.60 EUR     
+  Income:Bar                       -0.60 EUR     
+
