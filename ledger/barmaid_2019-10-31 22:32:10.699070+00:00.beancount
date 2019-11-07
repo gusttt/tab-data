@@ -236,3 +236,11 @@
   Liabilities:Bar:Members:Merlijn  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2019-11-07 txn "TQ bought 2 items for €3.00"
+  timestamp: "2019-11-07 20:18:19.910696"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 JUPILER
+  Liabilities:Bar:Members:Thequux      2 JUPILER
+  Liabilities:Bar:Members:Thequux   3.00 EUR    
+  Income:Bar                       -3.00 EUR    
+
