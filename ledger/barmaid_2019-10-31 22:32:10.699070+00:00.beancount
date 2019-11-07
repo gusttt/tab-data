@@ -154,3 +154,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-11-07 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2019-11-07 18:55:28.395918"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FLORA
+  Assets:Cash:Bar           1 FLORA
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        4.00 EUR  
+  Income:Bar            -4.00 EUR  
+
