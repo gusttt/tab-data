@@ -276,3 +276,13 @@
   Liabilities:Bar:Members:Miker  -30.00 EUR
   Assets:Cash:Bar                 30.00 EUR
 
+2019-11-07 txn "Miker bought 2 items for €2.10"
+  timestamp: "2019-11-07 20:44:04.328791"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Miker      1 MARS
+  Liabilities:Bar:Members:Miker   2.10 EUR 
+  Income:Bar                     -2.10 EUR 
+
