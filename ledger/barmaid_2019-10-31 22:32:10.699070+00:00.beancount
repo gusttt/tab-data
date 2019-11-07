@@ -188,3 +188,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2019-11-07 txn "Els bought 1 items for €1.50"
+  timestamp: "2019-11-07 19:35:00.398783"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
