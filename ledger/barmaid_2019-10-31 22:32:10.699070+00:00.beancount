@@ -300,3 +300,9 @@
   Liabilities:Bar:Members:Elvis      2.50 EUR
   Liabilities:Bar:Members:Bloemist  -2.50 EUR
 
+2019-11-07 txn "Bloemist deposited €10.00"
+  timestamp: "2019-11-07 21:30:52.019666"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -10.00 EUR
+  Assets:Cash:Bar                    10.00 EUR
+
