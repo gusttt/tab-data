@@ -244,3 +244,13 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR    
   Income:Bar                       -3.00 EUR    
 
+2019-11-07 txn "--CASH-- bought 2 items for €2.60"
+  timestamp: "2019-11-07 20:29:18.403993"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FLORA
+  Assets:Cash:Bar           1 FLORA
+  Assets:Inventory:Bar     -1 MARS 
+  Assets:Cash:Bar           1 MARS 
+  Assets:Cash:Bar        2.60 EUR  
+  Income:Bar            -2.60 EUR  
+
