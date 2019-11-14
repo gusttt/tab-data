@@ -458,3 +458,11 @@
   Liabilities:Bar:Members:Els   0.50 EUR
   Income:Bar                   -0.50 EUR
 
+2019-11-14 txn "Koen bought 4 items for €10.00"
+  timestamp: "2019-11-14 20:44:20.967014"
+  type: "purchase"
+  Assets:Inventory:Bar              -4 DUVEL
+  Liabilities:Bar:Members:Koen       4 DUVEL
+  Liabilities:Bar:Members:Koen   10.00 EUR  
+  Income:Bar                    -10.00 EUR  
+
