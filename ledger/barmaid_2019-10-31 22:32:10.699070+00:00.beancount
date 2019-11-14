@@ -482,3 +482,9 @@
   Liabilities:Bar:Members:Stefaan   7.50 EUR  
   Income:Bar                       -7.50 EUR  
 
+2019-11-14 txn "Stefaan deposited €-20.00"
+  timestamp: "2019-11-14 20:46:05.578930"
+  type: "deposit"
+  Liabilities:Bar:Members:Stefaan   20.00 EUR
+  Assets:Cash:Bar                  -20.00 EUR
+
