@@ -474,3 +474,11 @@
   Liabilities:Bar:Members:Els   5.00 EUR  
   Income:Bar                   -5.00 EUR  
 
+2019-11-14 txn "Stefaan bought 3 items for €7.50"
+  timestamp: "2019-11-14 20:45:49.768940"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 DUVEL
+  Liabilities:Bar:Members:Stefaan      3 DUVEL
+  Liabilities:Bar:Members:Stefaan   7.50 EUR  
+  Income:Bar                       -7.50 EUR  
+
