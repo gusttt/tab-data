@@ -370,3 +370,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-11-14 txn "qwaxys gave Els a gift of €41.95"
+  timestamp: "2019-11-14 19:27:18.219761"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   41.95 EUR
+  Liabilities:Bar:Members:Els   -41.95 EUR
+
