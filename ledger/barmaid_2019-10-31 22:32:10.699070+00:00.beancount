@@ -434,3 +434,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR     
   Income:Bar                      -0.60 EUR     
 
+2019-11-14 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2019-11-14 20:37:35.382016"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Merlijn      1 ICETEA
+  Liabilities:Bar:Members:Merlijn   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
