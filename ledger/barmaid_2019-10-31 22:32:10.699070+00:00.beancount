@@ -504,3 +504,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2019-11-14 txn "Lisa bought 1 items for €0.60"
+  timestamp: "2019-11-14 21:09:26.789021"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Lisa      1 SNACK
+  Liabilities:Bar:Members:Lisa   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
