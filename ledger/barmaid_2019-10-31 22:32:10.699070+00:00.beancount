@@ -376,3 +376,11 @@
   Liabilities:Bar:Members:Bart   41.95 EUR
   Liabilities:Bar:Members:Els   -41.95 EUR
 
+2019-11-14 txn "Evils bought 1 items for €1.50"
+  timestamp: "2019-11-14 19:53:39.648610"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Elvis      1 COKE
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
