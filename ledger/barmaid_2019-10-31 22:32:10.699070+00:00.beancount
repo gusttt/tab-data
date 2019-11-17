@@ -548,3 +548,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2019-11-17 txn "Stefaan bought 1 items for €1.50"
+  timestamp: "2019-11-17 15:47:33.432342"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Stefaan      1 FANTA
+  Liabilities:Bar:Members:Stefaan   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
