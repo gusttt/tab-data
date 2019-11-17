@@ -576,3 +576,11 @@
   Liabilities:Bar:Members:Koen   7.50 EUR
   Assets:Cash:Bar               -7.50 EUR
 
+2019-11-17 txn "Stefaan bought 1 items for €1.00"
+  timestamp: "2019-11-17 17:01:14.648707"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICE_CREAM
+  Liabilities:Bar:Members:Stefaan      1 ICE_CREAM
+  Liabilities:Bar:Members:Stefaan   1.00 EUR      
+  Income:Bar                       -1.00 EUR      
+
