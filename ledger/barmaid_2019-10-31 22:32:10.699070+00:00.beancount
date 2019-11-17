@@ -584,3 +584,9 @@
   Liabilities:Bar:Members:Stefaan   1.00 EUR      
   Income:Bar                       -1.00 EUR      
 
+2019-11-17 txn "Evils deposited €1.00"
+  timestamp: "2019-11-17 18:26:05.550752"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -1.00 EUR
+  Assets:Cash:Bar                 1.00 EUR
+
