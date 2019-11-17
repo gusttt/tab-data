@@ -532,3 +532,11 @@
   Liabilities:Bar:Members:Thequux   11.00 EUR
   Liabilities:Bar:Members:Bart     -11.00 EUR
 
+2019-11-17 txn "Lisa bought 1 items for €0.60"
+  timestamp: "2019-11-17 13:48:43.095890"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Lisa      1 SNACK
+  Liabilities:Bar:Members:Lisa   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
