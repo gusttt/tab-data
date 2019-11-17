@@ -562,3 +562,11 @@
   Liabilities:Bar:Members:Stefaan  -40.00 EUR
   Assets:Cash:Bar                   40.00 EUR
 
+2019-11-17 txn "Lisa bought 1 items for €0.60"
+  timestamp: "2019-11-17 15:50:52.808493"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Lisa      1 SNACK
+  Liabilities:Bar:Members:Lisa   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
