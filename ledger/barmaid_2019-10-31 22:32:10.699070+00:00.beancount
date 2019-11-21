@@ -672,3 +672,9 @@
   Liabilities:Bar:Members:On8wr   5.00 EUR
   Assets:Cash:Bar                -5.00 EUR
 
+2019-11-21 txn "Lisa gave --CASH-- a gift of €7.50"
+  timestamp: "2019-11-21 19:27:51.282580"
+  type: "transfer"
+  Liabilities:Bar:Members:Lisa   7.50 EUR
+  Assets:Cash:Bar               -7.50 EUR
+
