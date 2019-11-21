@@ -614,3 +614,9 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-11-21 txn "qwaxys gave Koen a gift of €9.00"
+  timestamp: "2019-11-21 18:01:06.112105"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   9.00 EUR
+  Liabilities:Bar:Members:Koen  -9.00 EUR
+
