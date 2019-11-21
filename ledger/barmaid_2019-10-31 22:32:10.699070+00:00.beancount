@@ -736,3 +736,11 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-11-21 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2019-11-21 19:43:45.375023"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 FLORA
+  Assets:Cash:Bar           2 FLORA
+  Assets:Cash:Bar        4.00 EUR  
+  Income:Bar            -4.00 EUR  
+
