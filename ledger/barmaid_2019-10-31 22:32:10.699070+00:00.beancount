@@ -678,3 +678,9 @@
   Liabilities:Bar:Members:Lisa   7.50 EUR
   Assets:Cash:Bar               -7.50 EUR
 
+2019-11-21 txn "Koen gave --CASH-- a gift of €5.00"
+  timestamp: "2019-11-21 19:28:14.322854"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
