@@ -684,3 +684,9 @@
   Liabilities:Bar:Members:Koen   5.00 EUR
   Assets:Cash:Bar               -5.00 EUR
 
+2019-11-21 txn "qwaxys gave --CASH-- a gift of €10.00"
+  timestamp: "2019-11-21 19:28:23.338883"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   10.00 EUR
+  Assets:Cash:Bar               -10.00 EUR
+
