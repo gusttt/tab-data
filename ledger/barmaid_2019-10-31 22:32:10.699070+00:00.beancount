@@ -696,3 +696,9 @@
   Liabilities:Bar:Members:Merlijn   10.00 EUR
   Assets:Cash:Bar                  -10.00 EUR
 
+2019-11-21 txn "Evils gave --CASH-- a gift of €5.00"
+  timestamp: "2019-11-21 19:28:49.998854"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   5.00 EUR
+  Assets:Cash:Bar                -5.00 EUR
+
