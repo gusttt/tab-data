@@ -710,3 +710,13 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2019-11-21 txn "Joris bought 2 items for €3.10"
+  timestamp: "2019-11-21 19:33:11.894892"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL 
+  Liabilities:Bar:Members:Joris      1 DUVEL 
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   3.10 EUR   
+  Income:Bar                     -3.10 EUR   
+
