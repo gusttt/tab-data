@@ -848,3 +848,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-11-22 txn "Evils bought 2 items for €1.20"
+  timestamp: "2019-11-22 00:07:38.389568"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KING  
+  Liabilities:Bar:Members:Elvis      1 KING  
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Elvis      1 BOUNTY
+  Liabilities:Bar:Members:Elvis   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
