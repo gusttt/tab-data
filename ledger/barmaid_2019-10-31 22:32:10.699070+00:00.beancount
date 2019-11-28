@@ -1026,3 +1026,9 @@
   Liabilities:Bar:Members:Carroarmato0   5.50 EUR
   Assets:Cash:Bar                       -5.50 EUR
 
+2019-11-28 txn "qwaxys gave --CASH-- a gift of €5.00"
+  timestamp: "2019-11-28 21:42:46.929967"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
