@@ -1008,3 +1008,9 @@
   Liabilities:Bar:Members:Joris   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2019-11-28 txn "Stefaan gave --CASH-- a gift of €6.00"
+  timestamp: "2019-11-28 21:41:34.173198"
+  type: "transfer"
+  Liabilities:Bar:Members:Stefaan   6.00 EUR
+  Assets:Cash:Bar                  -6.00 EUR
+
