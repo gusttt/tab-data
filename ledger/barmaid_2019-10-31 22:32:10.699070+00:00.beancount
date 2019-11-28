@@ -1020,3 +1020,9 @@
   Liabilities:Bar:Members:Miker   6.00 EUR
   Assets:Cash:Bar                -6.00 EUR
 
+2019-11-28 txn "Carro​armato0 gave --CASH-- a gift of €5.50"
+  timestamp: "2019-11-28 21:42:27.814108"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   5.50 EUR
+  Assets:Cash:Bar                       -5.50 EUR
+
