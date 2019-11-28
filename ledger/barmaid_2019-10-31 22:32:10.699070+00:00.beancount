@@ -952,3 +952,13 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2019-11-28 txn "Thomas bought 2 items for €3.10"
+  timestamp: "2019-11-28 20:31:40.625767"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   3.10 EUR  
+  Income:Bar                      -3.10 EUR  
+
