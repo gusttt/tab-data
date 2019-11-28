@@ -874,3 +874,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2019-11-28 txn "Carro​armato0 deposited €25.00"
+  timestamp: "2019-11-28 18:50:17.378974"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -25.00 EUR
+  Assets:Cash:Bar                        25.00 EUR
+
