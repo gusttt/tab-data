@@ -1014,3 +1014,9 @@
   Liabilities:Bar:Members:Stefaan   6.00 EUR
   Assets:Cash:Bar                  -6.00 EUR
 
+2019-11-28 txn "Miker gave --CASH-- a gift of €6.00"
+  timestamp: "2019-11-28 21:42:04.895463"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker   6.00 EUR
+  Assets:Cash:Bar                -6.00 EUR
+
