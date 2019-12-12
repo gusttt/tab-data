@@ -302,3 +302,9 @@
   Liabilities:Bar:Members:On8wr   5.00 EUR
   Assets:Cash:Bar                -5.00 EUR
 
+2019-12-12 txn "Merlijn gave --CASH-- a gift of €5.00"
+  timestamp: "2019-12-12 20:47:07.082971"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   5.00 EUR
+  Assets:Cash:Bar                  -5.00 EUR
+
