@@ -332,3 +332,13 @@
   Liabilities:Bar:Members:Jens   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2019-12-12 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2019-12-12 21:29:04.474181"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Inventory:Bar     -1 CM   
+  Assets:Cash:Bar           1 CM   
+  Assets:Cash:Bar        4.00 EUR  
+  Income:Bar            -4.00 EUR  
+
