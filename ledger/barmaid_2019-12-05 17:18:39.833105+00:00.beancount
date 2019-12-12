@@ -250,3 +250,11 @@
   Liabilities:Bar:Members:Lisa   1.12 EUR
   Assets:Cash:Bar               -1.12 EUR
 
+2019-12-12 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-12-12 20:06:11.192605"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
