@@ -244,3 +244,9 @@
   Liabilities:Bar:Members:Bertrand   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2019-12-12 txn "Lisa gave --CASH-- a gift of €1.12"
+  timestamp: "2019-12-12 20:02:37.033885"
+  type: "transfer"
+  Liabilities:Bar:Members:Lisa   1.12 EUR
+  Assets:Cash:Bar               -1.12 EUR
+
