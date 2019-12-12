@@ -342,3 +342,9 @@
   Assets:Cash:Bar        4.00 EUR  
   Income:Bar            -4.00 EUR  
 
+2019-12-12 txn "Joris gave Evils a gift of €1.00"
+  timestamp: "2019-12-12 21:37:15.402233"
+  type: "transfer"
+  Liabilities:Bar:Members:Joris   1.00 EUR
+  Liabilities:Bar:Members:Elvis  -1.00 EUR
+
