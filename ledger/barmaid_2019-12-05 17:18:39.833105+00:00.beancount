@@ -290,3 +290,9 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-12-12 txn "Carro​armato0 gave --CASH-- a gift of €5.00"
+  timestamp: "2019-12-12 20:46:15.622373"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   5.00 EUR
+  Assets:Cash:Bar                       -5.00 EUR
+
