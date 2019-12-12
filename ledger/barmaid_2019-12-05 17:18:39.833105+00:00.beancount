@@ -360,3 +360,9 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR
   Liabilities:Bar:Members:Joris  -1.00 EUR
 
+2019-12-12 txn "Carro​armato0 gave --CASH-- a gift of €1.90"
+  timestamp: "2019-12-12 22:03:23.613981"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   1.90 EUR
+  Assets:Cash:Bar                       -1.90 EUR
+
