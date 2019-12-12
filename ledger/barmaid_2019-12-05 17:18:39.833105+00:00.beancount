@@ -420,3 +420,9 @@
   Liabilities:Bar:Members:On8wr   2.60 EUR   
   Income:Bar                     -2.60 EUR   
 
+2019-12-12 txn "On8wr gave --CASH-- a gift of €2.50"
+  timestamp: "2019-12-12 23:53:18.337892"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr   2.50 EUR
+  Assets:Cash:Bar                -2.50 EUR
+
