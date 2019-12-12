@@ -296,3 +296,9 @@
   Liabilities:Bar:Members:Carroarmato0   5.00 EUR
   Assets:Cash:Bar                       -5.00 EUR
 
+2019-12-12 txn "On8wr gave --CASH-- a gift of €5.00"
+  timestamp: "2019-12-12 20:46:45.794097"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr   5.00 EUR
+  Assets:Cash:Bar                -5.00 EUR
+
