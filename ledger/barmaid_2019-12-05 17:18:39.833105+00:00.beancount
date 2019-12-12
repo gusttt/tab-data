@@ -410,3 +410,13 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2019-12-12 txn "On8wr bought 2 items for €2.60"
+  timestamp: "2019-12-12 23:39:55.952897"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:On8wr      1 BOUNTY
+  Assets:Inventory:Bar              -1 FRITZ 
+  Liabilities:Bar:Members:On8wr      1 FRITZ 
+  Liabilities:Bar:Members:On8wr   2.60 EUR   
+  Income:Bar                     -2.60 EUR   
+
