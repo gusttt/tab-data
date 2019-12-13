@@ -438,3 +438,9 @@
   Liabilities:Bar:Members:Bertrand   0.32 EUR
   Assets:Cash:Bar                   -0.32 EUR
 
+2019-12-13 txn "Merlijn gave --CASH-- a gift of €3.12"
+  timestamp: "2019-12-13 00:05:07.750470"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   3.12 EUR
+  Assets:Cash:Bar                  -3.12 EUR
+
