@@ -464,3 +464,9 @@
   Liabilities:Bar:Members:Lisa   0.32 EUR
   Assets:Cash:Bar               -0.32 EUR
 
+2019-12-14 txn "qwaxys gave --CASH-- a gift of €0.70"
+  timestamp: "2019-12-14 14:40:33.572388"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   0.70 EUR
+  Assets:Cash:Bar               -0.70 EUR
+
