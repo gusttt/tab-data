@@ -530,3 +530,9 @@
   Liabilities:Bar:Members:Merlijn   4.00 EUR       
   Income:Bar                       -4.00 EUR       
 
+2019-12-15 txn "qwaxys gave --CASH-- a gift of €0.68"
+  timestamp: "2019-12-15 23:02:34.286409"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   0.68 EUR
+  Assets:Cash:Bar               -0.68 EUR
+
