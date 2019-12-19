@@ -766,3 +766,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   1.00 EUR      
   Income:Bar                                -1.00 EUR      
 
+2019-12-19 txn "B0Hr bought 1 items for €1.00"
+  timestamp: "2019-12-19 20:07:10.452633"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:B0Hr      1 ICE_CREAM
+  Liabilities:Bar:Members:B0Hr   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+
