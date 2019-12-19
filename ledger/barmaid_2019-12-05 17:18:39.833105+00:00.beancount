@@ -724,3 +724,9 @@
   Liabilities:Bar:Members:Miker   20.00 EUR
   Assets:Cash:Bar                -20.00 EUR
 
+2019-12-19 txn "Ruben deposited €0.10"
+  timestamp: "2019-12-19 19:38:29.960180"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruben  -0.10 EUR
+  Assets:Cash:Bar                 0.10 EUR
+
