@@ -810,3 +810,11 @@
   Liabilities:Bar:Members:Koen   4.00 EUR    
   Income:Bar                    -4.00 EUR    
 
+2019-12-19 txn "Anton​Alstublieft bought 1 items for €0.60"
+  timestamp: "2019-12-19 20:24:15.064067"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 KING
+  Liabilities:Bar:Members:AntonAlstublieft      1 KING
+  Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR 
+  Income:Bar                                -0.60 EUR 
+
