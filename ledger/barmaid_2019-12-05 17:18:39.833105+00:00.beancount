@@ -758,3 +758,11 @@
   Liabilities:Bar:Members:Miker  -30.00 EUR
   Assets:Cash:Bar                 30.00 EUR
 
+2019-12-19 txn "Anton​Alstublieft bought 1 items for €1.00"
+  timestamp: "2019-12-19 20:03:37.732749"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 ICE_CREAM
+  Liabilities:Bar:Members:AntonAlstublieft      1 ICE_CREAM
+  Liabilities:Bar:Members:AntonAlstublieft   1.00 EUR      
+  Income:Bar                                -1.00 EUR      
+
