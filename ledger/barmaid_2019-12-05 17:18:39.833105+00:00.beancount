@@ -730,3 +730,9 @@
   Liabilities:Bar:Members:Ruben  -0.10 EUR
   Assets:Cash:Bar                 0.10 EUR
 
+2019-12-19 txn "TQ gave --CASH-- a gift of €2.24"
+  timestamp: "2019-12-19 19:40:42.932613"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   2.24 EUR
+  Assets:Cash:Bar                  -2.24 EUR
+
