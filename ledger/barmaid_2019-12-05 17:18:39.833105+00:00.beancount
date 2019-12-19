@@ -598,3 +598,9 @@
   Liabilities:Bar:Members:Lisa      2.95 EUR
   Liabilities:Bar:Members:Merlijn  -2.95 EUR
 
+2019-12-19 txn "Evils gave TQ a gift of €2.00"
+  timestamp: "2019-12-19 19:00:15.480382"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis     2.00 EUR
+  Liabilities:Bar:Members:Thequux  -2.00 EUR
+
