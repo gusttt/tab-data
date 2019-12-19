@@ -682,3 +682,9 @@
   Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR
   Income:Bar                                -2.00 EUR
 
+2019-12-19 txn "TQ gave Merlijn a gift of €2.00"
+  timestamp: "2019-12-19 19:32:38.886429"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Liabilities:Bar:Members:Merlijn  -2.00 EUR
+
