@@ -700,3 +700,9 @@
   Liabilities:Bar:Members:Merlijn  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2019-12-19 txn "Koen gave Lisa a gift of €12.00"
+  timestamp: "2019-12-19 19:34:25.931796"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   12.00 EUR
+  Liabilities:Bar:Members:Lisa  -12.00 EUR
+
