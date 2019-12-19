@@ -706,3 +706,9 @@
   Liabilities:Bar:Members:Koen   12.00 EUR
   Liabilities:Bar:Members:Lisa  -12.00 EUR
 
+2019-12-19 txn "qwaxys gave Koen a gift of €20.00"
+  timestamp: "2019-12-19 19:35:04.370362"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   20.00 EUR
+  Liabilities:Bar:Members:Koen  -20.00 EUR
+
