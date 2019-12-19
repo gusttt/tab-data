@@ -694,3 +694,9 @@
   Liabilities:Bar:Members:Bart      2.00 EUR
   Liabilities:Bar:Members:Merlijn  -2.00 EUR
 
+2019-12-19 txn "Merlijn deposited €20.00"
+  timestamp: "2019-12-19 19:33:11.700515"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
