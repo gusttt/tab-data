@@ -718,3 +718,9 @@
   Liabilities:Bar:Members:Miker  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2019-12-19 txn "Miker deposited €-20.00"
+  timestamp: "2019-12-19 19:37:26.155467"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker   20.00 EUR
+  Assets:Cash:Bar                -20.00 EUR
+
