@@ -592,3 +592,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2019-12-19 txn "Lisa gave Merlijn a gift of €2.95"
+  timestamp: "2019-12-19 18:58:06.332776"
+  type: "transfer"
+  Liabilities:Bar:Members:Lisa      2.95 EUR
+  Liabilities:Bar:Members:Merlijn  -2.95 EUR
+
