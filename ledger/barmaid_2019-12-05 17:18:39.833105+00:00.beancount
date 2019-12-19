@@ -560,3 +560,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2019-12-19 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-12-19 17:54:59.686204"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
