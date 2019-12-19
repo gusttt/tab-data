@@ -576,3 +576,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-12-19 txn "Merlijn bought 1 items for €2.00"
+  timestamp: "2019-12-19 18:10:28.663635"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Merlijn      1 FRITZ
+  Liabilities:Bar:Members:Merlijn   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
