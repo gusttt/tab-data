@@ -660,3 +660,9 @@
   Liabilities:Bar:Members:B0Hr   2.60 EUR  
   Income:Bar                    -2.60 EUR  
 
+2019-12-19 txn "Anton​Alstublieft deposited €10.00"
+  timestamp: "2019-12-19 19:30:27.613257"
+  type: "deposit"
+  Liabilities:Bar:Members:AntonAlstublieft  -10.00 EUR
+  Assets:Cash:Bar                            10.00 EUR
+
