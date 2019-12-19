@@ -628,3 +628,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2019-12-19 txn "Lisa bought 1 items for €2.00"
+  timestamp: "2019-12-19 19:24:57.910444"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Lisa      1 FRITZ
+  Liabilities:Bar:Members:Lisa   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
