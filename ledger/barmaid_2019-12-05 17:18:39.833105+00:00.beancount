@@ -938,3 +938,9 @@
   Liabilities:Bar:Members:Merlijn   3.22 EUR
   Assets:Cash:Bar                  -3.22 EUR
 
+2019-12-20 txn "TQ gave --CASH-- a gift of €2.24"
+  timestamp: "2019-12-20 00:27:54.333361"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   2.24 EUR
+  Assets:Cash:Bar                  -2.24 EUR
+
