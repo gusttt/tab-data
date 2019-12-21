@@ -980,3 +980,13 @@
   Liabilities:Bar:Members:Els   2.60 EUR     
   Income:Bar                   -2.60 EUR     
 
+2019-12-21 txn "Els bought 2 items for €2.60"
+  timestamp: "2019-12-21 10:14:33.486490"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FLORA 
+  Liabilities:Bar:Members:Els      1 FLORA 
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   2.60 EUR   
+  Income:Bar                   -2.60 EUR   
+
