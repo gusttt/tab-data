@@ -1006,3 +1006,9 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2019-12-26 txn "Evils gave --CASH-- a gift of €1.76"
+  timestamp: "2019-12-26 18:05:09.384743"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   1.76 EUR
+  Assets:Cash:Bar                -1.76 EUR
+
