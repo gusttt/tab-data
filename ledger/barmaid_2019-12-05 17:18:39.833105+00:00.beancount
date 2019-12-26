@@ -1052,3 +1052,13 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2019-12-26 txn "Miker bought 2 items for €2.60"
+  timestamp: "2019-12-26 20:14:07.025851"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Assets:Inventory:Bar              -1 MARS 
+  Liabilities:Bar:Members:Miker      1 MARS 
+  Liabilities:Bar:Members:Miker   2.60 EUR  
+  Income:Bar                     -2.60 EUR  
+
