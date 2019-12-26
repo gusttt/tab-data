@@ -1114,3 +1114,11 @@
   Liabilities:Bar:Members:Thomas   3.10 EUR  
   Income:Bar                      -3.10 EUR  
 
+2019-12-26 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2019-12-26 21:15:34.068870"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
