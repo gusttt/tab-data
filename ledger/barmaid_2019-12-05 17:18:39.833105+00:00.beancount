@@ -1244,3 +1244,13 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-01-02 txn "Miker bought 2 items for €2.60"
+  timestamp: "2020-01-02 21:31:37.528010"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM  
+  Liabilities:Bar:Members:Miker      1 CM  
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Miker      1 MARS
+  Liabilities:Bar:Members:Miker   2.60 EUR 
+  Income:Bar                     -2.60 EUR 
+
