@@ -1286,3 +1286,11 @@
   Liabilities:Bar:Members:Ruben   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2020-01-02 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2020-01-02 22:07:21.195421"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
