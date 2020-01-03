@@ -1310,3 +1310,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2020-01-03 txn "Evils bought 1 items for €0.60"
+  timestamp: "2020-01-03 00:33:29.918773"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 LION
+  Liabilities:Bar:Members:Elvis      1 LION
+  Liabilities:Bar:Members:Elvis   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
