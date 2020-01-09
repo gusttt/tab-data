@@ -1544,3 +1544,11 @@
   Liabilities:Bar:Members:Gust  -2.50 EUR
   Assets:Cash:Bar                2.50 EUR
 
+2020-01-09 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2020-01-09 20:27:45.749413"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
