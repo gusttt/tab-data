@@ -1460,3 +1460,9 @@
   Liabilities:Bar:Members:Gust   4.00 EUR  
   Income:Bar                    -4.00 EUR  
 
+2020-01-09 txn "--CASH-- gave Gust a gift of €2.00"
+  timestamp: "2020-01-09 19:44:35.164644"
+  type: "transfer"
+  Assets:Cash:Bar                2.00 EUR
+  Liabilities:Bar:Members:Gust  -2.00 EUR
+
