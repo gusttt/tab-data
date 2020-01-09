@@ -1630,3 +1630,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-01-09 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2020-01-09 22:21:01.480475"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
