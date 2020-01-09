@@ -1406,3 +1406,11 @@
   Liabilities:Bar:Members:B0Hr   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-01-09 txn "Gust bought 1 items for €2.00"
+  timestamp: "2020-01-09 18:52:39.178403"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+  Liabilities:Bar:Members:Gust   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
