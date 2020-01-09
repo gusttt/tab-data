@@ -1450,3 +1450,13 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2020-01-09 txn "Gust bought 2 items for €4.00"
+  timestamp: "2020-01-09 19:43:34.250510"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PIZZA
+  Liabilities:Bar:Members:Gust      1 PIZZA
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Gust      1 CM   
+  Liabilities:Bar:Members:Gust   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
