@@ -1538,3 +1538,9 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR
   Income:Bar                      -2.00 EUR
 
+2020-01-09 txn "Gust deposited €2.50"
+  timestamp: "2020-01-09 20:25:51.321650"
+  type: "deposit"
+  Liabilities:Bar:Members:Gust  -2.50 EUR
+  Assets:Cash:Bar                2.50 EUR
+
