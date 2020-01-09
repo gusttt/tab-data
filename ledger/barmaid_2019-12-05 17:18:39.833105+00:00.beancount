@@ -1614,3 +1614,11 @@
   Liabilities:Bar:Members:Miker    5.00 EUR
   Liabilities:Bar:Members:Thomas  -5.00 EUR
 
+2020-01-09 txn "Miker bought 1 items for €2.00"
+  timestamp: "2020-01-09 21:55:26.951872"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Miker      1 CM 
+  Liabilities:Bar:Members:Miker   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
