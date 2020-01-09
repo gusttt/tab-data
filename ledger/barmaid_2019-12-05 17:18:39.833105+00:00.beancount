@@ -1524,3 +1524,9 @@
   Liabilities:Bar:Members:AntonAlstublieft  -2.00 EUR
   Assets:Cash:Bar                            2.00 EUR
 
+2020-01-09 txn "Thomas deposited €-0.50"
+  timestamp: "2020-01-09 20:12:14.502463"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas   0.50 EUR
+  Assets:Cash:Bar                 -0.50 EUR
+
