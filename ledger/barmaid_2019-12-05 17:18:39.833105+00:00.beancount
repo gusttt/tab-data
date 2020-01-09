@@ -1474,3 +1474,13 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2020-01-09 txn "Gust bought 2 items for €2.10"
+  timestamp: "2020-01-09 19:46:22.388877"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Gust      1 ICETEA
+  Assets:Inventory:Bar             -1 LION  
+  Liabilities:Bar:Members:Gust      1 LION  
+  Liabilities:Bar:Members:Gust   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
