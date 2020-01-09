@@ -1552,3 +1552,9 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2020-01-09 txn "Gust gave --CASH-- a gift of €2.50"
+  timestamp: "2020-01-09 20:29:08.387863"
+  type: "transfer"
+  Liabilities:Bar:Members:Gust   2.50 EUR
+  Assets:Cash:Bar               -2.50 EUR
+
