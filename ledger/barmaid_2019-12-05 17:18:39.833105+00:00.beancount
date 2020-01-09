@@ -1428,3 +1428,11 @@
   Liabilities:Bar:Members:Gust   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-01-09 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2020-01-09 19:04:40.558462"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM 
+  Liabilities:Bar:Members:Carroarmato0      1 CM 
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR
+  Income:Bar                            -2.00 EUR
+
