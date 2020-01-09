@@ -1352,3 +1352,11 @@
   Liabilities:Bar:Members:Alex   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2020-01-09 txn "--CASH-- bought 1 items for €0.60"
+  timestamp: "2020-01-09 17:14:02.716393"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        0.60 EUR 
+  Income:Bar            -0.60 EUR 
+
