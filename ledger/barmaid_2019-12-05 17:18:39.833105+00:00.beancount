@@ -1484,3 +1484,11 @@
   Liabilities:Bar:Members:Gust   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2020-01-09 txn "Anton​Alstublieft bought 1 items for €0.60"
+  timestamp: "2020-01-09 19:54:40.880467"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft      1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR
+  Income:Bar                                -0.60 EUR
+
