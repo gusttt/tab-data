@@ -1654,3 +1654,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-01-10 txn "Anton​Alstublieft bought 1 items for €0.60"
+  timestamp: "2020-01-10 00:33:28.554672"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 KITKAT
+  Liabilities:Bar:Members:AntonAlstublieft      1 KITKAT
+  Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR   
+  Income:Bar                                -0.60 EUR   
+
