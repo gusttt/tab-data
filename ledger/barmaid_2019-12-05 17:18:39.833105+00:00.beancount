@@ -1670,3 +1670,13 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2020-01-16 txn "Evils bought 2 items for €4.50"
+  timestamp: "2020-01-16 18:17:25.076503"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Elvis      1 DUVEL
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   4.50 EUR  
+  Income:Bar                     -4.50 EUR  
+
