@@ -1662,3 +1662,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR   
   Income:Bar                                -0.60 EUR   
 
+2020-01-16 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2020-01-16 18:09:40.108862"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
