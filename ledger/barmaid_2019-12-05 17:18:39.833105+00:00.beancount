@@ -1704,3 +1704,11 @@
   Liabilities:Bar:Members:Koen  -2.10 EUR
   Assets:Cash:Bar                2.10 EUR
 
+2020-01-16 txn "Miker bought 1 items for €2.00"
+  timestamp: "2020-01-16 19:10:38.297586"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Miker      1 FLORA
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
