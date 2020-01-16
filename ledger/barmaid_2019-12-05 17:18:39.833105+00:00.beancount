@@ -1680,3 +1680,11 @@
   Liabilities:Bar:Members:Elvis   4.50 EUR  
   Income:Bar                     -4.50 EUR  
 
+2020-01-16 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2020-01-16 18:43:56.240467"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL
+  Assets:Cash:Bar           1 DUVEL
+  Assets:Cash:Bar        2.50 EUR  
+  Income:Bar            -2.50 EUR  
+
