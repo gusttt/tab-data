@@ -1888,3 +1888,11 @@
   Assets:Cash:Bar        0.60 EUR 
   Income:Bar            -0.60 EUR 
 
+2020-01-16 txn "--CASH-- bought 1 items for €0.60"
+  timestamp: "2020-01-16 21:05:58.498485"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        0.60 EUR 
+  Income:Bar            -0.60 EUR 
+
