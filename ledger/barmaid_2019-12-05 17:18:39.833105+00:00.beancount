@@ -1728,3 +1728,13 @@
   Liabilities:Bar:Members:B0Hr   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-01-16 txn "Joris bought 2 items for €3.10"
+  timestamp: "2020-01-16 19:41:27.508481"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Assets:Inventory:Bar              -1 MNM  
+  Liabilities:Bar:Members:Joris      1 MNM  
+  Liabilities:Bar:Members:Joris   3.10 EUR  
+  Income:Bar                     -3.10 EUR  
+
