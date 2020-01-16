@@ -1866,3 +1866,9 @@
   Liabilities:Bar:Members:Joris   2.60 EUR       
   Income:Bar                     -2.60 EUR       
 
+2020-01-16 txn "Anton​Alstublieft deposited €20.00"
+  timestamp: "2020-01-16 21:02:47.697250"
+  type: "deposit"
+  Liabilities:Bar:Members:AntonAlstublieft  -20.00 EUR
+  Assets:Cash:Bar                            20.00 EUR
+
