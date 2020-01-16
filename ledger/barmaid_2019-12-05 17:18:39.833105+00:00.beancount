@@ -1928,3 +1928,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR 
   Income:Bar                                -0.60 EUR 
 
+2020-01-16 txn "Evils bought 1 items for €0.60"
+  timestamp: "2020-01-16 22:16:34.806176"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
