@@ -1904,3 +1904,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2020-01-16 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2020-01-16 21:09:49.210369"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
