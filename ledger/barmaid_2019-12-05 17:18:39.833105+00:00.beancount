@@ -1762,3 +1762,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2020-01-16 txn "OR1=1 bought 1 items for €1.50"
+  timestamp: "2020-01-16 20:13:32.350684"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Sven      1 JUPILER
+  Liabilities:Bar:Members:Sven   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
