@@ -1952,3 +1952,11 @@
   Liabilities:Bar:Members:Miker   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2020-01-17 txn "B0Hr bought 1 items for €0.60"
+  timestamp: "2020-01-17 00:13:11.556624"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 LION
+  Liabilities:Bar:Members:B0Hr      1 LION
+  Liabilities:Bar:Members:B0Hr   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
