@@ -2142,3 +2142,9 @@
   Liabilities:Bar:Members:Koen    10.00 EUR
   Liabilities:Bar:Members:Elvis  -10.00 EUR
 
+2020-01-23 txn "Koen deposited €10.60"
+  timestamp: "2020-01-23 19:38:37.214299"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -10.60 EUR
+  Assets:Cash:Bar                10.60 EUR
+
