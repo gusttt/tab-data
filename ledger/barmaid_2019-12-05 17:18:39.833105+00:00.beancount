@@ -2066,3 +2066,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-01-23 txn "Anton​Alstublieft bought 2 items for €4.00"
+  timestamp: "2020-01-23 18:16:26.126456"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 FLORA
+  Liabilities:Bar:Members:AntonAlstublieft      1 FLORA
+  Assets:Inventory:Bar                         -1 FRITZ
+  Liabilities:Bar:Members:AntonAlstublieft      1 FRITZ
+  Liabilities:Bar:Members:AntonAlstublieft   4.00 EUR  
+  Income:Bar                                -4.00 EUR  
+
