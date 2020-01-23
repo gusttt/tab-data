@@ -2158,3 +2158,11 @@
   Liabilities:Bar:Members:Joris   3.10 EUR  
   Income:Bar                     -3.10 EUR  
 
+2020-01-23 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2020-01-23 19:49:48.461446"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICETEA
+  Assets:Cash:Bar           1 ICETEA
+  Assets:Cash:Bar        1.50 EUR   
+  Income:Bar            -1.50 EUR   
+
