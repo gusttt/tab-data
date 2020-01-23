@@ -2136,3 +2136,9 @@
   Assets:Cash:Bar        0.60 EUR 
   Income:Bar            -0.60 EUR 
 
+2020-01-23 txn "Koen gave Evils a gift of €10.00"
+  timestamp: "2020-01-23 19:37:42.791924"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen    10.00 EUR
+  Liabilities:Bar:Members:Elvis  -10.00 EUR
+
