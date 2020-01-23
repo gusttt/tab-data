@@ -2076,3 +2076,9 @@
   Liabilities:Bar:Members:AntonAlstublieft   4.00 EUR  
   Income:Bar                                -4.00 EUR  
 
+2020-01-23 txn "Evils deposited €10.00"
+  timestamp: "2020-01-23 18:19:58.688474"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
