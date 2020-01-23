@@ -2222,3 +2222,17 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2020-01-23 txn "Thomas bought 4 items for €6.60"
+  timestamp: "2020-01-23 20:44:34.476708"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE 
+  Liabilities:Bar:Members:Thomas      1 COKE 
+  Assets:Inventory:Bar               -1 CM   
+  Liabilities:Bar:Members:Thomas      1 CM   
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   6.60 EUR  
+  Income:Bar                      -6.60 EUR  
+
