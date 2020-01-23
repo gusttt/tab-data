@@ -2182,3 +2182,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2020-01-23 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2020-01-23 20:07:39.977687"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
