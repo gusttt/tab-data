@@ -2166,3 +2166,11 @@
   Assets:Cash:Bar        1.50 EUR   
   Income:Bar            -1.50 EUR   
 
+2020-01-23 txn "Anton​Alstublieft bought 2 items for €1.20"
+  timestamp: "2020-01-23 19:51:37.816229"
+  type: "purchase"
+  Assets:Inventory:Bar                         -2 MNM
+  Liabilities:Bar:Members:AntonAlstublieft      2 MNM
+  Liabilities:Bar:Members:AntonAlstublieft   1.20 EUR
+  Income:Bar                                -1.20 EUR
+
