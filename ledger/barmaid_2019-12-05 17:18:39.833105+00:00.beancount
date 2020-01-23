@@ -2088,3 +2088,11 @@
   Liabilities:Bar:Members:Yvan   10.00 EUR
   Assets:Cash:Bar               -10.00 EUR
 
+2020-01-23 txn "Anton​Alstublieft bought 1 items for €0.60"
+  timestamp: "2020-01-23 18:47:59.295234"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft      1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR
+  Income:Bar                                -0.60 EUR
+
