@@ -2082,3 +2082,9 @@
   Liabilities:Bar:Members:Elvis  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2020-01-23 txn "Yvan & Lauren gave --CASH-- a gift of €10.00"
+  timestamp: "2020-01-23 18:20:49.311604"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   10.00 EUR
+  Assets:Cash:Bar               -10.00 EUR
+
