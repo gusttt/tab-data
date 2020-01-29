@@ -2348,3 +2348,13 @@
   Liabilities:Bar:Members:Els  -50.00 EUR
   Assets:Cash:Bar               50.00 EUR
 
+2020-01-29 txn "Els bought 2 items for €1.20"
+  timestamp: "2020-01-29 17:56:04.738513"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 MNM     
+  Liabilities:Bar:Members:Els      1 MNM     
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   1.20 EUR     
+  Income:Bar                   -1.20 EUR     
+
