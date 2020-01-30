@@ -2482,3 +2482,13 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-01-30 txn "--CASH-- bought 3 items for €6.00"
+  timestamp: "2020-01-30 19:54:58.748156"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 FRITZ
+  Assets:Cash:Bar           2 FRITZ
+  Assets:Inventory:Bar     -1 FLORA
+  Assets:Cash:Bar           1 FLORA
+  Assets:Cash:Bar        6.00 EUR  
+  Income:Bar            -6.00 EUR  
+
