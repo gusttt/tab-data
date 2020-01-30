@@ -2522,3 +2522,11 @@
   Liabilities:Bar:Members:B0Hr   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2020-01-30 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2020-01-30 20:55:51.867049"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist      1 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
