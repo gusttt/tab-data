@@ -2558,3 +2558,9 @@
   Liabilities:Bar:Members:Carroarmato0   5.00 EUR
   Assets:Cash:Bar                       -5.00 EUR
 
+2020-01-30 txn "Yvan & Lauren gave --CASH-- a gift of €2.00"
+  timestamp: "2020-01-30 21:45:15.811309"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   2.00 EUR
+  Assets:Cash:Bar               -2.00 EUR
+
