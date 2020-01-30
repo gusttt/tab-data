@@ -2466,3 +2466,11 @@
   Liabilities:Bar:Members:B0Hr   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-01-30 txn "OR1=1 bought 1 items for €2.00"
+  timestamp: "2020-01-30 19:32:46.858447"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Sven      1 FRITZ
+  Liabilities:Bar:Members:Sven   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
