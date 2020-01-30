@@ -2586,3 +2586,11 @@
   Liabilities:Bar:Members:Bart    20.00 EUR
   Liabilities:Bar:Members:Elvis  -20.00 EUR
 
+2020-01-30 txn "B0Hr bought 1 items for €0.60"
+  timestamp: "2020-01-30 22:53:17.649057"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MARS
+  Liabilities:Bar:Members:B0Hr      1 MARS
+  Liabilities:Bar:Members:B0Hr   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
