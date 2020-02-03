@@ -2602,3 +2602,13 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-02-03 txn "--CASH-- bought 3 items for €4.60"
+  timestamp: "2020-02-03 18:47:24.582887"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 FLORA 
+  Assets:Cash:Bar           2 FLORA 
+  Assets:Inventory:Bar     -1 BOUNTY
+  Assets:Cash:Bar           1 BOUNTY
+  Assets:Cash:Bar        4.60 EUR   
+  Income:Bar            -4.60 EUR   
+
