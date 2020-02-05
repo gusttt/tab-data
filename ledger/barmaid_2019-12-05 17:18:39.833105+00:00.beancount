@@ -2622,3 +2622,13 @@
   Liabilities:Bar:Members:Elvis   1.20 EUR   
   Income:Bar                     -1.20 EUR   
 
+2020-02-05 txn "Els bought 2 items for €2.60"
+  timestamp: "2020-02-05 15:42:04.489940"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FLORA   
+  Liabilities:Bar:Members:Els      1 FLORA   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.60 EUR     
+  Income:Bar                   -2.60 EUR     
+
