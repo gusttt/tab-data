@@ -2752,3 +2752,11 @@
   Liabilities:Bar:Members:Ruleant   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2020-02-06 txn "Merlijn bought 1 items for €2.00"
+  timestamp: "2020-02-06 20:08:08.085039"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Merlijn      1 FRITZ
+  Liabilities:Bar:Members:Merlijn   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
