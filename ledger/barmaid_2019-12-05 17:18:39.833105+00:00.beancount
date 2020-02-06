@@ -2690,3 +2690,9 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-02-06 txn "Joris deposited €18.00"
+  timestamp: "2020-02-06 19:40:11.497057"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -18.00 EUR
+  Assets:Cash:Bar                 18.00 EUR
+
