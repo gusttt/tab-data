@@ -2648,3 +2648,11 @@
   Liabilities:Bar:Members:Bertrand   0.60 EUR     
   Income:Bar                        -0.60 EUR     
 
+2020-02-06 txn "Carro​armato0 bought 1 items for €0.60"
+  timestamp: "2020-02-06 17:45:34.127223"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
+  Income:Bar                            -0.60 EUR     
+
