@@ -2722,3 +2722,9 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-02-06 txn "Thomas deposited €20.00"
+  timestamp: "2020-02-06 19:54:38.210367"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
