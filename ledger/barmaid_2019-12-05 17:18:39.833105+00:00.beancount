@@ -2674,3 +2674,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2020-02-06 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2020-02-06 18:49:36.774041"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
