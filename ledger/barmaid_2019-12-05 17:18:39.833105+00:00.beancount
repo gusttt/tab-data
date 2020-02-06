@@ -2800,3 +2800,9 @@
   Liabilities:Bar:Members:Koen   4.00 EUR
   Assets:Cash:Bar               -4.00 EUR
 
+2020-02-06 txn "Merlijn gave --CASH-- a gift of €3.50"
+  timestamp: "2020-02-06 20:31:42.982334"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   3.50 EUR
+  Assets:Cash:Bar                  -3.50 EUR
+
