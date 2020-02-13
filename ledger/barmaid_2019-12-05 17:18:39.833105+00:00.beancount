@@ -2974,3 +2974,9 @@
   Liabilities:Bar:Members:B0Hr   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2020-02-13 txn "Simon deposited €10.00"
+  timestamp: "2020-02-13 19:34:09.920023"
+  type: "deposit"
+  Liabilities:Bar:Members:Simon  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
