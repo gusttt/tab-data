@@ -2958,3 +2958,11 @@
   Liabilities:Bar:Members:Carroarmato0  -13.00 EUR
   Assets:Cash:Bar                        13.00 EUR
 
+2020-02-13 txn "Anton​Alstublieft bought 1 items for €0.60"
+  timestamp: "2020-02-13 19:30:15.780819"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft      1 MNM
+  Liabilities:Bar:Members:AntonAlstublieft   0.60 EUR
+  Income:Bar                                -0.60 EUR
+
