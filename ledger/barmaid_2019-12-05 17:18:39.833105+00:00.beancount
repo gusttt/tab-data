@@ -2904,3 +2904,9 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2020-02-13 txn "Koen deposited €10.00"
+  timestamp: "2020-02-13 18:01:26.670507"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
