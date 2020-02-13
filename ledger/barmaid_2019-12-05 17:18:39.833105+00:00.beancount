@@ -3020,3 +3020,11 @@
   Liabilities:Bar:Members:Koen       12.20 EUR
   Liabilities:Bar:Members:Bloemist  -12.20 EUR
 
+2020-02-13 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-02-13 21:06:37.148077"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
