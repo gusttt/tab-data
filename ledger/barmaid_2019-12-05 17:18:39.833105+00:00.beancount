@@ -2980,3 +2980,13 @@
   Liabilities:Bar:Members:Simon  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2020-02-13 txn "Simon bought 2 items for €4.00"
+  timestamp: "2020-02-13 19:35:51.484939"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL 
+  Liabilities:Bar:Members:Simon      1 DUVEL 
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Simon      1 ICETEA
+  Liabilities:Bar:Members:Simon   4.00 EUR   
+  Income:Bar                     -4.00 EUR   
+
