@@ -2934,3 +2934,13 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-02-13 txn "ruleant bought 2 items for €3.00"
+  timestamp: "2020-02-13 18:28:01.130418"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA 
+  Liabilities:Bar:Members:Ruleant      1 FANTA 
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Ruleant      1 ICETEA
+  Liabilities:Bar:Members:Ruleant   3.00 EUR   
+  Income:Bar                       -3.00 EUR   
+
