@@ -3044,3 +3044,13 @@
   Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR
   Income:Bar                                -2.00 EUR
 
+2020-02-13 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-02-13 21:28:50.490534"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FLORA   
+  Liabilities:Bar:Members:Carroarmato0      1 FLORA   
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
