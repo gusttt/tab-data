@@ -2918,3 +2918,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2020-02-13 txn "Evils bought 1 items for €2.00"
+  timestamp: "2020-02-13 18:09:28.289067"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
