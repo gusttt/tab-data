@@ -3062,3 +3062,13 @@
   Liabilities:Bar:Members:B0Hr   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2020-02-13 txn "Miker bought 2 items for €2.10"
+  timestamp: "2020-02-13 23:03:50.915358"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE    
+  Liabilities:Bar:Members:Miker      1 COKE    
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   2.10 EUR     
+  Income:Bar                     -2.10 EUR     
+
