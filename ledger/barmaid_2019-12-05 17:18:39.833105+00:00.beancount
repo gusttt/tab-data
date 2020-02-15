@@ -3130,3 +3130,11 @@
   Liabilities:Bar:Members:Jens   2.60 EUR     
   Income:Bar                    -2.60 EUR     
 
+2020-02-15 txn "Jens bought 1 items for €0.60"
+  timestamp: "2020-02-15 16:44:32.782763"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Jens      1 SNICKERS
+  Liabilities:Bar:Members:Jens   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
