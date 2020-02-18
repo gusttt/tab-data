@@ -3138,3 +3138,11 @@
   Liabilities:Bar:Members:Jens   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2020-02-18 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2020-02-18 20:04:49.526151"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FLORA
+  Assets:Cash:Bar           1 FLORA
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
