@@ -3170,3 +3170,11 @@
   Liabilities:Bar:Members:Jens   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2020-02-18 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2020-02-18 22:03:50.518434"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICE_CREAM
+  Assets:Cash:Bar           1 ICE_CREAM
+  Assets:Cash:Bar        1.00 EUR      
+  Income:Bar            -1.00 EUR      
+
