@@ -3162,3 +3162,11 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2020-02-18 txn "Jens bought 1 items for €1.50"
+  timestamp: "2020-02-18 21:26:05.465805"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Jens      1 JUPILER
+  Liabilities:Bar:Members:Jens   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
