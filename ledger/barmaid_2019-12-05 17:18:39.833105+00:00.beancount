@@ -3426,3 +3426,11 @@
   Liabilities:Bar:Members:Miker   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2020-02-20 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2020-02-20 20:04:49.594681"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FLORA
+  Liabilities:Bar:Members:Carroarmato0      1 FLORA
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
+  Income:Bar                            -2.00 EUR  
+
