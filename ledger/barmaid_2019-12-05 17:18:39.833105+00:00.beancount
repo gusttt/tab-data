@@ -3328,3 +3328,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2020-02-20 txn "qwaxys gave Koen a gift of €9.10"
+  timestamp: "2020-02-20 17:44:04.123097"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   9.10 EUR
+  Liabilities:Bar:Members:Koen  -9.10 EUR
+
