@@ -3562,3 +3562,9 @@
   Liabilities:Bar:Members:Koen   15.00 EUR
   Assets:Cash:Bar               -15.00 EUR
 
+2020-02-20 txn "TQ gave --CASH-- a gift of €15.00"
+  timestamp: "2020-02-20 22:35:39.800362"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   15.00 EUR
+  Assets:Cash:Bar                  -15.00 EUR
+
