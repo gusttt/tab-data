@@ -3550,3 +3550,9 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2020-02-20 txn "Merlijn gave --CASH-- a gift of €15.00"
+  timestamp: "2020-02-20 22:35:03.493341"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   15.00 EUR
+  Assets:Cash:Bar                  -15.00 EUR
+
