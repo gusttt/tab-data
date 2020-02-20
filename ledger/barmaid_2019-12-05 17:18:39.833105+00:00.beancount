@@ -3268,3 +3268,13 @@
   Liabilities:Bar:Members:Miker   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2020-02-20 txn "Els bought 2 items for €2.10"
+  timestamp: "2020-02-20 15:38:49.901444"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   2.10 EUR   
+  Income:Bar                   -2.10 EUR   
+
