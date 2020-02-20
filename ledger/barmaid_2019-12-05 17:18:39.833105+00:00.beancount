@@ -3510,3 +3510,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
   Income:Bar                            -1.20 EUR   
 
+2020-02-20 txn "Thomas bought 1 items for €2.50"
+  timestamp: "2020-02-20 21:32:38.499402"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Liabilities:Bar:Members:Thomas   2.50 EUR  
+  Income:Bar                      -2.50 EUR  
+
