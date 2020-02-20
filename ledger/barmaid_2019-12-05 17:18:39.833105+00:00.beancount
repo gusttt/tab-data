@@ -3526,3 +3526,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2020-02-20 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2020-02-20 21:51:53.708382"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BOUNTY
+  Liabilities:Bar:Members:Bloemist      1 BOUNTY
+  Liabilities:Bar:Members:Bloemist   0.60 EUR   
+  Income:Bar                        -0.60 EUR   
+
