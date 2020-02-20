@@ -3568,3 +3568,9 @@
   Liabilities:Bar:Members:Thequux   15.00 EUR
   Assets:Cash:Bar                  -15.00 EUR
 
+2020-02-20 txn "Evils gave --CASH-- a gift of €6.00"
+  timestamp: "2020-02-20 22:37:19.870363"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   6.00 EUR
+  Assets:Cash:Bar                -6.00 EUR
+
