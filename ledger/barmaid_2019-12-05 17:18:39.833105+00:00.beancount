@@ -3380,3 +3380,9 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-02-20 txn "qwaxys deposited €80.00"
+  timestamp: "2020-02-20 18:36:14.785666"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -80.00 EUR
+  Assets:Cash:Bar                80.00 EUR
+
