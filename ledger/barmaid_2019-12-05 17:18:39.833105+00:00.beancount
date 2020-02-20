@@ -3580,3 +3580,11 @@
   Liabilities:Bar:Members:Carroarmato0   15.00 EUR
   Assets:Cash:Bar                       -15.00 EUR
 
+2020-02-20 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2020-02-20 23:44:07.768235"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist      1 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
