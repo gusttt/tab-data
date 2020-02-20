@@ -3574,3 +3574,9 @@
   Liabilities:Bar:Members:Elvis   6.00 EUR
   Assets:Cash:Bar                -6.00 EUR
 
+2020-02-20 txn "Carro​armato0 gave --CASH-- a gift of €15.00"
+  timestamp: "2020-02-20 22:38:25.469655"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   15.00 EUR
+  Assets:Cash:Bar                       -15.00 EUR
+
