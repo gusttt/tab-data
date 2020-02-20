@@ -3490,3 +3490,13 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2020-02-20 txn "Miker bought 2 items for €2.10"
+  timestamp: "2020-02-20 21:21:30.751085"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE  
+  Liabilities:Bar:Members:Miker      1 COKE  
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Miker      1 KITKAT
+  Liabilities:Bar:Members:Miker   2.10 EUR   
+  Income:Bar                     -2.10 EUR   
+
