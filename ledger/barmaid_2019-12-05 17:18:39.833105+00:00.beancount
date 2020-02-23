@@ -3706,3 +3706,9 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR
   Income:Bar                        -2.00 EUR
 
+2020-02-23 txn "Evils gave Bloemist a gift of €9.50"
+  timestamp: "2020-02-23 17:55:56.006445"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      9.50 EUR
+  Liabilities:Bar:Members:Bloemist  -9.50 EUR
+
