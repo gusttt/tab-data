@@ -3644,3 +3644,11 @@
   Liabilities:Bar:Members:Joris   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2020-02-23 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-02-23 10:48:51.482034"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
