@@ -3718,3 +3718,11 @@
   Liabilities:Bar:Members:Thequux    8.00 EUR
   Liabilities:Bar:Members:Bloemist  -8.00 EUR
 
+2020-02-23 txn "Evils bought 1 items for €2.00"
+  timestamp: "2020-02-23 22:16:49.479133"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
