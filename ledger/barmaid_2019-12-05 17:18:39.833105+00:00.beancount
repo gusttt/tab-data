@@ -3692,3 +3692,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2020-02-23 txn "TQ deposited €50.00"
+  timestamp: "2020-02-23 16:31:35.136304"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
