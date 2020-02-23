@@ -3660,3 +3660,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2020-02-23 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2020-02-23 13:33:02.500408"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KITKAT
+  Liabilities:Bar:Members:Bloemist      1 KITKAT
+  Liabilities:Bar:Members:Bloemist   0.60 EUR   
+  Income:Bar                        -0.60 EUR   
+
