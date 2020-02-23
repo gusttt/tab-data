@@ -3712,3 +3712,9 @@
   Liabilities:Bar:Members:Elvis      9.50 EUR
   Liabilities:Bar:Members:Bloemist  -9.50 EUR
 
+2020-02-23 txn "TQ gave Bloemist a gift of €8.00"
+  timestamp: "2020-02-23 17:56:06.075074"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux    8.00 EUR
+  Liabilities:Bar:Members:Bloemist  -8.00 EUR
+
