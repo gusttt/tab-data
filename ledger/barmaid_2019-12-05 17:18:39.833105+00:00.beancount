@@ -3774,3 +3774,11 @@
   Liabilities:Bar:Members:Els   0.60 EUR     
   Income:Bar                   -0.60 EUR     
 
+2020-02-26 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2020-02-26 15:27:12.722109"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
