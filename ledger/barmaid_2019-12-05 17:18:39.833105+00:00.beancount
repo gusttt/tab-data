@@ -3882,3 +3882,9 @@
   Liabilities:Bar:Members:B0Hr   4.00 EUR  
   Income:Bar                    -4.00 EUR  
 
+2020-02-27 txn "B0Hr deposited €10.00"
+  timestamp: "2020-02-27 19:16:41.858054"
+  type: "deposit"
+  Liabilities:Bar:Members:B0Hr  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
