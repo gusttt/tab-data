@@ -3894,3 +3894,9 @@
   Liabilities:Bar:Members:Sven  -8.00 EUR
   Assets:Cash:Bar                8.00 EUR
 
+2020-02-27 txn "Koen deposited €-5.00"
+  timestamp: "2020-02-27 19:51:20.586439"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
