@@ -3828,3 +3828,11 @@
   Liabilities:Bar:Members:Bloemist  -11.00 EUR
   Assets:Cash:Bar                    11.00 EUR
 
+2020-02-27 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-02-27 00:21:30.022654"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
