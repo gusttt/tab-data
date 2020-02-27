@@ -3888,3 +3888,9 @@
   Liabilities:Bar:Members:B0Hr  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2020-02-27 txn "OR1=1 deposited €8.00"
+  timestamp: "2020-02-27 19:16:56.566460"
+  type: "deposit"
+  Liabilities:Bar:Members:Sven  -8.00 EUR
+  Assets:Cash:Bar                8.00 EUR
+
