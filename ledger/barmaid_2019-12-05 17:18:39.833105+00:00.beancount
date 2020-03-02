@@ -4158,3 +4158,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2020-03-02 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2020-03-02 00:39:08.190540"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 MARS
+  Liabilities:Bar:Members:Bloemist      1 MARS
+  Liabilities:Bar:Members:Bloemist   0.60 EUR 
+  Income:Bar                        -0.60 EUR 
+
