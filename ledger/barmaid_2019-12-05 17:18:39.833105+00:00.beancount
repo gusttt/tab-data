@@ -4354,3 +4354,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2020-03-05 txn "Miker bought 2 items for €2.60"
+  timestamp: "2020-03-05 22:24:21.592793"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ   
+  Liabilities:Bar:Members:Miker      1 FRITZ   
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
