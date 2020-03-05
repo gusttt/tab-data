@@ -4258,3 +4258,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2020-03-05 txn "Carro​armato0 deposited €19.28"
+  timestamp: "2020-03-05 19:40:39.466105"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -19.28 EUR
+  Assets:Cash:Bar                        19.28 EUR
+
