@@ -4412,3 +4412,11 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2020-03-06 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2020-03-06 01:49:28.490234"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FLORA
+  Assets:Cash:Bar           1 FLORA
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
