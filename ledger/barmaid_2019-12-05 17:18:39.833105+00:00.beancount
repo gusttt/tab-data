@@ -4468,3 +4468,11 @@
   Liabilities:Bar:Members:Elvis   6.50 EUR
   Liabilities:Bar:Members:Gust   -6.50 EUR
 
+2020-03-06 txn "Gust bought 1 items for €1.50"
+  timestamp: "2020-03-06 19:00:06.090534"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Gust      1 COKE
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
