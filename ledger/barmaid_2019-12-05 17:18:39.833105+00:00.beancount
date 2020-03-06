@@ -4380,3 +4380,11 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR
   Income:Bar                        -2.00 EUR
 
+2020-03-06 txn "--CASH-- bought 2 items for €15.00"
+  timestamp: "2020-03-06 01:10:21.810468"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 TACOSNACKPACK
+  Assets:Cash:Bar            2 TACOSNACKPACK
+  Assets:Cash:Bar        15.00 EUR          
+  Income:Bar            -15.00 EUR          
+
