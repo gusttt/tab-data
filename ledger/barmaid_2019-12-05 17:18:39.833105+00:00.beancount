@@ -4508,3 +4508,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2020-03-08 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-03-08 15:27:29.762238"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Bloemist      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Bloemist   2.00 EUR       
+  Income:Bar                        -2.00 EUR       
+
