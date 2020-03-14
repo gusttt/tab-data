@@ -4668,3 +4668,11 @@
   Liabilities:Bar:Members:Yvan  -15.30 EUR
   Assets:Cash:Bar                15.30 EUR
 
+2020-03-14 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2020-03-14 17:46:01.858615"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 FRITZ
+  Liabilities:Bar:Members:Yvan      2 FRITZ
+  Liabilities:Bar:Members:Yvan   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
