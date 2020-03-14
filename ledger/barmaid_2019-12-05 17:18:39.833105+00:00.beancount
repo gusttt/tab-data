@@ -4624,3 +4624,11 @@
   Liabilities:Bar:Members:Bloemist   5.00 EUR
   Liabilities:Bar:Members:Elvis     -5.00 EUR
 
+2020-03-14 txn "Yvan & Lauren bought 1 items for €2.00"
+  timestamp: "2020-03-14 11:08:37.581142"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
