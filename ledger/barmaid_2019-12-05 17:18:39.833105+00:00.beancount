@@ -4842,3 +4842,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2020-03-26 txn "Bloemist bought 1 items for €1.00"
+  timestamp: "2020-03-26 22:15:27.738973"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICE_CREAM
+  Liabilities:Bar:Members:Bloemist      1 ICE_CREAM
+  Liabilities:Bar:Members:Bloemist   1.00 EUR      
+  Income:Bar                        -1.00 EUR      
+
