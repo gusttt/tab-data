@@ -4976,3 +4976,13 @@
   Liabilities:Bar:Members:Els   1.50 EUR  
   Income:Bar                   -1.50 EUR  
 
+2020-05-04 txn "Els bought 21 items for €40.60"
+  timestamp: "2020-05-04 07:14:33.134511"
+  type: "purchase"
+  Assets:Inventory:Bar            -20 FLORA
+  Liabilities:Bar:Members:Els      20 FLORA
+  Assets:Inventory:Bar             -1 MNM  
+  Liabilities:Bar:Members:Els       1 MNM  
+  Liabilities:Bar:Members:Els   40.60 EUR  
+  Income:Bar                   -40.60 EUR  
+
