@@ -4994,3 +4994,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2020-05-08 txn "Els bought 2 items for €2.10"
+  timestamp: "2020-05-08 11:10:05.730590"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Assets:Inventory:Bar            -1 MNM 
+  Liabilities:Bar:Members:Els      1 MNM 
+  Liabilities:Bar:Members:Els   2.10 EUR 
+  Income:Bar                   -2.10 EUR 
+
