@@ -5046,3 +5046,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR   
   Income:Bar                   -1.50 EUR   
 
+2020-05-13 txn "Els bought 1 items for €0.20"
+  timestamp: "2020-05-13 08:39:23.472675"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHUPACHUPS
+  Liabilities:Bar:Members:Els      1 CHUPACHUPS
+  Liabilities:Bar:Members:Els   0.20 EUR       
+  Income:Bar                   -0.20 EUR       
+
