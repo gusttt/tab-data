@@ -5060,3 +5060,9 @@
   Liabilities:Bar:Members:Els   6.70 EUR
   Assets:Cash:Bar              -6.70 EUR
 
+2020-05-13 txn "Els gave TQ a gift of €14.00"
+  timestamp: "2020-05-13 08:40:48.769872"
+  type: "transfer"
+  Liabilities:Bar:Members:Els       14.00 EUR
+  Liabilities:Bar:Members:Thequux  -14.00 EUR
+
