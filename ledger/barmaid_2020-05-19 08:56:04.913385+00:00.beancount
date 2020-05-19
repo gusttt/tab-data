@@ -1,0 +1,8 @@
+2020-05-19 txn "Els bought 1 items for €1.50"
+  timestamp: "2020-05-19 08:56:04.896085"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
