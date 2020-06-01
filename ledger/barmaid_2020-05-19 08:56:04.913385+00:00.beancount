@@ -128,3 +128,11 @@
   Liabilities:Bar:Members:Bart  -6.00 EUR
   Assets:Cash:Bar                6.00 EUR
 
+2020-06-01 txn "qwaxys bought 2 items for €3.00"
+  timestamp: "2020-06-01 13:59:23.653392"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 FANTA
+  Liabilities:Bar:Members:Bart      2 FANTA
+  Liabilities:Bar:Members:Bart   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
