@@ -112,3 +112,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2020-06-01 txn "qwaxys bought 2 items for €3.50"
+  timestamp: "2020-06-01 11:00:44.531564"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Bart      1 ICETEA
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Bart      1 FRITZ 
+  Liabilities:Bar:Members:Bart   3.50 EUR   
+  Income:Bar                    -3.50 EUR   
+
