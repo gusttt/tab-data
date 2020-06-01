@@ -168,3 +168,9 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR   
   Income:Bar                       -1.20 EUR   
 
+2020-06-01 txn "qwaxys deposited €10.50"
+  timestamp: "2020-06-01 20:42:22.316201"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.50 EUR
+  Assets:Cash:Bar                10.50 EUR
+
