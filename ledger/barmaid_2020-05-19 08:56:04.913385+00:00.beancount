@@ -224,3 +224,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2020-06-11 txn "Yvan & Lauren bought 1 items for €1.50"
+  timestamp: "2020-06-11 08:29:24.074504"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
