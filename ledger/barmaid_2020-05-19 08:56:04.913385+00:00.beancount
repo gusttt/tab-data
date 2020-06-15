@@ -354,3 +354,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2020-06-15 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2020-06-15 11:42:21.132180"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CM 
+  Liabilities:Bar:Members:Yvan      2 CM 
+  Liabilities:Bar:Members:Yvan   4.00 EUR
+  Income:Bar                    -4.00 EUR
+
