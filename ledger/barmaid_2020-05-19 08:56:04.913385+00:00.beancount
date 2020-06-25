@@ -872,3 +872,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-06-25 txn "Yvan & Lauren gave Carro​armato0 a gift of €28.00"
+  timestamp: "2020-06-25 16:39:24.175768"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan           28.00 EUR
+  Liabilities:Bar:Members:Carroarmato0  -28.00 EUR
+
