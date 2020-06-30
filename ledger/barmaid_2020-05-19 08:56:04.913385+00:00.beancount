@@ -1200,3 +1200,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR  
   Income:Bar                    -2.10 EUR  
 
+2020-06-30 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2020-06-30 19:50:22.724147"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
