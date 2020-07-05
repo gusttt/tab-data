@@ -1436,3 +1436,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2020-07-05 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2020-07-05 17:44:00.795278"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 PIZZA
+  Liabilities:Bar:Members:Yvan      2 PIZZA
+  Liabilities:Bar:Members:Yvan   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
