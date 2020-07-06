@@ -1460,3 +1460,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2020-07-06 txn "Els bought 1 items for €0.75"
+  timestamp: "2020-07-06 15:15:19.560123"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   0.75 EUR  
+  Income:Bar                   -0.75 EUR  
+
