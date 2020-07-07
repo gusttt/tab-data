@@ -1498,3 +1498,11 @@
   Liabilities:Bar:Members:Yvan  -15.00 EUR
   Assets:Cash:Bar                15.00 EUR
 
+2020-07-07 txn "Yvan & Lauren bought 1 items for €0.75"
+  timestamp: "2020-07-07 08:44:23.538598"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Yvan      1 WATER
+  Liabilities:Bar:Members:Yvan   0.75 EUR  
+  Income:Bar                    -0.75 EUR  
+
