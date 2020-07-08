@@ -1522,3 +1522,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2020-07-08 txn "Yvan & Lauren bought 1 items for €1.50"
+  timestamp: "2020-07-08 14:26:58.538300"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Yvan      1 SCHWEPPES
+  Liabilities:Bar:Members:Yvan   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
