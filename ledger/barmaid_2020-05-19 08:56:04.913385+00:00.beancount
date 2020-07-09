@@ -1588,3 +1588,9 @@
   Liabilities:Bar:Members:Jens   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-07-09 txn "Jens deposited €20.00"
+  timestamp: "2020-07-09 19:15:56.144313"
+  type: "deposit"
+  Liabilities:Bar:Members:Jens  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
