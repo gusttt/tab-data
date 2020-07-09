@@ -1652,3 +1652,13 @@
   Liabilities:Bar:Members:Jens   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-07-09 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2020-07-09 20:57:30.902976"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Assets:Inventory:Bar                     -1 MNM   
+  Liabilities:Bar:Members:Carroarmato0      1 MNM   
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
+  Income:Bar                            -2.10 EUR   
+
