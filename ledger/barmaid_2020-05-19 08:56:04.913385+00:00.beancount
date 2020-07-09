@@ -1546,3 +1546,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-07-09 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2020-07-09 17:48:28.108340"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FLORA
+  Liabilities:Bar:Members:Carroarmato0      1 FLORA
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
+  Income:Bar                            -2.00 EUR  
+
