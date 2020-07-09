@@ -1612,3 +1612,11 @@
   Liabilities:Bar:Members:Merlijn   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2020-07-09 txn "TQ bought 1 items for €1.50"
+  timestamp: "2020-07-09 19:31:17.104153"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Thequux      1 ICETEA
+  Liabilities:Bar:Members:Thequux   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
