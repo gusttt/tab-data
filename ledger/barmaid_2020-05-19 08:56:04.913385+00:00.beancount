@@ -1628,3 +1628,11 @@
   Liabilities:Bar:Members:Jens   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-07-09 txn "TQ bought 1 items for €1.50"
+  timestamp: "2020-07-09 20:15:41.531085"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Thequux      1 JUPILER
+  Liabilities:Bar:Members:Thequux   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
