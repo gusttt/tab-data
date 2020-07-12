@@ -1942,3 +1942,11 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2020-07-12 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2020-07-12 20:28:39.702443"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist      1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
