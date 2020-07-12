@@ -1894,3 +1894,9 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-07-12 txn "TQ gave qwaxys a gift of €11.16"
+  timestamp: "2020-07-12 16:57:39.257820"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   11.16 EUR
+  Liabilities:Bar:Members:Bart     -11.16 EUR
+
