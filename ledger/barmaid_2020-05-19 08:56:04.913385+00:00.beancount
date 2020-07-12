@@ -1878,3 +1878,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR
   Income:Bar                       -1.50 EUR
 
+2020-07-12 txn "Lisa bought 2 items for €3.00"
+  timestamp: "2020-07-12 16:46:08.542331"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 ICETEA
+  Liabilities:Bar:Members:Lisa      2 ICETEA
+  Liabilities:Bar:Members:Lisa   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
