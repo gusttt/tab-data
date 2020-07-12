@@ -1838,3 +1838,11 @@
   Liabilities:Bar:Members:Bart      5.58 EUR
   Liabilities:Bar:Members:Thequux  -5.58 EUR
 
+2020-07-12 txn "TQ bought 1 items for €1.50"
+  timestamp: "2020-07-12 13:00:39.986955"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 HG 
+  Liabilities:Bar:Members:Thequux      1 HG 
+  Liabilities:Bar:Members:Thequux   1.50 EUR
+  Income:Bar                       -1.50 EUR
+
