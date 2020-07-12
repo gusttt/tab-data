@@ -1854,3 +1854,11 @@
   Liabilities:Bar:Members:Lisa   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-07-12 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2020-07-12 13:00:57.113616"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Bart      1 COKE
+  Liabilities:Bar:Members:Bart   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
