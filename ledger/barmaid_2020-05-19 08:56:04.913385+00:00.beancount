@@ -1908,3 +1908,15 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2020-07-12 txn "Merlijn bought 4 items for €3.30"
+  timestamp: "2020-07-12 18:36:39.853511"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Merlijn      1 BOUNTY
+  Assets:Inventory:Bar                -2 CHIP  
+  Liabilities:Bar:Members:Merlijn      2 CHIP  
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Merlijn      1 ICETEA
+  Liabilities:Bar:Members:Merlijn   3.30 EUR   
+  Income:Bar                       -3.30 EUR   
+
