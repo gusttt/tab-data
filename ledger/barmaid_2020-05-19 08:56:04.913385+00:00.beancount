@@ -2032,3 +2032,13 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR      
   Income:Bar                    -3.00 EUR      
 
+2020-07-13 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2020-07-13 13:37:36.731332"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0      1 COKE_ZERO
+  Assets:Inventory:Bar                     -1 BOUNTY   
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY   
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR      
+  Income:Bar                            -2.10 EUR      
+
