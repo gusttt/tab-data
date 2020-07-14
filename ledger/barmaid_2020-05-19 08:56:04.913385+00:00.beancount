@@ -2180,3 +2180,9 @@
   Liabilities:Bar:Members:Jens   2.10 EUR      
   Income:Bar                    -2.10 EUR      
 
+2020-07-14 txn "TQ deposited €40.00"
+  timestamp: "2020-07-14 15:55:04.134366"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -40.00 EUR
+  Assets:Cash:Bar                   40.00 EUR
+
