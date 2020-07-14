@@ -2170,3 +2170,13 @@
   Liabilities:Bar:Members:Jens   2.60 EUR 
   Income:Bar                    -2.60 EUR 
 
+2020-07-14 txn "Jens bought 2 items for €2.10"
+  timestamp: "2020-07-14 15:23:41.195298"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Jens      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 CHIP     
+  Liabilities:Bar:Members:Jens      1 CHIP     
+  Liabilities:Bar:Members:Jens   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
