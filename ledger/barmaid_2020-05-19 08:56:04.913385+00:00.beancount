@@ -2298,3 +2298,9 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2020-07-15 txn "Miker deposited €30.00"
+  timestamp: "2020-07-15 14:30:24.792303"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -30.00 EUR
+  Assets:Cash:Bar                 30.00 EUR
+
