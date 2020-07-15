@@ -2290,3 +2290,11 @@
   Liabilities:Bar:Members:Miker   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2020-07-15 txn "Yvan & Lauren bought 1 items for €0.60"
+  timestamp: "2020-07-15 12:31:57.540462"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
