@@ -380,58 +380,6 @@
   Liabilities:Bar:Members:Mircea   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
-2019-06-29 txn "Yvan & Lauren gave --CASH-- a gift of €1000000.00"
-  timestamp: "2019-06-29 20:27:25.618603"
-  type: "transfer"
-  Liabilities:Bar:Members:Yvan   1000000.00 EUR
-  Assets:Cash:Bar               -1000000.00 EUR
-
-2019-06-29 txn "Yvan & Lauren deposited €1000000.00"
-  timestamp: "2019-06-29 20:27:52.703310"
-  type: "deposit"
-  Liabilities:Bar:Members:Yvan  -1000000.00 EUR
-  Assets:Cash:Bar                1000000.00 EUR
-
-2019-06-29 txn "Yvan & Lauren gave --CASH-- a gift of €1.00"
-  timestamp: "2019-06-29 20:29:21.040641"
-  type: "transfer"
-  Liabilities:Bar:Members:Yvan   1.00 EUR
-  Assets:Cash:Bar               -1.00 EUR
-
-2019-06-29 txn "Yvan & Lauren deposited €1.00"
-  timestamp: "2019-06-29 20:29:39.810538"
-  type: "deposit"
-  Liabilities:Bar:Members:Yvan  -1.00 EUR
-  Assets:Cash:Bar                1.00 EUR
-
-2019-06-29 txn "Yvan & Lauren bought 55 items for €11.00"
-  timestamp: "2019-06-29 20:30:30.807120"
-  type: "purchase"
-  Assets:Inventory:Bar             -55 CHUPACHUPS
-  Liabilities:Bar:Members:Yvan      55 CHUPACHUPS
-  Liabilities:Bar:Members:Yvan   11.00 EUR       
-  Income:Bar                    -11.00 EUR       
-
-2019-06-29 txn "Yvan & Lauren deposited €11.00"
-  timestamp: "2019-06-29 20:30:42.382391"
-  type: "deposit"
-  Liabilities:Bar:Members:Yvan  -11.00 EUR
-  Assets:Cash:Bar                11.00 EUR
-
-2019-06-29 txn "Yvan & Lauren bought 200 items for €40.00"
-  timestamp: "2019-06-29 20:34:30.890809"
-  type: "purchase"
-  Assets:Inventory:Bar            -200 CHUPACHUPS
-  Liabilities:Bar:Members:Yvan     200 CHUPACHUPS
-  Liabilities:Bar:Members:Yvan   40.00 EUR       
-  Income:Bar                    -40.00 EUR       
-
-2019-06-29 txn "Yvan & Lauren deposited €40.00"
-  timestamp: "2019-06-29 20:34:45.823787"
-  type: "deposit"
-  Liabilities:Bar:Members:Yvan  -40.00 EUR
-  Assets:Cash:Bar                40.00 EUR
-
 2019-06-30 txn "Yvan & Lauren bought 1 items for €2.00"
   timestamp: "2019-06-30 08:42:19.223109"
   type: "purchase"
