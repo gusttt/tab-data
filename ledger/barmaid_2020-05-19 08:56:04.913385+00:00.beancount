@@ -2250,3 +2250,9 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR 
   Income:Bar                    -2.10 EUR 
 
+2020-07-15 txn "Yvan & Lauren gave --CASH-- a gift of €5.00"
+  timestamp: "2020-07-15 09:04:11.324495"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
