@@ -2650,3 +2650,13 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR
   Income:Bar                       -1.50 EUR
 
+2020-07-16 txn "Miker bought 2 items for €2.10"
+  timestamp: "2020-07-16 21:07:58.998329"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE    
+  Liabilities:Bar:Members:Miker      1 COKE    
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   2.10 EUR     
+  Income:Bar                     -2.10 EUR     
+
