@@ -2608,3 +2608,13 @@
   Liabilities:Bar:Members:Miker   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2020-07-16 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2020-07-16 19:38:18.307717"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -1 MNM   
+  Liabilities:Bar:Members:Carroarmato0      1 MNM   
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
+  Income:Bar                            -1.20 EUR   
+
