@@ -228,7 +228,11 @@
     account: Liabilities:Bar:Members:Bart
     amount: 1.20
   category: swag
-
+- name: Facemask
+  price: 4.00
+  event_price: 4.00
+  currency: FACEMASK
+  category: swag
 # unused products below
 
 #- name: Soda
