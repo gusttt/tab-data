@@ -2786,3 +2786,13 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR     
   Income:Bar                       -1.20 EUR     
 
+2020-07-17 txn "TQ bought 2 items for €2.10"
+  timestamp: "2020-07-17 13:02:42.686470"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Thequux      1 COKE
+  Assets:Inventory:Bar                -1 MNM 
+  Liabilities:Bar:Members:Thequux      1 MNM 
+  Liabilities:Bar:Members:Thequux   2.10 EUR 
+  Income:Bar                       -2.10 EUR 
+
