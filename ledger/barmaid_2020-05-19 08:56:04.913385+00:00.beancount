@@ -2868,3 +2868,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR 
   Income:Bar                    -2.10 EUR 
 
+2020-07-18 txn "TQ bought 1 items for €1.50"
+  timestamp: "2020-07-18 10:14:12.266103"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Thequux      1 COKE
+  Liabilities:Bar:Members:Thequux   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
