@@ -2912,3 +2912,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2020-07-18 txn "Jens bought 1 items for €1.50"
+  timestamp: "2020-07-18 12:45:23.256559"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Jens      1 COKE_ZERO
+  Liabilities:Bar:Members:Jens   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
