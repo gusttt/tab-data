@@ -3274,3 +3274,11 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR   
   Income:Bar                    -3.00 EUR   
 
+2020-07-20 txn "Els bought 1 items for €1.00"
+  timestamp: "2020-07-20 20:13:19.848477"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICE_CREAM
+  Liabilities:Bar:Members:Els      1 ICE_CREAM
+  Liabilities:Bar:Members:Els   1.00 EUR      
+  Income:Bar                   -1.00 EUR      
+
