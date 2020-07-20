@@ -3156,3 +3156,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2020-07-20 txn "TQ bought 1 items for €1.50"
+  timestamp: "2020-07-20 10:06:27.793381"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Thequux      1 ICETEA
+  Liabilities:Bar:Members:Thequux   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
