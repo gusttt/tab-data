@@ -3204,3 +3204,11 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2020-07-20 txn "Els bought 1 items for €1.50"
+  timestamp: "2020-07-20 12:43:09.581377"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
