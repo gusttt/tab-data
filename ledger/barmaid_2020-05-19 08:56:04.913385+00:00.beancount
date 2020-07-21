@@ -3308,3 +3308,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR
   Income:Bar                    -1.50 EUR
 
+2020-07-21 txn "Bloemist bought 2 items for €2.10"
+  timestamp: "2020-07-21 16:03:46.811730"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Assets:Inventory:Bar                 -1 KING  
+  Liabilities:Bar:Members:Bloemist      1 KING  
+  Liabilities:Bar:Members:Bloemist   2.10 EUR   
+  Income:Bar                        -2.10 EUR   
+
