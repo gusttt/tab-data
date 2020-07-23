@@ -3714,3 +3714,11 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2020-07-23 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2020-07-23 19:40:58.464549"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CMCOLA
+  Liabilities:Bar:Members:Yvan      2 CMCOLA
+  Liabilities:Bar:Members:Yvan   4.00 EUR   
+  Income:Bar                    -4.00 EUR   
+
