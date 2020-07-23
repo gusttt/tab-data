@@ -3610,3 +3610,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR     
   Income:Bar                            -2.00 EUR     
 
+2020-07-23 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-07-23 16:20:57.115856"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR   
+  Income:Bar                        -2.00 EUR   
+
