@@ -3664,3 +3664,11 @@
   Liabilities:Bar:Members:Bloemist  -100.00 EUR
   Assets:Cash:Bar                    100.00 EUR
 
+2020-07-23 txn "Evils bought 1 items for €2.00"
+  timestamp: "2020-07-23 18:34:43.547208"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
