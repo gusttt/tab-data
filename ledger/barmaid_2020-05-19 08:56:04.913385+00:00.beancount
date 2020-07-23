@@ -3602,3 +3602,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-07-23 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2020-07-23 16:20:41.034351"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 VITAMALZ
+  Liabilities:Bar:Members:Carroarmato0      1 VITAMALZ
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR     
+  Income:Bar                            -2.00 EUR     
+
