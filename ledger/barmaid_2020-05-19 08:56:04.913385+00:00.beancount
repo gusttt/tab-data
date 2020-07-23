@@ -3580,3 +3580,11 @@
   Liabilities:Bar:Members:Jens   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-07-23 txn "Yvan & Lauren bought 1 items for €2.00"
+  timestamp: "2020-07-23 15:33:51.351583"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Yvan      1 CMCOLA
+  Liabilities:Bar:Members:Yvan   2.00 EUR   
+  Income:Bar                    -2.00 EUR   
+
