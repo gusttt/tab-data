@@ -3572,3 +3572,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2020-07-23 txn "Jens bought 1 items for €2.00"
+  timestamp: "2020-07-23 14:31:28.540413"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Jens      1 CM 
+  Liabilities:Bar:Members:Jens   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
