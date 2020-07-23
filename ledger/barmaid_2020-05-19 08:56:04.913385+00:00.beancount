@@ -3696,3 +3696,13 @@
   Liabilities:Bar:Members:Yvan   4.00 EUR  
   Income:Bar                    -4.00 EUR  
 
+2020-07-23 txn "Sasja bought 2 items for €1.35"
+  timestamp: "2020-07-23 18:57:35.748437"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Sasja      1 WATER
+  Assets:Inventory:Bar              -1 KING 
+  Liabilities:Bar:Members:Sasja      1 KING 
+  Liabilities:Bar:Members:Sasja   1.35 EUR  
+  Income:Bar                     -1.35 EUR  
+
