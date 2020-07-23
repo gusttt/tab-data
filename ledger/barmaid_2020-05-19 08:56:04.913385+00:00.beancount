@@ -3722,3 +3722,13 @@
   Liabilities:Bar:Members:Yvan   4.00 EUR   
   Income:Bar                    -4.00 EUR   
 
+2020-07-23 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-07-23 20:13:59.544306"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ 
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ 
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
