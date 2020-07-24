@@ -3820,3 +3820,15 @@
   Liabilities:Bar:Members:Elvis  -9.00 EUR
   Assets:Cash:Bar                 9.00 EUR
 
+2020-07-24 txn "Yvan & Lauren bought 3 items for €3.20"
+  timestamp: "2020-07-24 13:01:39.546151"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Yvan      1 CMCOLA
+  Assets:Inventory:Bar             -1 MARS  
+  Liabilities:Bar:Members:Yvan      1 MARS  
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Liabilities:Bar:Members:Yvan   3.20 EUR   
+  Income:Bar                    -3.20 EUR   
+
