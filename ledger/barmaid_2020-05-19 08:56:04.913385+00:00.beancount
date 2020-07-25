@@ -3876,3 +3876,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2020-07-25 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-07-25 17:26:00.715204"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR   
+  Income:Bar                        -2.00 EUR   
+
