@@ -3986,3 +3986,11 @@
   Liabilities:Bar:Members:Yvan   3.20 EUR   
   Income:Bar                    -3.20 EUR   
 
+2020-07-26 txn "Lisa bought 1 items for €1.50"
+  timestamp: "2020-07-26 16:21:16.894015"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Lisa      1 ICETEA
+  Liabilities:Bar:Members:Lisa   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
