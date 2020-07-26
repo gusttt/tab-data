@@ -4020,3 +4020,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2020-07-26 txn "Yvan & Lauren bought 2 items for €2.60"
+  timestamp: "2020-07-26 19:20:36.730545"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Assets:Inventory:Bar             -1 MARS 
+  Liabilities:Bar:Members:Yvan      1 MARS 
+  Liabilities:Bar:Members:Yvan   2.60 EUR  
+  Income:Bar                    -2.60 EUR  
+
