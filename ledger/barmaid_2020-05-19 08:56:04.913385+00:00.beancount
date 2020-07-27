@@ -4110,3 +4110,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2020-07-27 txn "Yvan & Lauren bought 2 items for €2.60"
+  timestamp: "2020-07-27 18:40:48.652427"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Yvan      1 FRITZ_ZERO
+  Assets:Inventory:Bar             -1 MARS      
+  Liabilities:Bar:Members:Yvan      1 MARS      
+  Liabilities:Bar:Members:Yvan   2.60 EUR       
+  Income:Bar                    -2.60 EUR       
+
