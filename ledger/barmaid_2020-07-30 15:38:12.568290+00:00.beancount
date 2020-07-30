@@ -128,3 +128,15 @@
   Liabilities:Bar:Members:Elvis   1.80 EUR 
   Income:Bar                     -1.80 EUR 
 
+2020-07-30 txn "Yvan & Lauren bought 3 items for €4.60"
+  timestamp: "2020-07-30 21:11:57.181896"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Yvan      1 CMRED
+  Assets:Inventory:Bar             -1 MARS 
+  Liabilities:Bar:Members:Yvan      1 MARS 
+  Liabilities:Bar:Members:Yvan   4.60 EUR  
+  Income:Bar                    -4.60 EUR  
+
