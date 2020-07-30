@@ -94,3 +94,11 @@
   Liabilities:Bar:Members:Merlijn   2.60 EUR   
   Income:Bar                       -2.60 EUR   
 
+2020-07-30 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2020-07-30 20:31:40.557242"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Bart      1 CHIP
+  Liabilities:Bar:Members:Bart   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
