@@ -50,3 +50,13 @@
   Liabilities:Bar:Members:Sander  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2020-07-30 txn "Sander bought 3 items for €4.60"
+  timestamp: "2020-07-30 18:18:30.812343"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 CMCOLA
+  Liabilities:Bar:Members:Sander      2 CMCOLA
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   4.60 EUR   
+  Income:Bar                      -4.60 EUR   
+
