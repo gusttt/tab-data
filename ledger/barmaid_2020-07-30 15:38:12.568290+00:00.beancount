@@ -28,3 +28,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-07-30 txn "Carro​armato0 deposited €5.00"
+  timestamp: "2020-07-30 17:12:48.045367"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -5.00 EUR
+  Assets:Cash:Bar                        5.00 EUR
+
