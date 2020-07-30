@@ -118,3 +118,13 @@
   Liabilities:Bar:Members:Lisa   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2020-07-30 txn "Evils bought 3 items for €1.80"
+  timestamp: "2020-07-30 20:55:11.024253"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 KING
+  Liabilities:Bar:Members:Elvis      2 KING
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Elvis      1 MARS
+  Liabilities:Bar:Members:Elvis   1.80 EUR 
+  Income:Bar                     -1.80 EUR 
+
