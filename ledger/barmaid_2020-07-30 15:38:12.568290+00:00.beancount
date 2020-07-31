@@ -178,3 +178,11 @@
   Liabilities:Bar:Members:Elvis   0.14 EUR
   Liabilities:Bar:Members:Sasja  -0.14 EUR
 
+2020-07-31 txn "Joris bought 1 items for €1.50"
+  timestamp: "2020-07-31 00:56:33.010960"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Joris      1 JUPILER
+  Liabilities:Bar:Members:Joris   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
