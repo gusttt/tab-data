@@ -430,3 +430,11 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2020-08-03 txn "TQ bought 1 items for €2.00"
+  timestamp: "2020-08-03 13:10:28.077467"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 VITAMALZ
+  Liabilities:Bar:Members:Thequux      1 VITAMALZ
+  Liabilities:Bar:Members:Thequux   2.00 EUR     
+  Income:Bar                       -2.00 EUR     
+
