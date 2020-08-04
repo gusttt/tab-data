@@ -504,3 +504,9 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2020-08-04 txn "Yvan & Lauren deposited €600.00"
+  timestamp: "2020-08-04 07:21:43.169227"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -600.00 EUR
+  Assets:Cash:Bar                600.00 EUR
+
