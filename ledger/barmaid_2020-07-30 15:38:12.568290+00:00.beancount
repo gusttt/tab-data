@@ -634,3 +634,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR   
   Income:Bar                       -2.00 EUR   
 
+2020-08-04 txn "Carro​armato0 deposited €10.00"
+  timestamp: "2020-08-04 16:45:17.049329"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -10.00 EUR
+  Assets:Cash:Bar                        10.00 EUR
+
