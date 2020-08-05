@@ -842,3 +842,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR   
   Income:Bar                            -0.60 EUR   
 
+2020-08-05 txn "Yvan & Lauren bought 1 items for €1.50"
+  timestamp: "2020-08-05 18:51:51.739565"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
