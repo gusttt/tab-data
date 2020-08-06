@@ -922,3 +922,11 @@
   Liabilities:Bar:Members:Carroarmato0  -20.00 EUR
   Assets:Cash:Bar                        20.00 EUR
 
+2020-08-06 txn "Carro​armato0 bought 1 items for €0.60"
+  timestamp: "2020-08-06 15:43:12.371539"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0   0.60 EUR   
+  Income:Bar                            -0.60 EUR   
+
