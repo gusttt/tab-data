@@ -978,3 +978,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2020-08-06 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2020-08-06 19:49:32.981557"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 VITAMALZ
+  Liabilities:Bar:Members:Carroarmato0      1 VITAMALZ
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR     
+  Income:Bar                            -2.00 EUR     
+
