@@ -944,3 +944,11 @@
   Liabilities:Bar:Members:Elvis  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2020-08-06 txn "Sander bought 1 items for €0.60"
+  timestamp: "2020-08-06 18:11:47.725507"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   0.60 EUR   
+  Income:Bar                      -0.60 EUR   
+
