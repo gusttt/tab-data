@@ -916,3 +916,9 @@
   Liabilities:Bar:Members:Carroarmato0   7.00 EUR
   Liabilities:Bar:Members:Yvan          -7.00 EUR
 
+2020-08-06 txn "Carro​armato0 deposited €20.00"
+  timestamp: "2020-08-06 15:39:20.855594"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -20.00 EUR
+  Assets:Cash:Bar                        20.00 EUR
+
