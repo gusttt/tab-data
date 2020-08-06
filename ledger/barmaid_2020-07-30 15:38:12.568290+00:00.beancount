@@ -960,3 +960,13 @@
   Liabilities:Bar:Members:Sander   2.00 EUR   
   Income:Bar                      -2.00 EUR   
 
+2020-08-06 txn "Evils bought 2 items for €2.60"
+  timestamp: "2020-08-06 18:21:41.721432"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Assets:Inventory:Bar              -1 KING    
+  Liabilities:Bar:Members:Elvis      1 KING    
+  Liabilities:Bar:Members:Elvis   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
