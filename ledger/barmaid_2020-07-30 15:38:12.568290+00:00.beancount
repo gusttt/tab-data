@@ -1116,3 +1116,13 @@
   Liabilities:Bar:Members:Sander   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2020-08-07 txn "Yvan & Lauren bought 2 items for €4.00"
+  timestamp: "2020-08-07 18:59:33.367122"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Yvan      1 FRITZ 
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Yvan      1 CMCOLA
+  Liabilities:Bar:Members:Yvan   4.00 EUR   
+  Income:Bar                    -4.00 EUR   
+
