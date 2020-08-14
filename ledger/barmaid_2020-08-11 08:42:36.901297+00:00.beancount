@@ -362,3 +362,11 @@
   Liabilities:Bar:Members:Sasja  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2020-08-14 txn "Bloemist bought 2 items for €4.00"
+  timestamp: "2020-08-14 18:32:47.870868"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CM 
+  Liabilities:Bar:Members:Bloemist      2 CM 
+  Liabilities:Bar:Members:Bloemist   4.00 EUR
+  Income:Bar                        -4.00 EUR
+
