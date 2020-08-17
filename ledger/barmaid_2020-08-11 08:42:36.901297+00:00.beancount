@@ -680,3 +680,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR    
   Income:Bar                        -3.00 EUR    
 
+2020-08-17 txn "Bloemist bought 1 items for €4.00"
+  timestamp: "2020-08-17 23:43:25.474492"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FACEMASK
+  Liabilities:Bar:Members:Bloemist      1 FACEMASK
+  Liabilities:Bar:Members:Bloemist   4.00 EUR     
+  Income:Bar                        -4.00 EUR     
+
