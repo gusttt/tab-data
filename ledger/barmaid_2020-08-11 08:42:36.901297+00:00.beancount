@@ -800,3 +800,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.10 EUR      
   Income:Bar                            -2.10 EUR      
 
+2020-08-19 txn "Yvan & Lauren bought 1 items for €1.50"
+  timestamp: "2020-08-19 17:06:49.358334"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
