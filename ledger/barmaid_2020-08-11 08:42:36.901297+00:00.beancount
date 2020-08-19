@@ -816,3 +816,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR     
   Income:Bar                    -2.00 EUR     
 
+2020-08-19 txn "TQ bought 1 items for €2.00"
+  timestamp: "2020-08-19 18:02:04.650984"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
