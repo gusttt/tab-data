@@ -1046,3 +1046,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2020-08-21 txn "Evils gave Sander a gift of €13.35"
+  timestamp: "2020-08-21 22:20:13.685435"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    13.35 EUR
+  Liabilities:Bar:Members:Sander  -13.35 EUR
+
