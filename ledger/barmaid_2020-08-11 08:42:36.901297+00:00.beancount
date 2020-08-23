@@ -1196,3 +1196,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2020-08-23 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2020-08-23 17:09:01.759115"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MNM
+  Liabilities:Bar:Members:Bart      1 MNM
+  Liabilities:Bar:Members:Bart   0.60 EUR
+  Income:Bar                    -0.60 EUR
+
