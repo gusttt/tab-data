@@ -1252,3 +1252,13 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR
   Income:Bar                       -0.60 EUR
 
+2020-08-24 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-08-24 18:55:29.440776"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 VITAMALZ
+  Liabilities:Bar:Members:Carroarmato0      1 VITAMALZ
+  Assets:Inventory:Bar                     -1 BOUNTY  
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY  
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
