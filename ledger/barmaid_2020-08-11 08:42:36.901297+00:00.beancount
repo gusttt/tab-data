@@ -1302,3 +1302,9 @@
   Liabilities:Bar:Members:Miker   12.09 EUR
   Liabilities:Bar:Members:Elvis  -12.09 EUR
 
+2020-08-25 txn "TQ gave Evils a gift of €28.03"
+  timestamp: "2020-08-25 14:29:12.334979"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   28.03 EUR
+  Liabilities:Bar:Members:Elvis    -28.03 EUR
+
