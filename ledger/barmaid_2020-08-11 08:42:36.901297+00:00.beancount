@@ -1394,3 +1394,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-08-25 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2020-08-25 23:25:51.875123"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bart      1 SNACK
+  Liabilities:Bar:Members:Bart   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
