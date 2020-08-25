@@ -1308,3 +1308,11 @@
   Liabilities:Bar:Members:Thequux   28.03 EUR
   Liabilities:Bar:Members:Elvis    -28.03 EUR
 
+2020-08-25 txn "Miker bought 1 items for €2.00"
+  timestamp: "2020-08-25 14:29:50.375074"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
