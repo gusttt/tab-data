@@ -1624,3 +1624,11 @@
   Assets:Cash:Bar        1.20 EUR 
   Income:Bar            -1.20 EUR 
 
+2020-08-28 txn "TQ bought 1 items for €0.60"
+  timestamp: "2020-08-28 15:40:57.974910"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Thequux      1 MARS
+  Liabilities:Bar:Members:Thequux   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
