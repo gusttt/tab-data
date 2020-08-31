@@ -1794,3 +1794,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2020-08-31 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-08-31 15:55:46.050192"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM      
+  Liabilities:Bar:Members:Carroarmato0      1 CM      
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
