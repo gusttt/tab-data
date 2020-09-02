@@ -2010,3 +2010,13 @@
   Liabilities:Bar:Members:Yvan   2.60 EUR   
   Income:Bar                    -2.60 EUR   
 
+2020-09-02 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-09-02 14:02:45.715577"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FLORA   
+  Liabilities:Bar:Members:Carroarmato0      1 FLORA   
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
