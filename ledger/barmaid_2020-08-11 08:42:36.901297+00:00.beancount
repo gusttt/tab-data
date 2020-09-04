@@ -2252,3 +2252,13 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-09-04 txn "Bloemist bought 6 items for €10.00"
+  timestamp: "2020-09-04 23:44:46.026885"
+  type: "purchase"
+  Assets:Inventory:Bar                  -5 JUPILER
+  Liabilities:Bar:Members:Bloemist       5 JUPILER
+  Assets:Inventory:Bar                  -1 DUVEL  
+  Liabilities:Bar:Members:Bloemist       1 DUVEL  
+  Liabilities:Bar:Members:Bloemist   10.00 EUR    
+  Income:Bar                        -10.00 EUR    
+
