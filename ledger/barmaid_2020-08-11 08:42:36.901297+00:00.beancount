@@ -2280,3 +2280,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR      
   Income:Bar                        -3.00 EUR      
 
+2020-09-05 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2020-09-05 02:25:00.774835"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Bloemist      1 FRITZ
+  Liabilities:Bar:Members:Bloemist   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
