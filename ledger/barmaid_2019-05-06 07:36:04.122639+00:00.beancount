@@ -1,0 +1,38 @@
+2019-05-06 txn "Els bought 1 items for €1.50"
+  timestamp: "2019-05-06 07:36:04.091366"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE_ZERO
+  Liabilities:Bar:Members:Els      1 COKE_ZERO
+  Liabilities:Bar:Members:Els   1.50 EUR      
+  Income:Bar                   -1.50 EUR      
+
+2019-05-07 txn "Els bought 1 items for €1.50"
+  timestamp: "2019-05-07 10:17:32.369349"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FANTA
+  Liabilities:Bar:Members:Els      1 FANTA
+  Liabilities:Bar:Members:Els   1.50 EUR  
+  Income:Bar                   -1.50 EUR  
+
+2019-05-07 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-05-07 11:18:46.301259"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.60 EUR   
+  Income:Bar                   -0.60 EUR   
+
+2019-05-07 txn "Els gave Evils a gift of €24.00"
+  timestamp: "2019-05-07 12:25:16.169059"
+  type: "transfer"
+  Liabilities:Bar:Members:Els     24.00 EUR
+  Liabilities:Bar:Members:Elvis  -24.00 EUR
+
+2019-05-07 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-05-07 12:54:01.510195"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+

@@ -1,0 +1,72 @@
+2019-04-23 txn "Evils bought 1 items for €0.60"
+  timestamp: "2019-04-23 17:11:35.058165"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
+2019-04-23 txn "Evils bought 2 items for €1.00"
+  timestamp: "2019-04-23 17:17:37.414423"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 TEA
+  Liabilities:Bar:Members:Elvis      2 TEA
+  Liabilities:Bar:Members:Elvis   1.00 EUR
+  Income:Bar                     -1.00 EUR
+
+2019-04-23 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-23 17:32:01.494841"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
+2019-04-23 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-04-23 17:51:22.443601"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist      1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
+2019-04-23 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-23 18:48:29.062502"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
+2019-04-23 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-23 19:37:40.217643"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
+2019-04-23 txn "Evils bought 2 items for €1.00"
+  timestamp: "2019-04-23 20:21:33.601429"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 TEA
+  Liabilities:Bar:Members:Elvis      2 TEA
+  Liabilities:Bar:Members:Elvis   1.00 EUR
+  Income:Bar                     -1.00 EUR
+
+2019-04-23 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-04-23 20:29:25.509825"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Sasja      1 FRITZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
+2019-04-23 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-04-23 20:32:38.782765"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Bloemist      1 FANTA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR  
+  Income:Bar                        -1.50 EUR  
+

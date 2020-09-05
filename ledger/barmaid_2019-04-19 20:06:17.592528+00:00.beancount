@@ -1,0 +1,112 @@
+2019-04-19 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2019-04-19 20:06:17.562677"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Sasja      1 CHIP
+  Liabilities:Bar:Members:Sasja   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
+2019-04-19 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-19 20:10:45.404016"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
+2019-04-19 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2019-04-19 20:16:25.392413"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
+2019-04-20 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-04-20 14:06:50.488293"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
+2019-04-22 txn "Els bought 1 items for €1.50"
+  timestamp: "2019-04-22 14:02:00.845521"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els   1.50 EUR        
+  Income:Bar                   -1.50 EUR        
+
+2019-04-22 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-04-22 14:50:46.642890"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.60 EUR   
+  Income:Bar                   -0.60 EUR   
+
+2019-04-23 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2019-04-23 12:37:43.170520"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Sasja      1 FLORA
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
+2019-04-23 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-04-23 12:56:03.992585"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
+2019-04-23 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2019-04-23 13:14:32.896682"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Sasja      1 SNACK
+  Liabilities:Bar:Members:Sasja   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
+2019-04-23 txn "Els bought 1 items for €0.60"
+  timestamp: "2019-04-23 13:35:37.739606"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.60 EUR   
+  Income:Bar                   -0.60 EUR   
+
+2019-04-23 txn "Els bought 1 items for €0.75"
+  timestamp: "2019-04-23 13:37:05.592725"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   0.75 EUR  
+  Income:Bar                   -0.75 EUR  
+
+2019-04-23 txn "Els bought 1 items for €1.50"
+  timestamp: "2019-04-23 14:51:42.796356"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Els   1.50 EUR        
+  Income:Bar                   -1.50 EUR        
+
+2019-04-23 txn "Sasja bought 2 items for €1.00"
+  timestamp: "2019-04-23 14:51:57.958908"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja      2 WATER_GLASS
+  Liabilities:Bar:Members:Sasja   1.00 EUR        
+  Income:Bar                     -1.00 EUR        
+
+2019-04-23 txn "Evils bought 1 items for €2.00"
+  timestamp: "2019-04-23 15:00:35.540448"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+

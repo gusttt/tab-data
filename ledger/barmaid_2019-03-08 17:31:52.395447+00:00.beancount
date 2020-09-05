@@ -1,0 +1,28 @@
+2019-03-08 txn "Els deposited €100.00"
+  timestamp: "2019-03-08 17:31:52.378199"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -100.00 EUR
+  Assets:Cash:Bar               100.00 EUR
+
+2019-03-08 txn "Els deposited €-1.00"
+  timestamp: "2019-03-08 17:33:02.469923"
+  type: "deposit"
+  Liabilities:Bar:Members:Els   1.00 EUR
+  Assets:Cash:Bar              -1.00 EUR
+
+2019-03-08 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-03-08 17:35:24.443031"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   0.90 EUR  
+  Income:Bar                   -0.90 EUR  
+
+2019-03-08 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2019-03-08 18:02:14.405355"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        2.50 EUR    
+  Income:Bar            -2.50 EUR    
+

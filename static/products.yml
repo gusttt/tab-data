@@ -56,21 +56,31 @@
   event_price: 3.00
   category: drink
   currency: CMCOLA
-- name : "Winter Mate"
+- name : Club Mate Winter
   price: 2.00
   event_price: 3.00
   category: drink
   currency: WINTER_MATE
+- name: Flora Power
+  price: 2.00
+  event_price: 3.00
+  category: drink
+  currency: FLORA
 - name : "Vitamalz"
   price: 2.00
-  event_price: 2.00
+  event_price: 3.00
   category: drink
   currency: VITAMALZ
 
 # plain drinks
-- name: Water
+- name: Water (glass)
   price: 0.50
-  event_price: 0.75
+  event_price: 0.50
+  currency: WATER_GLASS
+  category: drink
+- name: Water (bottle)
+  price: 0.75
+  event_price: 1.00
   currency: WATER
   category: drink
 - name: Tea
@@ -94,6 +104,16 @@
   price: 4.00
   event_price: 6.00
   currency: CHIMAY
+  category: alcohol
+- name: Hoegaarden
+  price: 1.50
+  event_price: 2.50
+  currency: HG
+  category: alcohol
+- name: Kriek
+  price: 1.50
+  event_price: 2.50
+  currency: KRIEK
   category: alcohol
 
 # snacks
@@ -147,6 +167,26 @@
   event_price: 0.90
   category: food
   currency: ROLO
+- name: Popcorn
+  price: 0.50
+  event_price: 0.50
+  currency: POPCORN
+  category: food
+- name: Bounty
+  price: 0.60
+  event_price: 0.90
+  currency: BOUNTY
+  category: food
+- name: Lion
+  price: 0.60
+  event_price: 0.90
+  currency: LION
+  category: food
+- name: Taco Snack Pack
+  price: 7.50
+  event_price: 10.00
+  currency: TACOSNACKPACK
+  category: food
 
 # frozen goods
 - name: Ice Cream
@@ -159,12 +199,9 @@
   price: 2.00
   event_price: 3.50
   currency: PIZZA
-  payback:
-    account: Liabilities:Bar:Members:Bart
-    amount: 1.63
   category: food
 
-# apparel
+# swag
 - name: Wristband
   price: 1.00
   event_price: 1.50
@@ -183,7 +220,19 @@
   event_price: 53.00
   currency: HOODIE
   category: swag
-
+- name: Passport
+  price: 2.50
+  event_price: 3.60
+  currency: PASSPORT
+  payback:
+    account: Liabilities:Bar:Members:Bart
+    amount: 1.20
+  category: swag
+- name: Facemask
+  price: 4.00
+  event_price: 4.00
+  currency: FACEMASK
+  category: swag
 # unused products below
 
 #- name: Soda

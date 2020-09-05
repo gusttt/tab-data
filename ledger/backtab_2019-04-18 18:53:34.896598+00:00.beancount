@@ -1,0 +1,32 @@
+2019-04-18 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2019-04-18 18:53:34.888410"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
+2019-04-18 txn "Koen bought 1 items for €1.50"
+  timestamp: "2019-04-18 18:54:58.988825"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
+2019-04-18 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2019-04-18 18:57:43.723987"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
+2019-04-18 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2019-04-18 18:59:57.430112"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Liabilities:Bar:Members:Thomas   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+

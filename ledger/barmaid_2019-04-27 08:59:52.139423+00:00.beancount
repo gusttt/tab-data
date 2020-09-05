@@ -1,0 +1,558 @@
+2019-04-27 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2019-04-27 08:59:52.104021"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+  Liabilities:Bar:Members:Bart   3.00 EUR
+  Income:Bar                    -3.00 EUR
+
+2019-04-27 txn "Sasja bought 1 items for €3.00"
+  timestamp: "2019-04-27 09:00:00.766014"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
+2019-04-27 txn "qwaxys deposited €6.00"
+  timestamp: "2019-04-27 09:00:41.615103"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -6.00 EUR
+  Assets:Cash:Bar                6.00 EUR
+
+2019-04-27 txn "Sasja deposited €3.00"
+  timestamp: "2019-04-27 09:00:51.378204"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -3.00 EUR
+  Assets:Cash:Bar                 3.00 EUR
+
+2019-04-27 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-04-27 09:08:47.165321"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.90 EUR     
+  Income:Bar                   -0.90 EUR     
+
+2019-04-27 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2019-04-27 09:40:21.233484"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   3.00 EUR
+  Income:Bar                        -3.00 EUR
+
+2019-04-27 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2019-04-27 09:57:13.828388"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Bart      1 CMRED
+  Liabilities:Bar:Members:Bart   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
+2019-04-27 txn "Alex bought 1 items for €3.00"
+  timestamp: "2019-04-27 10:25:03.137088"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Alex      1 CMRED
+  Liabilities:Bar:Members:Alex   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
+2019-04-27 txn "Alex deposited €20.00"
+  timestamp: "2019-04-27 10:27:09.047175"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
+2019-04-27 txn "Sasja bought 1 items for €3.00"
+  timestamp: "2019-04-27 10:53:19.099105"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Sasja      1 FLORA
+  Liabilities:Bar:Members:Sasja   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
+2019-04-27 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-04-27 12:47:40.513266"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 TWIX
+  Liabilities:Bar:Members:Els      1 TWIX
+  Liabilities:Bar:Members:Els   0.90 EUR 
+  Income:Bar                   -0.90 EUR 
+
+2019-04-27 txn "Els bought 1 items for €2.50"
+  timestamp: "2019-04-27 13:13:52.966044"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KRIEK
+  Liabilities:Bar:Members:Els      1 KRIEK
+  Liabilities:Bar:Members:Els   2.50 EUR  
+  Income:Bar                   -2.50 EUR  
+
+2019-04-27 txn "Evils bought 1 items for €3.00"
+  timestamp: "2019-04-27 13:15:03.998809"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
+2019-04-27 txn "Sasja bought 1 items for €1.00"
+  timestamp: "2019-04-27 13:31:36.826569"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Sasja      1 WATER
+  Liabilities:Bar:Members:Sasja   1.00 EUR  
+  Income:Bar                     -1.00 EUR  
+
+2019-04-27 txn "Alex bought 1 items for €3.00"
+  timestamp: "2019-04-27 15:28:28.135490"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Alex      1 FRITZ
+  Liabilities:Bar:Members:Alex   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
+2019-04-27 txn "Els bought 1 items for €0.90"
+  timestamp: "2019-04-27 16:28:44.781297"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   0.90 EUR   
+  Income:Bar                   -0.90 EUR   
+
+2019-04-27 txn "Bloemist deposited €-35.00"
+  timestamp: "2019-04-27 16:46:52.417584"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist   35.00 EUR
+  Assets:Cash:Bar                   -35.00 EUR
+
+2019-04-27 txn "Alex deposited €10.00"
+  timestamp: "2019-04-27 16:47:53.900945"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
+2019-04-27 txn "Bloemist bought 1 items for €2.50"
+  timestamp: "2019-04-27 16:48:00.710942"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Bloemist      1 FANTA
+  Liabilities:Bar:Members:Bloemist   2.50 EUR  
+  Income:Bar                        -2.50 EUR  
+
+2019-04-27 txn "Alex bought 1 items for €0.90"
+  timestamp: "2019-04-27 16:53:25.716492"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Alex      1 CHIP
+  Liabilities:Bar:Members:Alex   0.90 EUR 
+  Income:Bar                    -0.90 EUR 
+
+2019-04-27 txn "Els bought 1 items for €1.00"
+  timestamp: "2019-04-27 16:55:37.465134"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   1.00 EUR  
+  Income:Bar                   -1.00 EUR  
+
+2019-04-27 txn "Super​pumpie deposited €0.94"
+  timestamp: "2019-04-27 17:10:10.950094"
+  type: "deposit"
+  Liabilities:Bar:Members:Superpumpie  -0.94 EUR
+  Assets:Cash:Bar                       0.94 EUR
+
+2019-04-27 txn "Evils bought 1 items for €3.00"
+  timestamp: "2019-04-27 17:58:41.779574"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Elvis      1 FLORA
+  Liabilities:Bar:Members:Elvis   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
+2019-04-27 txn "Alex bought 1 items for €2.50"
+  timestamp: "2019-04-27 18:43:08.759898"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Alex      1 FANTA
+  Liabilities:Bar:Members:Alex   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
+2019-04-27 txn "Alex bought 1 items for €0.90"
+  timestamp: "2019-04-27 18:43:19.515903"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Alex      1 SNICKERS
+  Liabilities:Bar:Members:Alex   0.90 EUR     
+  Income:Bar                    -0.90 EUR     
+
+2019-04-27 txn "Super​pumpie bought 1 items for €2.50"
+  timestamp: "2019-04-27 18:50:06.489829"
+  type: "purchase"
+  Assets:Inventory:Bar                    -1 FANTA
+  Liabilities:Bar:Members:Superpumpie      1 FANTA
+  Liabilities:Bar:Members:Superpumpie   2.50 EUR  
+  Income:Bar                           -2.50 EUR  
+
+2019-04-27 txn "Super​pumpie bought 1 items for €3.00"
+  timestamp: "2019-04-27 18:54:39.730642"
+  type: "purchase"
+  Assets:Inventory:Bar                    -1 VITAMALZ
+  Liabilities:Bar:Members:Superpumpie      1 VITAMALZ
+  Liabilities:Bar:Members:Superpumpie   3.00 EUR     
+  Income:Bar                           -3.00 EUR     
+
+2019-04-27 txn "Alex bought 1 items for €1.00"
+  timestamp: "2019-04-27 19:24:46.694327"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Alex      1 WATER
+  Liabilities:Bar:Members:Alex   1.00 EUR  
+  Income:Bar                    -1.00 EUR  
+
+2019-04-27 txn "Els deposited €50.00"
+  timestamp: "2019-04-27 19:26:48.784399"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -50.00 EUR
+  Assets:Cash:Bar               50.00 EUR
+
+2019-04-27 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2019-04-27 19:28:39.359633"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        3.00 EUR
+  Income:Bar            -3.00 EUR
+
+2019-04-27 txn "Merlijn bought 1 items for €3.00"
+  timestamp: "2019-04-27 19:30:22.803604"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Merlijn      1 FLORA
+  Liabilities:Bar:Members:Merlijn   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
+2019-04-27 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2019-04-27 20:46:26.897544"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
+2019-04-27 txn "Bloemist bought 1 items for €0.90"
+  timestamp: "2019-04-27 22:18:20.499114"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Bloemist      1 CHIP
+  Liabilities:Bar:Members:Bloemist   0.90 EUR 
+  Income:Bar                        -0.90 EUR 
+
+2019-04-27 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2019-04-27 22:24:40.804449"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
+2019-04-27 txn "Gust bought 1 items for €3.00"
+  timestamp: "2019-04-27 22:36:58.313060"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+  Liabilities:Bar:Members:Gust   3.00 EUR
+  Income:Bar                    -3.00 EUR
+
+2019-04-27 txn "Bloemist bought 2 items for €3.90"
+  timestamp: "2019-04-27 22:58:52.153938"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Bloemist      1 FRITZ_ZERO
+  Assets:Inventory:Bar                 -1 MARS      
+  Liabilities:Bar:Members:Bloemist      1 MARS      
+  Liabilities:Bar:Members:Bloemist   3.90 EUR       
+  Income:Bar                        -3.90 EUR       
+
+2019-04-27 txn "Koen bought 1 items for €2.50"
+  timestamp: "2019-04-27 23:11:21.040910"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
+2019-04-27 txn "Koen bought 1 items for €0.90"
+  timestamp: "2019-04-27 23:11:27.891244"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Liabilities:Bar:Members:Koen   0.90 EUR 
+  Income:Bar                    -0.90 EUR 
+
+2019-04-27 txn "Merlijn bought 2 items for €3.90"
+  timestamp: "2019-04-27 23:21:53.222235"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Merlijn      1 KITKAT
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Merlijn      1 FRITZ 
+  Liabilities:Bar:Members:Merlijn   3.90 EUR   
+  Income:Bar                       -3.90 EUR   
+
+2019-04-27 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2019-04-27 23:30:57.516171"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KRIEK
+  Liabilities:Bar:Members:Sasja      1 KRIEK
+  Liabilities:Bar:Members:Sasja   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
+2019-04-27 txn "Gust bought 2 items for €3.90"
+  timestamp: "2019-04-27 23:49:29.148657"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WINTER_MATE
+  Liabilities:Bar:Members:Gust      1 WINTER_MATE
+  Assets:Inventory:Bar             -1 CHIP       
+  Liabilities:Bar:Members:Gust      1 CHIP       
+  Liabilities:Bar:Members:Gust   3.90 EUR        
+  Income:Bar                    -3.90 EUR        
+
+2019-04-27 txn "Gust deposited €3.00"
+  timestamp: "2019-04-27 23:49:43.816143"
+  type: "deposit"
+  Liabilities:Bar:Members:Gust  -3.00 EUR
+  Assets:Cash:Bar                3.00 EUR
+
+2019-04-27 txn "Sasja bought 1 items for €1.00"
+  timestamp: "2019-04-27 23:50:12.090847"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WATER
+  Liabilities:Bar:Members:Sasja      1 WATER
+  Liabilities:Bar:Members:Sasja   1.00 EUR  
+  Income:Bar                     -1.00 EUR  
+
+2019-04-27 txn "Sasja bought 1 items for €0.90"
+  timestamp: "2019-04-27 23:52:56.932104"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Sasja      1 CHIP
+  Liabilities:Bar:Members:Sasja   0.90 EUR 
+  Income:Bar                     -0.90 EUR 
+
+2019-04-28 txn "Gust bought 1 items for €0.90"
+  timestamp: "2019-04-28 00:27:16.079919"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Liabilities:Bar:Members:Gust   0.90 EUR 
+  Income:Bar                    -0.90 EUR 
+
+2019-04-28 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2019-04-28 00:28:14.086521"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        0.90 EUR 
+  Income:Bar            -0.90 EUR 
+
+2019-04-28 txn "Super​pumpie bought 1 items for €1.00"
+  timestamp: "2019-04-28 00:28:34.421376"
+  type: "purchase"
+  Assets:Inventory:Bar                    -1 WATER
+  Liabilities:Bar:Members:Superpumpie      1 WATER
+  Liabilities:Bar:Members:Superpumpie   1.00 EUR  
+  Income:Bar                           -1.00 EUR  
+
+2019-04-28 txn "Gust gave Evils a gift of €0.70"
+  timestamp: "2019-04-28 00:48:29.070370"
+  type: "transfer"
+  Liabilities:Bar:Members:Gust    0.70 EUR
+  Liabilities:Bar:Members:Elvis  -0.70 EUR
+
+2019-04-28 txn "On8wr bought 2 items for €3.90"
+  timestamp: "2019-04-28 00:54:44.174848"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:On8wr      1 SNICKERS
+  Assets:Inventory:Bar              -1 FRITZ   
+  Liabilities:Bar:Members:On8wr      1 FRITZ   
+  Liabilities:Bar:Members:On8wr   3.90 EUR     
+  Income:Bar                     -3.90 EUR     
+
+2019-04-28 txn "Sasja deposited €25.00"
+  timestamp: "2019-04-28 01:14:45.303372"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -25.00 EUR
+  Assets:Cash:Bar                 25.00 EUR
+
+2019-04-28 txn "On8wr bought 2 items for €1.90"
+  timestamp: "2019-04-28 01:27:01.019487"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:On8wr      1 KITKAT
+  Assets:Inventory:Bar              -1 WATER 
+  Liabilities:Bar:Members:On8wr      1 WATER 
+  Liabilities:Bar:Members:On8wr   1.90 EUR   
+  Income:Bar                     -1.90 EUR   
+
+2019-04-28 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2019-04-28 01:39:30.561668"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        0.90 EUR 
+  Income:Bar            -0.90 EUR 
+
+2019-04-28 txn "Sasja bought 1 items for €3.00"
+  timestamp: "2019-04-28 08:58:38.689401"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
+2019-04-28 txn "Evils bought 1 items for €3.00"
+  timestamp: "2019-04-28 10:06:37.943287"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
+2019-04-28 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2019-04-28 11:08:28.713849"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        3.00 EUR  
+  Income:Bar            -3.00 EUR  
+
+2019-04-28 txn "TQ bought 1 items for €3.00"
+  timestamp: "2019-04-28 13:18:30.773210"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+  Liabilities:Bar:Members:Thequux   3.00 EUR
+  Income:Bar                       -3.00 EUR
+
+2019-04-28 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2019-04-28 13:19:24.351324"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        2.50 EUR 
+  Income:Bar            -2.50 EUR 
+
+2019-04-28 txn "Evils bought 2 items for €6.00"
+  timestamp: "2019-04-28 13:40:14.674241"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM      
+  Liabilities:Bar:Members:Elvis      1 CM      
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   6.00 EUR     
+  Income:Bar                     -6.00 EUR     
+
+2019-04-28 txn "Sasja bought 1 items for €3.00"
+  timestamp: "2019-04-28 13:48:38.847449"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
+2019-04-28 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2019-04-28 15:00:10.243334"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        3.00 EUR  
+  Income:Bar            -3.00 EUR  
+
+2019-04-28 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2019-04-28 15:00:26.120383"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
+2019-04-28 txn "Evils bought 3 items for €2.70"
+  timestamp: "2019-04-28 15:17:49.933025"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM   
+  Liabilities:Bar:Members:Elvis      1 MNM   
+  Assets:Inventory:Bar              -1 MARS  
+  Liabilities:Bar:Members:Elvis      1 MARS  
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   2.70 EUR   
+  Income:Bar                     -2.70 EUR   
+
+2019-04-28 txn "Alex bought 1 items for €0.90"
+  timestamp: "2019-04-28 15:18:47.673811"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Alex      1 CHIP
+  Liabilities:Bar:Members:Alex   0.90 EUR 
+  Income:Bar                    -0.90 EUR 
+
+2019-04-28 txn "Alex bought 1 items for €0.90"
+  timestamp: "2019-04-28 16:39:29.363915"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Alex      1 CHIP
+  Liabilities:Bar:Members:Alex   0.90 EUR 
+  Income:Bar                    -0.90 EUR 
+
+2019-04-28 txn "Merlijn bought 2 items for €6.00"
+  timestamp: "2019-04-28 16:50:47.233426"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 CM 
+  Liabilities:Bar:Members:Merlijn      2 CM 
+  Liabilities:Bar:Members:Merlijn   6.00 EUR
+  Income:Bar                       -6.00 EUR
+
+2019-04-28 txn "Alex bought 1 items for €0.90"
+  timestamp: "2019-04-28 17:11:36.857903"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Alex      1 KITKAT
+  Liabilities:Bar:Members:Alex   0.90 EUR   
+  Income:Bar                    -0.90 EUR   
+
+2019-04-28 txn "On8wr bought 1 items for €0.90"
+  timestamp: "2019-04-28 17:47:51.148224"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:On8wr      1 KITKAT
+  Liabilities:Bar:Members:On8wr   0.90 EUR   
+  Income:Bar                     -0.90 EUR   
+
+2019-04-28 txn "TQ bought 1 items for €0.90"
+  timestamp: "2019-04-28 17:48:02.814168"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Thequux      1 MARS
+  Liabilities:Bar:Members:Thequux   0.90 EUR 
+  Income:Bar                       -0.90 EUR 
+
+2019-04-28 txn "Els bought 2 items for €3.40"
+  timestamp: "2019-04-28 17:52:38.427051"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FANTA   
+  Liabilities:Bar:Members:Els      1 FANTA   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   3.40 EUR     
+  Income:Bar                   -3.40 EUR     
+
+2019-04-28 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2019-04-28 17:53:03.984551"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+

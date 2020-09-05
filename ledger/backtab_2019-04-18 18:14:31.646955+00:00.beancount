@@ -1,0 +1,18 @@
+2019-04-18 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2019-04-18 18:14:31.636188"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+
+2019-04-18 txn "Joris bought 2 items for €3.10"
+  timestamp: "2019-04-18 18:20:55.943266"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL 
+  Liabilities:Bar:Members:Joris      1 DUVEL 
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Joris      1 KITKAT
+  Liabilities:Bar:Members:Joris   3.10 EUR   
+  Income:Bar                     -3.10 EUR   
+
