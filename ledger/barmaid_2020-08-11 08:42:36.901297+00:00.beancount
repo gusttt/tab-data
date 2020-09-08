@@ -2614,3 +2614,11 @@
   Assets:Cash:Bar        0.60 EUR 
   Income:Bar            -0.60 EUR 
 
+2020-09-08 txn "--CASH-- bought 1 items for €0.60"
+  timestamp: "2020-09-08 13:36:27.695109"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Cash:Bar        0.60 EUR 
+  Income:Bar            -0.60 EUR 
+
