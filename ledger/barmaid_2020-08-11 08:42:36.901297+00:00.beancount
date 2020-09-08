@@ -2530,3 +2530,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR    
   Income:Bar                        -3.00 EUR    
 
+2020-09-08 txn "TQ bought 2 items for €3.00"
+  timestamp: "2020-09-08 00:22:11.364052"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 JUPILER
+  Liabilities:Bar:Members:Thequux      2 JUPILER
+  Liabilities:Bar:Members:Thequux   3.00 EUR    
+  Income:Bar                       -3.00 EUR    
+
