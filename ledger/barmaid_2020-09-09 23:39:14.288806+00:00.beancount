@@ -1,0 +1,10 @@
+2020-09-09 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2020-09-09 23:39:14.236685"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        2.10 EUR 
+  Income:Bar            -2.10 EUR 
+
