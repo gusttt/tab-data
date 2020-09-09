@@ -2830,3 +2830,11 @@
   Liabilities:Bar:Members:Bloemist  -100.00 EUR
   Assets:Cash:Bar                    100.00 EUR
 
+2020-09-09 txn "TQ bought 1 items for €0.60"
+  timestamp: "2020-09-09 16:14:25.671006"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Thequux      1 CHIP
+  Liabilities:Bar:Members:Thequux   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
