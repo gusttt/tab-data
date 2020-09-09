@@ -2806,3 +2806,15 @@
   Liabilities:Bar:Members:Carroarmato0  -30.00 EUR
   Assets:Cash:Bar                        30.00 EUR
 
+2020-09-09 txn "TQ bought 3 items for €3.20"
+  timestamp: "2020-09-09 13:04:44.782179"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA 
+  Liabilities:Bar:Members:Thequux      1 FLORA 
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Thequux      1 BOUNTY
+  Assets:Inventory:Bar                -1 MARS  
+  Liabilities:Bar:Members:Thequux      1 MARS  
+  Liabilities:Bar:Members:Thequux   3.20 EUR   
+  Income:Bar                       -3.20 EUR   
+
