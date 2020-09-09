@@ -2824,3 +2824,9 @@
   Liabilities:Bar:Members:Thequux  -200.00 EUR
   Assets:Cash:Bar                   200.00 EUR
 
+2020-09-09 txn "Bloemist deposited €100.00"
+  timestamp: "2020-09-09 14:16:06.066987"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -100.00 EUR
+  Assets:Cash:Bar                    100.00 EUR
+
