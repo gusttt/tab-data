@@ -2776,3 +2776,9 @@
   Liabilities:Bar:Members:Miker  -150.00 EUR
   Assets:Cash:Bar                 150.00 EUR
 
+2020-09-09 txn "Miker gave Yvan a gift of €75.00"
+  timestamp: "2020-09-09 12:30:00.658992"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker   75.00 EUR
+  Liabilities:Bar:Members:Yvan   -75.00 EUR
+
