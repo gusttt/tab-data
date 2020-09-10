@@ -32,3 +32,15 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-09-10 txn "TQ bought 3 items for €3.20"
+  timestamp: "2020-09-10 11:32:32.543659"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA   
+  Liabilities:Bar:Members:Thequux      1 FLORA   
+  Assets:Inventory:Bar                -1 MARS    
+  Liabilities:Bar:Members:Thequux      1 MARS    
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Thequux      1 SNICKERS
+  Liabilities:Bar:Members:Thequux   3.20 EUR     
+  Income:Bar                       -3.20 EUR     
+
