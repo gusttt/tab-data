@@ -150,3 +150,13 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2020-09-10 txn "--CASH-- bought 2 items for €1.20"
+  timestamp: "2020-09-10 20:35:35.408630"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        1.20 EUR 
+  Income:Bar            -1.20 EUR 
+
