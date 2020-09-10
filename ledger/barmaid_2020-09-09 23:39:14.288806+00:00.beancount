@@ -142,3 +142,11 @@
   Liabilities:Bar:Members:Jens   2.10 EUR      
   Income:Bar                    -2.10 EUR      
 
+2020-09-10 txn "Sander bought 1 items for €0.60"
+  timestamp: "2020-09-10 20:08:45.412278"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   0.60 EUR   
+  Income:Bar                      -0.60 EUR   
+
