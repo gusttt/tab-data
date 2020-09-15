@@ -526,3 +526,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-09-15 txn "Els deposited €0.21"
+  timestamp: "2020-09-15 12:52:27.501075"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -0.21 EUR
+  Assets:Cash:Bar               0.21 EUR
+
