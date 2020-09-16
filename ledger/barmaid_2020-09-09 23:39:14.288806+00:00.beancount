@@ -602,3 +602,13 @@
   Liabilities:Bar:Members:Els   2.00 EUR  
   Income:Bar                   -2.00 EUR  
 
+2020-09-16 txn "--CASH-- bought 2 items for €2.10"
+  timestamp: "2020-09-16 07:25:38.010950"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Cash:Bar        2.10 EUR 
+  Income:Bar            -2.10 EUR 
+
