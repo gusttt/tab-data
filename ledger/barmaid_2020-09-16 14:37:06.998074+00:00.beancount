@@ -406,3 +406,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-09-20 txn "Sander gave Yvan a gift of €3.00"
+  timestamp: "2020-09-20 18:56:24.641894"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   3.00 EUR
+  Liabilities:Bar:Members:Yvan    -3.00 EUR
+
