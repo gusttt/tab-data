@@ -516,3 +516,9 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2020-09-22 txn "TQ gave Yvan a gift of €6.50"
+  timestamp: "2020-09-22 14:00:42.206871"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   6.50 EUR
+  Liabilities:Bar:Members:Yvan     -6.50 EUR
+
