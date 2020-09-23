@@ -685,3 +685,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-09-23 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2020-09-23 19:00:07.837127"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Assets:Inventory:Bar                     -1 CM      
+  Liabilities:Bar:Members:Carroarmato0      1 CM      
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
