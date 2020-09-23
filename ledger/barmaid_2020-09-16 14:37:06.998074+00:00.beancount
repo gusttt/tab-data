@@ -653,3 +653,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2020-09-23 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2020-09-23 13:26:38.534648"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 VITAMALZ
+  Liabilities:Bar:Members:Yvan      1 VITAMALZ
+  Assets:Inventory:Bar             -1 MARS    
+  Liabilities:Bar:Members:Yvan      1 MARS    
+  Liabilities:Bar:Members:Yvan   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
