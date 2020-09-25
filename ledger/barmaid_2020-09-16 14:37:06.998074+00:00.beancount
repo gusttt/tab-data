@@ -789,3 +789,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2020-09-25 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2020-09-25 11:47:11.438506"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Liabilities:Bar:Members:Yvan   0.60 EUR   
+  Income:Bar                    -0.60 EUR   
+
