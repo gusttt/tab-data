@@ -873,3 +873,11 @@
   Liabilities:Bar:Members:Sander   3.00 EUR 
   Income:Bar                      -3.00 EUR 
 
+2020-09-26 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2020-09-26 10:25:49.907538"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
