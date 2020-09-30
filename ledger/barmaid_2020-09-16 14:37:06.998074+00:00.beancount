@@ -1305,3 +1305,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2020-09-30 txn "qwaxys gave Sander a gift of €10.95"
+  timestamp: "2020-09-30 17:39:46.887656"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart     10.95 EUR
+  Liabilities:Bar:Members:Sander  -10.95 EUR
+
