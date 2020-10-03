@@ -1625,3 +1625,13 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2020-10-03 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2020-10-03 17:22:30.017662"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA  
+  Liabilities:Bar:Members:Yvan      1 ICETEA  
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   2.10 EUR     
+  Income:Bar                    -2.10 EUR     
+
