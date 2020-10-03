@@ -1603,3 +1603,9 @@
   Liabilities:Bar:Members:Els   2.10 EUR     
   Income:Bar                   -2.10 EUR     
 
+2020-10-03 txn "Els deposited €120.00"
+  timestamp: "2020-10-03 14:24:46.924186"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -120.00 EUR
+  Assets:Cash:Bar               120.00 EUR
+
