@@ -1553,3 +1553,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-10-03 txn "Els bought 1 items for €1.50"
+  timestamp: "2020-10-03 12:12:58.713507"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE_ZERO
+  Liabilities:Bar:Members:Els      1 COKE_ZERO
+  Liabilities:Bar:Members:Els   1.50 EUR      
+  Income:Bar                   -1.50 EUR      
+
