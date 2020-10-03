@@ -1521,3 +1521,11 @@
   Liabilities:Bar:Members:Yvan  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2020-10-03 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2020-10-03 10:36:02.213171"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
