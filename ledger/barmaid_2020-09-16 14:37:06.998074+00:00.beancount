@@ -1725,3 +1725,11 @@
   Liabilities:Bar:Members:Thequux   3.20 EUR     
   Income:Bar                       -3.20 EUR     
 
+2020-10-04 txn "Merlijn bought 1 items for €0.60"
+  timestamp: "2020-10-04 14:46:52.628238"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Merlijn      1 BOUNTY
+  Liabilities:Bar:Members:Merlijn   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
