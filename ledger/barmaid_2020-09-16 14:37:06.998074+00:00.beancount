@@ -1869,3 +1869,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2020-10-06 txn "TQ bought 3 items for €1.80"
+  timestamp: "2020-10-06 22:51:54.823502"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 SNICKERS
+  Liabilities:Bar:Members:Thequux      3 SNICKERS
+  Liabilities:Bar:Members:Thequux   1.80 EUR     
+  Income:Bar                       -1.80 EUR     
+
