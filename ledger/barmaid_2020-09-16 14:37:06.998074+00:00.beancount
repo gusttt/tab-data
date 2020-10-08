@@ -2101,3 +2101,13 @@
   Liabilities:Bar:Members:Merlijn   2.60 EUR  
   Income:Bar                       -2.60 EUR  
 
+2020-10-08 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2020-10-08 20:40:07.765718"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 BOUNTY   
+  Liabilities:Bar:Members:Yvan      1 BOUNTY   
+  Liabilities:Bar:Members:Yvan   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
