@@ -2261,3 +2261,13 @@
   Liabilities:Bar:Members:Yvan     9.40 EUR
   Liabilities:Bar:Members:Sander  -9.40 EUR
 
+2020-10-10 txn "TQ bought 2 items for €2.10"
+  timestamp: "2020-10-10 22:47:59.087744"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA  
+  Liabilities:Bar:Members:Thequux      1 ICETEA  
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Thequux      1 SNICKERS
+  Liabilities:Bar:Members:Thequux   2.10 EUR     
+  Income:Bar                       -2.10 EUR     
+
