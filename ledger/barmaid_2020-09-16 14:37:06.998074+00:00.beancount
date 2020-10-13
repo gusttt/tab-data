@@ -2347,3 +2347,15 @@
   Liabilities:Bar:Members:Lisa   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2020-10-13 txn "Carro​armato0 bought 3 items for €3.20"
+  timestamp: "2020-10-13 10:39:37.319084"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FLORA   
+  Liabilities:Bar:Members:Carroarmato0      1 FLORA   
+  Assets:Inventory:Bar                     -1 CHIP    
+  Liabilities:Bar:Members:Carroarmato0      1 CHIP    
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   3.20 EUR     
+  Income:Bar                            -3.20 EUR     
+
