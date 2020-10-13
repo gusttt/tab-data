@@ -2367,3 +2367,13 @@
   Liabilities:Bar:Members:Els   0.60 EUR     
   Income:Bar                   -0.60 EUR     
 
+2020-10-13 txn "Els bought 3 items for €2.70"
+  timestamp: "2020-10-13 13:39:38.941527"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Assets:Inventory:Bar            -2 CHIP  
+  Liabilities:Bar:Members:Els      2 CHIP  
+  Liabilities:Bar:Members:Els   2.70 EUR   
+  Income:Bar                   -2.70 EUR   
+
