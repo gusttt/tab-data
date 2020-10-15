@@ -2455,3 +2455,13 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2020-10-15 txn "TQ bought 2 items for €2.60"
+  timestamp: "2020-10-15 10:44:39.303852"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Thequux      1 MARS 
+  Liabilities:Bar:Members:Thequux   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+
