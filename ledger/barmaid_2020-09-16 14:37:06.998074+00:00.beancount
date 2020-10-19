@@ -2657,3 +2657,11 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR 
   Income:Bar                       -1.20 EUR 
 
+2020-10-19 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2020-10-19 13:01:40.043386"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
