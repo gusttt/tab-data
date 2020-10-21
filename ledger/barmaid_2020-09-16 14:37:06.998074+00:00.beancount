@@ -2731,3 +2731,13 @@
   Liabilities:Bar:Members:Els   0.60 EUR 
   Income:Bar                   -0.60 EUR 
 
+2020-10-21 txn "Els bought 2 items for €2.60"
+  timestamp: "2020-10-21 09:33:59.577693"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ   
+  Liabilities:Bar:Members:Els      1 FRITZ   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.60 EUR     
+  Income:Bar                   -2.60 EUR     
+
