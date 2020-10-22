@@ -2851,3 +2851,11 @@
   Liabilities:Bar:Members:Miker   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2020-10-22 txn "Miker bought 1 items for €0.60"
+  timestamp: "2020-10-22 12:59:11.226065"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Miker      1 MARS
+  Liabilities:Bar:Members:Miker   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
