@@ -3037,3 +3037,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-10-25 txn "qwaxys bought 2 items for €4.00"
+  timestamp: "2020-10-25 17:58:59.992180"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 FRITZ
+  Liabilities:Bar:Members:Bart      2 FRITZ
+  Liabilities:Bar:Members:Bart   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
