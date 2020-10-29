@@ -3223,3 +3223,11 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR 
   Income:Bar                       -1.20 EUR 
 
+2020-10-29 txn "Lisa bought 1 items for €2.00"
+  timestamp: "2020-10-29 13:49:37.743698"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Lisa      1 FRITZ
+  Liabilities:Bar:Members:Lisa   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
