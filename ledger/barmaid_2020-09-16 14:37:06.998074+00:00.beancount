@@ -3371,3 +3371,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-11-02 txn "Lisa bought 1 items for €2.00"
+  timestamp: "2020-11-02 12:50:22.218975"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Lisa      1 FRITZ
+  Liabilities:Bar:Members:Lisa   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
