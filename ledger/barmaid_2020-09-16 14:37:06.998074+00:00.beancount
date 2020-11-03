@@ -3395,3 +3395,11 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2020-11-03 txn "TQ bought 1 items for €2.00"
+  timestamp: "2020-11-03 09:32:29.450218"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
