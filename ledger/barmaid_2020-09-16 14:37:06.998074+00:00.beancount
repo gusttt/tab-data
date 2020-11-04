@@ -3445,3 +3445,9 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2020-11-04 txn "TQ deposited €200.00"
+  timestamp: "2020-11-04 13:52:39.599482"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -200.00 EUR
+  Assets:Cash:Bar                   200.00 EUR
+
