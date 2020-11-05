@@ -3505,3 +3505,15 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-11-05 txn "Miker bought 3 items for €4.10"
+  timestamp: "2020-11-05 14:11:31.732655"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE_ZERO
+  Liabilities:Bar:Members:Miker      1 COKE_ZERO
+  Assets:Inventory:Bar              -1 FLORA    
+  Liabilities:Bar:Members:Miker      1 FLORA    
+  Assets:Inventory:Bar              -1 MARS     
+  Liabilities:Bar:Members:Miker      1 MARS     
+  Liabilities:Bar:Members:Miker   4.10 EUR      
+  Income:Bar                     -4.10 EUR      
+
