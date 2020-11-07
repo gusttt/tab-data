@@ -123,7 +123,9 @@
   currency: SNACK
   category: food
 - name: Chips
-  price: 0.60
+  # temporary until the current stock is expended
+  #price: 0.60
+  price: 0.30
   event_price: 0.90
   currency: CHIP
   category: food
