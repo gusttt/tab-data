@@ -3707,3 +3707,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
   Income:Bar                            -2.60 EUR     
 
+2020-11-08 txn "TQ bought 1 items for €2.00"
+  timestamp: "2020-11-08 21:26:23.802299"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Thequux      1 FRITZ
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
