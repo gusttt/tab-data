@@ -3791,3 +3791,11 @@
   Liabilities:Bar:Members:Sander   0.30 EUR 
   Income:Bar                      -0.30 EUR 
 
+2020-11-10 txn "TQ bought 1 items for €0.30"
+  timestamp: "2020-11-10 17:38:21.376103"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Thequux      1 CHIP
+  Liabilities:Bar:Members:Thequux   0.30 EUR 
+  Income:Bar                       -0.30 EUR 
+
