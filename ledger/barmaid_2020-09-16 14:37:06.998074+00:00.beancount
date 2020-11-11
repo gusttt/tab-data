@@ -3827,3 +3827,11 @@
   Liabilities:Bar:Members:Yvan     2.18 EUR
   Liabilities:Bar:Members:Sander  -2.18 EUR
 
+2020-11-11 txn "TQ bought 1 items for €2.00"
+  timestamp: "2020-11-11 11:12:59.929818"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Thequux      1 FRITZ
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
