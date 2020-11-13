@@ -4043,3 +4043,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-11-13 txn "Lisa bought 1 items for €0.60"
+  timestamp: "2020-11-13 20:25:20.324433"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Lisa      1 SNICKERS
+  Liabilities:Bar:Members:Lisa   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
