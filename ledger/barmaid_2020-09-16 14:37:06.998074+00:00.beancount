@@ -3987,3 +3987,11 @@
   Liabilities:Bar:Members:Miker   4.50 EUR    
   Income:Bar                     -4.50 EUR    
 
+2020-11-13 txn "Lisa bought 1 items for €0.30"
+  timestamp: "2020-11-13 16:34:52.623222"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Lisa      1 CHIP
+  Liabilities:Bar:Members:Lisa   0.30 EUR 
+  Income:Bar                    -0.30 EUR 
+
