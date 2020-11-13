@@ -4011,3 +4011,11 @@
   Liabilities:Bar:Members:Bart  -2.00 EUR
   Assets:Cash:Bar                2.00 EUR
 
+2020-11-13 txn "Sander bought 2 items for €0.60"
+  timestamp: "2020-11-13 17:32:30.937746"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 CHIP
+  Liabilities:Bar:Members:Sander      2 CHIP
+  Liabilities:Bar:Members:Sander   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
