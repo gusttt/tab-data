@@ -3979,3 +3979,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2020-11-13 txn "Miker bought 3 items for €4.50"
+  timestamp: "2020-11-13 15:42:16.531868"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 JUPILER
+  Liabilities:Bar:Members:Miker      3 JUPILER
+  Liabilities:Bar:Members:Miker   4.50 EUR    
+  Income:Bar                     -4.50 EUR    
+
