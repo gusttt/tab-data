@@ -4135,3 +4135,15 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2020-11-16 txn "Evils bought 8 items for €5.80"
+  timestamp: "2020-11-16 19:26:15.911198"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Elvis      1 CM   
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Assets:Inventory:Bar              -6 CHIP 
+  Liabilities:Bar:Members:Elvis      6 CHIP 
+  Liabilities:Bar:Members:Elvis   5.80 EUR  
+  Income:Bar                     -5.80 EUR  
+
