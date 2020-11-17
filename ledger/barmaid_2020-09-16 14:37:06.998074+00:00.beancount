@@ -4171,3 +4171,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-11-17 txn "Els deposited €50.00"
+  timestamp: "2020-11-17 10:05:08.786732"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -50.00 EUR
+  Assets:Cash:Bar               50.00 EUR
+
