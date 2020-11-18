@@ -4219,3 +4219,13 @@
   Liabilities:Bar:Members:Thequux   0.30 EUR 
   Income:Bar                       -0.30 EUR 
 
+2020-11-18 txn "TQ bought 2 items for €1.20"
+  timestamp: "2020-11-18 13:18:28.731050"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS    
+  Liabilities:Bar:Members:Thequux      1 MARS    
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Thequux      1 SNICKERS
+  Liabilities:Bar:Members:Thequux   1.20 EUR     
+  Income:Bar                       -1.20 EUR     
+
