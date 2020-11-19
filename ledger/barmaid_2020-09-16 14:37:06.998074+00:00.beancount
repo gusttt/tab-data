@@ -4279,3 +4279,13 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2020-11-19 txn "Miker bought 3 items for €4.60"
+  timestamp: "2020-11-19 13:28:20.733388"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM      
+  Liabilities:Bar:Members:Miker      2 CM      
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   4.60 EUR     
+  Income:Bar                     -4.60 EUR     
+
