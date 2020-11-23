@@ -4447,3 +4447,11 @@
   Liabilities:Bar:Members:Sander   13.00 EUR
   Liabilities:Bar:Members:Yvan    -13.00 EUR
 
+2020-11-23 txn "Els bought 2 items for €4.00"
+  timestamp: "2020-11-23 12:27:55.374571"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 FLORA
+  Liabilities:Bar:Members:Els      2 FLORA
+  Liabilities:Bar:Members:Els   4.00 EUR  
+  Income:Bar                   -4.00 EUR  
+
