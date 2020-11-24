@@ -4471,3 +4471,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-11-24 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2020-11-24 16:42:50.005631"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 VITAMALZ
+  Liabilities:Bar:Members:Yvan      1 VITAMALZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR     
+  Income:Bar                    -2.00 EUR     
+
