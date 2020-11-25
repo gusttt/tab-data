@@ -4503,3 +4503,11 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2020-11-25 txn "Evils bought 2 items for €4.00"
+  timestamp: "2020-11-25 13:21:27.836066"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM 
+  Liabilities:Bar:Members:Elvis      2 CM 
+  Liabilities:Bar:Members:Elvis   4.00 EUR
+  Income:Bar                     -4.00 EUR
+
