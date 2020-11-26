@@ -4579,3 +4579,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR   
   Income:Bar                            -0.60 EUR   
 
+2020-11-26 txn "Sander bought 1 items for €2.00"
+  timestamp: "2020-11-26 17:40:16.814042"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:Sander      1 FRITZ
+  Liabilities:Bar:Members:Sander   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
