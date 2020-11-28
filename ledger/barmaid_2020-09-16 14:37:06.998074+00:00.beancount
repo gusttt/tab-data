@@ -4685,3 +4685,11 @@
   Liabilities:Bar:Members:Sander   12.50 EUR
   Liabilities:Bar:Members:Yvan    -12.50 EUR
 
+2020-11-28 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2020-11-28 18:53:27.820175"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
