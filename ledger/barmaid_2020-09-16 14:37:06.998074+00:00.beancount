@@ -4831,3 +4831,9 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR      
   Income:Bar                    -3.00 EUR      
 
+2020-12-02 txn "Lisa deposited €50.00"
+  timestamp: "2020-12-02 15:27:07.366226"
+  type: "deposit"
+  Liabilities:Bar:Members:Lisa  -50.00 EUR
+  Assets:Cash:Bar                50.00 EUR
+
