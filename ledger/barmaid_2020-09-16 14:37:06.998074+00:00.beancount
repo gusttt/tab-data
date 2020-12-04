@@ -4935,3 +4935,11 @@
   Liabilities:Bar:Members:Miker   6.00 EUR    
   Income:Bar                     -6.00 EUR    
 
+2020-12-04 txn "Miker bought 4 items for €6.00"
+  timestamp: "2020-12-04 15:39:25.007759"
+  type: "purchase"
+  Assets:Inventory:Bar              -4 JUPILER
+  Liabilities:Bar:Members:Miker      4 JUPILER
+  Liabilities:Bar:Members:Miker   6.00 EUR    
+  Income:Bar                     -6.00 EUR    
+
