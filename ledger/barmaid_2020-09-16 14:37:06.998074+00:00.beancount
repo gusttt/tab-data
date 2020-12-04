@@ -4911,3 +4911,11 @@
   Liabilities:Bar:Members:Miker   8.10 EUR    
   Income:Bar                     -8.10 EUR    
 
+2020-12-04 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2020-12-04 13:58:04.304728"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
