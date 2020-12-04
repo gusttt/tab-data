@@ -4897,3 +4897,17 @@
   Liabilities:Bar:Members:Yvan  -11.60 EUR
   Assets:Cash:Bar                11.60 EUR
 
+2020-12-04 txn "Miker bought 5 items for €8.10"
+  timestamp: "2020-12-04 13:57:52.588069"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED  
+  Liabilities:Bar:Members:Miker      1 CMRED  
+  Assets:Inventory:Bar              -2 CM     
+  Liabilities:Bar:Members:Miker      2 CM     
+  Assets:Inventory:Bar              -1 MNM    
+  Liabilities:Bar:Members:Miker      1 MNM    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Liabilities:Bar:Members:Miker   8.10 EUR    
+  Income:Bar                     -8.10 EUR    
+
