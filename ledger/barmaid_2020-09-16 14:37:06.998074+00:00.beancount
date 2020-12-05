@@ -4989,3 +4989,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-12-05 txn "Sander deposited €50.00"
+  timestamp: "2020-12-05 19:35:11.654691"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
