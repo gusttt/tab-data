@@ -4995,3 +4995,9 @@
   Liabilities:Bar:Members:Sander  -50.00 EUR
   Assets:Cash:Bar                  50.00 EUR
 
+2020-12-05 txn "Sander gave Bloemist a gift of €1.50"
+  timestamp: "2020-12-05 19:35:48.367483"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander     1.50 EUR
+  Liabilities:Bar:Members:Bloemist  -1.50 EUR
+
