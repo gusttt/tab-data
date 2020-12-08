@@ -5057,3 +5057,13 @@
   Liabilities:Bar:Members:Thequux   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2020-12-08 txn "Miker bought 3 items for €4.60"
+  timestamp: "2020-12-08 13:43:52.923899"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM      
+  Liabilities:Bar:Members:Miker      2 CM      
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   4.60 EUR     
+  Income:Bar                     -4.60 EUR     
+
