@@ -5131,3 +5131,9 @@
   Liabilities:Bar:Members:Miker   4.00 EUR
   Income:Bar                     -4.00 EUR
 
+2020-12-12 txn "TQ gave Gust a gift of €25.00"
+  timestamp: "2020-12-12 13:51:28.589831"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   25.00 EUR
+  Liabilities:Bar:Members:Gust     -25.00 EUR
+
