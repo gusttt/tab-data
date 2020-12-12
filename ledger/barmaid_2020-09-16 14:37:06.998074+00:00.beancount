@@ -5137,3 +5137,9 @@
   Liabilities:Bar:Members:Thequux   25.00 EUR
   Liabilities:Bar:Members:Gust     -25.00 EUR
 
+2020-12-12 txn "TQ deposited €500.00"
+  timestamp: "2020-12-12 13:51:57.887669"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -500.00 EUR
+  Assets:Cash:Bar                   500.00 EUR
+
