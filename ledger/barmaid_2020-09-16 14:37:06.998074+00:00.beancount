@@ -5151,3 +5151,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2020-12-13 txn "Els bought 1 items for €2.00"
+  timestamp: "2020-12-13 11:14:59.830278"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CMRED
+  Liabilities:Bar:Members:Els      1 CMRED
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
