@@ -5199,3 +5199,13 @@
   Assets:Cash:Bar        4.50 EUR    
   Income:Bar            -4.50 EUR    
 
+2020-12-16 txn "Yvan bought 2 items for €3.00"
+  timestamp: "2020-12-16 16:05:47.792885"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE     
+  Liabilities:Bar:Members:Yvan      1 COKE     
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      1 COKE_ZERO
+  Liabilities:Bar:Members:Yvan   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
