@@ -5191,3 +5191,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2020-12-16 txn "--CASH-- bought 3 items for €4.50"
+  timestamp: "2020-12-16 16:05:17.986408"
+  type: "purchase"
+  Assets:Inventory:Bar     -3 JUPILER
+  Assets:Cash:Bar           3 JUPILER
+  Assets:Cash:Bar        4.50 EUR    
+  Income:Bar            -4.50 EUR    
+
