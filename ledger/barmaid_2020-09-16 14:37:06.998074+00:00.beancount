@@ -5233,3 +5233,11 @@
   Liabilities:Bar:Members:Lisa   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2020-12-18 txn "Els bought 1 items for €1.50"
+  timestamp: "2020-12-18 14:54:47.372726"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
