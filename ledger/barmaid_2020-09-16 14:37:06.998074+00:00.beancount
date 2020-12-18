@@ -5249,3 +5249,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-12-18 txn "Els bought 1 items for €2.00"
+  timestamp: "2020-12-18 17:51:25.596585"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CMRED
+  Liabilities:Bar:Members:Els      1 CMRED
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
