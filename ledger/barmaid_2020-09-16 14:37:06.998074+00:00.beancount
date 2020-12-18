@@ -5225,3 +5225,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Income:Bar                   -2.00 EUR
 
+2020-12-18 txn "Lisa bought 1 items for €0.60"
+  timestamp: "2020-12-18 14:09:05.703105"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MNM
+  Liabilities:Bar:Members:Lisa      1 MNM
+  Liabilities:Bar:Members:Lisa   0.60 EUR
+  Income:Bar                    -0.60 EUR
+
