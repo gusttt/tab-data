@@ -5419,3 +5419,11 @@
   Liabilities:Bar:Members:Yvan  -2.50 EUR
   Assets:Cash:Bar                2.50 EUR
 
+2020-12-24 txn "Evils bought 3 items for €6.00"
+  timestamp: "2020-12-24 16:50:26.970642"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 VITAMALZ
+  Liabilities:Bar:Members:Elvis      3 VITAMALZ
+  Liabilities:Bar:Members:Elvis   6.00 EUR     
+  Income:Bar                     -6.00 EUR     
+
