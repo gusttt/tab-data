@@ -5413,3 +5413,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2020-12-24 txn "Yvan deposited €2.50"
+  timestamp: "2020-12-24 16:44:01.403617"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -2.50 EUR
+  Assets:Cash:Bar                2.50 EUR
+
