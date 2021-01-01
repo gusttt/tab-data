@@ -5543,3 +5543,11 @@
   Liabilities:Bar:Members:Ljaytee  -30.00 EUR
   Assets:Cash:Bar                   30.00 EUR
 
+2021-01-01 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2021-01-01 00:08:42.808901"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 HG 
+  Assets:Cash:Bar           2 HG 
+  Assets:Cash:Bar        3.00 EUR
+  Income:Bar            -3.00 EUR
+
