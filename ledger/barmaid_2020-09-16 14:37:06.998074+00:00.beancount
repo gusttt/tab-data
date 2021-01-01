@@ -5537,3 +5537,9 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2021-01-01 txn "Ljaytee deposited €30.00"
+  timestamp: "2021-01-01 00:08:26.347595"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -30.00 EUR
+  Assets:Cash:Bar                   30.00 EUR
+
