@@ -5635,3 +5635,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Income:Bar                   -2.00 EUR
 
+2021-01-04 txn "TQ bought 1 items for €2.00"
+  timestamp: "2021-01-04 10:00:03.979017"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+  Liabilities:Bar:Members:Thequux   2.00 EUR
+  Income:Bar                       -2.00 EUR
+
