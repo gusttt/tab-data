@@ -5667,3 +5667,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-01-05 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2021-01-05 12:45:46.703312"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Ljaytee      1 CM 
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR
+  Income:Bar                       -2.00 EUR
+
