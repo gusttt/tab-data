@@ -5785,3 +5785,11 @@
   Liabilities:Bar:Members:Miker   4.00 EUR
   Income:Bar                     -4.00 EUR
 
+2021-01-08 txn "Sander bought 2 items for €3.00"
+  timestamp: "2021-01-08 19:16:31.777881"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 COKE
+  Liabilities:Bar:Members:Sander      2 COKE
+  Liabilities:Bar:Members:Sander   3.00 EUR 
+  Income:Bar                      -3.00 EUR 
+
