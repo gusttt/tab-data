@@ -1,0 +1,10 @@
+2021-01-12 txn "Els bought 4 items for €7.50"
+  timestamp: "2021-01-12 13:46:46.917246"
+  type: "purchase"
+  Assets:Inventory:Bar            -3 CM  
+  Liabilities:Bar:Members:Els      3 CM  
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Liabilities:Bar:Members:Els   7.50 EUR 
+  Income:Bar                   -7.50 EUR 
+
