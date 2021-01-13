@@ -22,3 +22,11 @@
   Liabilities:Bar:Members:Alex  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2021-01-13 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2021-01-13 18:01:55.100697"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Ljaytee      1 CM 
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR
+  Income:Bar                       -2.00 EUR
+
