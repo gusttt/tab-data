@@ -200,3 +200,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2021-01-21 txn "Alex bought 1 items for €1.50"
+  timestamp: "2021-01-21 09:53:25.692773"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Alex      1 JUPILER
+  Liabilities:Bar:Members:Alex   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
