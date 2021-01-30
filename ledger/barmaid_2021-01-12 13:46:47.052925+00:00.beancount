@@ -522,3 +522,11 @@
   Liabilities:Bar:Members:Koen  -1.50 EUR
   Assets:Cash:Bar                1.50 EUR
 
+2021-01-30 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2021-01-30 03:10:47.109395"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Ljaytee      1 COKE
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
