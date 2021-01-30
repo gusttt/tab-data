@@ -530,3 +530,11 @@
   Liabilities:Bar:Members:Ljaytee   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2021-01-30 txn "Ljaytee bought 3 items for €0.60"
+  timestamp: "2021-01-30 03:11:03.486368"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 CHUPACHUPS
+  Liabilities:Bar:Members:Ljaytee      3 CHUPACHUPS
+  Liabilities:Bar:Members:Ljaytee   0.60 EUR       
+  Income:Bar                       -0.60 EUR       
+
