@@ -620,3 +620,11 @@
   Liabilities:Bar:Members:Miker   62.00 EUR
   Liabilities:Bar:Members:Elvis  -62.00 EUR
 
+2021-02-04 txn "Miker bought 1 items for €2.00"
+  timestamp: "2021-02-04 13:01:42.480494"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Miker      1 CM 
+  Liabilities:Bar:Members:Miker   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
