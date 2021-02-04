@@ -608,3 +608,9 @@
   Liabilities:Bar:Members:Yvan  -2.00 EUR
   Assets:Cash:Bar                2.00 EUR
 
+2021-02-04 txn "Miker deposited €200.00"
+  timestamp: "2021-02-04 12:57:57.376866"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -200.00 EUR
+  Assets:Cash:Bar                 200.00 EUR
+
