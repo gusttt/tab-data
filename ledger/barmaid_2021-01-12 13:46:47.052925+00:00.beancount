@@ -614,3 +614,9 @@
   Liabilities:Bar:Members:Miker  -200.00 EUR
   Assets:Cash:Bar                 200.00 EUR
 
+2021-02-04 txn "Miker gave Evils a gift of €62.00"
+  timestamp: "2021-02-04 12:59:24.211107"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker   62.00 EUR
+  Liabilities:Bar:Members:Elvis  -62.00 EUR
+
