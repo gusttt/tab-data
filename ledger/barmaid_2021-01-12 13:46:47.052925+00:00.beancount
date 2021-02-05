@@ -766,3 +766,9 @@
   Liabilities:Bar:Members:Koen   4.50 EUR    
   Income:Bar                    -4.50 EUR    
 
+2021-02-05 txn "Koen gave Merlijn a gift of €9.50"
+  timestamp: "2021-02-05 21:52:47.862026"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen      9.50 EUR
+  Liabilities:Bar:Members:Merlijn  -9.50 EUR
+
