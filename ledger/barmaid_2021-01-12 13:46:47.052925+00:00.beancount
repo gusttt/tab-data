@@ -772,3 +772,9 @@
   Liabilities:Bar:Members:Koen      9.50 EUR
   Liabilities:Bar:Members:Merlijn  -9.50 EUR
 
+2021-02-05 txn "Koen deposited €14.00"
+  timestamp: "2021-02-05 21:53:21.746941"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -14.00 EUR
+  Assets:Cash:Bar                14.00 EUR
+
