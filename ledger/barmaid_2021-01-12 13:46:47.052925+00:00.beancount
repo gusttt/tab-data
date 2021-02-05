@@ -738,3 +738,13 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR
   Income:Bar                       -2.00 EUR
 
+2021-02-05 txn "Ljaytee bought 3 items for €2.40"
+  timestamp: "2021-02-05 15:24:02.882248"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM        
+  Liabilities:Bar:Members:Ljaytee      1 CM        
+  Assets:Inventory:Bar                -2 CHUPACHUPS
+  Liabilities:Bar:Members:Ljaytee      2 CHUPACHUPS
+  Liabilities:Bar:Members:Ljaytee   2.40 EUR       
+  Income:Bar                       -2.40 EUR       
+
