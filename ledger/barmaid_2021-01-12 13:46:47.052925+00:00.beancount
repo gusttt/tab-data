@@ -758,3 +758,11 @@
   Liabilities:Bar:Members:Bart   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2021-02-05 txn "Koen bought 3 items for €4.50"
+  timestamp: "2021-02-05 21:52:21.482130"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 JUPILER
+  Liabilities:Bar:Members:Koen      3 JUPILER
+  Liabilities:Bar:Members:Koen   4.50 EUR    
+  Income:Bar                    -4.50 EUR    
+
