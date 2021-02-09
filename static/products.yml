@@ -29,6 +29,11 @@
   event_price: 2.50
   currency: SCHWEPPES
   category: drink
+- name: Expired drink
+  price: 1
+  event_price: 1
+  currency: EXPIRED_DRINK
+  category: drink
 
 # weird german stuff
 - name: Fritz
