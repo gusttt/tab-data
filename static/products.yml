@@ -120,6 +120,11 @@
   event_price: 2.50
   currency: KRIEK
   category: alcohol
+- name: Cider
+  price: 2.00
+  event_price: 3.00
+  currency: CIDER
+  category: alcohol
 
 # snacks
 - name: Other Snack
