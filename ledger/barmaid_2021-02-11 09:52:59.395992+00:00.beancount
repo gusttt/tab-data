@@ -1,0 +1,8 @@
+2021-02-11 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2021-02-11 09:52:59.358782"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+
