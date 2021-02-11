@@ -24,3 +24,9 @@
   Liabilities:Bar:Members:Miker   2.10 EUR 
   Income:Bar                     -2.10 EUR 
 
+2021-02-11 txn "Jobj deposited €50.00"
+  timestamp: "2021-02-11 12:58:22.541493"
+  type: "deposit"
+  Liabilities:Bar:Members:Jobj  -50.00 EUR
+  Assets:Cash:Bar                50.00 EUR
+
