@@ -180,3 +180,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-02-13 txn "TQ bought 1 items for €0.30"
+  timestamp: "2021-02-13 16:45:35.754876"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Thequux      1 CHIP
+  Liabilities:Bar:Members:Thequux   0.30 EUR 
+  Income:Bar                       -0.30 EUR 
+
