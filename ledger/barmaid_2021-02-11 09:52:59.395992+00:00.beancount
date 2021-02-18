@@ -336,3 +336,11 @@
   Liabilities:Bar:Members:Thequux   2.30 EUR 
   Income:Bar                       -2.30 EUR 
 
+2021-02-18 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2021-02-18 11:59:05.928160"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
