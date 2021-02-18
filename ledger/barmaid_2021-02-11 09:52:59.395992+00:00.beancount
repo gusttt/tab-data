@@ -354,3 +354,15 @@
   Liabilities:Bar:Members:Miker   2.10 EUR 
   Income:Bar                     -2.10 EUR 
 
+2021-02-18 txn "Merlijn bought 3 items for €1.50"
+  timestamp: "2021-02-18 14:49:02.855157"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MNM   
+  Liabilities:Bar:Members:Merlijn      1 MNM   
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Merlijn      1 BOUNTY
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Merlijn      1 CHIP  
+  Liabilities:Bar:Members:Merlijn   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
