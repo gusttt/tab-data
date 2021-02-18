@@ -326,3 +326,13 @@
   Liabilities:Bar:Members:Jobj   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2021-02-18 txn "TQ bought 2 items for €2.30"
+  timestamp: "2021-02-18 11:37:47.681799"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM  
+  Liabilities:Bar:Members:Thequux      1 CM  
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Thequux      1 CHIP
+  Liabilities:Bar:Members:Thequux   2.30 EUR 
+  Income:Bar                       -2.30 EUR 
+
