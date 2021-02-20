@@ -626,3 +626,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
   Income:Bar                            -0.60 EUR     
 
+2021-02-20 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-02-20 20:55:23.899369"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FANTA
+  Liabilities:Bar:Members:Sander      1 FANTA
+  Liabilities:Bar:Members:Sander   1.50 EUR  
+  Income:Bar                      -1.50 EUR  
+
