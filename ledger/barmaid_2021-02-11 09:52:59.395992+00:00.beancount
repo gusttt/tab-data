@@ -702,3 +702,11 @@
   Liabilities:Bar:Members:Lonelycelt   0.30 EUR 
   Income:Bar                          -0.30 EUR 
 
+2021-02-22 txn "lonely​celt bought 1 items for €0.30"
+  timestamp: "2021-02-22 16:26:20.729490"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 CHIP
+  Liabilities:Bar:Members:Lonelycelt      1 CHIP
+  Liabilities:Bar:Members:Lonelycelt   0.30 EUR 
+  Income:Bar                          -0.30 EUR 
+
