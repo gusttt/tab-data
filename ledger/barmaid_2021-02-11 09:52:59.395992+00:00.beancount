@@ -718,3 +718,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2021-02-22 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2021-02-22 18:06:27.206800"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bloemist      1 CM 
+  Liabilities:Bar:Members:Bloemist   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
