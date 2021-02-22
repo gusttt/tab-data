@@ -686,3 +686,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR     
   Income:Bar                    -2.10 EUR     
 
+2021-02-22 txn "lonely​celt bought 2 items for €3.00"
+  timestamp: "2021-02-22 16:25:27.208071"
+  type: "purchase"
+  Assets:Inventory:Bar                   -2 COKE
+  Liabilities:Bar:Members:Lonelycelt      2 COKE
+  Liabilities:Bar:Members:Lonelycelt   3.00 EUR 
+  Income:Bar                          -3.00 EUR 
+
