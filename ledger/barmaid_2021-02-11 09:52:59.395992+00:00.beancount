@@ -792,3 +792,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2021-02-25 txn "Jobj bought 1 items for €1.50"
+  timestamp: "2021-02-25 11:39:40.587019"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Jobj      1 COKE_ZERO
+  Liabilities:Bar:Members:Jobj   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
