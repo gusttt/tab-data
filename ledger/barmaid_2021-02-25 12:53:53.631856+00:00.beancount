@@ -1,0 +1,8 @@
+2021-02-25 txn "Jobj bought 2 items for €1.20"
+  timestamp: "2021-02-25 12:53:53.591634"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Jobj      2 BOUNTY
+  Liabilities:Bar:Members:Jobj   1.20 EUR   
+  Income:Bar                    -1.20 EUR   
+
