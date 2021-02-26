@@ -86,3 +86,15 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-02-26 txn "--CASH-- bought 3 items for €6.00"
+  timestamp: "2021-02-26 17:08:40.848741"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL   
+  Assets:Cash:Bar           1 DUVEL   
+  Assets:Inventory:Bar     -1 HG      
+  Assets:Cash:Bar           1 HG      
+  Assets:Inventory:Bar     -1 VITAMALZ
+  Assets:Cash:Bar           1 VITAMALZ
+  Assets:Cash:Bar        6.00 EUR     
+  Income:Bar            -6.00 EUR     
+
