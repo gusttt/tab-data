@@ -166,3 +166,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.80 EUR     
   Income:Bar                            -1.80 EUR     
 
+2021-02-27 txn "Lisa bought 1 items for €0.50"
+  timestamp: "2021-02-27 12:13:28.016653"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 TEA
+  Liabilities:Bar:Members:Lisa      1 TEA
+  Liabilities:Bar:Members:Lisa   0.50 EUR
+  Income:Bar                    -0.50 EUR
+
