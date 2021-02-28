@@ -206,3 +206,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2021-02-28 txn "Yvan bought 2 items for €1.20"
+  timestamp: "2021-02-28 17:59:01.564154"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Yvan      2 BOUNTY
+  Liabilities:Bar:Members:Yvan   1.20 EUR   
+  Income:Bar                    -1.20 EUR   
+
