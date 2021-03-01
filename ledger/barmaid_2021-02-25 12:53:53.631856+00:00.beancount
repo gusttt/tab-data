@@ -238,3 +238,9 @@
   Liabilities:Bar:Members:Yvan  -5.00 EUR
   Assets:Cash:Bar                5.00 EUR
 
+2021-03-01 txn "Yvan deposited €1.00"
+  timestamp: "2021-03-01 10:20:15.466744"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -1.00 EUR
+  Assets:Cash:Bar                1.00 EUR
+
