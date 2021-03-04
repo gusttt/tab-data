@@ -370,3 +370,11 @@
   Liabilities:Bar:Members:Yvan   1.80 EUR     
   Income:Bar                    -1.80 EUR     
 
+2021-03-04 txn "Jobj bought 1 items for €2.00"
+  timestamp: "2021-03-04 10:12:45.557716"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Jobj      1 CM 
+  Liabilities:Bar:Members:Jobj   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
