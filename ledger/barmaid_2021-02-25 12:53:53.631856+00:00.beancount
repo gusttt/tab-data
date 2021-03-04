@@ -404,3 +404,13 @@
   Liabilities:Bar:Members:Ljaytee   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2021-03-04 txn "Jobj bought 3 items for €3.20"
+  timestamp: "2021-03-04 15:33:25.855597"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM    
+  Liabilities:Bar:Members:Jobj      1 CM    
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Jobj      2 BOUNTY
+  Liabilities:Bar:Members:Jobj   3.20 EUR   
+  Income:Bar                    -3.20 EUR   
+
