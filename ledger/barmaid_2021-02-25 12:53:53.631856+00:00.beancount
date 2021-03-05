@@ -514,3 +514,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2021-03-05 txn "--CASH-- bought 1 items for €0.30"
+  timestamp: "2021-03-05 22:41:39.997706"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        0.30 EUR 
+  Income:Bar            -0.30 EUR 
+
