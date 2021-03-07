@@ -580,3 +580,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-03-07 txn "Ljaytee bought 3 items for €2.70"
+  timestamp: "2021-03-07 10:05:53.785607"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ljaytee      1 FANTA
+  Assets:Inventory:Bar                -2 MARS 
+  Liabilities:Bar:Members:Ljaytee      2 MARS 
+  Liabilities:Bar:Members:Ljaytee   2.70 EUR  
+  Income:Bar                       -2.70 EUR  
+
