@@ -1,0 +1,8 @@
+2021-03-10 txn "Yvan bought 3 items for €4.50"
+  timestamp: "2021-03-10 22:20:39.631505"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 ICETEA
+  Liabilities:Bar:Members:Yvan      3 ICETEA
+  Liabilities:Bar:Members:Yvan   4.50 EUR   
+  Income:Bar                    -4.50 EUR   
+
