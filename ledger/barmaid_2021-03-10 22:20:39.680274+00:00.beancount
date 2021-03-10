@@ -6,3 +6,15 @@
   Liabilities:Bar:Members:Yvan   4.50 EUR   
   Income:Bar                    -4.50 EUR   
 
+2021-03-10 txn "Ljaytee bought 8 items for €7.00"
+  timestamp: "2021-03-10 22:21:06.626939"
+  type: "purchase"
+  Assets:Inventory:Bar                -4 MARS 
+  Liabilities:Bar:Members:Ljaytee      4 MARS 
+  Assets:Inventory:Bar                -2 FRITZ
+  Liabilities:Bar:Members:Ljaytee      2 FRITZ
+  Assets:Inventory:Bar                -2 CHIP 
+  Liabilities:Bar:Members:Ljaytee      2 CHIP 
+  Liabilities:Bar:Members:Ljaytee   7.00 EUR  
+  Income:Bar                       -7.00 EUR  
+
