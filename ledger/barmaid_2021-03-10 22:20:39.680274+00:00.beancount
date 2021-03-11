@@ -64,3 +64,13 @@
   Liabilities:Bar:Members:Miker   2.60 EUR  
   Income:Bar                     -2.60 EUR  
 
+2021-03-11 txn "Jobj bought 2 items for €2.60"
+  timestamp: "2021-03-11 14:35:34.041995"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM    
+  Liabilities:Bar:Members:Jobj      1 CM    
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Jobj      1 BOUNTY
+  Liabilities:Bar:Members:Jobj   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
