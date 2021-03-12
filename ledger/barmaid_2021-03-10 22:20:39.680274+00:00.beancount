@@ -170,3 +170,15 @@
   Liabilities:Bar:Members:Yvan   1.00 EUR          
   Income:Bar                    -1.00 EUR          
 
+2021-03-12 txn "Carro​armato0 bought 3 items for €4.60"
+  timestamp: "2021-03-12 20:35:50.700384"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ
+  Assets:Inventory:Bar                     -1 CIDER
+  Liabilities:Bar:Members:Carroarmato0      1 CIDER
+  Assets:Inventory:Bar                     -1 MNM  
+  Liabilities:Bar:Members:Carroarmato0      1 MNM  
+  Liabilities:Bar:Members:Carroarmato0   4.60 EUR  
+  Income:Bar                            -4.60 EUR  
+
