@@ -162,3 +162,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-03-12 txn "Yvan bought 1 items for €1.00"
+  timestamp: "2021-03-12 19:59:26.902183"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Yvan      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Yvan   1.00 EUR          
+  Income:Bar                    -1.00 EUR          
+
