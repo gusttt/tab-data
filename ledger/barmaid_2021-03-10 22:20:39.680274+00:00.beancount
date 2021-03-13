@@ -212,3 +212,13 @@
   Liabilities:Bar:Members:Sasja  -40.00 EUR
   Assets:Cash:Bar                 40.00 EUR
 
+2021-03-13 txn "Yvan bought 2 items for €1.80"
+  timestamp: "2021-03-13 15:27:52.389795"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   1.80 EUR 
+  Income:Bar                    -1.80 EUR 
+
