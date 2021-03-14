@@ -252,3 +252,11 @@
   Liabilities:Bar:Members:Sander   5.00 EUR
   Liabilities:Bar:Members:Yvan    -5.00 EUR
 
+2021-03-14 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2021-03-14 18:55:38.505765"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MARS
+  Liabilities:Bar:Members:Yvan      1 MARS
+  Liabilities:Bar:Members:Yvan   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
