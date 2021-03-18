@@ -372,3 +372,13 @@
   Liabilities:Bar:Members:Carroarmato0   0.50 EUR       
   Income:Bar                            -0.50 EUR       
 
+2021-03-18 txn "Jobj bought 2 items for €2.60"
+  timestamp: "2021-03-18 11:11:44.551175"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM      
+  Liabilities:Bar:Members:Jobj      1 CM      
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Jobj      1 SNICKERS
+  Liabilities:Bar:Members:Jobj   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
