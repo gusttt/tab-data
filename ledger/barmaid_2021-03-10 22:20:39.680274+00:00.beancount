@@ -446,3 +446,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-03-19 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2021-03-19 19:21:33.977381"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WINTER_MATE
+  Liabilities:Bar:Members:Yvan      1 WINTER_MATE
+  Liabilities:Bar:Members:Yvan   2.00 EUR        
+  Income:Bar                    -2.00 EUR        
+
