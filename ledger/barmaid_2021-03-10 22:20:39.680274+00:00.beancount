@@ -480,3 +480,13 @@
   Liabilities:Bar:Members:Bloemist   8.00 EUR
   Income:Bar                        -8.00 EUR
 
+2021-03-20 txn "Jobj bought 2 items for €2.10"
+  timestamp: "2021-03-20 14:51:33.766262"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Jobj      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 BOUNTY   
+  Liabilities:Bar:Members:Jobj      1 BOUNTY   
+  Liabilities:Bar:Members:Jobj   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
