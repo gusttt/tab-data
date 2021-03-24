@@ -76,3 +76,13 @@
   Liabilities:Bar:Members:Bloemist   0.30 EUR 
   Income:Bar                        -0.30 EUR 
 
+2021-03-24 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2021-03-24 11:58:33.382555"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Assets:Inventory:Bar             -1 MARS 
+  Liabilities:Bar:Members:Yvan      1 MARS 
+  Liabilities:Bar:Members:Yvan   2.60 EUR  
+  Income:Bar                    -2.60 EUR  
+
