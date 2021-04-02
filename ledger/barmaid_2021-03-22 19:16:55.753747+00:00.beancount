@@ -504,3 +504,13 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR
   Income:Bar                        -2.00 EUR
 
+2021-04-02 txn "Bert bought 3 items for €3.30"
+  timestamp: "2021-04-02 12:49:14.859732"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 HG  
+  Liabilities:Bar:Members:Bert      2 HG  
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Bert      1 CHIP
+  Liabilities:Bar:Members:Bert   3.30 EUR 
+  Income:Bar                    -3.30 EUR 
+
