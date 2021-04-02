@@ -514,3 +514,15 @@
   Liabilities:Bar:Members:Bert   3.30 EUR 
   Income:Bar                    -3.30 EUR 
 
+2021-04-02 txn "Bert bought 3 items for €3.80"
+  timestamp: "2021-04-02 13:25:34.104660"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ  
+  Liabilities:Bar:Members:Bert      1 FRITZ  
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bert      1 JUPILER
+  Assets:Inventory:Bar             -1 CHIP   
+  Liabilities:Bar:Members:Bert      1 CHIP   
+  Liabilities:Bar:Members:Bert   3.80 EUR    
+  Income:Bar                    -3.80 EUR    
+
