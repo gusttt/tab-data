@@ -566,3 +566,11 @@
   Liabilities:Bar:Members:Sander   0.30 EUR 
   Income:Bar                      -0.30 EUR 
 
+2021-04-03 txn "Sasja bought 20 items for €40.00"
+  timestamp: "2021-04-03 09:16:21.888781"
+  type: "purchase"
+  Assets:Inventory:Bar              -20 CMCOLA
+  Liabilities:Bar:Members:Sasja      20 CMCOLA
+  Liabilities:Bar:Members:Sasja   40.00 EUR   
+  Income:Bar                     -40.00 EUR   
+
