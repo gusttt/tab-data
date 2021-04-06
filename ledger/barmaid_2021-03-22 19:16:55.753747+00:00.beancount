@@ -684,3 +684,13 @@
   Liabilities:Bar:Members:Bloemist   0.30 EUR 
   Income:Bar                        -0.30 EUR 
 
+2021-04-06 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2021-04-06 14:52:16.131470"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA   
+  Liabilities:Bar:Members:Yvan      1 FANTA   
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   2.10 EUR     
+  Income:Bar                    -2.10 EUR     
+
