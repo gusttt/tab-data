@@ -760,3 +760,13 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-04-08 txn "Bloemist bought 2 items for €1.80"
+  timestamp: "2021-04-08 18:32:21.933641"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Assets:Inventory:Bar                 -1 CHIP   
+  Liabilities:Bar:Members:Bloemist      1 CHIP   
+  Liabilities:Bar:Members:Bloemist   1.80 EUR    
+  Income:Bar                        -1.80 EUR    
+
