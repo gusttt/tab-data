@@ -840,3 +840,15 @@
   Liabilities:Bar:Members:Ljaytee  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2021-04-09 txn "Ljaytee bought 3 items for €2.90"
+  timestamp: "2021-04-09 10:51:10.513257"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM  
+  Liabilities:Bar:Members:Ljaytee      1 CM  
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Ljaytee      1 CHIP
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Ljaytee      1 MARS
+  Liabilities:Bar:Members:Ljaytee   2.90 EUR 
+  Income:Bar                       -2.90 EUR 
+
