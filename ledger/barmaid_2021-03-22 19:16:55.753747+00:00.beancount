@@ -860,3 +860,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2021-04-09 txn "Sander bought 1 items for €0.30"
+  timestamp: "2021-04-09 15:32:27.850804"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Sander      1 CHIP
+  Liabilities:Bar:Members:Sander   0.30 EUR 
+  Income:Bar                      -0.30 EUR 
+
