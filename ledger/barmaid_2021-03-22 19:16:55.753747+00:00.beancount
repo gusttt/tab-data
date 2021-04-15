@@ -1120,3 +1120,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-04-15 txn "TQ bought 2 items for €4.00"
+  timestamp: "2021-04-15 16:23:23.026434"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 CIDER
+  Liabilities:Bar:Members:Thequux      2 CIDER
+  Liabilities:Bar:Members:Thequux   4.00 EUR  
+  Income:Bar                       -4.00 EUR  
+
