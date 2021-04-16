@@ -1168,3 +1168,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2021-04-16 txn "Ljaytee bought 1 items for €4.00"
+  timestamp: "2021-04-16 17:10:55.326664"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIMAY
+  Liabilities:Bar:Members:Ljaytee      1 CHIMAY
+  Liabilities:Bar:Members:Ljaytee   4.00 EUR   
+  Income:Bar                       -4.00 EUR   
+
