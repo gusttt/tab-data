@@ -1192,3 +1192,13 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2021-04-17 txn "Els bought 2 items for €2.60"
+  timestamp: "2021-04-17 05:28:30.983183"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM      
+  Liabilities:Bar:Members:Els      1 CM      
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.60 EUR     
+  Income:Bar                   -2.60 EUR     
+
