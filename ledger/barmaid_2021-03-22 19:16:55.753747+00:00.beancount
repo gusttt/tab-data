@@ -1294,3 +1294,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2021-04-18 txn "TQ bought 1 items for €1.50"
+  timestamp: "2021-04-18 13:46:27.457048"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Thequux      1 FANTA
+  Liabilities:Bar:Members:Thequux   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
