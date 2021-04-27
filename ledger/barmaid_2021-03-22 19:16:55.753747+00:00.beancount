@@ -1570,3 +1570,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-04-27 txn "Yvan bought 3 items for €1.80"
+  timestamp: "2021-04-27 08:31:30.804896"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 SNICKERS
+  Liabilities:Bar:Members:Yvan      3 SNICKERS
+  Liabilities:Bar:Members:Yvan   1.80 EUR     
+  Income:Bar                    -1.80 EUR     
+
