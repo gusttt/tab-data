@@ -1690,3 +1690,11 @@
   Liabilities:Bar:Members:Thequux   1.80 EUR     
   Income:Bar                       -1.80 EUR     
 
+2021-05-01 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2021-05-01 18:56:40.624617"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Ljaytee      1 CIDER
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
