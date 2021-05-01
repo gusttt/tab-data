@@ -1672,3 +1672,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2021-05-01 txn "Ljaytee bought 2 items for €1.20"
+  timestamp: "2021-05-01 15:09:48.179145"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 MARS
+  Liabilities:Bar:Members:Ljaytee      2 MARS
+  Liabilities:Bar:Members:Ljaytee   1.20 EUR 
+  Income:Bar                       -1.20 EUR 
+
