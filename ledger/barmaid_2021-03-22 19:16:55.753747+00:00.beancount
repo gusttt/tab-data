@@ -1864,3 +1864,11 @@
   Liabilities:Bar:Members:Alex   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2021-05-05 txn "Alex bought 1 items for €1.50"
+  timestamp: "2021-05-05 17:19:40.167155"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Alex      1 FANTA
+  Liabilities:Bar:Members:Alex   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
