@@ -1872,3 +1872,11 @@
   Liabilities:Bar:Members:Alex   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-05-05 txn "Alex bought 2 items for €4.00"
+  timestamp: "2021-05-05 17:19:45.318673"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CIDER
+  Liabilities:Bar:Members:Alex      2 CIDER
+  Liabilities:Bar:Members:Alex   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
