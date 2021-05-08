@@ -1970,3 +1970,13 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR     
   Income:Bar                       -1.20 EUR     
 
+2021-05-08 txn "Carro​armato0 bought 3 items for €1.40"
+  timestamp: "2021-05-08 12:42:06.831589"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CHUPACHUPS
+  Liabilities:Bar:Members:Carroarmato0      1 CHUPACHUPS
+  Assets:Inventory:Bar                     -2 MNM       
+  Liabilities:Bar:Members:Carroarmato0      2 MNM       
+  Liabilities:Bar:Members:Carroarmato0   1.40 EUR       
+  Income:Bar                            -1.40 EUR       
+
