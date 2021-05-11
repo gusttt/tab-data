@@ -2098,3 +2098,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-05-11 txn "Alex bought 1 items for €1.50"
+  timestamp: "2021-05-11 11:51:08.822672"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Alex      1 COKE_ZERO
+  Liabilities:Bar:Members:Alex   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
