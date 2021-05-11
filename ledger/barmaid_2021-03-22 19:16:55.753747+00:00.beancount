@@ -2076,3 +2076,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2021-05-11 txn "Alex deposited €5.00"
+  timestamp: "2021-05-11 11:46:54.542573"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -5.00 EUR
+  Assets:Cash:Bar                5.00 EUR
+
