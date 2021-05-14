@@ -2260,3 +2260,11 @@
   Liabilities:Bar:Members:Bart  -30.00 EUR
   Assets:Cash:Bar                30.00 EUR
 
+2021-05-14 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2021-05-14 22:49:28.542560"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
+  Income:Bar                            -1.50 EUR   
+
