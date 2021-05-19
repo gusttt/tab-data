@@ -2378,3 +2378,11 @@
   Liabilities:Bar:Members:Bart   4.50 EUR   
   Income:Bar                    -4.50 EUR   
 
+2021-05-19 txn "qwaxys bought 3 items for €6.00"
+  timestamp: "2021-05-19 14:52:21.210392"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 CIDER
+  Liabilities:Bar:Members:Bart      3 CIDER
+  Liabilities:Bar:Members:Bart   6.00 EUR  
+  Income:Bar                    -6.00 EUR  
+
