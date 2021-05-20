@@ -2434,3 +2434,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
   Income:Bar                            -1.20 EUR     
 
+2021-05-20 txn "qwaxys gave Yvan a gift of €3.50"
+  timestamp: "2021-05-20 16:41:48.458055"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   3.50 EUR
+  Liabilities:Bar:Members:Yvan  -3.50 EUR
+
