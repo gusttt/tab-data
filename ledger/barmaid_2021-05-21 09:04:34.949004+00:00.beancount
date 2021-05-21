@@ -1,0 +1,10 @@
+2021-05-21 txn "Yvan bought 2 items for €3.00"
+  timestamp: "2021-05-21 09:04:34.896194"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE 
+  Liabilities:Bar:Members:Yvan      1 COKE 
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Yvan      1 FANTA
+  Liabilities:Bar:Members:Yvan   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
