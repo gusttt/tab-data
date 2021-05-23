@@ -80,3 +80,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2021-05-23 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2021-05-23 14:32:18.750404"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ljaytee      1 FANTA
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
