@@ -142,3 +142,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
   Income:Bar                            -2.60 EUR     
 
+2021-05-24 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2021-05-24 11:44:42.280755"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Yvan      1 FANTA
+  Liabilities:Bar:Members:Yvan   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
