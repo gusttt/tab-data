@@ -248,3 +248,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-05-27 txn "Lisa bought 1 items for €2.00"
+  timestamp: "2021-05-27 12:33:12.864990"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Lisa      1 CIDER
+  Liabilities:Bar:Members:Lisa   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
