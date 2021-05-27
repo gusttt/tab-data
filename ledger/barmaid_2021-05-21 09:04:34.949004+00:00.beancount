@@ -284,3 +284,11 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2021-05-27 txn "Merlijn bought 1 items for €0.30"
+  timestamp: "2021-05-27 18:05:29.147859"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Merlijn      1 CHIP
+  Liabilities:Bar:Members:Merlijn   0.30 EUR 
+  Income:Bar                       -0.30 EUR 
+
