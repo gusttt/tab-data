@@ -292,3 +292,11 @@
   Liabilities:Bar:Members:Merlijn   0.30 EUR 
   Income:Bar                       -0.30 EUR 
 
+2021-05-27 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-05-27 18:26:51.504428"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
