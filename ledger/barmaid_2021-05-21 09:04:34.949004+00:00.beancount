@@ -502,3 +502,13 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-05-28 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2021-05-28 22:05:15.765208"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 MNM     
+  Liabilities:Bar:Members:Carroarmato0      1 MNM     
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
+  Income:Bar                            -1.20 EUR     
+
