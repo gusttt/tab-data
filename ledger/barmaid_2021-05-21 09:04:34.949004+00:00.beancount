@@ -478,3 +478,11 @@
   Liabilities:Bar:Members:Sasja   10.00 EUR
   Liabilities:Bar:Members:Bart   -10.00 EUR
 
+2021-05-28 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-05-28 21:43:02.442216"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 HG 
+  Liabilities:Bar:Members:Bart      1 HG 
+  Liabilities:Bar:Members:Bart   1.50 EUR
+  Income:Bar                    -1.50 EUR
+
