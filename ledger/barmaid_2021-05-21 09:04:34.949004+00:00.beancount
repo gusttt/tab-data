@@ -422,3 +422,9 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2021-05-28 txn "Sasja gave Bloemist a gift of €7.50"
+  timestamp: "2021-05-28 20:17:39.961364"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja      7.50 EUR
+  Liabilities:Bar:Members:Bloemist  -7.50 EUR
+
