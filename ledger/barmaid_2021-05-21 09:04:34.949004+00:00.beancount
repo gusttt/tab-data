@@ -472,3 +472,9 @@
   Liabilities:Bar:Members:Thequux   25.00 EUR
   Liabilities:Bar:Members:Bart     -25.00 EUR
 
+2021-05-28 txn "Sasja gave qwaxys a gift of €10.00"
+  timestamp: "2021-05-28 20:48:28.671712"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja   10.00 EUR
+  Liabilities:Bar:Members:Bart   -10.00 EUR
+
