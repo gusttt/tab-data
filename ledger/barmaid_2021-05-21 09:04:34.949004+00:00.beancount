@@ -382,3 +382,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
   Income:Bar                            -0.60 EUR     
 
+2021-05-28 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2021-05-28 18:25:46.011816"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CIDER
+  Liabilities:Bar:Members:Sasja      1 CIDER
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
