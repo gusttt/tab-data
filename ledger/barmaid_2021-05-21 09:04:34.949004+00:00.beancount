@@ -520,3 +520,9 @@
   Liabilities:Bar:Members:Bart   1.00 EUR          
   Income:Bar                    -1.00 EUR          
 
+2021-05-28 txn "Carro​armato0 gave Bloemist a gift of €9.50"
+  timestamp: "2021-05-28 23:09:58.176509"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   9.50 EUR
+  Liabilities:Bar:Members:Bloemist      -9.50 EUR
+
