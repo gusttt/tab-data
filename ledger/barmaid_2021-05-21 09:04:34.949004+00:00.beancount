@@ -428,3 +428,9 @@
   Liabilities:Bar:Members:Sasja      7.50 EUR
   Liabilities:Bar:Members:Bloemist  -7.50 EUR
 
+2021-05-28 txn "Evils gave Bloemist a gift of €2.70"
+  timestamp: "2021-05-28 20:18:38.856114"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      2.70 EUR
+  Liabilities:Bar:Members:Bloemist  -2.70 EUR
+
