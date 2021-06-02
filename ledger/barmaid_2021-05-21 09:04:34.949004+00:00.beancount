@@ -636,3 +636,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2021-06-02 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-06-02 20:26:44.020631"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist      1 COKE_ZERO
+  Liabilities:Bar:Members:Bloemist   1.50 EUR      
+  Income:Bar                        -1.50 EUR      
+
