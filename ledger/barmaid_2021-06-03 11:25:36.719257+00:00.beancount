@@ -50,3 +50,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2021-06-03 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2021-06-03 18:31:19.632476"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Yvan      1 FANTA
+  Liabilities:Bar:Members:Yvan   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
