@@ -1,0 +1,6 @@
+2021-06-03 txn "Miker deposited €50.00"
+  timestamp: "2021-06-03 11:25:36.669946"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
