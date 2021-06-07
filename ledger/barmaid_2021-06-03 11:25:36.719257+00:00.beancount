@@ -214,3 +214,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-06-07 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2021-06-07 17:38:10.313043"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Merlijn      1 ICETEA
+  Liabilities:Bar:Members:Merlijn   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
