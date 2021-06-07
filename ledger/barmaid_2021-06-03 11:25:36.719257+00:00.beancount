@@ -198,3 +198,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-06-07 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2021-06-07 13:01:13.703916"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MNM
+  Liabilities:Bar:Members:Yvan      1 MNM
+  Liabilities:Bar:Members:Yvan   0.60 EUR
+  Income:Bar                    -0.60 EUR
+
