@@ -230,3 +230,11 @@
   Liabilities:Bar:Members:Lisa   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-06-08 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2021-06-08 08:08:13.539210"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Liabilities:Bar:Members:Yvan   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
