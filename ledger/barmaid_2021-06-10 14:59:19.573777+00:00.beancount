@@ -188,3 +188,11 @@
   Liabilities:Bar:Members:Merlijn   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2021-06-16 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2021-06-16 22:24:25.819570"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Bart      1 DUVEL
+  Liabilities:Bar:Members:Bart   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
