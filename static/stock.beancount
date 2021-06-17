@@ -99,6 +99,21 @@
 2021-06-16 balance Assets:Inventory:Bar 0 WRISTBAND
 
 
+2021-06-16 txn "Restock by Merlijn"
+ Assets:Inventory:Bar         48 JUPILER
+ Assets:Inventory:Bar         24 HG
+ Assets:Inventory:Bar         24 CIDER
+ Assets:Inventory:Bar         30 COKE
+ Assets:Inventory:Bar         96 ICETEA_ZERO
+ Assets:Inventory:Bar         80 CHIP
+ Assets:Inventory:Bar         20 LION
+ Assets:Inventory:Bar         30 MNM
+ Assets:Inventory:Bar         24 TWIX
+ Assets:Inventory:Bar         14 BOUNTY
+ Assets:Inventory:Bar         24 SNICKERS
+ Assets:Inventory:Bar         240 PICKUP
+ Income:Vendor:Colruyt
+
 
 # Template for stock count
 1970-1-2 balance Assets:Inventory:Bar 0 BOUNTY
