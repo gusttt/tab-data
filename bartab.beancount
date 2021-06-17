@@ -1,4 +1,5 @@
 include "static/adjustments.beancount"
 include "static/basic-accounts.beancount"
 include "static/members.beancount"
+include "static/stock.beancount"
 include "ledger/dynamic.beancount"
