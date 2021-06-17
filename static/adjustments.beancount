@@ -33,7 +33,7 @@
 # I owe the space by €17)
 2018-12-22 txn "Pay back bar for dinner" #adjustment
   Liabilities:Bar:Members:Thequux            17 EUR
-  Assets:Inventory:Bar                      -17 EUR
+  Income:Bar                                -17 EUR
 
 # Out-of-band transfers for personal things
 2020-03-09 txn "Personal transaction"
