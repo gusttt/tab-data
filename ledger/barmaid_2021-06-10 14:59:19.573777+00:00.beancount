@@ -354,3 +354,11 @@
   Liabilities:Bar:Members:Merlijn   5.00 EUR
   Assets:Cash:Bar                  -5.00 EUR
 
+2021-06-17 txn "Sasja bought 1 items for €0.30"
+  timestamp: "2021-06-17 18:41:07.037889"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Sasja      1 CHIP
+  Liabilities:Bar:Members:Sasja   0.30 EUR 
+  Income:Bar                     -0.30 EUR 
+
