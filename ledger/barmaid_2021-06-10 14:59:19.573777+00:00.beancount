@@ -276,3 +276,17 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
   Income:Bar                            -1.20 EUR   
 
+2021-06-17 txn "Yvan bought 5 items for €3.00"
+  timestamp: "2021-06-17 17:00:56.468587"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK 
+  Liabilities:Bar:Members:Yvan      1 SNACK 
+  Assets:Inventory:Bar             -1 LION  
+  Liabilities:Bar:Members:Yvan      1 LION  
+  Assets:Inventory:Bar             -1 TWIX  
+  Liabilities:Bar:Members:Yvan      1 TWIX  
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Yvan      2 BOUNTY
+  Liabilities:Bar:Members:Yvan   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
