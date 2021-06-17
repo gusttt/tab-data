@@ -306,3 +306,13 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-06-17 txn "Sasja bought 7 items for €5.00"
+  timestamp: "2021-06-17 18:23:21.485420"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CIDER     
+  Liabilities:Bar:Members:Sasja      2 CIDER     
+  Assets:Inventory:Bar              -5 CHUPACHUPS
+  Liabilities:Bar:Members:Sasja      5 CHUPACHUPS
+  Liabilities:Bar:Members:Sasja   5.00 EUR       
+  Income:Bar                     -5.00 EUR       
+
