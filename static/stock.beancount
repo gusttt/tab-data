@@ -1,0 +1,148 @@
+1970-1-1 open Income:Vendor:Colruyt
+1970-1-1 open Income:Vendor:Unknown
+1970-1-1 open Expenses:Vendor:Colruyt
+
+# TODO: correct this for previous stocking runs
+1970-1-2 txn "Initial stock"
+  Assets:Inventory:Bar                   623 CHIP
+  Assets:Inventory:Bar                   116 EXPIRED_DRINK
+  Assets:Inventory:Bar                   1694 JUPILER
+  Assets:Inventory:Bar                   305 DUVEL
+  Assets:Inventory:Bar                   40 CHUPACHUPS
+  Assets:Inventory:Bar                   290 BOUNTY
+  Assets:Inventory:Bar                   127 CHIMAY
+  Assets:Inventory:Bar                   44 CIDER
+  Assets:Inventory:Bar                   1814 CM
+  Assets:Inventory:Bar                   183 CMCOLA
+  Assets:Inventory:Bar                   55 CMRED
+  Assets:Inventory:Bar                   677 COKE
+  Assets:Inventory:Bar                   280 COKE_ZERO
+  Assets:Inventory:Bar                   1 FACEMASK
+  Assets:Inventory:Bar                   463 FANTA
+  Assets:Inventory:Bar                   289 FLORA
+  Assets:Inventory:Bar                   792 FRITZ
+  Assets:Inventory:Bar                   16 FRITZ_ZERO
+  Assets:Inventory:Bar                   41 HG
+  Assets:Inventory:Bar                   1035 ICETEA
+  Assets:Inventory:Bar                   28 ICETEA_ZERO
+  Assets:Inventory:Bar                   42 ICE_CREAM
+  Assets:Inventory:Bar                   73 KING
+  Assets:Inventory:Bar                   333 KITKAT
+  Assets:Inventory:Bar                   64 KRIEK
+  Assets:Inventory:Bar                   22 LION
+  Assets:Inventory:Bar                   409 MARS
+  Assets:Inventory:Bar                   365 MNM
+  Assets:Inventory:Bar                   1 PASSPORT
+  Assets:Inventory:Bar                   21 PIZZA
+  Assets:Inventory:Bar                   6 POPCORN
+  Assets:Inventory:Bar                   38 ROLO
+  Assets:Inventory:Bar                   66 SCHWEPPES
+  Assets:Inventory:Bar                   2265 SNACK
+  Assets:Inventory:Bar                   416 SNICKERS
+  Assets:Inventory:Bar                   2 TACOSNACKPACK
+  Assets:Inventory:Bar                   15 TEA
+  Assets:Inventory:Bar                   17 TSHIRT
+  Assets:Inventory:Bar                   129 TWIX
+  Assets:Inventory:Bar                   115 VITAMALZ
+  Assets:Inventory:Bar                   27 WATER_GLASS
+  Assets:Inventory:Bar                   172 WATER
+  Assets:Inventory:Bar                   20 WINTER_MATE
+  Assets:Inventory:Bar                   24 WRISTBAND
+  Income:Vendor:Unknown
+
+# Stock count by Ljaytee. Note that balances apply at the *beginning* of the listed day
+
+2021-06-16 balance Assets:Inventory:Bar 0 BOUNTY
+2021-06-16 balance Assets:Inventory:Bar 0 CHIMAY
+2021-06-16 balance Assets:Inventory:Bar 23 CHIP
+2021-06-16 balance Assets:Inventory:Bar 9 CHUPACHUPS
+2021-06-16 balance Assets:Inventory:Bar 1 CIDER
+2021-06-16 balance Assets:Inventory:Bar 1 CM
+2021-06-16 balance Assets:Inventory:Bar 0 CMCOLA
+2021-06-16 balance Assets:Inventory:Bar 0 CMRED
+2021-06-16 balance Assets:Inventory:Bar 0 COKE
+2021-06-16 balance Assets:Inventory:Bar 0 COKE_ZERO
+2021-06-16 balance Assets:Inventory:Bar 45 DUVEL
+2021-06-16 balance Assets:Inventory:Bar 113 EXPIRED_DRINK
+2021-06-16 balance Assets:Inventory:Bar 0 FACEMASK
+2021-06-16 balance Assets:Inventory:Bar 0 FANTA
+2021-06-16 balance Assets:Inventory:Bar 0 FLORA
+2021-06-16 balance Assets:Inventory:Bar 0 FRITZ
+2021-06-16 balance Assets:Inventory:Bar 0 FRITZ_ZERO
+2021-06-16 balance Assets:Inventory:Bar 0 HG
+2021-06-16 balance Assets:Inventory:Bar 0 HOODIE
+2021-06-16 balance Assets:Inventory:Bar 0 ICETEA
+2021-06-16 balance Assets:Inventory:Bar 0 ICETEA_ZERO
+2021-06-16 balance Assets:Inventory:Bar 0 ICE_CREAM
+2021-06-16 balance Assets:Inventory:Bar 40 JUPILER
+2021-06-16 balance Assets:Inventory:Bar 0 KING
+2021-06-16 balance Assets:Inventory:Bar 0 KITKAT
+2021-06-16 balance Assets:Inventory:Bar 0 KRIEK
+2021-06-16 balance Assets:Inventory:Bar 0 LION
+2021-06-16 balance Assets:Inventory:Bar 0 MARS
+2021-06-16 balance Assets:Inventory:Bar 0 MNM
+2021-06-16 balance Assets:Inventory:Bar 0 PASSPORT
+2021-06-16 balance Assets:Inventory:Bar 0 PIZZA
+2021-06-16 balance Assets:Inventory:Bar 0 POPCORN
+2021-06-16 balance Assets:Inventory:Bar 0 ROLO
+2021-06-16 balance Assets:Inventory:Bar 0 SCHWEPPES
+2021-06-16 balance Assets:Inventory:Bar 0 SNACK
+2021-06-16 balance Assets:Inventory:Bar 0 SNICKERS
+2021-06-16 balance Assets:Inventory:Bar 0 TACOSNACKPACK
+2021-06-16 balance Assets:Inventory:Bar 0 TEA
+2021-06-16 balance Assets:Inventory:Bar 0 TSHIRT
+2021-06-16 balance Assets:Inventory:Bar 0 TWIX
+2021-06-16 balance Assets:Inventory:Bar 0 VITAMALZ
+2021-06-16 balance Assets:Inventory:Bar 0 WATER
+2021-06-16 balance Assets:Inventory:Bar 0 WATER_GLASS
+2021-06-16 balance Assets:Inventory:Bar 0 WINTER_MATE
+2021-06-16 balance Assets:Inventory:Bar 0 WRISTBAND
+
+
+
+# Template for stock count
+1970-1-2 balance Assets:Inventory:Bar 0 BOUNTY
+1970-1-2 balance Assets:Inventory:Bar 0 CHIMAY
+1970-1-2 balance Assets:Inventory:Bar 0 CHIP
+1970-1-2 balance Assets:Inventory:Bar 0 CHUPACHUPS
+1970-1-2 balance Assets:Inventory:Bar 0 CIDER
+1970-1-2 balance Assets:Inventory:Bar 0 CM
+1970-1-2 balance Assets:Inventory:Bar 0 CMCOLA
+1970-1-2 balance Assets:Inventory:Bar 0 CMRED
+1970-1-2 balance Assets:Inventory:Bar 0 COKE
+1970-1-2 balance Assets:Inventory:Bar 0 COKE_ZERO
+1970-1-2 balance Assets:Inventory:Bar 0 DUVEL
+1970-1-2 balance Assets:Inventory:Bar 0 EXPIRED_DRINK
+1970-1-2 balance Assets:Inventory:Bar 0 FACEMASK
+1970-1-2 balance Assets:Inventory:Bar 0 FANTA
+1970-1-2 balance Assets:Inventory:Bar 0 FLORA
+1970-1-2 balance Assets:Inventory:Bar 0 FRITZ
+1970-1-2 balance Assets:Inventory:Bar 0 FRITZ_ZERO
+1970-1-2 balance Assets:Inventory:Bar 0 HG
+1970-1-2 balance Assets:Inventory:Bar 0 HOODIE
+1970-1-2 balance Assets:Inventory:Bar 0 ICETEA
+1970-1-2 balance Assets:Inventory:Bar 0 ICETEA_ZERO
+1970-1-2 balance Assets:Inventory:Bar 0 ICE_CREAM
+1970-1-2 balance Assets:Inventory:Bar 0 JUPILER
+1970-1-2 balance Assets:Inventory:Bar 0 KING
+1970-1-2 balance Assets:Inventory:Bar 0 KITKAT
+1970-1-2 balance Assets:Inventory:Bar 0 KRIEK
+1970-1-2 balance Assets:Inventory:Bar 0 LION
+1970-1-2 balance Assets:Inventory:Bar 0 MARS
+1970-1-2 balance Assets:Inventory:Bar 0 MNM
+1970-1-2 balance Assets:Inventory:Bar 0 PASSPORT
+1970-1-2 balance Assets:Inventory:Bar 0 PIZZA
+1970-1-2 balance Assets:Inventory:Bar 0 POPCORN
+1970-1-2 balance Assets:Inventory:Bar 0 ROLO
+1970-1-2 balance Assets:Inventory:Bar 0 SCHWEPPES
+1970-1-2 balance Assets:Inventory:Bar 0 SNACK
+1970-1-2 balance Assets:Inventory:Bar 0 SNICKERS
+1970-1-2 balance Assets:Inventory:Bar 0 TACOSNACKPACK
+1970-1-2 balance Assets:Inventory:Bar 0 TEA
+1970-1-2 balance Assets:Inventory:Bar 0 TSHIRT
+1970-1-2 balance Assets:Inventory:Bar 0 TWIX
+1970-1-2 balance Assets:Inventory:Bar 0 VITAMALZ
+1970-1-2 balance Assets:Inventory:Bar 0 WATER
+1970-1-2 balance Assets:Inventory:Bar 0 WATER_GLASS
+1970-1-2 balance Assets:Inventory:Bar 0 WINTER_MATE
+1970-1-2 balance Assets:Inventory:Bar 0 WRISTBAND
