@@ -348,3 +348,9 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2021-06-17 txn "Merlijn deposited €-5.00"
+  timestamp: "2021-06-17 18:32:11.039304"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn   5.00 EUR
+  Assets:Cash:Bar                  -5.00 EUR
+
