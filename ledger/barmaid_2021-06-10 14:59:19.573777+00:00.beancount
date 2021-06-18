@@ -454,3 +454,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2021-06-18 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-06-18 17:19:55.111670"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Bart      1 ICETEA
+  Liabilities:Bar:Members:Bart   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
