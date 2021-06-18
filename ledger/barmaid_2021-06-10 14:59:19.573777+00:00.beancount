@@ -408,3 +408,11 @@
   Liabilities:Bar:Members:Sasja   0.30 EUR 
   Income:Bar                     -0.30 EUR 
 
+2021-06-18 txn "TQ bought 1 items for €1.50"
+  timestamp: "2021-06-18 09:22:11.219650"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Thequux      1 COKE
+  Liabilities:Bar:Members:Thequux   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
