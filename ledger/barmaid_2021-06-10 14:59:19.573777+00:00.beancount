@@ -652,3 +652,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2021-06-21 txn "TQ bought 3 items for €1.80"
+  timestamp: "2021-06-21 19:54:37.093915"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 MNM 
+  Liabilities:Bar:Members:Thequux      2 MNM 
+  Assets:Inventory:Bar                -1 LION
+  Liabilities:Bar:Members:Thequux      1 LION
+  Liabilities:Bar:Members:Thequux   1.80 EUR 
+  Income:Bar                       -1.80 EUR 
+
