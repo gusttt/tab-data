@@ -778,3 +778,13 @@
   Liabilities:Bar:Members:Sander   0.30 EUR 
   Income:Bar                      -0.30 EUR 
 
+2021-06-22 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2021-06-22 20:51:51.467765"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Assets:Inventory:Bar                     -1 MNM   
+  Liabilities:Bar:Members:Carroarmato0      1 MNM   
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
+  Income:Bar                            -2.10 EUR   
+
