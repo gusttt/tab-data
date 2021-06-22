@@ -700,3 +700,11 @@
   Liabilities:Bar:Members:Thequux   1.80 EUR  
   Income:Bar                       -1.80 EUR  
 
+2021-06-22 txn "TQ bought 1 items for €1.50"
+  timestamp: "2021-06-22 15:17:19.469631"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Thequux      1 COKE
+  Liabilities:Bar:Members:Thequux   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
