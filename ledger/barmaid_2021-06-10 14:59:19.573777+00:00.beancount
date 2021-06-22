@@ -744,3 +744,13 @@
   Liabilities:Bar:Members:Ljaytee   2.10 EUR 
   Income:Bar                       -2.10 EUR 
 
+2021-06-22 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2021-06-22 17:52:18.255783"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 LION    
+  Liabilities:Bar:Members:Carroarmato0      1 LION    
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
+  Income:Bar                            -1.20 EUR     
+
