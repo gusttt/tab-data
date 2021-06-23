@@ -788,3 +788,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
   Income:Bar                            -2.10 EUR   
 
+2021-06-23 txn "Ljaytee deposited €21.00"
+  timestamp: "2021-06-23 12:46:14.024581"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -21.00 EUR
+  Assets:Cash:Bar                   21.00 EUR
+
