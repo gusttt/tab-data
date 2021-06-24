@@ -912,3 +912,11 @@
   Liabilities:Bar:Members:Alex   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2021-06-24 txn "Alex bought 2 items for €3.00"
+  timestamp: "2021-06-24 15:29:52.851839"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 COKE_ZERO
+  Liabilities:Bar:Members:Alex      2 COKE_ZERO
+  Liabilities:Bar:Members:Alex   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
