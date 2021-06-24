@@ -1120,3 +1120,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-06-24 txn "Els bought 1 items for €0.30"
+  timestamp: "2021-06-24 21:58:16.864751"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   0.30 EUR 
+  Income:Bar                   -0.30 EUR 
+
