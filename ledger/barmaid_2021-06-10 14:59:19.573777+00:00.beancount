@@ -840,3 +840,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2021-06-24 txn "Miker bought 1 items for €1.50"
+  timestamp: "2021-06-24 12:34:24.684737"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Miker      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Miker   1.50 EUR        
+  Income:Bar                     -1.50 EUR        
+
