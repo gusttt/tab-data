@@ -1002,3 +1002,9 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2021-06-24 txn "Stefaan deposited €5.00"
+  timestamp: "2021-06-24 18:45:19.607445"
+  type: "deposit"
+  Liabilities:Bar:Members:Stefaan  -5.00 EUR
+  Assets:Cash:Bar                   5.00 EUR
+
