@@ -896,3 +896,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
   Income:Bar                            -0.60 EUR     
 
+2021-06-24 txn "Ljaytee bought 1 items for €0.60"
+  timestamp: "2021-06-24 15:07:21.658733"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Ljaytee      1 SNACK
+  Liabilities:Bar:Members:Ljaytee   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
