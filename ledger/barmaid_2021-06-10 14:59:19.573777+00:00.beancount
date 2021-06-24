@@ -944,3 +944,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-06-24 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2021-06-24 17:02:43.223858"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn   1.50 EUR        
+  Income:Bar                       -1.50 EUR        
+
