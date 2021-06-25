@@ -1154,3 +1154,13 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR
   Income:Bar                       -1.20 EUR
 
+2021-06-25 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2021-06-25 12:39:23.239911"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE    
+  Liabilities:Bar:Members:Yvan      1 COKE    
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   2.10 EUR     
+  Income:Bar                    -2.10 EUR     
+
