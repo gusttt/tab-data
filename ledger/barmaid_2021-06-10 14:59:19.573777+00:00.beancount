@@ -1390,3 +1390,11 @@
   Liabilities:Bar:Members:Bart   11.70 EUR
   Liabilities:Bar:Members:Yvan  -11.70 EUR
 
+2021-06-29 txn "Yvan bought 2 items for €1.20"
+  timestamp: "2021-06-29 14:36:28.009103"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 TWIX
+  Liabilities:Bar:Members:Yvan      2 TWIX
+  Liabilities:Bar:Members:Yvan   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
