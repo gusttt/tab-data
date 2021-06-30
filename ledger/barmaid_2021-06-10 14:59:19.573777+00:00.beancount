@@ -1434,3 +1434,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-06-30 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2021-06-30 08:56:08.795088"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Yvan      1 TWIX
+  Liabilities:Bar:Members:Yvan   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
