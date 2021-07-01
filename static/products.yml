@@ -192,10 +192,10 @@
   event_price: 0.90
   currency: LION
   category: food
-- name: Taco Snack Pack
-  price: 7.50
-  event_price: 10.00
-  currency: TACOSNACKPACK
+- name: Pick Up!
+  price: 0.70
+  event_price: 1.05
+  currency: PICKUP
   category: food
 
 # frozen goods
