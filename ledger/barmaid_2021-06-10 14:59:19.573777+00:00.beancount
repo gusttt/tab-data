@@ -1676,3 +1676,13 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR      
   Income:Bar                            -0.60 EUR      
 
+2021-07-01 txn "Sasja bought 3 items for €3.30"
+  timestamp: "2021-07-01 18:46:00.804016"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Sasja      2 JUPILER
+  Assets:Inventory:Bar              -1 CHIP   
+  Liabilities:Bar:Members:Sasja      1 CHIP   
+  Liabilities:Bar:Members:Sasja   3.30 EUR    
+  Income:Bar                     -3.30 EUR    
+
