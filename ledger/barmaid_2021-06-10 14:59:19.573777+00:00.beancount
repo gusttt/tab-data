@@ -1580,3 +1580,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2021-07-01 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-07-01 16:18:39.616991"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Sasja      1 ICETEA
+  Liabilities:Bar:Members:Sasja   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
