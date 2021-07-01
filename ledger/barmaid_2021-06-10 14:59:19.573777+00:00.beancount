@@ -1814,3 +1814,11 @@
   Liabilities:Bar:Members:Koen   1.20 EUR 
   Income:Bar                    -1.20 EUR 
 
+2021-07-01 txn "On8wr bought 1 items for €1.20"
+  timestamp: "2021-07-01 20:19:05.989116"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:On8wr      1 CHIP
+  Liabilities:Bar:Members:On8wr   1.20 EUR 
+  Income:Bar                     -1.20 EUR 
+
