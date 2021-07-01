@@ -1732,3 +1732,13 @@
   Liabilities:Bar:Members:On8wr   0.30 EUR 
   Income:Bar                     -0.30 EUR 
 
+2021-07-01 txn "Sasja bought 2 items for €2.10"
+  timestamp: "2021-07-01 19:39:12.212632"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MNM    
+  Liabilities:Bar:Members:Sasja      1 MNM    
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
