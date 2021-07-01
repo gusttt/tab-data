@@ -1790,3 +1790,11 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2021-07-01 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2021-07-01 20:05:40.469029"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bart      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bart   0.60 EUR          
+  Income:Bar                    -0.60 EUR          
+
