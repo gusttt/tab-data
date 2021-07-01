@@ -1806,3 +1806,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR
   Income:Bar                        -0.60 EUR
 
+2021-07-01 txn "Koen bought 1 items for €1.20"
+  timestamp: "2021-07-01 20:18:44.751861"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Liabilities:Bar:Members:Koen   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
