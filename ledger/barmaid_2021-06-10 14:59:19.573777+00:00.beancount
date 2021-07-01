@@ -1644,3 +1644,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.80 EUR  
   Income:Bar                            -1.80 EUR  
 
+2021-07-01 txn "Bloemist bought 1 items for €1.00"
+  timestamp: "2021-07-01 18:03:12.578015"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist   1.00 EUR          
+  Income:Bar                        -1.00 EUR          
+
