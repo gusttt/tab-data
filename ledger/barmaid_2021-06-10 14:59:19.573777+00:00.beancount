@@ -1886,3 +1886,17 @@
   Liabilities:Bar:Members:Bloemist   6.00 EUR      
   Income:Bar                        -6.00 EUR      
 
+2021-07-01 txn "--CASH-- bought 9 items for €11.70"
+  timestamp: "2021-07-01 22:04:09.547294"
+  type: "purchase"
+  Assets:Inventory:Bar      -4 JUPILER      
+  Assets:Cash:Bar            4 JUPILER      
+  Assets:Inventory:Bar      -1 EXPIRED_DRINK
+  Assets:Cash:Bar            1 EXPIRED_DRINK
+  Assets:Inventory:Bar      -1 ICETEA_ZERO  
+  Assets:Cash:Bar            1 ICETEA_ZERO  
+  Assets:Inventory:Bar      -3 CHIP         
+  Assets:Cash:Bar            3 CHIP         
+  Assets:Cash:Bar        11.70 EUR          
+  Income:Bar            -11.70 EUR          
+
