@@ -30,8 +30,8 @@
   currency: SCHWEPPES
   category: drink
 - name: Expired drink
-  price: 1
-  event_price: 1
+  price: 0.60
+  event_price: 0.60
   currency: EXPIRED_DRINK
   category: drink
 
