@@ -1766,3 +1766,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-07-01 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2021-07-01 19:59:08.833951"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 JUPILER
+  Liabilities:Bar:Members:Carroarmato0      1 JUPILER
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
+  Income:Bar                            -1.50 EUR    
+
