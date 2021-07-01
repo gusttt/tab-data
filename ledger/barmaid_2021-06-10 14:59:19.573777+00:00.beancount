@@ -1558,3 +1558,9 @@
   Liabilities:Bar:Members:Sasja  -42.00 EUR
   Assets:Cash:Bar                 42.00 EUR
 
+2021-07-01 txn "Yvan gave --CASH-- a gift of €40.00"
+  timestamp: "2021-07-01 15:59:12.927848"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   40.00 EUR
+  Assets:Cash:Bar               -40.00 EUR
+
