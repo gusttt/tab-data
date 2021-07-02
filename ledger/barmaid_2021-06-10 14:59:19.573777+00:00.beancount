@@ -1974,3 +1974,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2021-07-02 txn "Evils gave TQ a gift of €1.24"
+  timestamp: "2021-07-02 00:20:30.784037"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis     1.24 EUR
+  Liabilities:Bar:Members:Thequux  -1.24 EUR
+
