@@ -1980,3 +1980,9 @@
   Liabilities:Bar:Members:Elvis     1.24 EUR
   Liabilities:Bar:Members:Thequux  -1.24 EUR
 
+2021-07-02 txn "Yvan deposited €300.00"
+  timestamp: "2021-07-02 08:42:46.134708"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -300.00 EUR
+  Assets:Cash:Bar                300.00 EUR
+
