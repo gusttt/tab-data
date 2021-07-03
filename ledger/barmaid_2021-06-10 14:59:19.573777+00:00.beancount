@@ -2038,3 +2038,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-07-03 txn "Yvan bought 2 items for €3.00"
+  timestamp: "2021-07-03 18:12:46.720724"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 COKE_ZERO
+  Liabilities:Bar:Members:Yvan      2 COKE_ZERO
+  Liabilities:Bar:Members:Yvan   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
