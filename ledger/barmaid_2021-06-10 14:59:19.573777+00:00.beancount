@@ -2166,3 +2166,9 @@
   Liabilities:Bar:Members:Ljaytee   3.50 EUR   
   Income:Bar                       -3.50 EUR   
 
+2021-07-07 txn "TQ gave Evils a gift of €14.00"
+  timestamp: "2021-07-07 13:55:27.779963"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   14.00 EUR
+  Liabilities:Bar:Members:Elvis    -14.00 EUR
+
