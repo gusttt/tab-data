@@ -2148,3 +2148,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR      
   Income:Bar                    -0.60 EUR      
 
+2021-07-07 txn "Carro​armato0 bought 1 items for €0.60"
+  timestamp: "2021-07-07 12:43:33.587431"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICE_CREAM
+  Liabilities:Bar:Members:Carroarmato0      1 ICE_CREAM
+  Liabilities:Bar:Members:Carroarmato0   0.60 EUR      
+  Income:Bar                            -0.60 EUR      
+
