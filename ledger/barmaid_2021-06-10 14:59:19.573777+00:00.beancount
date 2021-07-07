@@ -2132,3 +2132,11 @@
   Liabilities:Bar:Members:Ljaytee   4.00 EUR  
   Income:Bar                       -4.00 EUR  
 
+2021-07-07 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2021-07-07 12:04:56.267549"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
+  Income:Bar                            -1.50 EUR   
+
