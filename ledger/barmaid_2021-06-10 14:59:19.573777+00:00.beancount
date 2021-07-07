@@ -2172,3 +2172,9 @@
   Liabilities:Bar:Members:Thequux   14.00 EUR
   Liabilities:Bar:Members:Elvis    -14.00 EUR
 
+2021-07-07 txn "Evils gave Carro​armato0 a gift of €100.00"
+  timestamp: "2021-07-07 13:56:06.486773"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis          100.00 EUR
+  Liabilities:Bar:Members:Carroarmato0  -100.00 EUR
+
