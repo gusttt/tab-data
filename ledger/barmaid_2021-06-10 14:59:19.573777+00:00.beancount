@@ -2292,3 +2292,11 @@
   Liabilities:Bar:Members:Alex   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-07-08 txn "Alex bought 1 items for €0.60"
+  timestamp: "2021-07-08 15:55:16.689072"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Alex      1 SNICKERS
+  Liabilities:Bar:Members:Alex   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
