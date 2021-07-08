@@ -2492,3 +2492,11 @@
   Liabilities:Bar:Members:Sander    4.00 EUR
   Liabilities:Bar:Members:Thequux  -4.00 EUR
 
+2021-07-08 txn "Sander bought 1 items for €2.00"
+  timestamp: "2021-07-08 20:41:18.991833"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:Sander      1 FRITZ
+  Liabilities:Bar:Members:Sander   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
