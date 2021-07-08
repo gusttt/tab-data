@@ -2220,3 +2220,11 @@
   Liabilities:Bar:Members:Ljaytee   4.00 EUR  
   Income:Bar                       -4.00 EUR  
 
+2021-07-08 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2021-07-08 13:38:47.911636"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
