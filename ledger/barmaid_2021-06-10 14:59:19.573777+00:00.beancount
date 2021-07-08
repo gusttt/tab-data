@@ -2382,3 +2382,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-07-08 txn "Sasja bought 1 items for €0.70"
+  timestamp: "2021-07-08 17:42:12.979834"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 PICKUP
+  Liabilities:Bar:Members:Sasja      1 PICKUP
+  Liabilities:Bar:Members:Sasja   0.70 EUR   
+  Income:Bar                     -0.70 EUR   
+
