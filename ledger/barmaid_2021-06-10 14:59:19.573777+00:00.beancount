@@ -2470,3 +2470,11 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2021-07-08 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2021-07-08 19:58:10.995585"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0      1 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR      
+  Income:Bar                            -1.50 EUR      
+
