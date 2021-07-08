@@ -2596,3 +2596,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-07-08 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2021-07-08 23:35:31.253137"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Assets:Inventory:Bar                 -1 HG     
+  Liabilities:Bar:Members:Bloemist      1 HG     
+  Liabilities:Bar:Members:Bloemist   3.00 EUR    
+  Income:Bar                        -3.00 EUR    
+
