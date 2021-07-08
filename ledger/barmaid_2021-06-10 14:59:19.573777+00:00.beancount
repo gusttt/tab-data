@@ -2390,3 +2390,11 @@
   Liabilities:Bar:Members:Sasja   0.70 EUR   
   Income:Bar                     -0.70 EUR   
 
+2021-07-08 txn "Yvan bought 1 items for €1.20"
+  timestamp: "2021-07-08 18:14:45.821803"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
