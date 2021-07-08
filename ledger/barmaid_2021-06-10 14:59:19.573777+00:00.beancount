@@ -2532,3 +2532,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR
   Income:Bar                       -0.60 EUR
 
+2021-07-08 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2021-07-08 21:28:44.845268"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Sasja      1 FRITZ
+  Liabilities:Bar:Members:Sasja   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
