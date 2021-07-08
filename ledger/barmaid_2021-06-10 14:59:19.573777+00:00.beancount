@@ -2284,3 +2284,11 @@
   Liabilities:Bar:Members:Alex  -11.50 EUR
   Assets:Cash:Bar                11.50 EUR
 
+2021-07-08 txn "Alex bought 1 items for €2.00"
+  timestamp: "2021-07-08 15:55:05.632861"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Alex      1 FRITZ
+  Liabilities:Bar:Members:Alex   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
