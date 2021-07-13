@@ -2742,3 +2742,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.80 EUR   
   Income:Bar                            -2.80 EUR   
 
+2021-07-13 txn "Sander bought 1 items for €0.60"
+  timestamp: "2021-07-13 17:35:38.647876"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Sander      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Sander   0.60 EUR          
+  Income:Bar                      -0.60 EUR          
+
