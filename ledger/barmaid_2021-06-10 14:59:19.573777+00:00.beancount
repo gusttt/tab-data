@@ -2816,3 +2816,13 @@
   Liabilities:Bar:Members:Bloemist   1.20 EUR 
   Income:Bar                        -1.20 EUR 
 
+2021-07-14 txn "Yvan bought 2 items for €1.90"
+  timestamp: "2021-07-14 14:58:05.957916"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PICKUP
+  Liabilities:Bar:Members:Yvan      1 PICKUP
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Yvan      1 CHIP  
+  Liabilities:Bar:Members:Yvan   1.90 EUR   
+  Income:Bar                    -1.90 EUR   
+
