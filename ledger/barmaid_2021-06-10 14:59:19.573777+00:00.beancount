@@ -2782,3 +2782,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR 
   Income:Bar                            -1.20 EUR 
 
+2021-07-14 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2021-07-14 12:14:37.583634"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Bloemist      1 FRITZ
+  Liabilities:Bar:Members:Bloemist   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
