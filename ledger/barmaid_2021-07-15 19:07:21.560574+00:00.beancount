@@ -96,3 +96,11 @@
   Liabilities:Bar:Members:Koen   0.70 EUR   
   Income:Bar                    -0.70 EUR   
 
+2021-07-15 txn "Carro​armato0 bought 2 items for €1.40"
+  timestamp: "2021-07-15 21:17:14.169120"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   1.40 EUR   
+  Income:Bar                            -1.40 EUR   
+
