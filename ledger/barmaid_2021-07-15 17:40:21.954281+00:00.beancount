@@ -6,3 +6,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-07-15 txn "Ljaytee deposited €4.40"
+  timestamp: "2021-07-15 17:52:52.319252"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -4.40 EUR
+  Assets:Cash:Bar                   4.40 EUR
+
