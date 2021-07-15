@@ -2920,3 +2920,11 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR
   Income:Bar                        -2.00 EUR
 
+2021-07-15 txn "Lisa bought 1 items for €0.70"
+  timestamp: "2021-07-15 15:58:16.429680"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PICKUP
+  Liabilities:Bar:Members:Lisa      1 PICKUP
+  Liabilities:Bar:Members:Lisa   0.70 EUR   
+  Income:Bar                    -0.70 EUR   
+
