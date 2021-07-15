@@ -104,3 +104,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.40 EUR   
   Income:Bar                            -1.40 EUR   
 
+2021-07-15 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-07-15 21:17:25.865131"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
