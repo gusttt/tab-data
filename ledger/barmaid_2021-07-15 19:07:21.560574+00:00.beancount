@@ -60,3 +60,9 @@
   Liabilities:Bar:Members:Koen  -1.50 EUR
   Assets:Cash:Bar                1.50 EUR
 
+2021-07-15 txn "Sander gave Yvan a gift of €10.25"
+  timestamp: "2021-07-15 21:01:31.409499"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   10.25 EUR
+  Liabilities:Bar:Members:Yvan    -10.25 EUR
+
