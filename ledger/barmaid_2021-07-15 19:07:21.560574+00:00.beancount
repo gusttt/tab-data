@@ -136,3 +136,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-07-15 txn "Bloemist bought 5 items for €7.20"
+  timestamp: "2021-07-15 23:33:59.333174"
+  type: "purchase"
+  Assets:Inventory:Bar                 -4 JUPILER
+  Liabilities:Bar:Members:Bloemist      4 JUPILER
+  Assets:Inventory:Bar                 -1 CHIP   
+  Liabilities:Bar:Members:Bloemist      1 CHIP   
+  Liabilities:Bar:Members:Bloemist   7.20 EUR    
+  Income:Bar                        -7.20 EUR    
+
