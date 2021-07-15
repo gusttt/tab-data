@@ -62,3 +62,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2021-07-15 txn "Ljaytee gave Yvan a gift of €6.15"
+  timestamp: "2021-07-15 18:30:49.240494"
+  type: "transfer"
+  Liabilities:Bar:Members:Ljaytee   6.15 EUR
+  Liabilities:Bar:Members:Yvan     -6.15 EUR
+
