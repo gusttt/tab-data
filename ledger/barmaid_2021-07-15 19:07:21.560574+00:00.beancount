@@ -188,3 +188,13 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-07-17 txn "Yvan bought 2 items for €2.70"
+  timestamp: "2021-07-17 15:07:14.741234"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Yvan      1 CHIP  
+  Liabilities:Bar:Members:Yvan   2.70 EUR   
+  Income:Bar                    -2.70 EUR   
+
