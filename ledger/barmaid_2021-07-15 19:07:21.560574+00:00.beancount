@@ -198,3 +198,13 @@
   Liabilities:Bar:Members:Yvan   2.70 EUR   
   Income:Bar                    -2.70 EUR   
 
+2021-07-18 txn "Carro​armato0 bought 2 items for €2.20"
+  timestamp: "2021-07-18 11:07:40.387642"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   2.20 EUR   
+  Income:Bar                            -2.20 EUR   
+
