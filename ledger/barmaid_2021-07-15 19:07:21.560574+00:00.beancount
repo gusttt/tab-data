@@ -226,3 +226,11 @@
   Liabilities:Bar:Members:Lisa   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-07-18 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2021-07-18 16:04:51.594675"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM 
+  Liabilities:Bar:Members:Carroarmato0      1 CM 
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR
+  Income:Bar                            -2.00 EUR
+
