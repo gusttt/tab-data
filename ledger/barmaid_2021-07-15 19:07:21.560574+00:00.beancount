@@ -242,3 +242,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR      
   Income:Bar                    -0.60 EUR      
 
+2021-07-18 txn "Sander bought 1 items for €0.60"
+  timestamp: "2021-07-18 16:39:57.544947"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICE_CREAM
+  Liabilities:Bar:Members:Sander      1 ICE_CREAM
+  Liabilities:Bar:Members:Sander   0.60 EUR      
+  Income:Bar                      -0.60 EUR      
+
