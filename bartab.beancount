@@ -1,0 +1,3 @@
+include "static/basic-accounts.beancount"
+include "static/members.beancount"
+include "ledger/dynamic.beancount"
