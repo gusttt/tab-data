@@ -378,3 +378,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.40 EUR   
   Income:Bar                            -1.40 EUR   
 
+2021-07-21 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2021-07-21 15:54:52.956816"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
