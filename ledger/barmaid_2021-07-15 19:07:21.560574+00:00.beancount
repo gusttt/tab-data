@@ -418,3 +418,11 @@
   Liabilities:Bar:Members:Yvan     8.90 EUR
   Liabilities:Bar:Members:Sander  -8.90 EUR
 
+2021-07-21 txn "Bloemist bought 1 items for €0.70"
+  timestamp: "2021-07-21 21:14:57.217124"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 PICKUP
+  Liabilities:Bar:Members:Bloemist      1 PICKUP
+  Liabilities:Bar:Members:Bloemist   0.70 EUR   
+  Income:Bar                        -0.70 EUR   
+
