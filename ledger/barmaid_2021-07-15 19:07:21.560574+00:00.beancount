@@ -538,3 +538,9 @@
   Liabilities:Bar:Members:Koen  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2021-07-22 txn "Koen deposited €3.00"
+  timestamp: "2021-07-22 17:44:57.843959"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -3.00 EUR
+  Assets:Cash:Bar                3.00 EUR
+
