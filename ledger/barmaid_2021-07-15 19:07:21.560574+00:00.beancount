@@ -560,3 +560,13 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2021-07-22 txn "Lisa bought 2 items for €3.50"
+  timestamp: "2021-07-22 18:06:46.330568"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Lisa      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 FRITZ    
+  Liabilities:Bar:Members:Lisa      1 FRITZ    
+  Liabilities:Bar:Members:Lisa   3.50 EUR      
+  Income:Bar                    -3.50 EUR      
+
