@@ -186,3 +186,13 @@
   Liabilities:Bar:Members:Miker   0.70 EUR   
   Income:Bar                     -0.70 EUR   
 
+2021-07-22 txn "Koen bought 2 items for €3.20"
+  timestamp: "2021-07-22 22:46:53.755179"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Koen      1 CIDER
+  Assets:Inventory:Bar             -1 CHIP 
+  Liabilities:Bar:Members:Koen      1 CHIP 
+  Liabilities:Bar:Members:Koen   3.20 EUR  
+  Income:Bar                    -3.20 EUR  
+
