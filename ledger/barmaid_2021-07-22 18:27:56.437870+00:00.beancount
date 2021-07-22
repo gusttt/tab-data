@@ -48,3 +48,11 @@
   Liabilities:Bar:Members:Ljaytee   4.50 EUR  
   Income:Bar                       -4.50 EUR  
 
+2021-07-22 txn "Miker bought 1 items for €2.00"
+  timestamp: "2021-07-22 19:24:45.235127"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Miker      1 CMRED
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
