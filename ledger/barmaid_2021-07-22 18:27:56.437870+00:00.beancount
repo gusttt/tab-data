@@ -212,3 +212,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2021-07-22 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2021-07-22 23:23:48.314222"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
