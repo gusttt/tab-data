@@ -162,3 +162,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-07-22 txn "Koen bought 1 items for €2.00"
+  timestamp: "2021-07-22 21:44:01.882452"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Koen      1 CIDER
+  Liabilities:Bar:Members:Koen   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
