@@ -134,3 +134,15 @@
   Liabilities:Bar:Members:Elvis   0.70 EUR   
   Income:Bar                     -0.70 EUR   
 
+2021-07-22 txn "Ljaytee bought 3 items for €3.90"
+  timestamp: "2021-07-22 21:02:45.867758"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ 
+  Assets:Inventory:Bar                -1 PICKUP
+  Liabilities:Bar:Members:Ljaytee      1 PICKUP
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Ljaytee      1 CHIP  
+  Liabilities:Bar:Members:Ljaytee   3.90 EUR   
+  Income:Bar                       -3.90 EUR   
+
