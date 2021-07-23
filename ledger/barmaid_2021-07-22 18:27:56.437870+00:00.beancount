@@ -228,3 +228,11 @@
   Liabilities:Bar:Members:Elvis   0.70 EUR   
   Income:Bar                     -0.70 EUR   
 
+2021-07-23 txn "Evils bought 1 items for €0.70"
+  timestamp: "2021-07-23 00:25:25.261369"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 PICKUP
+  Liabilities:Bar:Members:Elvis      1 PICKUP
+  Liabilities:Bar:Members:Elvis   0.70 EUR   
+  Income:Bar                     -0.70 EUR   
+
