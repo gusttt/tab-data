@@ -408,3 +408,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-07-25 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-07-25 18:05:04.124919"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
