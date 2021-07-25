@@ -362,3 +362,9 @@
   Liabilities:Bar:Members:Sander   4.70 EUR
   Liabilities:Bar:Members:Bart    -4.70 EUR
 
+2021-07-25 txn "Bloemist gave qwaxys a gift of €15.15"
+  timestamp: "2021-07-25 15:05:16.341410"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   15.15 EUR
+  Liabilities:Bar:Members:Bart      -15.15 EUR
+
