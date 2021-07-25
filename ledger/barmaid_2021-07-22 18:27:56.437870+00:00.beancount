@@ -304,3 +304,13 @@
   Liabilities:Bar:Members:Carroarmato0   43.00 EUR
   Assets:Cash:Bar                       -43.00 EUR
 
+2021-07-25 txn "Carro​armato0 bought 2 items for €2.20"
+  timestamp: "2021-07-25 09:51:05.761634"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   2.20 EUR   
+  Income:Bar                            -2.20 EUR   
+
