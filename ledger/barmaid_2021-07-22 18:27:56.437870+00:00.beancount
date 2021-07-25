@@ -298,3 +298,9 @@
   Liabilities:Bar:Members:Carroarmato0   53.00 EUR
   Assets:Cash:Bar                       -53.00 EUR
 
+2021-07-25 txn "Carro​armato0 gave --CASH-- a gift of €43.00"
+  timestamp: "2021-07-25 09:48:00.896580"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   43.00 EUR
+  Assets:Cash:Bar                       -43.00 EUR
+
