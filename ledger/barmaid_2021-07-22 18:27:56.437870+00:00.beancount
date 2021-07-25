@@ -286,3 +286,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-07-25 txn "--CASH-- gave Carro​armato0 a gift of €53.00"
+  timestamp: "2021-07-25 09:46:37.743044"
+  type: "transfer"
+  Assets:Cash:Bar                        53.00 EUR
+  Liabilities:Bar:Members:Carroarmato0  -53.00 EUR
+
