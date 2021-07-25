@@ -504,3 +504,11 @@
   Liabilities:Bar:Members:Bloemist   2.70 EUR    
   Income:Bar                        -2.70 EUR    
 
+2021-07-25 txn "Carro​armato0 bought 2 items for €1.40"
+  timestamp: "2021-07-25 23:22:41.142939"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   1.40 EUR   
+  Income:Bar                            -1.40 EUR   
+
