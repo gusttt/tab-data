@@ -454,3 +454,11 @@
   Liabilities:Bar:Members:Koen  -0.80 EUR
   Assets:Cash:Bar                0.80 EUR
 
+2021-07-25 txn "Evils bought 1 items for €0.70"
+  timestamp: "2021-07-25 20:28:27.309321"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 PICKUP
+  Liabilities:Bar:Members:Elvis      1 PICKUP
+  Liabilities:Bar:Members:Elvis   0.70 EUR   
+  Income:Bar                     -0.70 EUR   
+
