@@ -238,3 +238,9 @@
   Liabilities:Bar:Members:Carroarmato0  -20.00 EUR
   Assets:Cash:Bar                        20.00 EUR
 
+2021-07-29 txn "Evils gave Yvan a gift of €9.50"
+  timestamp: "2021-07-29 18:49:36.323896"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   9.50 EUR
+  Liabilities:Bar:Members:Yvan   -9.50 EUR
+
