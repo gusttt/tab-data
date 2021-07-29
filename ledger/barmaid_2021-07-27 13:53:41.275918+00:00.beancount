@@ -332,3 +332,13 @@
   Liabilities:Bar:Members:Miker   4.00 EUR    
   Income:Bar                     -4.00 EUR    
 
+2021-07-29 txn "Ljaytee bought 2 items for €3.50"
+  timestamp: "2021-07-29 20:23:00.168104"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER  
+  Liabilities:Bar:Members:Ljaytee      1 CIDER  
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Ljaytee      1 JUPILER
+  Liabilities:Bar:Members:Ljaytee   3.50 EUR    
+  Income:Bar                       -3.50 EUR    
+
