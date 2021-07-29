@@ -366,3 +366,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-07-29 txn "Miker bought 3 items for €7.50"
+  timestamp: "2021-07-29 21:22:46.722464"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 DUVEL
+  Liabilities:Bar:Members:Miker      3 DUVEL
+  Liabilities:Bar:Members:Miker   7.50 EUR  
+  Income:Bar                     -7.50 EUR  
+
