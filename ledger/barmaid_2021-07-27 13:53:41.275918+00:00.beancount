@@ -146,3 +146,11 @@
   Liabilities:Bar:Members:Bloemist  -110.00 EUR
   Assets:Cash:Bar                    110.00 EUR
 
+2021-07-29 txn "Els bought 1 items for €0.50"
+  timestamp: "2021-07-29 18:00:29.351949"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 TEA
+  Liabilities:Bar:Members:Els      1 TEA
+  Liabilities:Bar:Members:Els   0.50 EUR
+  Income:Bar                   -0.50 EUR
+
