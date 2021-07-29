@@ -274,3 +274,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-07-29 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2021-07-29 19:23:33.310719"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 JUPILER
+  Assets:Cash:Bar           2 JUPILER
+  Assets:Cash:Bar        3.00 EUR    
+  Income:Bar            -3.00 EUR    
+
