@@ -244,3 +244,11 @@
   Liabilities:Bar:Members:Elvis   9.50 EUR
   Liabilities:Bar:Members:Yvan   -9.50 EUR
 
+2021-07-29 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-07-29 18:56:20.271213"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 HG 
+  Liabilities:Bar:Members:Sasja      1 HG 
+  Liabilities:Bar:Members:Sasja   1.50 EUR
+  Income:Bar                     -1.50 EUR
+
