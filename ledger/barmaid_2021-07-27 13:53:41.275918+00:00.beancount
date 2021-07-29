@@ -226,3 +226,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR
   Liabilities:Bar:Members:Bart  -2.00 EUR
 
+2021-07-29 txn "Carro​armato0 gave Yvan a gift of €9.50"
+  timestamp: "2021-07-29 18:49:13.783810"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   9.50 EUR
+  Liabilities:Bar:Members:Yvan          -9.50 EUR
+
