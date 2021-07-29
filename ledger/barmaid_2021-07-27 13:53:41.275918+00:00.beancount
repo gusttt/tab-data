@@ -252,3 +252,9 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR
   Income:Bar                     -1.50 EUR
 
+2021-07-29 txn "Bloemist gave Yvan a gift of €15.00"
+  timestamp: "2021-07-29 19:02:28.486865"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   15.00 EUR
+  Liabilities:Bar:Members:Yvan      -15.00 EUR
+
