@@ -314,3 +314,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-07-29 txn "Sander bought 2 items for €1.40"
+  timestamp: "2021-07-29 20:02:40.066503"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 PICKUP
+  Liabilities:Bar:Members:Sander      2 PICKUP
+  Liabilities:Bar:Members:Sander   1.40 EUR   
+  Income:Bar                      -1.40 EUR   
+
