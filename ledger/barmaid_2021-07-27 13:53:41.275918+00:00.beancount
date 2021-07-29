@@ -350,3 +350,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-07-29 txn "Els bought 1 items for €2.00"
+  timestamp: "2021-07-29 20:28:51.234584"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ
+  Liabilities:Bar:Members:Els      1 FRITZ
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
