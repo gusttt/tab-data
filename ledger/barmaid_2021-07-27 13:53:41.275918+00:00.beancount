@@ -380,3 +380,11 @@
   Liabilities:Bar:Members:Koen  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2021-07-29 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2021-07-29 21:58:20.267124"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
