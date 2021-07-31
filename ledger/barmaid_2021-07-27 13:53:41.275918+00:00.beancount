@@ -436,3 +436,11 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2021-07-31 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-07-31 18:26:44.952175"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 HG 
+  Liabilities:Bar:Members:Bloemist      1 HG 
+  Liabilities:Bar:Members:Bloemist   1.50 EUR
+  Income:Bar                        -1.50 EUR
+
