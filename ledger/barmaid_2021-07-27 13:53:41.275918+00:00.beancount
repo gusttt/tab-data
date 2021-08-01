@@ -556,3 +556,11 @@
   Liabilities:Bar:Members:On8wr   1.40 EUR   
   Income:Bar                     -1.40 EUR   
 
+2021-08-01 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2021-08-01 02:29:00.974490"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:On8wr      1 ICETEA
+  Liabilities:Bar:Members:On8wr   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
