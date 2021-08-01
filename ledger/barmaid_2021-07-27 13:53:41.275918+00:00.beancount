@@ -640,3 +640,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.70 EUR   
   Income:Bar                            -2.70 EUR   
 
+2021-08-01 txn "Evils gave Sander a gift of €6.00"
+  timestamp: "2021-08-01 18:07:56.673713"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    6.00 EUR
+  Liabilities:Bar:Members:Sander  -6.00 EUR
+
