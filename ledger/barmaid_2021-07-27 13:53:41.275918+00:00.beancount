@@ -606,3 +606,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR      
   Income:Bar                            -1.50 EUR      
 
+2021-08-01 txn "On8wr bought 1 items for €0.70"
+  timestamp: "2021-08-01 16:08:57.820735"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 PICKUP
+  Liabilities:Bar:Members:On8wr      1 PICKUP
+  Liabilities:Bar:Members:On8wr   0.70 EUR   
+  Income:Bar                     -0.70 EUR   
+
