@@ -662,3 +662,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.40 EUR   
   Income:Bar                            -1.40 EUR   
 
+2021-08-01 txn "On8wr deposited €40.00"
+  timestamp: "2021-08-01 18:24:53.517210"
+  type: "deposit"
+  Liabilities:Bar:Members:On8wr  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
