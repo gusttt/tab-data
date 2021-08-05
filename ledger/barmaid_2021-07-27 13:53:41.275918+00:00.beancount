@@ -1032,3 +1032,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2021-08-05 txn "Thomas bought 1 items for €4.00"
+  timestamp: "2021-08-05 18:12:08.003216"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:Thomas      1 CHIMAY
+  Liabilities:Bar:Members:Thomas   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
