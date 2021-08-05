@@ -958,3 +958,77 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-08-05 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2021-08-05 16:50:56.888961"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Yvan      1 EXPIRED_DRINK
+  Assets:Inventory:Bar             -1 ICETEA       
+  Liabilities:Bar:Members:Yvan      1 ICETEA       
+  Liabilities:Bar:Members:Yvan   2.10 EUR          
+  Income:Bar                    -2.10 EUR          
+
+2021-08-05 txn "Yvan deposited €0.60"
+  timestamp: "2021-08-05 16:51:23.655667"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -0.60 EUR
+  Assets:Cash:Bar                0.60 EUR
+
+2021-08-05 txn "Ljaytee bought 3 items for €3.20"
+  timestamp: "2021-08-05 16:56:16.229302"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER 
+  Liabilities:Bar:Members:Ljaytee      1 CIDER 
+  Assets:Inventory:Bar                -1 MARS  
+  Liabilities:Bar:Members:Ljaytee      1 MARS  
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Ljaytee      1 KITKAT
+  Liabilities:Bar:Members:Ljaytee   3.20 EUR   
+  Income:Bar                       -3.20 EUR   
+
+2021-08-05 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-08-05 16:57:23.487721"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
+2021-08-05 txn "TQ bought 2 items for €1.20"
+  timestamp: "2021-08-05 17:33:45.717441"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Thequux      1 SNICKERS
+  Assets:Inventory:Bar                -1 MARS    
+  Liabilities:Bar:Members:Thequux      1 MARS    
+  Liabilities:Bar:Members:Thequux   1.20 EUR     
+  Income:Bar                       -1.20 EUR     
+
+2021-08-05 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2021-08-05 17:43:02.528181"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
+  Income:Bar                            -1.20 EUR   
+
+2021-08-05 txn "Ljaytee bought 2 items for €2.10"
+  timestamp: "2021-08-05 17:55:51.532161"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Liabilities:Bar:Members:Ljaytee   2.10 EUR  
+  Income:Bar                       -2.10 EUR  
+
+2021-08-05 txn "Evils bought 1 items for €1.50"
+  timestamp: "2021-08-05 17:57:41.125918"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Elvis      1 ICETEA
+  Liabilities:Bar:Members:Elvis   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
