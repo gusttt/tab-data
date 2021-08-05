@@ -1118,3 +1118,11 @@
   Liabilities:Bar:Members:Thomas   2.70 EUR  
   Income:Bar                      -2.70 EUR  
 
+2021-08-05 txn "Miker bought 1 items for €4.00"
+  timestamp: "2021-08-05 20:23:11.027732"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Miker      1 CHIMAY
+  Liabilities:Bar:Members:Miker   4.00 EUR   
+  Income:Bar                     -4.00 EUR   
+
