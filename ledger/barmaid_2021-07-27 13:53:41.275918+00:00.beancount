@@ -1200,3 +1200,11 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-08-05 txn "Thomas bought 1 items for €0.60"
+  timestamp: "2021-08-05 21:55:57.571744"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNICKERS
+  Liabilities:Bar:Members:Thomas      1 SNICKERS
+  Liabilities:Bar:Members:Thomas   0.60 EUR     
+  Income:Bar                      -0.60 EUR     
+
