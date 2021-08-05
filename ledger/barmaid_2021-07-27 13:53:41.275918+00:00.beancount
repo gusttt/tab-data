@@ -1264,3 +1264,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR
   Liabilities:Bar:Members:Bart      -0.60 EUR
 
+2021-08-05 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2021-08-05 22:52:26.185988"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 TWIX
+  Liabilities:Bar:Members:Bloemist      1 TWIX
+  Liabilities:Bar:Members:Bloemist   0.60 EUR 
+  Income:Bar                        -0.60 EUR 
+
