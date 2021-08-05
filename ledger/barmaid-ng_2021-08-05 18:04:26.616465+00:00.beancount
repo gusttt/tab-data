@@ -1,0 +1,8 @@
+2021-08-05 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2021-08-05 18:04:26.591778"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Liabilities:Bar:Members:Yvan   0.60 EUR   
+  Income:Bar                    -0.60 EUR   
+
