@@ -1134,3 +1134,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2021-08-05 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2021-08-05 20:37:22.399256"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
