@@ -926,3 +926,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-08-05 txn "Ljaytee deposited €75.00"
+  timestamp: "2021-08-05 15:22:09.471266"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -75.00 EUR
+  Assets:Cash:Bar                   75.00 EUR
+
