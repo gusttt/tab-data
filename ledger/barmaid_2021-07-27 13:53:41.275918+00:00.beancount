@@ -1090,3 +1090,13 @@
   Liabilities:Bar:Members:Stefaan   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2021-08-05 txn "Thomas bought 2 items for €2.70"
+  timestamp: "2021-08-05 19:19:04.535824"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG  
+  Liabilities:Bar:Members:Thomas      1 HG  
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Thomas      1 CHIP
+  Liabilities:Bar:Members:Thomas   2.70 EUR 
+  Income:Bar                      -2.70 EUR 
+
