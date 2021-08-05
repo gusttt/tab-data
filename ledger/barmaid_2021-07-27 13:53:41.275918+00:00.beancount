@@ -1126,3 +1126,11 @@
   Liabilities:Bar:Members:Miker   4.00 EUR   
   Income:Bar                     -4.00 EUR   
 
+2021-08-05 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2021-08-05 20:27:19.675915"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Stefaan      1 MARS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
