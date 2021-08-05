@@ -1258,3 +1258,9 @@
   Liabilities:Bar:Members:Bart   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2021-08-05 txn "Bloemist gave qwaxys a gift of €0.60"
+  timestamp: "2021-08-05 22:51:34.341047"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR
+  Liabilities:Bar:Members:Bart      -0.60 EUR
+
