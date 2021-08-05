@@ -1080,3 +1080,13 @@
   Liabilities:Bar:Members:Miker   2.10 EUR 
   Income:Bar                     -2.10 EUR 
 
+2021-08-05 txn "Stefaan bought 2 items for €2.10"
+  timestamp: "2021-08-05 19:18:34.623301"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA 
+  Liabilities:Bar:Members:Stefaan      1 FANTA 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   2.10 EUR   
+  Income:Bar                       -2.10 EUR   
+
