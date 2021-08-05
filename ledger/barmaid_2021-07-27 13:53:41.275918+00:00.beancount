@@ -1062,3 +1062,41 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-08-05 txn "TQ bought 1 items for €2.00"
+  timestamp: "2021-08-05 18:35:00.041153"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Thequux      1 CIDER
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
+2021-08-05 txn "Miker bought 2 items for €2.10"
+  timestamp: "2021-08-05 19:06:33.849945"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Assets:Inventory:Bar              -1 MARS
+  Liabilities:Bar:Members:Miker      1 MARS
+  Liabilities:Bar:Members:Miker   2.10 EUR 
+  Income:Bar                     -2.10 EUR 
+
+2021-08-05 txn "Stefaan bought 2 items for €2.10"
+  timestamp: "2021-08-05 19:18:34.623301"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA 
+  Liabilities:Bar:Members:Stefaan      1 FANTA 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   2.10 EUR   
+  Income:Bar                       -2.10 EUR   
+
+2021-08-05 txn "Thomas bought 2 items for €2.70"
+  timestamp: "2021-08-05 19:19:04.535824"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG  
+  Liabilities:Bar:Members:Thomas      1 HG  
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Thomas      1 CHIP
+  Liabilities:Bar:Members:Thomas   2.70 EUR 
+  Income:Bar                      -2.70 EUR 
+
