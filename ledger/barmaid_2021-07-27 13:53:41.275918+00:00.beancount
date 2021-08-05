@@ -940,3 +940,13 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-08-05 txn "Joris bought 18 items for €19.80"
+  timestamp: "2021-08-05 16:24:15.500128"
+  type: "purchase"
+  Assets:Inventory:Bar              -10 JUPILER      
+  Liabilities:Bar:Members:Joris      10 JUPILER      
+  Assets:Inventory:Bar               -8 EXPIRED_DRINK
+  Liabilities:Bar:Members:Joris       8 EXPIRED_DRINK
+  Liabilities:Bar:Members:Joris   19.80 EUR          
+  Income:Bar                     -19.80 EUR          
+
