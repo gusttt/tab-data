@@ -974,3 +974,15 @@
   Liabilities:Bar:Members:Yvan  -0.60 EUR
   Assets:Cash:Bar                0.60 EUR
 
+2021-08-05 txn "Ljaytee bought 3 items for €3.20"
+  timestamp: "2021-08-05 16:56:16.229302"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER 
+  Liabilities:Bar:Members:Ljaytee      1 CIDER 
+  Assets:Inventory:Bar                -1 MARS  
+  Liabilities:Bar:Members:Ljaytee      1 MARS  
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Ljaytee      1 KITKAT
+  Liabilities:Bar:Members:Ljaytee   3.20 EUR   
+  Income:Bar                       -3.20 EUR   
+
