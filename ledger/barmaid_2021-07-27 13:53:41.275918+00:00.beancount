@@ -1004,3 +1004,13 @@
   Liabilities:Bar:Members:Thequux   1.20 EUR     
   Income:Bar                       -1.20 EUR     
 
+2021-08-05 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2021-08-05 17:43:02.528181"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
+  Income:Bar                            -1.20 EUR   
+
