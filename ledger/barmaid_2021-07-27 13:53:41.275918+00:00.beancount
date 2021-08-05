@@ -1014,3 +1014,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
   Income:Bar                            -1.20 EUR   
 
+2021-08-05 txn "Ljaytee bought 2 items for €2.10"
+  timestamp: "2021-08-05 17:55:51.532161"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Liabilities:Bar:Members:Ljaytee   2.10 EUR  
+  Income:Bar                       -2.10 EUR  
+
