@@ -1108,3 +1108,13 @@
   Liabilities:Bar:Members:Ljaytee   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-08-05 txn "Thomas bought 2 items for €2.70"
+  timestamp: "2021-08-05 20:00:36.759741"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 KRIEK
+  Liabilities:Bar:Members:Thomas      1 KRIEK
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   2.70 EUR  
+  Income:Bar                      -2.70 EUR  
+
