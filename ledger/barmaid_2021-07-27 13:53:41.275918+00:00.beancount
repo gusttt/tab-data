@@ -1142,3 +1142,13 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-08-05 txn "Bloemist bought 2 items for €2.20"
+  timestamp: "2021-08-05 20:40:33.613231"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist      1 SCHWEPPES
+  Assets:Inventory:Bar                 -1 PICKUP   
+  Liabilities:Bar:Members:Bloemist      1 PICKUP   
+  Liabilities:Bar:Members:Bloemist   2.20 EUR      
+  Income:Bar                        -2.20 EUR      
+
