@@ -1376,3 +1376,11 @@
   Liabilities:Bar:Members:Ljaytee   3.20 EUR   
   Income:Bar                       -3.20 EUR   
 
+2021-08-06 txn "Ljaytee bought 1 items for €1.20"
+  timestamp: "2021-08-06 15:43:53.675135"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Ljaytee      1 CHIP
+  Liabilities:Bar:Members:Ljaytee   1.20 EUR 
+  Income:Bar                       -1.20 EUR 
+
