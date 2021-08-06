@@ -1280,3 +1280,9 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR          
   Income:Bar                        -0.60 EUR          
 
+2021-08-06 txn "Bloemist gave Sander a gift of €14.90"
+  timestamp: "2021-08-06 00:08:51.697338"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   14.90 EUR
+  Liabilities:Bar:Members:Sander    -14.90 EUR
+
