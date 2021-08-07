@@ -1474,3 +1474,11 @@
   Liabilities:Bar:Members:Elvis     1.51 EUR
   Liabilities:Bar:Members:Thequux  -1.51 EUR
 
+2021-08-07 txn "Bloemist bought 2 items for €1.20"
+  timestamp: "2021-08-07 20:15:23.896585"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 SNACK
+  Liabilities:Bar:Members:Bloemist      2 SNACK
+  Liabilities:Bar:Members:Bloemist   1.20 EUR  
+  Income:Bar                        -1.20 EUR  
+
