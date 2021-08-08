@@ -1554,3 +1554,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR 
   Income:Bar                            -1.50 EUR 
 
+2021-08-08 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-08-08 14:18:50.015728"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Bart      1 SCHWEPPES
+  Liabilities:Bar:Members:Bart   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
