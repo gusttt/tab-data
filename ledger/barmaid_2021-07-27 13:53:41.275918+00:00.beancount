@@ -1710,3 +1710,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2021-08-08 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-08-08 22:35:00.580826"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
