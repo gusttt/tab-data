@@ -2072,3 +2072,13 @@
   Liabilities:Bar:Members:Bloemist   1.20 EUR  
   Income:Bar                        -1.20 EUR  
 
+2021-08-10 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2021-08-10 21:39:41.424419"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
+  Income:Bar                            -2.10 EUR   
+
