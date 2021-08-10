@@ -1944,3 +1944,13 @@
   Liabilities:Bar:Members:Yvan   2.60 EUR      
   Income:Bar                    -2.60 EUR      
 
+2021-08-10 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2021-08-10 16:18:38.786471"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PIZZA    
+  Liabilities:Bar:Members:Yvan      1 PIZZA    
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan      1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan   2.60 EUR      
+  Income:Bar                    -2.60 EUR      
+
