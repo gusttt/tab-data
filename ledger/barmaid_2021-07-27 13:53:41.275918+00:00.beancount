@@ -2160,3 +2160,11 @@
   Liabilities:Bar:Members:Bertrand   3.50 EUR
   Liabilities:Bar:Members:Yvan      -3.50 EUR
 
+2021-08-11 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2021-08-11 14:02:11.587643"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan      1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan   0.60 EUR      
+  Income:Bar                    -0.60 EUR      
+
