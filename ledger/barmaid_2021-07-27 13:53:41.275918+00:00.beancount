@@ -2148,3 +2148,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-08-11 txn "qwaxys gave Yvan a gift of €3.50"
+  timestamp: "2021-08-11 10:49:03.811431"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   3.50 EUR
+  Liabilities:Bar:Members:Yvan  -3.50 EUR
+
