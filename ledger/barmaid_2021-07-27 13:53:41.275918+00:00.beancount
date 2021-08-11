@@ -2154,3 +2154,9 @@
   Liabilities:Bar:Members:Bart   3.50 EUR
   Liabilities:Bar:Members:Yvan  -3.50 EUR
 
+2021-08-11 txn "Bertrand gave Yvan a gift of €3.50"
+  timestamp: "2021-08-11 10:49:24.514905"
+  type: "transfer"
+  Liabilities:Bar:Members:Bertrand   3.50 EUR
+  Liabilities:Bar:Members:Yvan      -3.50 EUR
+
