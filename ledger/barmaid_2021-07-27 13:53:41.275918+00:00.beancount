@@ -2370,3 +2370,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR      
   Income:Bar                    -0.60 EUR      
 
+2021-08-12 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-08-12 20:01:32.812791"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
