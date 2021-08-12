@@ -2432,3 +2432,11 @@
   Liabilities:Bar:Members:Elvis     0.85 EUR
   Liabilities:Bar:Members:Thequux  -0.85 EUR
 
+2021-08-12 txn "Evils bought 1 items for €0.70"
+  timestamp: "2021-08-12 20:32:19.412851"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 PICKUP
+  Liabilities:Bar:Members:Elvis      1 PICKUP
+  Liabilities:Bar:Members:Elvis   0.70 EUR   
+  Income:Bar                     -0.70 EUR   
+
