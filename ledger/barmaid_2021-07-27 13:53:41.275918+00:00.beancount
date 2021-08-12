@@ -2456,3 +2456,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-08-12 txn "Evils bought 1 items for €1.50"
+  timestamp: "2021-08-12 22:22:13.946562"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Elvis      1 FANTA
+  Liabilities:Bar:Members:Elvis   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
