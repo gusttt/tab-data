@@ -2256,3 +2256,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-08-12 txn "Carro​armato0 gave Sander a gift of €1.00"
+  timestamp: "2021-08-12 15:54:43.860957"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   1.00 EUR
+  Liabilities:Bar:Members:Sander        -1.00 EUR
+
