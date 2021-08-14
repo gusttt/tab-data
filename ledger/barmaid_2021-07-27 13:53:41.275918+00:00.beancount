@@ -2548,3 +2548,11 @@
   Liabilities:Bar:Members:Merlijn   3.85 EUR
   Liabilities:Bar:Members:Ljaytee  -3.85 EUR
 
+2021-08-14 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2021-08-14 15:23:20.783673"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMRED
+  Liabilities:Bar:Members:Ljaytee      1 CMRED
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
