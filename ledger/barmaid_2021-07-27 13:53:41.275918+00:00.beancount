@@ -2542,3 +2542,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-08-14 txn "Merlijn gave Ljaytee a gift of €3.85"
+  timestamp: "2021-08-14 15:22:12.808239"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   3.85 EUR
+  Liabilities:Bar:Members:Ljaytee  -3.85 EUR
+
