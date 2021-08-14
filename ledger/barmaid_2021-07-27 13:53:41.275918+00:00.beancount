@@ -2526,3 +2526,11 @@
   Liabilities:Bar:Members:Ljaytee   0.70 EUR   
   Income:Bar                       -0.70 EUR   
 
+2021-08-14 txn "TQ bought 1 items for €1.20"
+  timestamp: "2021-08-14 13:50:54.223797"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Thequux      1 CHIP
+  Liabilities:Bar:Members:Thequux   1.20 EUR 
+  Income:Bar                       -1.20 EUR 
+
