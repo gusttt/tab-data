@@ -2752,3 +2752,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2021-08-17 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-08-17 14:40:23.837893"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
