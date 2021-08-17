@@ -2736,3 +2736,11 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR      
   Income:Bar                     -3.00 EUR      
 
+2021-08-17 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-08-17 09:55:33.625150"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
