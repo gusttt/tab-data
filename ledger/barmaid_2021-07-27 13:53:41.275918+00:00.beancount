@@ -2828,3 +2828,9 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-08-19 txn "Ljaytee deposited €-11.80"
+  timestamp: "2021-08-19 10:56:48.479734"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee   11.80 EUR
+  Assets:Cash:Bar                  -11.80 EUR
+
