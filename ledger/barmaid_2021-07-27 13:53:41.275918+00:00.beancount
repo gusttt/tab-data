@@ -2964,3 +2964,13 @@
   Liabilities:Bar:Members:Ruben   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-08-19 txn "Evils bought 2 items for €1.20"
+  timestamp: "2021-08-19 18:28:02.384765"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Elvis      1 BOUNTY
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
