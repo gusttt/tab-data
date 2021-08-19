@@ -2950,3 +2950,9 @@
   Liabilities:Bar:Members:Ruben   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2021-08-19 txn "Ruben deposited €20.00"
+  timestamp: "2021-08-19 17:39:40.571675"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruben  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
