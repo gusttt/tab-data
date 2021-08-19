@@ -3046,3 +3046,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2021-08-19 txn "Ruben bought 1 items for €1.50"
+  timestamp: "2021-08-19 20:19:18.274132"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Ruben      1 FANTA
+  Liabilities:Bar:Members:Ruben   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
