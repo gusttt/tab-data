@@ -3038,3 +3038,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2021-08-19 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2021-08-19 19:46:28.959649"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
+  Income:Bar                            -1.50 EUR   
+
