@@ -2942,3 +2942,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-08-19 txn "Ruben bought 1 items for €1.50"
+  timestamp: "2021-08-19 17:39:16.005093"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+  Liabilities:Bar:Members:Ruben   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
