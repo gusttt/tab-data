@@ -3144,3 +3144,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2021-08-20 txn "Evils gave lonely​celt a gift of €3.60"
+  timestamp: "2021-08-20 14:25:41.060475"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis        3.60 EUR
+  Liabilities:Bar:Members:Lonelycelt  -3.60 EUR
+
