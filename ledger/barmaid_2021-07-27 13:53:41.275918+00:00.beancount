@@ -3166,3 +3166,17 @@
   Liabilities:Bar:Members:Elvis     2.34 EUR
   Liabilities:Bar:Members:Thequux  -2.34 EUR
 
+2021-08-20 txn "TQ bought 4 items for €2.40"
+  timestamp: "2021-08-20 17:52:54.492231"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY  
+  Liabilities:Bar:Members:Thequux      1 BOUNTY  
+  Assets:Inventory:Bar                -1 MARS    
+  Liabilities:Bar:Members:Thequux      1 MARS    
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Thequux      1 SNICKERS
+  Assets:Inventory:Bar                -1 KITKAT  
+  Liabilities:Bar:Members:Thequux      1 KITKAT  
+  Liabilities:Bar:Members:Thequux   2.40 EUR     
+  Income:Bar                       -2.40 EUR     
+
