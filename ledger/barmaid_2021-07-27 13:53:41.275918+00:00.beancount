@@ -3150,3 +3150,13 @@
   Liabilities:Bar:Members:Elvis        3.60 EUR
   Liabilities:Bar:Members:Lonelycelt  -3.60 EUR
 
+2021-08-20 txn "Evils bought 2 items for €2.10"
+  timestamp: "2021-08-20 17:40:05.595636"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Elvis      1 SCHWEPPES
+  Assets:Inventory:Bar              -1 KITKAT   
+  Liabilities:Bar:Members:Elvis      1 KITKAT   
+  Liabilities:Bar:Members:Elvis   2.10 EUR      
+  Income:Bar                     -2.10 EUR      
+
