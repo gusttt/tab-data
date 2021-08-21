@@ -3222,3 +3222,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-08-21 txn "Yvan bought 1 items for €1.20"
+  timestamp: "2021-08-21 20:13:50.539706"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
