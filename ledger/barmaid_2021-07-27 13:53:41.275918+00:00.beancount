@@ -3254,3 +3254,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-08-22 txn "TQ bought 1 items for €0.60"
+  timestamp: "2021-08-22 16:15:16.921650"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Thequux      1 BOUNTY
+  Liabilities:Bar:Members:Thequux   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
