@@ -3282,3 +3282,13 @@
   Liabilities:Bar:Members:Thequux   1.90 EUR   
   Income:Bar                       -1.90 EUR   
 
+2021-08-23 txn "Ljaytee bought 2 items for €2.10"
+  timestamp: "2021-08-23 12:04:39.775297"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE  
+  Liabilities:Bar:Members:Ljaytee      1 COKE  
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Ljaytee      1 KITKAT
+  Liabilities:Bar:Members:Ljaytee   2.10 EUR   
+  Income:Bar                       -2.10 EUR   
+
