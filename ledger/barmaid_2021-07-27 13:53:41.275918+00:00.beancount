@@ -3352,3 +3352,13 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR      
   Income:Bar                     -1.50 EUR      
 
+2021-08-23 txn "Yvan bought 2 items for €2.70"
+  timestamp: "2021-08-23 18:38:33.087860"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   2.70 EUR 
+  Income:Bar                    -2.70 EUR 
+
