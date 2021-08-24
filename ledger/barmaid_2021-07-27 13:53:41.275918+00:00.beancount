@@ -3414,3 +3414,15 @@
   Liabilities:Bar:Members:Thequux   1.40 EUR   
   Income:Bar                       -1.40 EUR   
 
+2021-08-24 txn "Carro​armato0 bought 3 items for €2.80"
+  timestamp: "2021-08-24 17:59:43.013319"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FANTA 
+  Liabilities:Bar:Members:Carroarmato0      1 FANTA 
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   2.80 EUR   
+  Income:Bar                            -2.80 EUR   
+
