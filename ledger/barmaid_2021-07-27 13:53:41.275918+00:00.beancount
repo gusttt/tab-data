@@ -3380,3 +3380,15 @@
   Liabilities:Bar:Members:Yvan   2.70 EUR   
   Income:Bar                    -2.70 EUR   
 
+2021-08-24 txn "TQ bought 3 items for €3.90"
+  timestamp: "2021-08-24 10:17:50.559851"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM    
+  Liabilities:Bar:Members:Thequux      1 CM    
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Thequux      1 CHIP  
+  Assets:Inventory:Bar                -1 PICKUP
+  Liabilities:Bar:Members:Thequux      1 PICKUP
+  Liabilities:Bar:Members:Thequux   3.90 EUR   
+  Income:Bar                       -3.90 EUR   
+
