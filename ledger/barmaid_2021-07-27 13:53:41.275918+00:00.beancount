@@ -3540,3 +3540,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2021-08-25 txn "Carro​armato0 bought 2 items for €1.30"
+  timestamp: "2021-08-25 18:28:04.840008"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   1.30 EUR   
+  Income:Bar                            -1.30 EUR   
+
