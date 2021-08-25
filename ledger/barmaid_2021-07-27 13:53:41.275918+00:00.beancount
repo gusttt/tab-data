@@ -3494,3 +3494,11 @@
   Assets:Cash:Bar        1.50 EUR  
   Income:Bar            -1.50 EUR  
 
+2021-08-25 txn "Evils bought 1 items for €1.50"
+  timestamp: "2021-08-25 14:26:57.648954"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Elvis      1 SCHWEPPES
+  Liabilities:Bar:Members:Elvis   1.50 EUR      
+  Income:Bar                     -1.50 EUR      
+
