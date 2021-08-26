@@ -3686,3 +3686,11 @@
   Liabilities:Bar:Members:Ljaytee  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2021-08-26 txn "Merlijn bought 1 items for €2.50"
+  timestamp: "2021-08-26 17:47:47.037816"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MYSTERY
+  Liabilities:Bar:Members:Merlijn      1 MYSTERY
+  Liabilities:Bar:Members:Merlijn   2.50 EUR    
+  Income:Bar                       -2.50 EUR    
+
