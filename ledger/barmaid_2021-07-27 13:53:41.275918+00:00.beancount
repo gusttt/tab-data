@@ -3764,3 +3764,11 @@
   Liabilities:Bar:Members:Elvis     10.00 EUR
   Liabilities:Bar:Members:Thequux  -10.00 EUR
 
+2021-08-26 txn "Ruben bought 1 items for €2.00"
+  timestamp: "2021-08-26 19:14:57.816352"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ruben      1 CM 
+  Liabilities:Bar:Members:Ruben   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
