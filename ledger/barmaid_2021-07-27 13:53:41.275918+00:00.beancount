@@ -3750,3 +3750,11 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR    
   Income:Bar                       -2.50 EUR    
 
+2021-08-26 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2021-08-26 19:13:56.757630"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Sasja      1 BOUNTY
+  Liabilities:Bar:Members:Sasja   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
