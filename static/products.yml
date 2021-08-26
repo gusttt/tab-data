@@ -130,6 +130,11 @@
   event_price: 3.00
   currency: CIDER
   category: alcohol
+- name: Mystery_beer
+  price: 2.50
+  event_price: 3.50
+  currency: MYSTERY_BEER
+  category: alcohol
 
 # snacks
 - name: Other Snack
