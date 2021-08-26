@@ -3598,3 +3598,11 @@
   Liabilities:Bar:Members:Ljaytee  -6.60 EUR
   Assets:Cash:Bar                   6.60 EUR
 
+2021-08-26 txn "Evils bought 1 items for €1.50"
+  timestamp: "2021-08-26 16:09:55.903564"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
