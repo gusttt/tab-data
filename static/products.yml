@@ -34,6 +34,11 @@
   event_price: 0.60
   currency: EXPIRED_DRINK
   category: drink
+- name: Agrumes
+  price: 1.50
+  event_price: 2.50
+  currency: AGRUMES
+  category: drink
 
 # weird german stuff
 - name: Fritz
