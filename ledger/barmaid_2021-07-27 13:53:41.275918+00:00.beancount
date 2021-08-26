@@ -3624,3 +3624,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2021-08-26 txn "Carro​armato0 bought 1 items for €2.50"
+  timestamp: "2021-08-26 16:39:38.852840"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0      1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0   2.50 EUR    
+  Income:Bar                            -2.50 EUR    
+
