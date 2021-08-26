@@ -3868,3 +3868,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2021-08-26 txn "Ruben bought 1 items for €1.20"
+  timestamp: "2021-08-26 21:15:09.981156"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Ruben      1 CHIP
+  Liabilities:Bar:Members:Ruben   1.20 EUR 
+  Income:Bar                     -1.20 EUR 
+
