@@ -3950,3 +3950,9 @@
   Liabilities:Bar:Members:Sander   3.60 EUR
   Liabilities:Bar:Members:Elvis   -3.60 EUR
 
+2021-08-27 txn "Stefaan gave Evils a gift of €3.60"
+  timestamp: "2021-08-27 16:14:07.146588"
+  type: "transfer"
+  Liabilities:Bar:Members:Stefaan   3.60 EUR
+  Liabilities:Bar:Members:Elvis    -3.60 EUR
+
