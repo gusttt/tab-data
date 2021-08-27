@@ -3938,3 +3938,9 @@
   Liabilities:Bar:Members:Carroarmato0   3.60 EUR
   Liabilities:Bar:Members:Elvis         -3.60 EUR
 
+2021-08-27 txn "Yvan gave Evils a gift of €3.60"
+  timestamp: "2021-08-27 16:13:36.781023"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan    3.60 EUR
+  Liabilities:Bar:Members:Elvis  -3.60 EUR
+
