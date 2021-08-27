@@ -3956,3 +3956,11 @@
   Liabilities:Bar:Members:Stefaan   3.60 EUR
   Liabilities:Bar:Members:Elvis    -3.60 EUR
 
+2021-08-27 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-08-27 17:41:09.679533"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
