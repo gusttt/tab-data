@@ -4130,3 +4130,15 @@
   Liabilities:Bar:Members:Sander  -30.00 EUR
   Assets:Cash:Bar                  30.00 EUR
 
+2021-08-29 txn "Carro​armato0 bought 4 items for €2.60"
+  timestamp: "2021-08-29 18:43:36.989225"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
