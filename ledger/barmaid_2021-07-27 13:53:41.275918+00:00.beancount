@@ -4124,3 +4124,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-08-29 txn "Sander deposited €30.00"
+  timestamp: "2021-08-29 18:30:16.616905"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -30.00 EUR
+  Assets:Cash:Bar                  30.00 EUR
+
