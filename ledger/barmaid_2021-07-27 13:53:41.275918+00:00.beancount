@@ -4166,3 +4166,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-08-29 txn "Evils gave TQ a gift of €0.47"
+  timestamp: "2021-08-29 22:35:23.555929"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis     0.47 EUR
+  Liabilities:Bar:Members:Thequux  -0.47 EUR
+
