@@ -207,6 +207,14 @@
   event_price: 1.05
   currency: PICKUP
   category: food
+- name: ROM
+  price: 1.00
+  event_price: 1.50
+  currency: ROM
+  category: food
+  payback:
+    account: Liabilities:Bar:Members:Thequux
+    amount: 0.50
 
 # frozen goods
 - name: Ice Cream
