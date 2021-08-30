@@ -4237,3 +4237,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-08-30 txn "qwaxys deposited €25.00"
+  timestamp: "2021-08-30 13:43:33.598515"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -25.00 EUR
+  Assets:Cash:Bar                25.00 EUR
+
