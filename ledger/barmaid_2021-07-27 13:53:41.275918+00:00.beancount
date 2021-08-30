@@ -4220,3 +4220,12 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-08-30 txn "TQ bought 1 items for €1.00"
+  timestamp: "2021-08-30 13:24:35.494751"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Thequux      1 ROM
+  Liabilities:Bar:Members:Thequux   1.00 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -0.50 EUR
+
