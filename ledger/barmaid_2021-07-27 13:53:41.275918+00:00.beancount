@@ -4378,3 +4378,13 @@
   Liabilities:Bar:Members:Yvan  -990.35 EUR
   Assets:Cash:Bar                990.35 EUR
 
+2021-09-01 txn "Yvan bought 2 items for €2.20"
+  timestamp: "2021-09-01 10:26:44.497434"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE  
+  Liabilities:Bar:Members:Yvan      1 COKE  
+  Assets:Inventory:Bar             -1 PICKUP
+  Liabilities:Bar:Members:Yvan      1 PICKUP
+  Liabilities:Bar:Members:Yvan   2.20 EUR   
+  Income:Bar                    -2.20 EUR   
+
