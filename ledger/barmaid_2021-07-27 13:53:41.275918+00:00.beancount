@@ -4529,3 +4529,11 @@
   Liabilities:Bar:Members:Merlijn   1.20 EUR 
   Income:Bar                       -1.20 EUR 
 
+2021-09-01 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2021-09-01 19:04:35.494101"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
