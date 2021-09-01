@@ -4495,3 +4495,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
   Income:Bar                            -2.10 EUR   
 
+2021-09-01 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-09-01 18:10:48.880732"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
