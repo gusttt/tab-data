@@ -4458,3 +4458,14 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR 
   Income:Bar                            -1.20 EUR 
 
+2021-09-01 txn "Yvan bought 3 items for €2.60"
+  timestamp: "2021-09-01 16:05:20.253206"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Yvan         1 MARS
+  Assets:Inventory:Bar                -2 ROM 
+  Liabilities:Bar:Members:Yvan         2 ROM 
+  Liabilities:Bar:Members:Yvan      2.60 EUR 
+  Liabilities:Bar:Members:Thequux  -1.00 EUR 
+  Income:Bar                       -1.60 EUR 
+
