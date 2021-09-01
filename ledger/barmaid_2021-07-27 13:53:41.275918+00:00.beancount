@@ -4553,3 +4553,13 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2021-09-01 txn "Sander bought 2 items for €2.10"
+  timestamp: "2021-09-01 20:04:36.732853"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 KITKAT   
+  Liabilities:Bar:Members:Sander      1 KITKAT   
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   2.10 EUR      
+  Income:Bar                      -2.10 EUR      
+
