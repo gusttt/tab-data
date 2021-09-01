@@ -4394,3 +4394,11 @@
   Liabilities:Bar:Members:Yvan   3.45 EUR
   Liabilities:Bar:Members:Bart  -3.45 EUR
 
+2021-09-01 txn "TQ bought 1 items for €2.00"
+  timestamp: "2021-09-01 11:08:17.548743"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Thequux      1 FLORA
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
