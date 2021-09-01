@@ -4511,3 +4511,13 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-09-01 txn "Merlijn bought 2 items for €2.10"
+  timestamp: "2021-09-01 18:29:03.256959"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn      1 ICETEA_ZERO
+  Assets:Inventory:Bar                -1 TWIX       
+  Liabilities:Bar:Members:Merlijn      1 TWIX       
+  Liabilities:Bar:Members:Merlijn   2.10 EUR        
+  Income:Bar                       -2.10 EUR        
+
