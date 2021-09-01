@@ -4503,3 +4503,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-09-01 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2021-09-01 18:11:13.769716"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Yvan      1 CIDER
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
