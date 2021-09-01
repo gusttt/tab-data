@@ -4372,3 +4372,9 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2021-09-01 txn "Yvan deposited €990.35"
+  timestamp: "2021-09-01 07:56:09.466619"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -990.35 EUR
+  Assets:Cash:Bar                990.35 EUR
+
