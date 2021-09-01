@@ -4597,3 +4597,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-09-01 txn "Evils bought 1 items for €1.50"
+  timestamp: "2021-09-01 21:58:32.421086"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Elvis      1 FANTA
+  Liabilities:Bar:Members:Elvis   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
