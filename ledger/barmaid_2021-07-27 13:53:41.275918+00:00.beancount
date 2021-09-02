@@ -5171,3 +5171,11 @@
   Liabilities:Bar:Members:On8wr   1.20 EUR 
   Income:Bar                     -1.20 EUR 
 
+2021-09-02 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2021-09-02 22:42:24.031974"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:On8wr      1 FANTA
+  Liabilities:Bar:Members:On8wr   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
