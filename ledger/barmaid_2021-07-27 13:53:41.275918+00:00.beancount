@@ -4839,3 +4839,11 @@
   Liabilities:Bar:Members:Bert  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2021-09-02 txn "Merlijn bought 3 items for €4.50"
+  timestamp: "2021-09-02 18:18:53.526722"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 COKE
+  Liabilities:Bar:Members:Merlijn      3 COKE
+  Liabilities:Bar:Members:Merlijn   4.50 EUR 
+  Income:Bar                       -4.50 EUR 
+
