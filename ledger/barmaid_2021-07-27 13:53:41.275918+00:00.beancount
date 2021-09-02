@@ -4997,3 +4997,13 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2021-09-02 txn "Fearless bought 2 items for €2.10"
+  timestamp: "2021-09-02 20:08:15.150420"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Fearless      1 EXPIRED_DRINK
+  Assets:Inventory:Bar                 -1 COKE_ZERO    
+  Liabilities:Bar:Members:Fearless      1 COKE_ZERO    
+  Liabilities:Bar:Members:Fearless   2.10 EUR          
+  Income:Bar                        -2.10 EUR          
+
