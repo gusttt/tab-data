@@ -4803,3 +4803,9 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR      
   Income:Bar                       -0.60 EUR      
 
+2021-09-02 txn "Spider deposited €20.00"
+  timestamp: "2021-09-02 17:41:40.465176"
+  type: "deposit"
+  Liabilities:Bar:Members:Spider  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
