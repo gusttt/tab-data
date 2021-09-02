@@ -4713,3 +4713,11 @@
   Liabilities:Bar:Members:Gust   2.70 EUR   
   Income:Bar                    -2.70 EUR   
 
+2021-09-02 txn "Merlijn bought 1 items for €2.00"
+  timestamp: "2021-09-02 15:30:24.794233"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA
+  Liabilities:Bar:Members:Merlijn      1 FLORA
+  Liabilities:Bar:Members:Merlijn   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
