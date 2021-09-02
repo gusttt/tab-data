@@ -4729,3 +4729,13 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR      
   Income:Bar                    -0.60 EUR      
 
+2021-09-02 txn "Gust bought 2 items for €2.10"
+  timestamp: "2021-09-02 16:06:25.670083"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Gust      1 SCHWEPPES
+  Assets:Inventory:Bar             -1 TWIX     
+  Liabilities:Bar:Members:Gust      1 TWIX     
+  Liabilities:Bar:Members:Gust   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
