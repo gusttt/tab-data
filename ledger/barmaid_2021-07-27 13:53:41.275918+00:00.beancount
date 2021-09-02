@@ -4703,3 +4703,13 @@
   Liabilities:Bar:Members:Bart   4.00 EUR
   Income:Bar                    -4.00 EUR
 
+2021-09-02 txn "Gust bought 2 items for €2.70"
+  timestamp: "2021-09-02 14:55:26.815410"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Gust      1 ICETEA
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Gust      1 CHIP  
+  Liabilities:Bar:Members:Gust   2.70 EUR   
+  Income:Bar                    -2.70 EUR   
+
