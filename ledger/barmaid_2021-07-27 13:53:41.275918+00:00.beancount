@@ -4913,3 +4913,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-09-02 txn "Bert bought 2 items for €3.00"
+  timestamp: "2021-09-02 19:12:59.943194"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Bert      2 JUPILER
+  Liabilities:Bar:Members:Bert   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
