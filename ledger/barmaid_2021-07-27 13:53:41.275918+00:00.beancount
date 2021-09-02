@@ -4981,3 +4981,11 @@
   Liabilities:Bar:Members:Bert   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-09-02 txn "Bert bought 1 items for €1.20"
+  timestamp: "2021-09-02 19:59:30.823763"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Bert      1 CHIP
+  Liabilities:Bar:Members:Bert   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
