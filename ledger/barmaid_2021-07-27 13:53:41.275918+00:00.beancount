@@ -4673,3 +4673,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-09-02 txn "Els bought 1 items for €2.00"
+  timestamp: "2021-09-02 14:39:38.888840"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CIDER
+  Liabilities:Bar:Members:Els      1 CIDER
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
