@@ -5087,3 +5087,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2021-09-02 txn "Koen bought 1 items for €0.70"
+  timestamp: "2021-09-02 21:25:05.883344"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PICKUP
+  Liabilities:Bar:Members:Koen      1 PICKUP
+  Liabilities:Bar:Members:Koen   0.70 EUR   
+  Income:Bar                    -0.70 EUR   
+
