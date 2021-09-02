@@ -5205,3 +5205,15 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-09-02 txn "Bloemist bought 24 items for €42.00"
+  timestamp: "2021-09-02 23:49:02.339513"
+  type: "purchase"
+  Assets:Inventory:Bar                  -9 JUPILER
+  Liabilities:Bar:Members:Bloemist       9 JUPILER
+  Assets:Inventory:Bar                 -12 CM     
+  Liabilities:Bar:Members:Bloemist      12 CM     
+  Assets:Inventory:Bar                  -3 COKE   
+  Liabilities:Bar:Members:Bloemist       3 COKE   
+  Liabilities:Bar:Members:Bloemist   42.00 EUR    
+  Income:Bar                        -42.00 EUR    
+
