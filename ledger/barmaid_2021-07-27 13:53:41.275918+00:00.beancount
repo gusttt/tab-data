@@ -4771,3 +4771,11 @@
   Liabilities:Bar:Members:Els   1.20 EUR 
   Income:Bar                   -1.20 EUR 
 
+2021-09-02 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-09-02 16:37:52.716110"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Koen      1 COKE_ZERO
+  Liabilities:Bar:Members:Koen   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
