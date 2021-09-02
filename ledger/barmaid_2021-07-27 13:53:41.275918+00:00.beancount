@@ -4823,3 +4823,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-09-02 txn "Bert bought 2 items for €2.60"
+  timestamp: "2021-09-02 18:17:36.459378"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA  
+  Liabilities:Bar:Members:Bert      1 CMCOLA  
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bert      1 SNICKERS
+  Liabilities:Bar:Members:Bert   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
