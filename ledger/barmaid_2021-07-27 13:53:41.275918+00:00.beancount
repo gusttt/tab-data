@@ -4833,3 +4833,9 @@
   Liabilities:Bar:Members:Bert   2.60 EUR     
   Income:Bar                    -2.60 EUR     
 
+2021-09-02 txn "Bert deposited €20.00"
+  timestamp: "2021-09-02 18:18:50.073781"
+  type: "deposit"
+  Liabilities:Bar:Members:Bert  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
