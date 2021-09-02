@@ -4957,3 +4957,11 @@
   Liabilities:Bar:Members:Bloemist   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2021-09-02 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-09-02 19:48:04.802104"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Koen      1 SCHWEPPES
+  Liabilities:Bar:Members:Koen   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
