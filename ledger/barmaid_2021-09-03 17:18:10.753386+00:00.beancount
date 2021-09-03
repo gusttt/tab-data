@@ -836,3 +836,11 @@
   Liabilities:Bar:Members:Thequux   3.50 EUR    
   Income:Bar                       -3.50 EUR    
 
+2021-09-03 txn "Els bought 1 items for €3.00"
+  timestamp: "2021-09-03 20:29:47.750754"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ
+  Liabilities:Bar:Members:Els      1 FRITZ
+  Liabilities:Bar:Members:Els   3.00 EUR  
+  Income:Bar                   -3.00 EUR  
+
