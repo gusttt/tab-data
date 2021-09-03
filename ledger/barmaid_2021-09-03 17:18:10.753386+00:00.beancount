@@ -22,3 +22,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2021-09-03 txn "Ljaytee bought 2 items for €7.00"
+  timestamp: "2021-09-03 17:33:49.333370"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 MYSTERY
+  Liabilities:Bar:Members:Ljaytee      2 MYSTERY
+  Liabilities:Bar:Members:Ljaytee   7.00 EUR    
+  Income:Bar                       -7.00 EUR    
+
