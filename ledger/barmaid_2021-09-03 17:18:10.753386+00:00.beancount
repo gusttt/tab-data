@@ -210,3 +210,11 @@
   Liabilities:Bar:Members:Thequux   3.50 EUR  
   Income:Bar                       -3.50 EUR  
 
+2021-09-03 txn "On8wr bought 1 items for €3.00"
+  timestamp: "2021-09-03 18:24:22.343094"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:On8wr      1 FRITZ
+  Liabilities:Bar:Members:On8wr   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
