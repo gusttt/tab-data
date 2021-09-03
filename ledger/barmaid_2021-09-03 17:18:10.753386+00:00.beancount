@@ -30,3 +30,11 @@
   Liabilities:Bar:Members:Ljaytee   7.00 EUR    
   Income:Bar                       -7.00 EUR    
 
+2021-09-03 txn "Shmitty bought 1 items for €2.50"
+  timestamp: "2021-09-03 17:35:24.838860"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Shmitty      1 FANTA
+  Liabilities:Bar:Members:Shmitty   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
