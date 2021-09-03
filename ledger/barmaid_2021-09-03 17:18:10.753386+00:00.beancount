@@ -1168,3 +1168,13 @@
   Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
   Assets:Cash:Bar                        50.00 EUR
 
+2021-09-03 txn "--CASH-- bought 2 items for €5.50"
+  timestamp: "2021-09-03 21:56:58.384248"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CIDER  
+  Assets:Cash:Bar           1 CIDER  
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        5.50 EUR    
+  Income:Bar            -5.50 EUR    
+
