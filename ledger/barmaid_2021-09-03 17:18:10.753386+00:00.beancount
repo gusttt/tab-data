@@ -562,3 +562,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-03 txn "Erwin bought 1 items for €2.50"
+  timestamp: "2021-09-03 19:46:46.003156"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Erwin      1 JUPILER
+  Liabilities:Bar:Members:Erwin   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
