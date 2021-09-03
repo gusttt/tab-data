@@ -5408,3 +5408,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-09-03 txn "Mitch bought 1 items for €1.50"
+  timestamp: "2021-09-03 16:38:18.670627"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Mitch      1 AGRUMES
+  Liabilities:Bar:Members:Mitch   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
