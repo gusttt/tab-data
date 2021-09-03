@@ -348,3 +348,11 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2021-09-03 txn "On8wr bought 1 items for €2.50"
+  timestamp: "2021-09-03 18:59:50.831724"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:On8wr      1 AGRUMES
+  Liabilities:Bar:Members:On8wr   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
