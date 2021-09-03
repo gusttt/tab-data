@@ -1288,3 +1288,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR
   Assets:Cash:Bar                  -2.00 EUR
 
+2021-09-03 txn "Spider bought 1 items for €2.50"
+  timestamp: "2021-09-03 22:27:26.914833"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Spider      1 COKE
+  Liabilities:Bar:Members:Spider   2.50 EUR 
+  Income:Bar                      -2.50 EUR 
+
