@@ -960,3 +960,9 @@
   Liabilities:Bar:Members:Spider   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2021-09-03 txn "Jenny deposited €20.00"
+  timestamp: "2021-09-03 20:57:36.792112"
+  type: "deposit"
+  Liabilities:Bar:Members:Jenny  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
