@@ -364,3 +364,11 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2021-09-03 txn "Erwin bought 4 items for €10.00"
+  timestamp: "2021-09-03 19:01:42.800002"
+  type: "purchase"
+  Assets:Inventory:Bar               -4 JUPILER
+  Liabilities:Bar:Members:Erwin       4 JUPILER
+  Liabilities:Bar:Members:Erwin   10.00 EUR    
+  Income:Bar                     -10.00 EUR    
+
