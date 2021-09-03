@@ -630,3 +630,11 @@
   Liabilities:Bar:Members:Merlijn   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-03 txn "--CASH-- bought 4 items for €10.00"
+  timestamp: "2021-09-03 19:55:12.553859"
+  type: "purchase"
+  Assets:Inventory:Bar      -4 JUPILER
+  Assets:Cash:Bar            4 JUPILER
+  Assets:Cash:Bar        10.00 EUR    
+  Income:Bar            -10.00 EUR    
+
