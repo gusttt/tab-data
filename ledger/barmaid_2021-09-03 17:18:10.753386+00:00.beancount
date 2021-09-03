@@ -820,3 +820,11 @@
   Liabilities:Bar:Members:Spider   5.00 EUR    
   Income:Bar                      -5.00 EUR    
 
+2021-09-03 txn "Bloemist bought 1 items for €2.50"
+  timestamp: "2021-09-03 20:24:38.893704"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   2.50 EUR    
+  Income:Bar                        -2.50 EUR    
+
