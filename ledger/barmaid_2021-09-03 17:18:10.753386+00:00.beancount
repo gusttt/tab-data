@@ -1236,3 +1236,11 @@
   Assets:Cash:Bar        5.50 EUR    
   Income:Bar            -5.50 EUR    
 
+2021-09-03 txn "Merlijn bought 2 items for €2.00"
+  timestamp: "2021-09-03 22:17:07.057732"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 WATER
+  Liabilities:Bar:Members:Merlijn      2 WATER
+  Liabilities:Bar:Members:Merlijn   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
