@@ -678,3 +678,9 @@
   Liabilities:Bar:Members:Carroarmato0   3.00 EUR
   Income:Bar                            -3.00 EUR
 
+2021-09-03 txn "Renze deposited €50.00"
+  timestamp: "2021-09-03 20:00:46.822323"
+  type: "deposit"
+  Liabilities:Bar:Members:Renze  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
