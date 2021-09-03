@@ -998,3 +998,11 @@
   Liabilities:Bar:Members:Spider   2.50 EUR 
   Income:Bar                      -2.50 EUR 
 
+2021-09-03 txn "Bertrand bought 1 items for €3.00"
+  timestamp: "2021-09-03 21:03:12.263423"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Bertrand      1 CIDER
+  Liabilities:Bar:Members:Bertrand   3.00 EUR  
+  Income:Bar                        -3.00 EUR  
+
