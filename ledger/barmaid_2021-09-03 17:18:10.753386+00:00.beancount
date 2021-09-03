@@ -132,3 +132,11 @@
   Liabilities:Bar:Members:Elvis   8.50 EUR
   Liabilities:Bar:Members:Els    -8.50 EUR
 
+2021-09-03 txn "--CASH-- bought 2 items for €2.00"
+  timestamp: "2021-09-03 18:06:12.637719"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 WATER
+  Assets:Cash:Bar           2 WATER
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
