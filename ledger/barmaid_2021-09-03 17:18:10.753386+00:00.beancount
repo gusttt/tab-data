@@ -1030,3 +1030,11 @@
   Assets:Cash:Bar        7.00 EUR    
   Income:Bar            -7.00 EUR    
 
+2021-09-03 txn "Erwin bought 2 items for €5.00"
+  timestamp: "2021-09-03 21:10:39.137213"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Erwin      2 JUPILER
+  Liabilities:Bar:Members:Erwin   5.00 EUR    
+  Income:Bar                     -5.00 EUR    
+
