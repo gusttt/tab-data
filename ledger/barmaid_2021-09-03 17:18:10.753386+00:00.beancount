@@ -226,3 +226,9 @@
   Liabilities:Bar:Members:On8wr   0.90 EUR   
   Income:Bar                     -0.90 EUR   
 
+2021-09-03 txn "On8wr gave Els a gift of €10.00"
+  timestamp: "2021-09-03 18:24:39.391823"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr   10.00 EUR
+  Liabilities:Bar:Members:Els    -10.00 EUR
+
