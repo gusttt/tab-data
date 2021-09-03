@@ -646,3 +646,11 @@
   Assets:Cash:Bar        2.50 EUR    
   Income:Bar            -2.50 EUR    
 
+2021-09-03 txn "Ljaytee bought 1 items for €3.00"
+  timestamp: "2021-09-03 19:57:01.023915"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Liabilities:Bar:Members:Ljaytee   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
