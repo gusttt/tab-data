@@ -530,3 +530,11 @@
   Assets:Cash:Bar        10.00 EUR    
   Income:Bar            -10.00 EUR    
 
+2021-09-03 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2021-09-03 19:38:58.852599"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CIDER
+  Assets:Cash:Bar           1 CIDER
+  Assets:Cash:Bar        3.00 EUR  
+  Income:Bar            -3.00 EUR  
+
