@@ -1022,3 +1022,11 @@
   Assets:Cash:Bar        5.00 EUR    
   Income:Bar            -5.00 EUR    
 
+2021-09-03 txn "--CASH-- bought 2 items for €7.00"
+  timestamp: "2021-09-03 21:10:18.887661"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 MYSTERY
+  Assets:Cash:Bar           2 MYSTERY
+  Assets:Cash:Bar        7.00 EUR    
+  Income:Bar            -7.00 EUR    
+
