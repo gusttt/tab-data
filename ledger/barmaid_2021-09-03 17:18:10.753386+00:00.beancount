@@ -252,3 +252,11 @@
   Assets:Cash:Bar        3.50 EUR    
   Income:Bar            -3.50 EUR    
 
+2021-09-03 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2021-09-03 18:27:53.561750"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        2.50 EUR    
+  Income:Bar            -2.50 EUR    
+
