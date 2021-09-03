@@ -38,3 +38,9 @@
   Liabilities:Bar:Members:Shmitty   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2021-09-03 txn "Koen deposited €30.00"
+  timestamp: "2021-09-03 17:40:49.470342"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
