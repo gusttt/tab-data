@@ -496,3 +496,13 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-03 txn "qwaxys bought 2 items for €6.00"
+  timestamp: "2021-09-03 19:26:54.072357"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MYSTERY
+  Liabilities:Bar:Members:Bart      1 MYSTERY
+  Assets:Inventory:Bar             -1 COKE   
+  Liabilities:Bar:Members:Bart      1 COKE   
+  Liabilities:Bar:Members:Bart   6.00 EUR    
+  Income:Bar                    -6.00 EUR    
+
