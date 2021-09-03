@@ -1442,3 +1442,11 @@
   Liabilities:Bar:Members:Bart   3.40 EUR      
   Income:Bar                    -3.40 EUR      
 
+2021-09-03 txn "HansA bought 1 items for €6.00"
+  timestamp: "2021-09-03 23:18:10.506206"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:HansA      1 CHIMAY
+  Liabilities:Bar:Members:HansA   6.00 EUR   
+  Income:Bar                     -6.00 EUR   
+
