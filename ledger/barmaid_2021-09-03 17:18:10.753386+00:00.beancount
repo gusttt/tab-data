@@ -440,3 +440,9 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-03 txn "Fearless deposited €20.00"
+  timestamp: "2021-09-03 19:20:24.887261"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -20.00 EUR
+  Assets:Cash:Bar                    20.00 EUR
+
