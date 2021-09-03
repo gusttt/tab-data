@@ -232,3 +232,15 @@
   Liabilities:Bar:Members:On8wr   10.00 EUR
   Liabilities:Bar:Members:Els    -10.00 EUR
 
+2021-09-03 txn "--CASH-- bought 3 items for €8.50"
+  timestamp: "2021-09-03 18:24:46.819169"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL    
+  Assets:Cash:Bar           1 DUVEL    
+  Assets:Inventory:Bar     -1 COKE     
+  Assets:Cash:Bar           1 COKE     
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Cash:Bar        8.50 EUR      
+  Income:Bar            -8.50 EUR      
+
