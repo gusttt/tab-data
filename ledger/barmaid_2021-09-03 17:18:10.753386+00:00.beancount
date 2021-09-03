@@ -732,3 +732,11 @@
   Liabilities:Bar:Members:Shmitty   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-03 txn "Koen bought 2 items for €5.00"
+  timestamp: "2021-09-03 20:10:42.881831"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+  Liabilities:Bar:Members:Koen   5.00 EUR    
+  Income:Bar                    -5.00 EUR    
+
