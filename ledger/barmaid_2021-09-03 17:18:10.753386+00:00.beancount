@@ -1006,3 +1006,11 @@
   Liabilities:Bar:Members:Bertrand   3.00 EUR  
   Income:Bar                        -3.00 EUR  
 
+2021-09-03 txn "On8wr bought 1 items for €1.80"
+  timestamp: "2021-09-03 21:04:46.110957"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:On8wr      1 CHIP
+  Liabilities:Bar:Members:On8wr   1.80 EUR 
+  Income:Bar                     -1.80 EUR 
+
