@@ -78,3 +78,13 @@
   Liabilities:Bar:Members:Bertrand   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2021-09-03 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2021-09-03 17:56:01.540090"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL    
+  Assets:Cash:Bar           1 DUVEL    
+  Assets:Inventory:Bar     -1 SCHWEPPES
+  Assets:Cash:Bar           1 SCHWEPPES
+  Assets:Cash:Bar        6.00 EUR      
+  Income:Bar            -6.00 EUR      
+
