@@ -446,3 +446,13 @@
   Liabilities:Bar:Members:Fearless  -20.00 EUR
   Assets:Cash:Bar                    20.00 EUR
 
+2021-09-03 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2021-09-03 19:21:31.013230"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE 
+  Assets:Cash:Bar           1 COKE 
+  Assets:Inventory:Bar     -1 FANTA
+  Assets:Cash:Bar           1 FANTA
+  Assets:Cash:Bar        5.00 EUR  
+  Income:Bar            -5.00 EUR  
+
