@@ -1346,3 +1346,13 @@
   Liabilities:Bar:Members:Els   2.00 EUR  
   Income:Bar                   -2.00 EUR  
 
+2021-09-03 txn "--CASH-- bought 3 items for €7.50"
+  timestamp: "2021-09-03 22:42:23.234564"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 JUPILER
+  Assets:Cash:Bar           2 JUPILER
+  Assets:Inventory:Bar     -1 ICETEA 
+  Assets:Cash:Bar           1 ICETEA 
+  Assets:Cash:Bar        7.50 EUR    
+  Income:Bar            -7.50 EUR    
+
