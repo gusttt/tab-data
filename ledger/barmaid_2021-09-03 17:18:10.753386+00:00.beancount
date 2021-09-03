@@ -546,3 +546,11 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-03 txn "--CASH-- bought 1 items for €6.00"
+  timestamp: "2021-09-03 19:42:09.013276"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIMAY
+  Assets:Cash:Bar           1 CHIMAY
+  Assets:Cash:Bar        6.00 EUR   
+  Income:Bar            -6.00 EUR   
+
