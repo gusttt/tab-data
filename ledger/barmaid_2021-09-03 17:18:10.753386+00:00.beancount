@@ -756,3 +756,11 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-03 txn "Renze bought 2 items for €7.00"
+  timestamp: "2021-09-03 20:17:40.139992"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 DUVEL
+  Liabilities:Bar:Members:Renze      2 DUVEL
+  Liabilities:Bar:Members:Renze   7.00 EUR  
+  Income:Bar                     -7.00 EUR  
+
