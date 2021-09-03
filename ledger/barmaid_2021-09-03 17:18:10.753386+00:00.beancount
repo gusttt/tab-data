@@ -408,3 +408,11 @@
   Liabilities:Bar:Members:Lisa   5.50 EUR   
   Income:Bar                    -5.50 EUR   
 
+2021-09-03 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2021-09-03 19:15:22.827127"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        3.00 EUR  
+  Income:Bar            -3.00 EUR  
+
