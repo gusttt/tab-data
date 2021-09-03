@@ -942,3 +942,13 @@
   Assets:Cash:Bar        2.50 EUR    
   Income:Bar            -2.50 EUR    
 
+2021-09-03 txn "Renze bought 2 items for €5.50"
+  timestamp: "2021-09-03 20:55:15.566457"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Renze      1 FRITZ
+  Assets:Inventory:Bar              -1 COKE 
+  Liabilities:Bar:Members:Renze      1 COKE 
+  Liabilities:Bar:Members:Renze   5.50 EUR  
+  Income:Bar                     -5.50 EUR  
+
