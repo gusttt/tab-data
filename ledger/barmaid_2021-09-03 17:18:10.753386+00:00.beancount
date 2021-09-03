@@ -684,3 +684,11 @@
   Liabilities:Bar:Members:Renze  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2021-09-03 txn "Renze bought 1 items for €2.50"
+  timestamp: "2021-09-03 20:02:13.660469"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Renze      1 JUPILER
+  Liabilities:Bar:Members:Renze   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
