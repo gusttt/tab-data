@@ -5252,3 +5252,15 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2021-09-03 txn "Evils bought 6 items for €11.00"
+  timestamp: "2021-09-03 12:37:37.929980"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 FRITZ  
+  Liabilities:Bar:Members:Elvis       2 FRITZ  
+  Assets:Inventory:Bar               -2 AGRUMES
+  Liabilities:Bar:Members:Elvis       2 AGRUMES
+  Assets:Inventory:Bar               -2 FLORA  
+  Liabilities:Bar:Members:Elvis       2 FLORA  
+  Liabilities:Bar:Members:Elvis   11.00 EUR    
+  Income:Bar                     -11.00 EUR    
+
