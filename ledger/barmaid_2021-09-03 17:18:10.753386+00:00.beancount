@@ -88,3 +88,11 @@
   Assets:Cash:Bar        6.00 EUR      
   Income:Bar            -6.00 EUR      
 
+2021-09-03 txn "HansA bought 1 items for €3.00"
+  timestamp: "2021-09-03 17:59:22.731227"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:HansA      1 CMRED
+  Liabilities:Bar:Members:HansA   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
