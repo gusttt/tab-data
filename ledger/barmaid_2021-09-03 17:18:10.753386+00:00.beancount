@@ -398,3 +398,13 @@
   Liabilities:Bar:Members:Bart   3.50 EUR    
   Income:Bar                    -3.50 EUR    
 
+2021-09-03 txn "Lisa bought 2 items for €5.50"
+  timestamp: "2021-09-03 19:15:00.201031"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER 
+  Liabilities:Bar:Members:Lisa      1 CIDER 
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Lisa      1 ICETEA
+  Liabilities:Bar:Members:Lisa   5.50 EUR   
+  Income:Bar                    -5.50 EUR   
+
