@@ -1432,3 +1432,13 @@
   Liabilities:Bar:Members:Merlijn   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-03 txn "qwaxys bought 2 items for €3.40"
+  timestamp: "2021-09-03 23:17:18.093829"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:Bart      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 SNICKERS 
+  Liabilities:Bar:Members:Bart      1 SNICKERS 
+  Liabilities:Bar:Members:Bart   3.40 EUR      
+  Income:Bar                    -3.40 EUR      
+
