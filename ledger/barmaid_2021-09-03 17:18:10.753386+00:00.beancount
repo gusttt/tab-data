@@ -886,3 +886,11 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-03 txn "Ljaytee bought 1 items for €3.50"
+  timestamp: "2021-09-03 20:39:57.766308"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MYSTERY
+  Liabilities:Bar:Members:Ljaytee      1 MYSTERY
+  Liabilities:Bar:Members:Ljaytee   3.50 EUR    
+  Income:Bar                       -3.50 EUR    
+
