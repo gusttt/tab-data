@@ -1424,3 +1424,11 @@
   Assets:Cash:Bar        8.00 EUR  
   Income:Bar            -8.00 EUR  
 
+2021-09-03 txn "Merlijn bought 1 items for €3.00"
+  timestamp: "2021-09-03 23:16:42.585314"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Merlijn      1 FRITZ
+  Liabilities:Bar:Members:Merlijn   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
