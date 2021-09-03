@@ -1162,3 +1162,9 @@
   Assets:Cash:Bar        2.50 EUR    
   Income:Bar            -2.50 EUR    
 
+2021-09-03 txn "Carro​armato0 deposited €50.00"
+  timestamp: "2021-09-03 21:51:01.759052"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
+  Assets:Cash:Bar                        50.00 EUR
+
