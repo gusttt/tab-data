@@ -1328,3 +1328,13 @@
   Liabilities:Bar:Members:Shmitty   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-03 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2021-09-03 22:40:35.981858"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CIDER
+  Assets:Cash:Bar           1 CIDER
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        6.00 EUR  
+  Income:Bar            -6.00 EUR  
+
