@@ -456,3 +456,11 @@
   Assets:Cash:Bar        5.00 EUR  
   Income:Bar            -5.00 EUR  
 
+2021-09-03 txn "Fearless bought 1 items for €3.00"
+  timestamp: "2021-09-03 19:21:35.733220"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   3.00 EUR  
+  Income:Bar                        -3.00 EUR  
+
