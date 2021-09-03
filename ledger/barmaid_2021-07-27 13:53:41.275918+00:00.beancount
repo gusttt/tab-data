@@ -5424,3 +5424,11 @@
   Liabilities:Bar:Members:On8wr   1.20 EUR 
   Income:Bar                     -1.20 EUR 
 
+2021-09-03 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2021-09-03 16:47:10.964550"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
