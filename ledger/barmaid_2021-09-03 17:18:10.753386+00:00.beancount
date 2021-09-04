@@ -2386,3 +2386,13 @@
   Liabilities:Bar:Members:Jenny   5.50 EUR    
   Income:Bar                     -5.50 EUR    
 
+2021-09-04 txn "--CASH-- bought 2 items for €3.90"
+  timestamp: "2021-09-04 19:38:28.031735"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ   
+  Assets:Cash:Bar           1 FRITZ   
+  Assets:Inventory:Bar     -1 SNICKERS
+  Assets:Cash:Bar           1 SNICKERS
+  Assets:Cash:Bar        3.90 EUR     
+  Income:Bar            -3.90 EUR     
+
