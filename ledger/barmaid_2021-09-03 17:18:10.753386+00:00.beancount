@@ -2300,3 +2300,11 @@
   Liabilities:Bar:Members:Joren   3.50 EUR  
   Income:Bar                     -3.50 EUR  
 
+2021-09-04 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2021-09-04 17:35:09.332705"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        3.00 EUR
+  Income:Bar            -3.00 EUR
+
