@@ -1800,3 +1800,11 @@
   Liabilities:Bar:Members:Koen  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2021-09-04 txn "Jenny bought 1 items for €3.00"
+  timestamp: "2021-09-04 12:42:31.499889"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Jenny      1 FRITZ
+  Liabilities:Bar:Members:Jenny   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
