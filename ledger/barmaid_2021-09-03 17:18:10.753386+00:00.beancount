@@ -2368,3 +2368,11 @@
   Liabilities:Bar:Members:Carroarmato0   4.80 EUR   
   Income:Bar                            -4.80 EUR   
 
+2021-09-04 txn "Joren bought 1 items for €2.50"
+  timestamp: "2021-09-04 18:44:57.787787"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 HG 
+  Liabilities:Bar:Members:Joren      1 HG 
+  Liabilities:Bar:Members:Joren   2.50 EUR
+  Income:Bar                     -2.50 EUR
+
