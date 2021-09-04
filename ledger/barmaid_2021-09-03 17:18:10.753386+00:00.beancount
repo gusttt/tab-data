@@ -2292,3 +2292,11 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2021-09-04 txn "Joren bought 1 items for €3.50"
+  timestamp: "2021-09-04 17:33:25.764177"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joren      1 DUVEL
+  Liabilities:Bar:Members:Joren   3.50 EUR  
+  Income:Bar                     -3.50 EUR  
+
