@@ -2100,3 +2100,9 @@
   Assets:Cash:Bar        1.80 EUR 
   Income:Bar            -1.80 EUR 
 
+2021-09-04 txn "Els gave Bloemist a gift of €10.90"
+  timestamp: "2021-09-04 15:45:01.455150"
+  type: "transfer"
+  Liabilities:Bar:Members:Els        10.90 EUR
+  Liabilities:Bar:Members:Bloemist  -10.90 EUR
+
