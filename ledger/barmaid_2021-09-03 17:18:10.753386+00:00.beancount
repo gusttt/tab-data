@@ -2068,3 +2068,11 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2021-09-04 txn "Carro​armato0 bought 2 items for €6.00"
+  timestamp: "2021-09-04 15:27:26.048024"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 FRITZ
+  Liabilities:Bar:Members:Carroarmato0      2 FRITZ
+  Liabilities:Bar:Members:Carroarmato0   6.00 EUR  
+  Income:Bar                            -6.00 EUR  
+
