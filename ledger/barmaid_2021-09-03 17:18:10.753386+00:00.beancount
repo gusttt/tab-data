@@ -1496,3 +1496,11 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-04 txn "TQ bought 2 items for €4.00"
+  timestamp: "2021-09-04 00:08:09.505664"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 FOOD_CUP
+  Liabilities:Bar:Members:Thequux      2 FOOD_CUP
+  Liabilities:Bar:Members:Thequux   4.00 EUR     
+  Income:Bar                       -4.00 EUR     
+
