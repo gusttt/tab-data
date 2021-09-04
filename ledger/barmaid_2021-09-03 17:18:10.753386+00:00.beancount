@@ -1504,3 +1504,11 @@
   Liabilities:Bar:Members:Thequux   4.00 EUR     
   Income:Bar                       -4.00 EUR     
 
+2021-09-04 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2021-09-04 00:08:16.755851"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Bart      1 FOOD_CUP
+  Liabilities:Bar:Members:Bart   2.00 EUR     
+  Income:Bar                    -2.00 EUR     
+
