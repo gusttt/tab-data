@@ -2036,3 +2036,11 @@
   Liabilities:Bar:Members:Shmitty   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-04 txn "Merlijn bought 1 items for €20.00"
+  timestamp: "2021-09-04 15:13:06.803787"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 TSHIRT
+  Liabilities:Bar:Members:Merlijn       1 TSHIRT
+  Liabilities:Bar:Members:Merlijn   20.00 EUR   
+  Income:Bar                       -20.00 EUR   
+
