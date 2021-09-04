@@ -1624,3 +1624,11 @@
   Liabilities:Bar:Members:Carroarmato0   20.00 EUR
   Assets:Cash:Bar                       -20.00 EUR
 
+2021-09-04 txn "Jenny bought 1 items for €3.00"
+  timestamp: "2021-09-04 11:00:15.564054"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Jenny      1 FRITZ
+  Liabilities:Bar:Members:Jenny   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
