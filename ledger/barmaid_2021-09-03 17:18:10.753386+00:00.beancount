@@ -2060,3 +2060,11 @@
   Liabilities:Bar:Members:Gust   1.80 EUR 
   Income:Bar                    -1.80 EUR 
 
+2021-09-04 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2021-09-04 15:17:40.116549"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD_CUP
+  Liabilities:Bar:Members:Sasja      1 FOOD_CUP
+  Liabilities:Bar:Members:Sasja   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
