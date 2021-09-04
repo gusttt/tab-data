@@ -2540,3 +2540,11 @@
   Assets:Cash:Bar        3.40 EUR     
   Income:Bar            -3.40 EUR     
 
+2021-09-04 txn "Bloemist bought 1 items for €2.50"
+  timestamp: "2021-09-04 21:59:58.775998"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Bloemist      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Bloemist   2.50 EUR        
+  Income:Bar                        -2.50 EUR        
+
