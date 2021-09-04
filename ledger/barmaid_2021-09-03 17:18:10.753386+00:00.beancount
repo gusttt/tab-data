@@ -2622,3 +2622,13 @@
   Liabilities:Bar:Members:Bertrand   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2021-09-04 txn "On8wr bought 2 items for €3.40"
+  timestamp: "2021-09-04 22:49:35.324802"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:On8wr      1 ICETEA
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:On8wr      1 BOUNTY
+  Liabilities:Bar:Members:On8wr   3.40 EUR   
+  Income:Bar                     -3.40 EUR   
+
