@@ -2230,3 +2230,9 @@
   Liabilities:Bar:Members:Joren  -3.90 EUR
   Assets:Cash:Bar                 3.90 EUR
 
+2021-09-04 txn "Joren deposited €20.00"
+  timestamp: "2021-09-04 17:03:10.703698"
+  type: "deposit"
+  Liabilities:Bar:Members:Joren  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
