@@ -1742,3 +1742,11 @@
   Assets:Cash:Bar        6.00 EUR  
   Income:Bar            -6.00 EUR  
 
+2021-09-04 txn "Carro​armato0 bought 1 items for €3.00"
+  timestamp: "2021-09-04 12:18:32.331077"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0   3.00 EUR   
+  Income:Bar                            -3.00 EUR   
+
