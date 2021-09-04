@@ -2160,3 +2160,11 @@
   Liabilities:Bar:Members:HansA   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2021-09-04 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2021-09-04 16:17:38.709688"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 MARS
+  Assets:Cash:Bar           1 MARS
+  Assets:Cash:Bar        0.90 EUR 
+  Income:Bar            -0.90 EUR 
+
