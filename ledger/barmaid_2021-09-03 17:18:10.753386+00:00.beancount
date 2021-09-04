@@ -2260,3 +2260,11 @@
   Assets:Cash:Bar        6.00 EUR
   Income:Bar            -6.00 EUR
 
+2021-09-04 txn "Els bought 1 items for €2.50"
+  timestamp: "2021-09-04 17:21:46.571528"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FANTA
+  Liabilities:Bar:Members:Els      1 FANTA
+  Liabilities:Bar:Members:Els   2.50 EUR  
+  Income:Bar                   -2.50 EUR  
+
