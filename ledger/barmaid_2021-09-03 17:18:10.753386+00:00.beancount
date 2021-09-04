@@ -2492,3 +2492,11 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2021-09-04 txn "On8wr bought 1 items for €3.00"
+  timestamp: "2021-09-04 20:58:23.144217"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CIDER
+  Liabilities:Bar:Members:On8wr      1 CIDER
+  Liabilities:Bar:Members:On8wr   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
