@@ -1898,3 +1898,11 @@
   Liabilities:Bar:Members:HansA   6.00 EUR
   Income:Bar                     -6.00 EUR
 
+2021-09-04 txn "Ljaytee bought 1 items for €3.00"
+  timestamp: "2021-09-04 13:38:04.019262"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Liabilities:Bar:Members:Ljaytee   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
