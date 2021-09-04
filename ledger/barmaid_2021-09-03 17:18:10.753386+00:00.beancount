@@ -1568,3 +1568,15 @@
   Liabilities:Bar:Members:HansA   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2021-09-04 txn "Carro​armato0 bought 3 items for €4.45"
+  timestamp: "2021-09-04 09:21:00.511962"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   4.45 EUR   
+  Income:Bar                            -4.45 EUR   
+
