@@ -2356,3 +2356,15 @@
   Liabilities:Bar:Members:Erwin   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "Carro​armato0 bought 3 items for €4.80"
+  timestamp: "2021-09-04 18:44:05.823507"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Assets:Inventory:Bar                     -1 CMRED 
+  Liabilities:Bar:Members:Carroarmato0      1 CMRED 
+  Liabilities:Bar:Members:Carroarmato0   4.80 EUR   
+  Income:Bar                            -4.80 EUR   
+
