@@ -2324,3 +2324,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-04 txn "Shmitty bought 1 items for €2.50"
+  timestamp: "2021-09-04 17:50:31.499064"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Shmitty      1 JUPILER
+  Liabilities:Bar:Members:Shmitty   2.50 EUR    
+  Income:Bar                       -2.50 EUR    
+
