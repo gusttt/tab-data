@@ -2530,3 +2530,13 @@
   Liabilities:Bar:Members:Koen   2.50 EUR    
   Income:Bar                    -2.50 EUR    
 
+2021-09-04 txn "--CASH-- bought 2 items for €3.40"
+  timestamp: "2021-09-04 21:49:31.510608"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 AGRUMES 
+  Assets:Cash:Bar           1 AGRUMES 
+  Assets:Inventory:Bar     -1 SNICKERS
+  Assets:Cash:Bar           1 SNICKERS
+  Assets:Cash:Bar        3.40 EUR     
+  Income:Bar            -3.40 EUR     
+
