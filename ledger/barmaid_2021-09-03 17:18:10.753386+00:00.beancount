@@ -2284,3 +2284,11 @@
   Liabilities:Bar:Members:Thequux   6.00 EUR  
   Income:Bar                       -6.00 EUR  
 
+2021-09-04 txn "Fearless bought 1 items for €2.50"
+  timestamp: "2021-09-04 17:32:11.858126"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE
+  Liabilities:Bar:Members:Fearless      1 COKE
+  Liabilities:Bar:Members:Fearless   2.50 EUR 
+  Income:Bar                        -2.50 EUR 
+
