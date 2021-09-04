@@ -1890,3 +1890,11 @@
   Liabilities:Bar:Members:Sasja   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "HansA bought 2 items for €6.00"
+  timestamp: "2021-09-04 13:31:44.053522"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM 
+  Liabilities:Bar:Members:HansA      2 CM 
+  Liabilities:Bar:Members:HansA   6.00 EUR
+  Income:Bar                     -6.00 EUR
+
