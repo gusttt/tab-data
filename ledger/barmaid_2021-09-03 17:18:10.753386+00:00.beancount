@@ -1946,3 +1946,11 @@
   Liabilities:Bar:Members:Stefaan   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-09-04 txn "Fearless bought 1 items for €1.80"
+  timestamp: "2021-09-04 13:59:51.502371"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Fearless      1 CHIP
+  Liabilities:Bar:Members:Fearless   1.80 EUR 
+  Income:Bar                        -1.80 EUR 
+
