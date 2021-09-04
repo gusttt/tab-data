@@ -2418,3 +2418,13 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2021-09-04 txn "--CASH-- bought 4 items for €29.00"
+  timestamp: "2021-09-04 19:51:38.495571"
+  type: "purchase"
+  Assets:Inventory:Bar      -1 TSHIRT
+  Assets:Cash:Bar            1 TSHIRT
+  Assets:Inventory:Bar      -3 CM    
+  Assets:Cash:Bar            3 CM    
+  Assets:Cash:Bar        29.00 EUR   
+  Income:Bar            -29.00 EUR   
+
