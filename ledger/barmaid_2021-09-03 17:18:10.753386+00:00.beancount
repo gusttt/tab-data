@@ -1750,3 +1750,11 @@
   Liabilities:Bar:Members:Carroarmato0   3.00 EUR   
   Income:Bar                            -3.00 EUR   
 
+2021-09-04 txn "Shmitty bought 1 items for €3.00"
+  timestamp: "2021-09-04 12:23:12.116310"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Shmitty      1 FRITZ
+  Liabilities:Bar:Members:Shmitty   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
