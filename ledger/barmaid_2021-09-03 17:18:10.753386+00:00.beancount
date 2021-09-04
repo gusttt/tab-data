@@ -2184,3 +2184,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR     
   Income:Bar                            -2.00 EUR     
 
+2021-09-04 txn "Renze bought 1 items for €3.00"
+  timestamp: "2021-09-04 16:43:46.083228"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Renze      1 CM 
+  Liabilities:Bar:Members:Renze   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
