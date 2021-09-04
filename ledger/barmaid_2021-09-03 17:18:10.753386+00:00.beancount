@@ -2396,3 +2396,9 @@
   Assets:Cash:Bar        3.90 EUR     
   Income:Bar            -3.90 EUR     
 
+2021-09-04 txn "Jenny deposited €20.00"
+  timestamp: "2021-09-04 19:39:32.105177"
+  type: "deposit"
+  Liabilities:Bar:Members:Jenny  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
