@@ -1610,3 +1610,11 @@
   Liabilities:Bar:Members:Mitch   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2021-09-04 txn "Els bought 1 items for €3.00"
+  timestamp: "2021-09-04 10:28:37.727502"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Els      1 CM 
+  Liabilities:Bar:Members:Els   3.00 EUR
+  Income:Bar                   -3.00 EUR
+
