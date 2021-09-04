@@ -1970,3 +1970,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.00 EUR  
   Income:Bar                            -1.00 EUR  
 
+2021-09-04 txn "Stefaan bought 2 items for €3.40"
+  timestamp: "2021-09-04 14:07:46.748242"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE  
+  Liabilities:Bar:Members:Stefaan      1 COKE  
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   3.40 EUR   
+  Income:Bar                       -3.40 EUR   
+
