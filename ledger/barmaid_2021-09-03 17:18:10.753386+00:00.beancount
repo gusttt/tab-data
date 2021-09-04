@@ -1602,3 +1602,11 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2021-09-04 txn "Mitch bought 1 items for €2.50"
+  timestamp: "2021-09-04 10:12:01.775866"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Mitch      1 AGRUMES
+  Liabilities:Bar:Members:Mitch   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
