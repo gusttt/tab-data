@@ -2004,3 +2004,11 @@
   Liabilities:Bar:Members:On8wr   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-04 txn "On8wr bought 1 items for €0.90"
+  timestamp: "2021-09-04 14:20:24.269412"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:On8wr      1 BOUNTY
+  Liabilities:Bar:Members:On8wr   0.90 EUR   
+  Income:Bar                     -0.90 EUR   
+
