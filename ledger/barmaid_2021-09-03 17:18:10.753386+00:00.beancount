@@ -1832,3 +1832,11 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "Merlijn bought 1 items for €2.50"
+  timestamp: "2021-09-04 12:57:27.047762"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Merlijn   2.50 EUR        
+  Income:Bar                       -2.50 EUR        
+
