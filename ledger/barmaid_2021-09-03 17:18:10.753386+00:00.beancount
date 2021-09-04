@@ -1656,3 +1656,11 @@
   Liabilities:Bar:Members:Bloemist   0.90 EUR 
   Income:Bar                        -0.90 EUR 
 
+2021-09-04 txn "HansA bought 1 items for €2.00"
+  timestamp: "2021-09-04 11:23:22.518819"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD_CUP
+  Liabilities:Bar:Members:HansA      1 FOOD_CUP
+  Liabilities:Bar:Members:HansA   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
