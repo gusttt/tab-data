@@ -245,12 +245,12 @@
   category: swag
 - name: T-Shirt
   price: 20.00
-  event_price: 30.00
+  event_price: 20.00
   currency: TSHIRT
   category: swag
 - name: Hoodie
   price: 35.00
-  event_price: 53.00
+  event_price: 35.00
   currency: HOODIE
   category: swag
 - name: Passport
