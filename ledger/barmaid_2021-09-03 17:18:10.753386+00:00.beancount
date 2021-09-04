@@ -1712,3 +1712,15 @@
   Liabilities:Bar:Members:Bart  -3.40 EUR
   Assets:Cash:Bar                3.40 EUR
 
+2021-09-04 txn "HansA bought 3 items for €12.00"
+  timestamp: "2021-09-04 12:00:18.051049"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ 
+  Liabilities:Bar:Members:HansA       1 FRITZ 
+  Assets:Inventory:Bar               -1 CHIMAY
+  Liabilities:Bar:Members:HansA       1 CHIMAY
+  Assets:Inventory:Bar               -1 CM    
+  Liabilities:Bar:Members:HansA       1 CM    
+  Liabilities:Bar:Members:HansA   12.00 EUR   
+  Income:Bar                     -12.00 EUR   
+
