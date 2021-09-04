@@ -2130,3 +2130,9 @@
   Assets:Cash:Bar        3.90 EUR 
   Income:Bar            -3.90 EUR 
 
+2021-09-04 txn "HansA deposited €30.00"
+  timestamp: "2021-09-04 16:09:41.142288"
+  type: "deposit"
+  Liabilities:Bar:Members:HansA  -30.00 EUR
+  Assets:Cash:Bar                 30.00 EUR
+
