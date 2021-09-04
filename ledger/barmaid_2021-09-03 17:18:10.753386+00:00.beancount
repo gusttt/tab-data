@@ -1734,3 +1734,11 @@
   Liabilities:Bar:Members:Lisa   5.50 EUR   
   Income:Bar                    -5.50 EUR   
 
+2021-09-04 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2021-09-04 12:13:23.727753"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 CMRED
+  Assets:Cash:Bar           2 CMRED
+  Assets:Cash:Bar        6.00 EUR  
+  Income:Bar            -6.00 EUR  
+
