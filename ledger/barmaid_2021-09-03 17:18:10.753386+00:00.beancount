@@ -1580,3 +1580,9 @@
   Liabilities:Bar:Members:Carroarmato0   4.45 EUR   
   Income:Bar                            -4.45 EUR   
 
+2021-09-04 txn "Erwin deposited €10.00"
+  timestamp: "2021-09-04 10:02:53.455310"
+  type: "deposit"
+  Liabilities:Bar:Members:Erwin  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
