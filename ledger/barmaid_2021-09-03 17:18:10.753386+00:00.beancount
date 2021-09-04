@@ -2614,3 +2614,11 @@
   Liabilities:Bar:Members:Merlijn   4.90 EUR   
   Income:Bar                       -4.90 EUR   
 
+2021-09-04 txn "Bertrand bought 1 items for €2.50"
+  timestamp: "2021-09-04 22:36:05.575207"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE
+  Liabilities:Bar:Members:Bertrand      1 COKE
+  Liabilities:Bar:Members:Bertrand   2.50 EUR 
+  Income:Bar                        -2.50 EUR 
+
