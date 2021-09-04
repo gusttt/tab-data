@@ -2602,3 +2602,15 @@
   Liabilities:Bar:Members:Els   0.90 EUR   
   Income:Bar                   -0.90 EUR   
 
+2021-09-04 txn "Merlijn bought 3 items for €4.90"
+  timestamp: "2021-09-04 22:23:00.621814"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Merlijn      1 BOUNTY
+  Assets:Inventory:Bar                -1 WATER 
+  Liabilities:Bar:Members:Merlijn      1 WATER 
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Merlijn      1 FRITZ 
+  Liabilities:Bar:Members:Merlijn   4.90 EUR   
+  Income:Bar                       -4.90 EUR   
+
