@@ -1594,3 +1594,11 @@
   Liabilities:Bar:Members:Erwin   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2021-09-04 10:10:56.907902"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        3.00 EUR
+  Income:Bar            -3.00 EUR
+
