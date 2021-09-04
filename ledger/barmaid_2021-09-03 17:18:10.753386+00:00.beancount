@@ -2500,3 +2500,9 @@
   Liabilities:Bar:Members:On8wr   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "Koen deposited €-10.00"
+  timestamp: "2021-09-04 21:22:21.930463"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen   10.00 EUR
+  Assets:Cash:Bar               -10.00 EUR
+
