@@ -2020,3 +2020,11 @@
   Liabilities:Bar:Members:Renze   2.50 EUR 
   Income:Bar                     -2.50 EUR 
 
+2021-09-04 txn "Merlijn bought 1 items for €3.00"
+  timestamp: "2021-09-04 15:09:27.498855"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Merlijn      1 FRITZ
+  Liabilities:Bar:Members:Merlijn   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
