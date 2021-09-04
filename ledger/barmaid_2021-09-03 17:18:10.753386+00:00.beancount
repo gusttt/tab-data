@@ -2082,3 +2082,13 @@
   Liabilities:Bar:Members:Shmitty    9.50 EUR
   Liabilities:Bar:Members:Bloemist  -9.50 EUR
 
+2021-09-04 txn "Ljaytee bought 3 items for €5.90"
+  timestamp: "2021-09-04 15:38:25.855546"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 KRIEK
+  Liabilities:Bar:Members:Ljaytee      2 KRIEK
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Liabilities:Bar:Members:Ljaytee   5.90 EUR  
+  Income:Bar                       -5.90 EUR  
+
