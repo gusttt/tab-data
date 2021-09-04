@@ -2214,3 +2214,13 @@
   Liabilities:Bar:Members:Jenny   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-04 txn "Joren bought 2 items for €3.90"
+  timestamp: "2021-09-04 17:02:25.986781"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ   
+  Liabilities:Bar:Members:Joren      1 FRITZ   
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Joren      1 SNICKERS
+  Liabilities:Bar:Members:Joren   3.90 EUR     
+  Income:Bar                     -3.90 EUR     
+
