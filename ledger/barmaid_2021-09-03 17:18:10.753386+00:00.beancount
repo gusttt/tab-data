@@ -2649,3 +2649,12 @@
   Liabilities:Bar:Members:Sander   0.90 EUR   
   Income:Bar                      -0.90 EUR   
 
+2021-09-04 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-09-04 22:50:18.967783"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Sasja        1 ROM
+  Liabilities:Bar:Members:Sasja     1.50 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -1.00 EUR
+
