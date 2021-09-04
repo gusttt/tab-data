@@ -2667,3 +2667,11 @@
   Liabilities:Bar:Members:Thequux   -0.50 EUR
   Income:Bar                        -1.00 EUR
 
+2021-09-04 txn "Joren bought 1 items for €2.50"
+  timestamp: "2021-09-04 22:50:37.593199"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Joren      1 JUPILER
+  Liabilities:Bar:Members:Joren   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
