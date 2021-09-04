@@ -1988,3 +1988,11 @@
   Assets:Cash:Bar        3.00 EUR  
   Income:Bar            -3.00 EUR  
 
+2021-09-04 txn "Bertrand bought 1 items for €3.00"
+  timestamp: "2021-09-04 14:19:02.189234"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Bertrand      1 CM 
+  Liabilities:Bar:Members:Bertrand   3.00 EUR
+  Income:Bar                        -3.00 EUR
+
