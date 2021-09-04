@@ -1586,3 +1586,11 @@
   Liabilities:Bar:Members:Erwin  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2021-09-04 txn "Erwin bought 1 items for €3.00"
+  timestamp: "2021-09-04 10:04:14.036236"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Erwin      1 FRITZ
+  Liabilities:Bar:Members:Erwin   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
