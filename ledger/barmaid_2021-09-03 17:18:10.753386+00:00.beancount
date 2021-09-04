@@ -2076,3 +2076,9 @@
   Liabilities:Bar:Members:Carroarmato0   6.00 EUR  
   Income:Bar                            -6.00 EUR  
 
+2021-09-04 txn "Shmitty gave Bloemist a gift of €9.50"
+  timestamp: "2021-09-04 15:37:06.223861"
+  type: "transfer"
+  Liabilities:Bar:Members:Shmitty    9.50 EUR
+  Liabilities:Bar:Members:Bloemist  -9.50 EUR
+
