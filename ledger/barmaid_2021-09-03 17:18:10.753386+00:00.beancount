@@ -2206,3 +2206,11 @@
   Liabilities:Bar:Members:Erwin   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2021-09-04 txn "Jenny bought 1 items for €3.00"
+  timestamp: "2021-09-04 16:57:44.611879"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Jenny      1 FRITZ
+  Liabilities:Bar:Members:Jenny   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
