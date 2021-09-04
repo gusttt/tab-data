@@ -2707,3 +2707,11 @@
   Liabilities:Bar:Members:Merlijn   1.80 EUR 
   Income:Bar                       -1.80 EUR 
 
+2021-09-04 txn "Bloemist bought 1 items for €1.80"
+  timestamp: "2021-09-04 23:41:21.995187"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Bloemist      1 CHIP
+  Liabilities:Bar:Members:Bloemist   1.80 EUR 
+  Income:Bar                        -1.80 EUR 
+
