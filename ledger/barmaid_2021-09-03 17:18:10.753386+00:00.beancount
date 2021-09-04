@@ -1914,3 +1914,11 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR      
   Income:Bar                     -2.50 EUR      
 
+2021-09-04 txn "Stefaan bought 1 items for €0.90"
+  timestamp: "2021-09-04 13:57:04.167156"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.90 EUR   
+  Income:Bar                       -0.90 EUR   
+
