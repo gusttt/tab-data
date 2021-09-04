@@ -2675,3 +2675,11 @@
   Liabilities:Bar:Members:Joren   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2021-09-04 txn "Fearless bought 2 items for €3.60"
+  timestamp: "2021-09-04 22:52:39.914167"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CHIP
+  Liabilities:Bar:Members:Fearless      2 CHIP
+  Liabilities:Bar:Members:Fearless   3.60 EUR 
+  Income:Bar                        -3.60 EUR 
+
