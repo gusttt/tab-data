@@ -2224,3 +2224,9 @@
   Liabilities:Bar:Members:Joren   3.90 EUR     
   Income:Bar                     -3.90 EUR     
 
+2021-09-04 txn "Joren deposited €3.90"
+  timestamp: "2021-09-04 17:02:41.783802"
+  type: "deposit"
+  Liabilities:Bar:Members:Joren  -3.90 EUR
+  Assets:Cash:Bar                 3.90 EUR
+
