@@ -2570,3 +2570,11 @@
   Assets:Cash:Bar        2.50 EUR    
   Income:Bar            -2.50 EUR    
 
+2021-09-04 txn "--CASH-- bought 1 items for €3.50"
+  timestamp: "2021-09-04 22:09:48.494159"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL
+  Assets:Cash:Bar           1 DUVEL
+  Assets:Cash:Bar        3.50 EUR  
+  Income:Bar            -3.50 EUR  
+
