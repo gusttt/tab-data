@@ -2192,3 +2192,9 @@
   Liabilities:Bar:Members:Renze   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-04 txn "Bloemist deposited €-30.00"
+  timestamp: "2021-09-04 16:52:01.763918"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist   30.00 EUR
+  Assets:Cash:Bar                   -30.00 EUR
+
