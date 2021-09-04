@@ -2402,3 +2402,11 @@
   Liabilities:Bar:Members:Jenny  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2021-09-04 txn "Sasja bought 1 items for €2.50"
+  timestamp: "2021-09-04 19:44:53.445595"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   2.50 EUR    
+  Income:Bar                     -2.50 EUR    
+
