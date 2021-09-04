@@ -1938,3 +1938,11 @@
   Liabilities:Bar:Members:Sasja   1.80 EUR 
   Income:Bar                     -1.80 EUR 
 
+2021-09-04 txn "Stefaan bought 1 items for €3.00"
+  timestamp: "2021-09-04 13:58:22.887787"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Stefaan      1 FRITZ
+  Liabilities:Bar:Members:Stefaan   3.00 EUR  
+  Income:Bar                       -3.00 EUR  
+
