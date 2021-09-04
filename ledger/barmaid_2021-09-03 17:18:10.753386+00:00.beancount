@@ -2376,3 +2376,13 @@
   Liabilities:Bar:Members:Joren   2.50 EUR
   Income:Bar                     -2.50 EUR
 
+2021-09-04 txn "Jenny bought 2 items for €5.50"
+  timestamp: "2021-09-04 19:37:50.511710"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Jenny      1 JUPILER
+  Assets:Inventory:Bar              -1 FRITZ  
+  Liabilities:Bar:Members:Jenny      1 FRITZ  
+  Liabilities:Bar:Members:Jenny   5.50 EUR    
+  Income:Bar                     -5.50 EUR    
+
