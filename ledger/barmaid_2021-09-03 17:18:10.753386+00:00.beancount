@@ -2012,3 +2012,11 @@
   Liabilities:Bar:Members:On8wr   0.90 EUR   
   Income:Bar                     -0.90 EUR   
 
+2021-09-04 txn "Renze bought 1 items for €2.50"
+  timestamp: "2021-09-04 14:52:06.461521"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Renze      1 COKE
+  Liabilities:Bar:Members:Renze   2.50 EUR 
+  Income:Bar                     -2.50 EUR 
+
