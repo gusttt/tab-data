@@ -2106,3 +2106,9 @@
   Liabilities:Bar:Members:Els        10.90 EUR
   Liabilities:Bar:Members:Bloemist  -10.90 EUR
 
+2021-09-04 txn "Merlijn gave Bloemist a gift of €13.40"
+  timestamp: "2021-09-04 15:45:25.039739"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn    13.40 EUR
+  Liabilities:Bar:Members:Bloemist  -13.40 EUR
+
