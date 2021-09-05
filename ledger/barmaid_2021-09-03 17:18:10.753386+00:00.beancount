@@ -2827,3 +2827,11 @@
   Liabilities:Bar:Members:Jenny   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-05 txn "Mitch bought 1 items for €2.50"
+  timestamp: "2021-09-05 11:59:35.230122"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Mitch      1 SCHWEPPES
+  Liabilities:Bar:Members:Mitch   2.50 EUR      
+  Income:Bar                     -2.50 EUR      
+
