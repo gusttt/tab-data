@@ -12,3 +12,9 @@
   Liabilities:Bar:Members:Sasja   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2021-09-05 txn "Evils gave TQ a gift of €5.00"
+  timestamp: "2021-09-05 17:41:12.503508"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis     5.00 EUR
+  Liabilities:Bar:Members:Thequux  -5.00 EUR
+
