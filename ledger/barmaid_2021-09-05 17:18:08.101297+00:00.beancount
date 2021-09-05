@@ -48,3 +48,11 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR    
   Income:Bar                       -2.50 EUR    
 
+2021-09-05 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2021-09-05 17:59:48.587774"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
