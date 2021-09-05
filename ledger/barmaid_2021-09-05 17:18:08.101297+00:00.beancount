@@ -126,3 +126,9 @@
   Liabilities:Bar:Members:Sander     14.40 EUR
   Liabilities:Bar:Members:Bloemist  -14.40 EUR
 
+2021-09-05 txn "Ljaytee gave Bloemist a gift of €10.70"
+  timestamp: "2021-09-05 20:02:01.051824"
+  type: "transfer"
+  Liabilities:Bar:Members:Ljaytee    10.70 EUR
+  Liabilities:Bar:Members:Bloemist  -10.70 EUR
+
