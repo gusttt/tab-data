@@ -3110,3 +3110,11 @@
   Liabilities:Bar:Members:Renze   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-05 txn "qwaxys bought 2 items for €6.00"
+  timestamp: "2021-09-05 14:39:44.506636"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 FRITZ
+  Liabilities:Bar:Members:Bart      2 FRITZ
+  Liabilities:Bar:Members:Bart   6.00 EUR  
+  Income:Bar                    -6.00 EUR  
+
