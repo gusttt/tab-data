@@ -152,3 +152,9 @@
   Liabilities:Bar:Members:Sander   2.00 EUR   
   Income:Bar                      -2.00 EUR   
 
+2021-09-05 txn "Jenny deposited €10.00"
+  timestamp: "2021-09-05 20:44:40.900824"
+  type: "deposit"
+  Liabilities:Bar:Members:Jenny  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
