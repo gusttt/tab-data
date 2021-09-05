@@ -2883,3 +2883,14 @@
   Liabilities:Bar:Members:Bloemist   0.90 EUR 
   Income:Bar                        -0.90 EUR 
 
+2021-09-05 txn "Jenny bought 2 items for €4.50"
+  timestamp: "2021-09-05 12:33:05.518411"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Jenny        1 FRITZ
+  Assets:Inventory:Bar                -1 ROM  
+  Liabilities:Bar:Members:Jenny        1 ROM  
+  Liabilities:Bar:Members:Jenny     4.50 EUR  
+  Liabilities:Bar:Members:Thequux  -0.50 EUR  
+  Income:Bar                       -4.00 EUR  
+
