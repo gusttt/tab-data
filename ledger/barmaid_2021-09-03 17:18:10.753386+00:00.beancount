@@ -2944,3 +2944,11 @@
   Liabilities:Bar:Members:Jenny   1.80 EUR 
   Income:Bar                     -1.80 EUR 
 
+2021-09-05 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2021-09-05 12:48:59.231724"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0      1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR     
+  Income:Bar                            -2.00 EUR     
+
