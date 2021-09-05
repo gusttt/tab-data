@@ -2763,3 +2763,11 @@
   Liabilities:Bar:Members:Erwin  -6.50 EUR
   Assets:Cash:Bar                 6.50 EUR
 
+2021-09-05 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2021-09-05 10:03:03.887897"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE
+  Assets:Cash:Bar           1 COKE
+  Assets:Cash:Bar        2.50 EUR 
+  Income:Bar            -2.50 EUR 
+
