@@ -2982,3 +2982,11 @@
   Assets:Cash:Bar        0.90 EUR  
   Income:Bar            -0.90 EUR  
 
+2021-09-05 txn "Els bought 1 items for €1.80"
+  timestamp: "2021-09-05 13:34:06.671807"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   1.80 EUR 
+  Income:Bar                   -1.80 EUR 
+
