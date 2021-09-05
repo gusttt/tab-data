@@ -3102,3 +3102,11 @@
   Liabilities:Bar:Members:Ljaytee   3.40 EUR  
   Income:Bar                       -3.40 EUR  
 
+2021-09-05 txn "Renze bought 1 items for €3.00"
+  timestamp: "2021-09-05 14:30:29.867745"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Renze      1 CM 
+  Liabilities:Bar:Members:Renze   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
