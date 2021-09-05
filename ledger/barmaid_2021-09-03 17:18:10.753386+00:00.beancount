@@ -3118,3 +3118,11 @@
   Liabilities:Bar:Members:Bart   6.00 EUR  
   Income:Bar                    -6.00 EUR  
 
+2021-09-05 txn "On8wr bought 1 items for €3.00"
+  timestamp: "2021-09-05 15:01:48.349086"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ_ZERO
+  Liabilities:Bar:Members:On8wr      1 FRITZ_ZERO
+  Liabilities:Bar:Members:On8wr   3.00 EUR       
+  Income:Bar                     -3.00 EUR       
+
