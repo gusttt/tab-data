@@ -3240,3 +3240,9 @@
   Liabilities:Bar:Members:Jenny     10.00 EUR
   Liabilities:Bar:Members:Thequux  -10.00 EUR
 
+2021-09-05 txn "Fearless gave Evils a gift of €1.00"
+  timestamp: "2021-09-05 16:27:02.353724"
+  type: "transfer"
+  Liabilities:Bar:Members:Fearless   1.00 EUR
+  Liabilities:Bar:Members:Elvis     -1.00 EUR
+
