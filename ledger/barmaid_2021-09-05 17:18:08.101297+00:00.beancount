@@ -4,3 +4,11 @@
   Liabilities:Bar:Members:Ljaytee  -55.00 EUR
   Assets:Cash:Bar                   55.00 EUR
 
+2021-09-05 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-09-05 17:39:26.659561"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Liabilities:Bar:Members:Sasja   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
