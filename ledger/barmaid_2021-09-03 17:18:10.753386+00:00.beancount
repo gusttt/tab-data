@@ -3076,3 +3076,11 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR    
   Income:Bar                       -2.50 EUR    
 
+2021-09-05 txn "Stefaan bought 1 items for €0.90"
+  timestamp: "2021-09-05 14:12:10.063776"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.90 EUR   
+  Income:Bar                       -0.90 EUR   
+
