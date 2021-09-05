@@ -3320,3 +3320,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR     
   Income:Bar                   -2.00 EUR     
 
+2021-09-05 txn "Sasja bought 1 items for €35.00"
+  timestamp: "2021-09-05 17:05:42.792207"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HOODIE
+  Liabilities:Bar:Members:Sasja       1 HOODIE
+  Liabilities:Bar:Members:Sasja   35.00 EUR   
+  Income:Bar                     -35.00 EUR   
+
