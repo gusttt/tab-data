@@ -1,0 +1,6 @@
+2021-09-05 txn "Ljaytee deposited €55.00"
+  timestamp: "2021-09-05 17:18:08.085874"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -55.00 EUR
+  Assets:Cash:Bar                   55.00 EUR
+
