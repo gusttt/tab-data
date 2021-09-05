@@ -210,3 +210,9 @@
   Liabilities:Bar:Members:Elvis  -1.00 EUR
   Assets:Cash:Bar                 1.00 EUR
 
+2021-09-05 txn "Evils deposited €1.00"
+  timestamp: "2021-09-05 21:26:06.642607"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -1.00 EUR
+  Assets:Cash:Bar                 1.00 EUR
+
