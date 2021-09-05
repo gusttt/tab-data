@@ -3246,3 +3246,9 @@
   Liabilities:Bar:Members:Fearless   1.00 EUR
   Liabilities:Bar:Members:Elvis     -1.00 EUR
 
+2021-09-05 txn "Fearless deposited €-4.00"
+  timestamp: "2021-09-05 16:27:18.583735"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless   4.00 EUR
+  Assets:Cash:Bar                   -4.00 EUR
+
