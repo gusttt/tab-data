@@ -3306,3 +3306,9 @@
   Liabilities:Bar:Members:Sasja  -60.00 EUR
   Assets:Cash:Bar                 60.00 EUR
 
+2021-09-05 txn "Sasja deposited €-20.00"
+  timestamp: "2021-09-05 16:51:24.325758"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja   20.00 EUR
+  Assets:Cash:Bar                -20.00 EUR
+
