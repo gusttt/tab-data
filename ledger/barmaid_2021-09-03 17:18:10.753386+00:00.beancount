@@ -3004,3 +3004,13 @@
   Liabilities:Bar:Members:Renze   5.40 EUR 
   Income:Bar                     -5.40 EUR 
 
+2021-09-05 txn "Els bought 2 items for €4.30"
+  timestamp: "2021-09-05 13:44:49.509900"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   4.30 EUR 
+  Income:Bar                   -4.30 EUR 
+
