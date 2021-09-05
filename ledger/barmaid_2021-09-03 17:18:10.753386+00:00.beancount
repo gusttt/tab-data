@@ -3198,3 +3198,11 @@
   Liabilities:Bar:Members:HansA   2.50 EUR        
   Income:Bar                     -2.50 EUR        
 
+2021-09-05 txn "On8wr bought 1 items for €0.90"
+  timestamp: "2021-09-05 15:57:13.916158"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:On8wr      1 BOUNTY
+  Liabilities:Bar:Members:On8wr   0.90 EUR   
+  Income:Bar                     -0.90 EUR   
+
