@@ -230,3 +230,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR   
   Income:Bar                      -1.50 EUR   
 
+2021-09-05 txn "TQ gave Sander a gift of €6.00"
+  timestamp: "2021-09-05 22:05:01.369788"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   6.00 EUR
+  Liabilities:Bar:Members:Sander   -6.00 EUR
+
