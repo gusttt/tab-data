@@ -2996,3 +2996,11 @@
   Liabilities:Bar:Members:Els  -100.00 EUR
   Assets:Cash:Bar               100.00 EUR
 
+2021-09-05 txn "Renze bought 3 items for €5.40"
+  timestamp: "2021-09-05 13:41:12.488465"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 CHIP
+  Liabilities:Bar:Members:Renze      3 CHIP
+  Liabilities:Bar:Members:Renze   5.40 EUR 
+  Income:Bar                     -5.40 EUR 
+
