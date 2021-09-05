@@ -56,3 +56,9 @@
   Liabilities:Bar:Members:Ljaytee   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-09-05 txn "Carro​armato0 deposited €2.50"
+  timestamp: "2021-09-05 18:00:42.914858"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -2.50 EUR
+  Assets:Cash:Bar                        2.50 EUR
+
