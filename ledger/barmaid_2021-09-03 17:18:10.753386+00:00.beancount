@@ -3228,3 +3228,9 @@
   Liabilities:Bar:Members:Renze     10.00 EUR
   Liabilities:Bar:Members:Thequux  -10.00 EUR
 
+2021-09-05 txn "Jenny deposited €15.00"
+  timestamp: "2021-09-05 16:25:44.234981"
+  type: "deposit"
+  Liabilities:Bar:Members:Jenny  -15.00 EUR
+  Assets:Cash:Bar                 15.00 EUR
+
