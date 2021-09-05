@@ -3190,3 +3190,11 @@
   Liabilities:Bar:Members:HansA   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2021-09-05 txn "HansA bought 1 items for €2.50"
+  timestamp: "2021-09-05 15:46:43.181454"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA_ZERO
+  Liabilities:Bar:Members:HansA      1 ICETEA_ZERO
+  Liabilities:Bar:Members:HansA   2.50 EUR        
+  Income:Bar                     -2.50 EUR        
+
