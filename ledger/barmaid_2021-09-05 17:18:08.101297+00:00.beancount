@@ -258,3 +258,11 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2021-09-05 txn "On8wr bought 1 items for €0.60"
+  timestamp: "2021-09-05 23:23:34.054480"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:On8wr      1 KITKAT
+  Liabilities:Bar:Members:On8wr   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
