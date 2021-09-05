@@ -2749,3 +2749,11 @@
   Liabilities:Bar:Members:Mitch   2.50 EUR    
   Income:Bar                     -2.50 EUR    
 
+2021-09-05 txn "Erwin bought 1 items for €3.00"
+  timestamp: "2021-09-05 09:30:25.842131"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Erwin      1 CMRED
+  Liabilities:Bar:Members:Erwin   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
