@@ -114,3 +114,9 @@
   Liabilities:Bar:Members:Elvis      7.10 EUR
   Liabilities:Bar:Members:Bloemist  -7.10 EUR
 
+2021-09-05 txn "Carro​armato0 gave Bloemist a gift of €11.30"
+  timestamp: "2021-09-05 20:01:20.858574"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   11.30 EUR
+  Liabilities:Bar:Members:Bloemist      -11.30 EUR
+
