@@ -3068,3 +3068,11 @@
   Liabilities:Bar:Members:Sasja   25.50 EUR      
   Income:Bar                     -25.50 EUR      
 
+2021-09-05 txn "TQ bought 1 items for €2.50"
+  timestamp: "2021-09-05 14:09:25.714629"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Thequux      1 JUPILER
+  Liabilities:Bar:Members:Thequux   2.50 EUR    
+  Income:Bar                       -2.50 EUR    
+
