@@ -3268,3 +3268,13 @@
   Liabilities:Bar:Members:Elvis  -1.00 EUR
   Assets:Cash:Bar                 1.00 EUR
 
+2021-09-05 txn "Ljaytee bought 2 items for €4.50"
+  timestamp: "2021-09-05 16:31:45.784195"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK   
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK   
+  Assets:Inventory:Bar                -1 FOOD_CUP
+  Liabilities:Bar:Members:Ljaytee      1 FOOD_CUP
+  Liabilities:Bar:Members:Ljaytee   4.50 EUR     
+  Income:Bar                       -4.50 EUR     
+
