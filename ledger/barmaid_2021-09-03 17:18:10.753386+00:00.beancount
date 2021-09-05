@@ -3158,3 +3158,11 @@
   Liabilities:Bar:Members:Renze   3.50 EUR  
   Income:Bar                     -3.50 EUR  
 
+2021-09-05 txn "Jenny bought 1 items for €3.50"
+  timestamp: "2021-09-05 15:03:39.755805"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Jenny      1 DUVEL
+  Liabilities:Bar:Members:Jenny   3.50 EUR  
+  Income:Bar                     -3.50 EUR  
+
