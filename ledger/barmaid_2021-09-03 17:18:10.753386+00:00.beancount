@@ -2974,3 +2974,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.90 EUR 
   Income:Bar                            -0.90 EUR 
 
+2021-09-05 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2021-09-05 13:11:38.951863"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SNACK
+  Assets:Cash:Bar           1 SNACK
+  Assets:Cash:Bar        0.90 EUR  
+  Income:Bar            -0.90 EUR  
+
