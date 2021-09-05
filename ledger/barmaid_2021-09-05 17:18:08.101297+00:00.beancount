@@ -78,3 +78,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-09-05 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2021-09-05 18:44:46.709212"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
