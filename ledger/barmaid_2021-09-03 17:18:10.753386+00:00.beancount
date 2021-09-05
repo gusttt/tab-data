@@ -2835,3 +2835,11 @@
   Liabilities:Bar:Members:Mitch   2.50 EUR      
   Income:Bar                     -2.50 EUR      
 
+2021-09-05 txn "Renze bought 1 items for €3.00"
+  timestamp: "2021-09-05 12:11:50.892005"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Renze      1 FRITZ
+  Liabilities:Bar:Members:Renze   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
