@@ -3234,3 +3234,9 @@
   Liabilities:Bar:Members:Jenny  -15.00 EUR
   Assets:Cash:Bar                 15.00 EUR
 
+2021-09-05 txn "Jenny gave TQ a gift of €10.00"
+  timestamp: "2021-09-05 16:26:36.918869"
+  type: "transfer"
+  Liabilities:Bar:Members:Jenny     10.00 EUR
+  Liabilities:Bar:Members:Thequux  -10.00 EUR
+
