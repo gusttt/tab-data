@@ -3126,3 +3126,11 @@
   Liabilities:Bar:Members:On8wr   3.00 EUR       
   Income:Bar                     -3.00 EUR       
 
+2021-09-05 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2021-09-05 15:02:35.963770"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        3.00 EUR  
+  Income:Bar            -3.00 EUR  
+
