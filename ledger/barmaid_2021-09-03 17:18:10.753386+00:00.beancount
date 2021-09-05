@@ -2757,3 +2757,9 @@
   Liabilities:Bar:Members:Erwin   3.00 EUR  
   Income:Bar                     -3.00 EUR  
 
+2021-09-05 txn "Erwin deposited €6.50"
+  timestamp: "2021-09-05 09:31:32.555744"
+  type: "deposit"
+  Liabilities:Bar:Members:Erwin  -6.50 EUR
+  Assets:Cash:Bar                 6.50 EUR
+
