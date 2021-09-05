@@ -132,3 +132,9 @@
   Liabilities:Bar:Members:Ljaytee    10.70 EUR
   Liabilities:Bar:Members:Bloemist  -10.70 EUR
 
+2021-09-05 txn "Sasja gave Bloemist a gift of €9.90"
+  timestamp: "2021-09-05 20:02:13.944926"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja      9.90 EUR
+  Liabilities:Bar:Members:Bloemist  -9.90 EUR
+
