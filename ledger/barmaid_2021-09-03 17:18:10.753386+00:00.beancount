@@ -3252,3 +3252,13 @@
   Liabilities:Bar:Members:Fearless   4.00 EUR
   Assets:Cash:Bar                   -4.00 EUR
 
+2021-09-05 txn "HansA bought 2 items for €6.00"
+  timestamp: "2021-09-05 16:27:48.501729"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CIDER
+  Liabilities:Bar:Members:HansA      1 CIDER
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:HansA      1 CMRED
+  Liabilities:Bar:Members:HansA   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
