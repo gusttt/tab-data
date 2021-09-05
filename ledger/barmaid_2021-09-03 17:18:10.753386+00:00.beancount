@@ -2819,3 +2819,11 @@
   Liabilities:Bar:Members:Renze   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2021-09-05 txn "Jenny bought 1 items for €3.00"
+  timestamp: "2021-09-05 11:13:08.675885"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Jenny      1 CM 
+  Liabilities:Bar:Members:Jenny   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
