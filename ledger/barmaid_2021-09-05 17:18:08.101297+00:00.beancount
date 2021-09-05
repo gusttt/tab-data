@@ -192,3 +192,15 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-09-05 txn "Jenny bought 3 items for €6.00"
+  timestamp: "2021-09-05 21:19:32.031533"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Jenny      1 CM   
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Jenny      1 CMRED
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:Jenny      1 FLORA
+  Liabilities:Bar:Members:Jenny   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
