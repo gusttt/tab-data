@@ -3040,3 +3040,11 @@
   Liabilities:Bar:Members:Stefaan   0.90 EUR   
   Income:Bar                       -0.90 EUR   
 
+2021-09-05 txn "Jenny bought 1 items for €3.00"
+  timestamp: "2021-09-05 14:00:37.064896"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Jenny      1 FRITZ
+  Liabilities:Bar:Members:Jenny   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
