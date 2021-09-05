@@ -3092,3 +3092,13 @@
   Liabilities:Bar:Members:Els   2.50 EUR      
   Income:Bar                   -2.50 EUR      
 
+2021-09-05 txn "Ljaytee bought 2 items for €3.40"
+  timestamp: "2021-09-05 14:18:47.506359"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Liabilities:Bar:Members:Ljaytee   3.40 EUR  
+  Income:Bar                       -3.40 EUR  
+
