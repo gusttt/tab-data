@@ -1,0 +1,12 @@
+2021-09-06 txn "Carro​armato0 bought 3 items for €2.80"
+  timestamp: "2021-09-06 15:58:18.585762"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FANTA 
+  Liabilities:Bar:Members:Carroarmato0      1 FANTA 
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      1 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   2.80 EUR   
+  Income:Bar                            -2.80 EUR   
+
