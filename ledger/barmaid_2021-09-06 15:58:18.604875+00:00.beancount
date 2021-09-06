@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Carroarmato0   9.50 EUR
   Liabilities:Bar:Members:On8wr         -9.50 EUR
 
+2021-09-06 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2021-09-06 17:31:29.944747"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:On8wr      1 COKE
+  Liabilities:Bar:Members:On8wr   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
