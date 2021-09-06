@@ -344,3 +344,11 @@
   Liabilities:Bar:Members:On8wr   1.20 EUR     
   Income:Bar                     -1.20 EUR     
 
+2021-09-06 txn "TQ bought 4 items for €8.00"
+  timestamp: "2021-09-06 09:28:10.732031"
+  type: "purchase"
+  Assets:Inventory:Bar                -4 FRITZ
+  Liabilities:Bar:Members:Thequux      4 FRITZ
+  Liabilities:Bar:Members:Thequux   8.00 EUR  
+  Income:Bar                       -8.00 EUR  
+
