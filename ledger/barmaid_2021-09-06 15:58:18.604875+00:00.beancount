@@ -110,3 +110,9 @@
   Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
   Assets:Cash:Bar                        50.00 EUR
 
+2021-09-06 txn "Mitch deposited €11.50"
+  timestamp: "2021-09-06 19:05:30.959957"
+  type: "deposit"
+  Liabilities:Bar:Members:Mitch  -11.50 EUR
+  Assets:Cash:Bar                 11.50 EUR
+
