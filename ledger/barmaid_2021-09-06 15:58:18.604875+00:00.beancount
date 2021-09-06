@@ -116,3 +116,13 @@
   Liabilities:Bar:Members:Mitch  -11.50 EUR
   Assets:Cash:Bar                 11.50 EUR
 
+2021-09-06 txn "Carro​armato0 bought 2 items for €4.50"
+  timestamp: "2021-09-06 19:56:02.521146"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0      1 MYSTERY
+  Assets:Inventory:Bar                     -1 CIDER  
+  Liabilities:Bar:Members:Carroarmato0      1 CIDER  
+  Liabilities:Bar:Members:Carroarmato0   4.50 EUR    
+  Income:Bar                            -4.50 EUR    
+
