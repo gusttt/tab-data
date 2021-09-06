@@ -352,3 +352,11 @@
   Liabilities:Bar:Members:Thequux   8.00 EUR  
   Income:Bar                       -8.00 EUR  
 
+2021-09-06 txn "On8wr bought 1 items for €2.00"
+  timestamp: "2021-09-06 09:53:43.299281"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA
+  Liabilities:Bar:Members:On8wr      1 FLORA
+  Liabilities:Bar:Members:On8wr   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
