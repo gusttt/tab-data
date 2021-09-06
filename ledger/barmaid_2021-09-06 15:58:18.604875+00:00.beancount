@@ -10,3 +10,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.80 EUR   
   Income:Bar                            -2.80 EUR   
 
+2021-09-06 txn "Fearless bought 1 items for €0.60"
+  timestamp: "2021-09-06 16:07:41.647103"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 MARS
+  Liabilities:Bar:Members:Fearless      1 MARS
+  Liabilities:Bar:Members:Fearless   0.60 EUR 
+  Income:Bar                        -0.60 EUR 
+
