@@ -24,3 +24,9 @@
   Liabilities:Bar:Members:Fearless   5.00 EUR
   Liabilities:Bar:Members:Yvan      -5.00 EUR
 
+2021-09-06 txn "Fearless deposited €20.00"
+  timestamp: "2021-09-06 16:08:26.244097"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -20.00 EUR
+  Assets:Cash:Bar                    20.00 EUR
+
