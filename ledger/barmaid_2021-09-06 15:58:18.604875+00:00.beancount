@@ -126,3 +126,11 @@
   Liabilities:Bar:Members:Carroarmato0   4.50 EUR    
   Income:Bar                            -4.50 EUR    
 
+2021-09-06 txn "Evils bought 1 items for €2.00"
+  timestamp: "2021-09-06 19:58:27.031870"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
