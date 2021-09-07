@@ -188,3 +188,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-09-07 txn "Gust bought 1 items for €1.50"
+  timestamp: "2021-09-07 11:58:50.625127"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Gust      1 SCHWEPPES
+  Liabilities:Bar:Members:Gust   1.50 EUR      
+  Income:Bar                    -1.50 EUR      
+
