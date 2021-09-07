@@ -166,3 +166,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-09-07 txn "On8wr deposited €40.00"
+  timestamp: "2021-09-07 08:56:59.185186"
+  type: "deposit"
+  Liabilities:Bar:Members:On8wr  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
