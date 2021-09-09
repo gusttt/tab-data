@@ -418,3 +418,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-09-09 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-09-09 18:07:42.113444"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Bloemist      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Bloemist   1.50 EUR        
+  Income:Bar                        -1.50 EUR        
+
