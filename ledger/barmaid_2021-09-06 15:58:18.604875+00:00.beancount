@@ -492,3 +492,12 @@
   Liabilities:Bar:Members:Sasja  -60.00 EUR
   Assets:Cash:Bar                 60.00 EUR
 
+2021-09-09 txn "Evils bought 1 items for €1.00"
+  timestamp: "2021-09-09 20:07:27.961670"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Elvis        1 ROM
+  Liabilities:Bar:Members:Elvis     1.00 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -0.50 EUR
+
