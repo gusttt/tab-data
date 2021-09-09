@@ -452,3 +452,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.95 EUR  
   Income:Bar                            -1.95 EUR  
 
+2021-09-09 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-09-09 19:10:05.605477"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Sasja      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Sasja   1.50 EUR        
+  Income:Bar                     -1.50 EUR        
+
