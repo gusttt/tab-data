@@ -703,3 +703,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-09-14 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2021-09-14 14:36:15.061622"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
+  Income:Bar                            -2.00 EUR  
+
