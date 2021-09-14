@@ -761,3 +761,9 @@
   Liabilities:Bar:Members:Carroarmato0   7.50 EUR
   Liabilities:Bar:Members:Sander        -7.50 EUR
 
+2021-09-14 txn "Yvan gave Sander a gift of €11.00"
+  timestamp: "2021-09-14 19:18:18.262664"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan     11.00 EUR
+  Liabilities:Bar:Members:Sander  -11.00 EUR
+
