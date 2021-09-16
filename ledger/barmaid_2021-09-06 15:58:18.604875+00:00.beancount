@@ -907,3 +907,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR     
   Income:Bar                     -2.00 EUR     
 
+2021-09-16 txn "Shmitty deposited €50.00"
+  timestamp: "2021-09-16 19:16:56.468996"
+  type: "deposit"
+  Liabilities:Bar:Members:Shmitty  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
