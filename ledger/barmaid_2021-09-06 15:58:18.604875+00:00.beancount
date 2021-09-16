@@ -959,3 +959,9 @@
   Liabilities:Bar:Members:Shmitty   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-09-16 txn "Thomas deposited €5.00"
+  timestamp: "2021-09-16 19:43:59.373401"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -5.00 EUR
+  Assets:Cash:Bar                  5.00 EUR
+
