@@ -913,3 +913,9 @@
   Liabilities:Bar:Members:Shmitty  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2021-09-16 txn "Shmitty gave Bloemist a gift of €30.00"
+  timestamp: "2021-09-16 19:17:17.517380"
+  type: "transfer"
+  Liabilities:Bar:Members:Shmitty    30.00 EUR
+  Liabilities:Bar:Members:Bloemist  -30.00 EUR
+
