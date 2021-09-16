@@ -919,3 +919,11 @@
   Liabilities:Bar:Members:Shmitty    30.00 EUR
   Liabilities:Bar:Members:Bloemist  -30.00 EUR
 
+2021-09-16 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-09-16 19:17:40.600593"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
