@@ -1023,3 +1023,13 @@
   Liabilities:Bar:Members:Thomas   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2021-09-16 txn "Carro​armato0 bought 3 items for €3.40"
+  timestamp: "2021-09-16 20:21:28.700773"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ 
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ 
+  Assets:Inventory:Bar                     -2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0      2 PICKUP
+  Liabilities:Bar:Members:Carroarmato0   3.40 EUR   
+  Income:Bar                            -3.40 EUR   
+
