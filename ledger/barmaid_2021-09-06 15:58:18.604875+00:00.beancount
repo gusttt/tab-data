@@ -1179,3 +1179,12 @@
   Liabilities:Bar:Members:Elvis   6.00 EUR     
   Income:Bar                     -6.00 EUR     
 
+2021-09-21 txn "Evils bought 3 items for €3.00"
+  timestamp: "2021-09-21 11:32:46.361566"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 ROM
+  Liabilities:Bar:Members:Elvis        3 ROM
+  Liabilities:Bar:Members:Elvis     3.00 EUR
+  Liabilities:Bar:Members:Thequux  -1.50 EUR
+  Income:Bar                       -1.50 EUR
+
