@@ -1304,3 +1304,9 @@
   Liabilities:Bar:Members:Yvan   1.20 EUR 
   Income:Bar                    -1.20 EUR 
 
+2021-09-23 txn "Bloemist deposited €12.00"
+  timestamp: "2021-09-23 13:27:42.302756"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -12.00 EUR
+  Assets:Cash:Bar                    12.00 EUR
+
