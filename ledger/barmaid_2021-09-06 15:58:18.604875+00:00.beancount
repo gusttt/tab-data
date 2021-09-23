@@ -1310,3 +1310,9 @@
   Liabilities:Bar:Members:Bloemist  -12.00 EUR
   Assets:Cash:Bar                    12.00 EUR
 
+2021-09-23 txn "Bloemist gave Evils a gift of €0.60"
+  timestamp: "2021-09-23 13:28:00.998427"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   0.60 EUR
+  Liabilities:Bar:Members:Elvis     -0.60 EUR
+
