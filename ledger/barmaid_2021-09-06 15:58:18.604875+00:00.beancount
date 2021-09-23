@@ -1567,3 +1567,13 @@
   Liabilities:Bar:Members:Merlijn   2.70 EUR   
   Income:Bar                       -2.70 EUR   
 
+2021-09-23 txn "Bloemist bought 3 items for €3.20"
+  timestamp: "2021-09-23 22:28:47.640403"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 SNACK
+  Liabilities:Bar:Members:Bloemist      2 SNACK
+  Assets:Inventory:Bar                 -1 CM   
+  Liabilities:Bar:Members:Bloemist      1 CM   
+  Liabilities:Bar:Members:Bloemist   3.20 EUR  
+  Income:Bar                        -3.20 EUR  
+
