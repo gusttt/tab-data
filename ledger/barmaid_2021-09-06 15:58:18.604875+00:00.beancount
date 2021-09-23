@@ -1517,3 +1517,11 @@
   Liabilities:Bar:Members:Ljaytee   2.60 EUR  
   Income:Bar                       -2.60 EUR  
 
+2021-09-23 txn "Evils bought 1 items for €2.00"
+  timestamp: "2021-09-23 19:50:56.806770"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 VITAMALZ
+  Liabilities:Bar:Members:Elvis      1 VITAMALZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR     
+  Income:Bar                     -2.00 EUR     
+
