@@ -1670,3 +1670,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2021-09-26 txn "Sander bought 1 items for €0.60"
+  timestamp: "2021-09-26 19:04:38.678745"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICE_CREAM
+  Liabilities:Bar:Members:Sander      1 ICE_CREAM
+  Liabilities:Bar:Members:Sander   0.60 EUR      
+  Income:Bar                      -0.60 EUR      
+
