@@ -1828,3 +1828,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-09-30 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2021-09-30 19:12:58.135102"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ljaytee      1 FANTA
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
