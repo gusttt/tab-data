@@ -1806,3 +1806,9 @@
   Liabilities:Bar:Members:Thequux  -0.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2021-09-30 txn "Yvan gave Sander a gift of €10.90"
+  timestamp: "2021-09-30 19:01:07.619169"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan     10.90 EUR
+  Liabilities:Bar:Members:Sander  -10.90 EUR
+
