@@ -1777,3 +1777,13 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-09-30 txn "Ljaytee bought 2 items for €3.50"
+  timestamp: "2021-09-30 17:15:26.004520"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMRED
+  Liabilities:Bar:Members:Ljaytee      1 CMRED
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ljaytee      1 FANTA
+  Liabilities:Bar:Members:Ljaytee   3.50 EUR  
+  Income:Bar                       -3.50 EUR  
+
