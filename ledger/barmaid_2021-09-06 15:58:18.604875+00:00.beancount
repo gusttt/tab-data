@@ -1866,3 +1866,12 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-09-30 txn "Evils bought 1 items for €1.00"
+  timestamp: "2021-09-30 19:54:02.525744"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Elvis        1 ROM
+  Liabilities:Bar:Members:Elvis     1.00 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -0.50 EUR
+
