@@ -1915,3 +1915,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2021-09-30 txn "Shmitty bought 1 items for €1.50"
+  timestamp: "2021-09-30 21:06:40.362254"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Shmitty      1 JUPILER
+  Liabilities:Bar:Members:Shmitty   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
