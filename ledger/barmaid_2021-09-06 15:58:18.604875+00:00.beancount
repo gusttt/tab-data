@@ -1795,3 +1795,14 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-09-30 txn "Merlijn bought 2 items for €3.00"
+  timestamp: "2021-09-30 18:00:55.439390"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM  
+  Liabilities:Bar:Members:Merlijn      1 ROM  
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Merlijn      1 CIDER
+  Liabilities:Bar:Members:Merlijn   3.00 EUR  
+  Liabilities:Bar:Members:Thequux  -0.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
