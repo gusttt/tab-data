@@ -1971,3 +1971,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-10-03 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-10-03 19:33:11.529870"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
