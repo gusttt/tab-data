@@ -2141,3 +2141,11 @@
   Liabilities:Bar:Members:Thomas  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2021-10-07 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2021-10-07 18:37:23.499222"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
