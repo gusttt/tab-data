@@ -2249,3 +2249,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   1.50 EUR      
   Income:Bar                                -1.50 EUR      
 
+2021-10-07 txn "B0Hr bought 1 items for €1.50"
+  timestamp: "2021-10-07 20:27:05.142894"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 HG 
+  Liabilities:Bar:Members:B0Hr      1 HG 
+  Liabilities:Bar:Members:B0Hr   1.50 EUR
+  Income:Bar                    -1.50 EUR
+
