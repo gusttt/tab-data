@@ -2109,3 +2109,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR  
   Income:Bar                                -2.00 EUR  
 
+2021-10-07 txn "B0Hr bought 1 items for €2.00"
+  timestamp: "2021-10-07 17:53:52.893465"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:B0Hr      1 CMRED
+  Liabilities:Bar:Members:B0Hr   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
