@@ -2215,3 +2215,13 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
   Income:Bar                            -0.60 EUR     
 
+2021-10-07 txn "Thomas bought 2 items for €3.20"
+  timestamp: "2021-10-07 20:06:52.229930"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   3.20 EUR  
+  Income:Bar                      -3.20 EUR  
+
