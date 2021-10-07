@@ -2165,3 +2165,9 @@
   Liabilities:Bar:Members:Thomas   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2021-10-07 txn "Anton​Alstublieft deposited €10.00"
+  timestamp: "2021-10-07 19:10:41.161569"
+  type: "deposit"
+  Liabilities:Bar:Members:AntonAlstublieft  -10.00 EUR
+  Assets:Cash:Bar                            10.00 EUR
+
