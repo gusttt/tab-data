@@ -2101,3 +2101,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-10-07 txn "Anton​Alstublieft bought 1 items for €2.00"
+  timestamp: "2021-10-07 17:53:38.873268"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 CMRED
+  Liabilities:Bar:Members:AntonAlstublieft      1 CMRED
+  Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR  
+  Income:Bar                                -2.00 EUR  
+
