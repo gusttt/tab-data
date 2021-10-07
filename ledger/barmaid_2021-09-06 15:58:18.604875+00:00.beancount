@@ -2181,3 +2181,13 @@
   Liabilities:Bar:Members:AntonAlstublieft   2.10 EUR  
   Income:Bar                                -2.10 EUR  
 
+2021-10-07 txn "B0Hr bought 2 items for €2.10"
+  timestamp: "2021-10-07 19:12:06.567188"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE_ZERO
+  Liabilities:Bar:Members:B0Hr      1 COKE_ZERO
+  Assets:Inventory:Bar             -1 MARS     
+  Liabilities:Bar:Members:B0Hr      1 MARS     
+  Liabilities:Bar:Members:B0Hr   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
