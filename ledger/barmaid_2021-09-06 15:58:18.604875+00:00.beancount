@@ -2191,3 +2191,11 @@
   Liabilities:Bar:Members:B0Hr   2.10 EUR      
   Income:Bar                    -2.10 EUR      
 
+2021-10-07 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-10-07 19:12:28.528950"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG 
+  Liabilities:Bar:Members:Sander      1 HG 
+  Liabilities:Bar:Members:Sander   1.50 EUR
+  Income:Bar                      -1.50 EUR
+
