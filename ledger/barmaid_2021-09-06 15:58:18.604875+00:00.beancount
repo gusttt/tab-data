@@ -2241,3 +2241,11 @@
   Liabilities:Bar:Members:B0Hr   1.20 EUR 
   Income:Bar                    -1.20 EUR 
 
+2021-10-07 txn "Anton​Alstublieft bought 1 items for €1.50"
+  timestamp: "2021-10-07 20:26:40.888788"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 COKE_ZERO
+  Liabilities:Bar:Members:AntonAlstublieft      1 COKE_ZERO
+  Liabilities:Bar:Members:AntonAlstublieft   1.50 EUR      
+  Income:Bar                                -1.50 EUR      
+
