@@ -2225,3 +2225,11 @@
   Liabilities:Bar:Members:Thomas   3.20 EUR  
   Income:Bar                      -3.20 EUR  
 
+2021-10-07 txn "B0Hr bought 1 items for €0.70"
+  timestamp: "2021-10-07 20:17:06.487535"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PICKUP
+  Liabilities:Bar:Members:B0Hr      1 PICKUP
+  Liabilities:Bar:Members:B0Hr   0.70 EUR   
+  Income:Bar                    -0.70 EUR   
+
