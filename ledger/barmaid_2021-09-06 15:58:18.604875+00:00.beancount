@@ -2427,3 +2427,9 @@
   Liabilities:Bar:Members:Bart     10.80 EUR
   Liabilities:Bar:Members:Sander  -10.80 EUR
 
+2021-10-11 txn "TQ gave Sander a gift of €18.40"
+  timestamp: "2021-10-11 18:18:33.561279"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   18.40 EUR
+  Liabilities:Bar:Members:Sander   -18.40 EUR
+
