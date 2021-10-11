@@ -2393,3 +2393,13 @@
   Liabilities:Bar:Members:Yvan   2.70 EUR  
   Income:Bar                    -2.70 EUR  
 
+2021-10-11 txn "Yvan bought 3 items for €2.90"
+  timestamp: "2021-10-11 09:25:29.861795"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA 
+  Liabilities:Bar:Members:Yvan      1 FANTA 
+  Assets:Inventory:Bar             -2 PICKUP
+  Liabilities:Bar:Members:Yvan      2 PICKUP
+  Liabilities:Bar:Members:Yvan   2.90 EUR   
+  Income:Bar                    -2.90 EUR   
+
