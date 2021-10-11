@@ -2411,3 +2411,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-10-11 txn "Sander bought 2 items for €2.60"
+  timestamp: "2021-10-11 16:32:44.615326"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Sander      1 EXPIRED_DRINK
+  Assets:Inventory:Bar               -1 PIZZA        
+  Liabilities:Bar:Members:Sander      1 PIZZA        
+  Liabilities:Bar:Members:Sander   2.60 EUR          
+  Income:Bar                      -2.60 EUR          
+
