@@ -2637,3 +2637,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2021-10-14 txn "Anton​Alstublieft bought 1 items for €2.00"
+  timestamp: "2021-10-14 19:47:18.436037"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 FRITZ
+  Liabilities:Bar:Members:AntonAlstublieft      1 FRITZ
+  Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR  
+  Income:Bar                                -2.00 EUR  
+
