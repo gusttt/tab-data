@@ -2538,3 +2538,11 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-14 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2021-10-14 18:10:50.262415"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Thomas      1 CM 
+  Liabilities:Bar:Members:Thomas   2.00 EUR
+  Income:Bar                      -2.00 EUR
+
