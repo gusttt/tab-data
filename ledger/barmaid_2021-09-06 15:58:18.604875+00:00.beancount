@@ -2717,3 +2717,11 @@
   Liabilities:Bar:Members:Shmitty   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-14 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2021-10-14 21:05:31.950172"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE_ZERO
+  Liabilities:Bar:Members:Thomas      1 COKE_ZERO
+  Liabilities:Bar:Members:Thomas   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
