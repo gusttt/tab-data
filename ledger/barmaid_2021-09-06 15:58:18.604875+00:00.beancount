@@ -2617,3 +2617,9 @@
   Liabilities:Bar:Members:Carroarmato0  -5.00 EUR
   Assets:Cash:Bar                        5.00 EUR
 
+2021-10-14 txn "Koen gave qwaxys a gift of €0.01"
+  timestamp: "2021-10-14 19:38:33.851158"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   0.01 EUR
+  Liabilities:Bar:Members:Bart  -0.01 EUR
+
