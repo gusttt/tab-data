@@ -2645,3 +2645,11 @@
   Liabilities:Bar:Members:AntonAlstublieft   2.00 EUR  
   Income:Bar                                -2.00 EUR  
 
+2021-10-14 txn "Shmitty bought 1 items for €2.00"
+  timestamp: "2021-10-14 19:49:16.964380"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Shmitty      1 FRITZ
+  Liabilities:Bar:Members:Shmitty   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
