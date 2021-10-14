@@ -2579,3 +2579,11 @@
   Liabilities:Bar:Members:B0Hr  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2021-10-14 txn "Shmitty bought 1 items for €2.00"
+  timestamp: "2021-10-14 18:54:07.981566"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Shmitty      1 FRITZ
+  Liabilities:Bar:Members:Shmitty   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
