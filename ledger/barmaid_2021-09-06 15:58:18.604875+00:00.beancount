@@ -2701,3 +2701,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2021-10-14 txn "Thomas bought 1 items for €1.20"
+  timestamp: "2021-10-14 20:41:52.956916"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Thomas      1 CHIP
+  Liabilities:Bar:Members:Thomas   1.20 EUR 
+  Income:Bar                      -1.20 EUR 
+
