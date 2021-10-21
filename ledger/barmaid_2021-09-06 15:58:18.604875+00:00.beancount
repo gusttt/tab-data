@@ -3062,3 +3062,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2021-10-21 txn "Fullscreen deposited €20.00"
+  timestamp: "2021-10-21 18:42:21.810153"
+  type: "deposit"
+  Liabilities:Bar:Members:Fullscreen  -20.00 EUR
+  Assets:Cash:Bar                      20.00 EUR
+
