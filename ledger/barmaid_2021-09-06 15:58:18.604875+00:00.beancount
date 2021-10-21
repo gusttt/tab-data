@@ -2965,3 +2965,11 @@
   Liabilities:Bar:Members:Elvis   6.50 EUR
   Liabilities:Bar:Members:Yvan   -6.50 EUR
 
+2021-10-21 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2021-10-21 17:15:18.919347"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
