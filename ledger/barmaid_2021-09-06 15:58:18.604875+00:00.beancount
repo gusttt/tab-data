@@ -3040,3 +3040,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-10-21 txn "Michiel bought 1 items for €2.00"
+  timestamp: "2021-10-21 18:36:19.690040"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Michiel      1 FRITZ
+  Liabilities:Bar:Members:Michiel   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
