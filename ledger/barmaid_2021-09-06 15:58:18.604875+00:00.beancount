@@ -2909,3 +2909,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2021-10-21 txn "Sander bought 1 items for €0.60"
+  timestamp: "2021-10-21 11:53:52.556858"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Sander      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Sander   0.60 EUR          
+  Income:Bar                      -0.60 EUR          
+
