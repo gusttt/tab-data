@@ -2997,3 +2997,14 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-21 txn "Merlijn bought 2 items for €1.70"
+  timestamp: "2021-10-21 18:00:34.897712"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 PICKUP
+  Liabilities:Bar:Members:Merlijn      1 PICKUP
+  Assets:Inventory:Bar                -1 ROM   
+  Liabilities:Bar:Members:Merlijn      1 ROM   
+  Liabilities:Bar:Members:Merlijn   1.70 EUR   
+  Liabilities:Bar:Members:Thequux  -0.50 EUR   
+  Income:Bar                       -1.20 EUR   
+
