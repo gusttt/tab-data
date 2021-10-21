@@ -3068,3 +3068,11 @@
   Liabilities:Bar:Members:Fullscreen  -20.00 EUR
   Assets:Cash:Bar                      20.00 EUR
 
+2021-10-21 txn "Sonckie bought 1 items for €1.20"
+  timestamp: "2021-10-21 18:56:03.238960"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Sonckie      1 CHIP
+  Liabilities:Bar:Members:Sonckie   1.20 EUR 
+  Income:Bar                       -1.20 EUR 
+
