@@ -3195,3 +3195,9 @@
   Liabilities:Bar:Members:Michiel   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2021-10-21 txn "Carro​armato0 deposited €5.00"
+  timestamp: "2021-10-21 22:22:38.872719"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -5.00 EUR
+  Assets:Cash:Bar                        5.00 EUR
+
