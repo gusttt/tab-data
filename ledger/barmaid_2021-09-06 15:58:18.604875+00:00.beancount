@@ -3108,3 +3108,9 @@
   Liabilities:Bar:Members:Sonckie   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-10-21 txn "Sonckie deposited €10.00"
+  timestamp: "2021-10-21 19:23:02.138190"
+  type: "deposit"
+  Liabilities:Bar:Members:Sonckie  -10.00 EUR
+  Assets:Cash:Bar                   10.00 EUR
+
