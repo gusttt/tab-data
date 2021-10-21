@@ -2927,3 +2927,11 @@
   Liabilities:Bar:Members:Thequux   2.70 EUR   
   Income:Bar                       -2.70 EUR   
 
+2021-10-21 txn "Sander bought 1 items for €0.75"
+  timestamp: "2021-10-21 14:36:12.934014"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 WATER
+  Liabilities:Bar:Members:Sander      1 WATER
+  Liabilities:Bar:Members:Sander   0.75 EUR  
+  Income:Bar                      -0.75 EUR  
+
