@@ -3048,3 +3048,9 @@
   Liabilities:Bar:Members:Michiel   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-21 txn "Michiel deposited €5.00"
+  timestamp: "2021-10-21 18:36:39.354927"
+  type: "deposit"
+  Liabilities:Bar:Members:Michiel  -5.00 EUR
+  Assets:Cash:Bar                   5.00 EUR
+
