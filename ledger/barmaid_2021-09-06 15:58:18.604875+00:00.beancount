@@ -3122,3 +3122,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-10-21 txn "Bloemist bought 1 items for €0.70"
+  timestamp: "2021-10-21 19:46:26.585702"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 PICKUP
+  Liabilities:Bar:Members:Bloemist      1 PICKUP
+  Liabilities:Bar:Members:Bloemist   0.70 EUR   
+  Income:Bar                        -0.70 EUR   
+
