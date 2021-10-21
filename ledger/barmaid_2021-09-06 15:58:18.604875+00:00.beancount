@@ -3024,3 +3024,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.70 EUR   
   Income:Bar                            -0.70 EUR   
 
+2021-10-21 txn "Sonckie bought 1 items for €1.50"
+  timestamp: "2021-10-21 18:31:45.177442"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Sonckie      1 FANTA
+  Liabilities:Bar:Members:Sonckie   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
