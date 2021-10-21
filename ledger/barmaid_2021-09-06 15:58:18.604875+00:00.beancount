@@ -3114,3 +3114,11 @@
   Liabilities:Bar:Members:Sonckie  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2021-10-21 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-10-21 19:37:22.341572"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
