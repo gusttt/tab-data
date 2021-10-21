@@ -2917,3 +2917,13 @@
   Liabilities:Bar:Members:Sander   0.60 EUR          
   Income:Bar                      -0.60 EUR          
 
+2021-10-21 txn "TQ bought 2 items for €2.70"
+  timestamp: "2021-10-21 12:24:01.505592"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Thequux      1 FRITZ 
+  Assets:Inventory:Bar                -1 PICKUP
+  Liabilities:Bar:Members:Thequux      1 PICKUP
+  Liabilities:Bar:Members:Thequux   2.70 EUR   
+  Income:Bar                       -2.70 EUR   
+
