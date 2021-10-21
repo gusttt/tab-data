@@ -2959,3 +2959,9 @@
   Liabilities:Bar:Members:Sander   3.50 EUR
   Liabilities:Bar:Members:Yvan    -3.50 EUR
 
+2021-10-21 txn "Evils gave Yvan a gift of €6.50"
+  timestamp: "2021-10-21 17:12:37.196345"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   6.50 EUR
+  Liabilities:Bar:Members:Yvan   -6.50 EUR
+
