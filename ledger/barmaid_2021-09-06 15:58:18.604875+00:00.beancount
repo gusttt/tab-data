@@ -3245,3 +3245,13 @@
   Liabilities:Bar:Members:Thequux   1.90 EUR     
   Income:Bar                       -1.90 EUR     
 
+2021-10-27 txn "TQ bought 3 items for €3.40"
+  timestamp: "2021-10-27 13:43:00.473763"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FLORA 
+  Liabilities:Bar:Members:Thequux      1 FLORA 
+  Assets:Inventory:Bar                -2 PICKUP
+  Liabilities:Bar:Members:Thequux      2 PICKUP
+  Liabilities:Bar:Members:Thequux   3.40 EUR   
+  Income:Bar                       -3.40 EUR   
+
