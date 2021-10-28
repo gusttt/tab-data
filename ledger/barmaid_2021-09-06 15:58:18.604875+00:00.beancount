@@ -3413,3 +3413,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-28 txn "Bloemist bought 3 items for €4.50"
+  timestamp: "2021-10-28 18:53:24.676706"
+  type: "purchase"
+  Assets:Inventory:Bar                 -3 JUPILER
+  Liabilities:Bar:Members:Bloemist      3 JUPILER
+  Liabilities:Bar:Members:Bloemist   4.50 EUR    
+  Income:Bar                        -4.50 EUR    
+
