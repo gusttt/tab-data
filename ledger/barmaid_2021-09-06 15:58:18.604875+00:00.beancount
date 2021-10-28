@@ -3287,3 +3287,9 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-10-28 txn "Miker deposited €150.00"
+  timestamp: "2021-10-28 12:12:48.721013"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -150.00 EUR
+  Assets:Cash:Bar                 150.00 EUR
+
