@@ -3421,3 +3421,11 @@
   Liabilities:Bar:Members:Bloemist   4.50 EUR    
   Income:Bar                        -4.50 EUR    
 
+2021-10-28 txn "Sander bought 1 items for €1.50"
+  timestamp: "2021-10-28 18:55:40.361425"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
