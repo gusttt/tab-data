@@ -3565,3 +3565,13 @@
   Liabilities:Bar:Members:Miker   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2021-10-28 txn "Carro​armato0 bought 3 items for €4.40"
+  timestamp: "2021-10-28 21:39:17.226469"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0      2 FOOD_CUP
+  Assets:Inventory:Bar                     -1 CM      
+  Liabilities:Bar:Members:Carroarmato0      1 CM      
+  Liabilities:Bar:Members:Carroarmato0   4.40 EUR     
+  Income:Bar                            -4.40 EUR     
+
