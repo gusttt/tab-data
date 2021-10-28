@@ -3355,3 +3355,11 @@
   Liabilities:Bar:Members:Carroarmato0   5.00 EUR
   Assets:Cash:Bar                       -5.00 EUR
 
+2021-10-28 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-10-28 17:08:31.112170"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
