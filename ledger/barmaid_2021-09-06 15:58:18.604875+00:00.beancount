@@ -3501,3 +3501,11 @@
   Liabilities:Bar:Members:Elvis      0.20 EUR
   Liabilities:Bar:Members:Fearless  -0.20 EUR
 
+2021-10-28 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2021-10-28 19:32:51.653615"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        2.00 EUR
+  Income:Bar            -2.00 EUR
+
