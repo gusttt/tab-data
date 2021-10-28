@@ -3533,3 +3533,9 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2021-10-28 txn "Thomas gave Fearless a gift of €10.00"
+  timestamp: "2021-10-28 20:05:38.410547"
+  type: "transfer"
+  Liabilities:Bar:Members:Thomas     10.00 EUR
+  Liabilities:Bar:Members:Fearless  -10.00 EUR
+
