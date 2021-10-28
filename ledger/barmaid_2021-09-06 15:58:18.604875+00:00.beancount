@@ -3385,3 +3385,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2021-10-28 txn "Sander deposited €20.00"
+  timestamp: "2021-10-28 18:06:14.029988"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
