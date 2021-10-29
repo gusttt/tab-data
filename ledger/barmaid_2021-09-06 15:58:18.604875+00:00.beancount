@@ -3593,3 +3593,11 @@
   Liabilities:Bar:Members:Ljaytee   2.50 EUR    
   Income:Bar                       -2.50 EUR    
 
+2021-10-29 txn "Miker bought 1 items for €2.00"
+  timestamp: "2021-10-29 10:40:26.916909"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
