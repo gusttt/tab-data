@@ -3631,3 +3631,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2021-10-30 txn "ruleant deposited €10.00"
+  timestamp: "2021-10-30 17:18:49.434270"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruleant  -10.00 EUR
+  Assets:Cash:Bar                   10.00 EUR
+
