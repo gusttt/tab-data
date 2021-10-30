@@ -3601,3 +3601,9 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-10-30 txn "Ljaytee deposited €5.00"
+  timestamp: "2021-10-30 09:00:41.737005"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -5.00 EUR
+  Assets:Cash:Bar                   5.00 EUR
+
