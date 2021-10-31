@@ -3661,3 +3661,11 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-10-31 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-10-31 16:50:29.193089"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE
+  Liabilities:Bar:Members:Bloemist      1 COKE
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
