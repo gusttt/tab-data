@@ -3720,3 +3720,11 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2021-11-03 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2021-11-03 08:22:09.552784"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Liabilities:Bar:Members:Yvan   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
