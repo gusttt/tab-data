@@ -3728,3 +3728,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2021-11-03 txn "Yvan bought 3 items for €2.90"
+  timestamp: "2021-11-03 14:22:41.368636"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE  
+  Liabilities:Bar:Members:Yvan      1 COKE  
+  Assets:Inventory:Bar             -2 PICKUP
+  Liabilities:Bar:Members:Yvan      2 PICKUP
+  Liabilities:Bar:Members:Yvan   2.90 EUR   
+  Income:Bar                    -2.90 EUR   
+
