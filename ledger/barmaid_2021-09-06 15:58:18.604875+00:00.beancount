@@ -4040,3 +4040,13 @@
   Liabilities:Bar:Members:Miker   2.10 EUR    
   Income:Bar                     -2.10 EUR    
 
+2021-11-04 txn "--CASH-- bought 2 items for €3.50"
+  timestamp: "2021-11-04 21:38:33.712805"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CMCOLA 
+  Assets:Cash:Bar           1 CMCOLA 
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        3.50 EUR    
+  Income:Bar            -3.50 EUR    
+
