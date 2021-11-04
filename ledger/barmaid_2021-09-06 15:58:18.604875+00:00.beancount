@@ -3878,3 +3878,11 @@
   Assets:Cash:Bar        2.00 EUR     
   Income:Bar            -2.00 EUR     
 
+2021-11-04 txn "Miker bought 1 items for €2.00"
+  timestamp: "2021-11-04 19:17:31.395949"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
