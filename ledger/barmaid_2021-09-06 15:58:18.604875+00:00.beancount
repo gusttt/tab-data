@@ -3950,3 +3950,9 @@
   Liabilities:Bar:Members:Joris   4.00 EUR   
   Income:Bar                     -4.00 EUR   
 
+2021-11-04 txn "Joris deposited €20.00"
+  timestamp: "2021-11-04 20:28:13.137521"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
