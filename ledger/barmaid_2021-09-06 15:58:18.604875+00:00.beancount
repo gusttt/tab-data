@@ -3926,3 +3926,11 @@
   Liabilities:Bar:Members:Netman   3.00 EUR    
   Income:Bar                      -3.00 EUR    
 
+2021-11-04 txn "Netman bought 1 items for €1.20"
+  timestamp: "2021-11-04 20:11:32.572975"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FOOD_CUP
+  Liabilities:Bar:Members:Netman      1 FOOD_CUP
+  Liabilities:Bar:Members:Netman   1.20 EUR     
+  Income:Bar                      -1.20 EUR     
+
