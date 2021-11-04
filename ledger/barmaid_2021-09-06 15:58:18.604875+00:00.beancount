@@ -3998,3 +3998,11 @@
   Assets:Cash:Bar        1.50 EUR      
   Income:Bar            -1.50 EUR      
 
+2021-11-04 txn "qwaxys bought 1 items for €4.00"
+  timestamp: "2021-11-04 20:45:58.458753"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIMAY
+  Liabilities:Bar:Members:Bart      1 CHIMAY
+  Liabilities:Bar:Members:Bart   4.00 EUR   
+  Income:Bar                    -4.00 EUR   
+
