@@ -3886,3 +3886,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-11-04 txn "Sander bought 1 items for €2.00"
+  timestamp: "2021-11-04 19:24:14.365147"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:Sander      1 FRITZ
+  Liabilities:Bar:Members:Sander   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
