@@ -3900,3 +3900,15 @@
   Liabilities:Bar:Members:Netman  -10.00 EUR
   Assets:Cash:Bar                  10.00 EUR
 
+2021-11-04 txn "Netman bought 5 items for €7.50"
+  timestamp: "2021-11-04 19:31:57.097553"
+  type: "purchase"
+  Assets:Inventory:Bar               -3 JUPILER
+  Liabilities:Bar:Members:Netman      3 JUPILER
+  Assets:Inventory:Bar               -1 COKE   
+  Liabilities:Bar:Members:Netman      1 COKE   
+  Assets:Inventory:Bar               -1 FANTA  
+  Liabilities:Bar:Members:Netman      1 FANTA  
+  Liabilities:Bar:Members:Netman   7.50 EUR    
+  Income:Bar                      -7.50 EUR    
+
