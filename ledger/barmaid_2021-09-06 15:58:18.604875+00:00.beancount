@@ -4092,3 +4092,13 @@
   Liabilities:Bar:Members:Maja   1.20 EUR     
   Income:Bar                    -1.20 EUR     
 
+2021-11-05 txn "Bloemist bought 3 items for €3.20"
+  timestamp: "2021-11-05 03:47:35.925927"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM   
+  Liabilities:Bar:Members:Bloemist      1 CM   
+  Assets:Inventory:Bar                 -2 SNACK
+  Liabilities:Bar:Members:Bloemist      2 SNACK
+  Liabilities:Bar:Members:Bloemist   3.20 EUR  
+  Income:Bar                        -3.20 EUR  
+
