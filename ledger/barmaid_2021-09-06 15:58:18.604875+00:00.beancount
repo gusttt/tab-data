@@ -4278,3 +4278,13 @@
   Liabilities:Bar:Members:Yvan     8.00 EUR
   Liabilities:Bar:Members:Sander  -8.00 EUR
 
+2021-11-07 txn "qwaxys bought 2 items for €3.50"
+  timestamp: "2021-11-07 20:03:18.328733"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE 
+  Liabilities:Bar:Members:Bart      1 COKE 
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   3.50 EUR  
+  Income:Bar                    -3.50 EUR  
+
