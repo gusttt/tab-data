@@ -4324,3 +4324,9 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2021-11-07 txn "Ljaytee deposited €25.00"
+  timestamp: "2021-11-07 20:55:47.105894"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -25.00 EUR
+  Assets:Cash:Bar                   25.00 EUR
+
