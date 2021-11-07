@@ -4272,3 +4272,9 @@
   Liabilities:Bar:Members:Sander     6.00 EUR
   Liabilities:Bar:Members:Fearless  -6.00 EUR
 
+2021-11-07 txn "Yvan gave Sander a gift of €8.00"
+  timestamp: "2021-11-07 19:27:32.065483"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan     8.00 EUR
+  Liabilities:Bar:Members:Sander  -8.00 EUR
+
