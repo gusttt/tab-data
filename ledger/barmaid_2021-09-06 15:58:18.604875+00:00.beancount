@@ -4266,3 +4266,9 @@
   Assets:Cash:Bar        1.20 EUR     
   Income:Bar            -1.20 EUR     
 
+2021-11-07 txn "Sander gave Fearless a gift of €6.00"
+  timestamp: "2021-11-07 19:27:08.052764"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander     6.00 EUR
+  Liabilities:Bar:Members:Fearless  -6.00 EUR
+
