@@ -4142,3 +4142,13 @@
   Liabilities:Bar:Members:Ljaytee   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2021-11-07 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2021-11-07 16:08:47.693726"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FLORA 
+  Assets:Cash:Bar           1 FLORA 
+  Assets:Inventory:Bar     -1 CHIMAY
+  Assets:Cash:Bar           1 CHIMAY
+  Assets:Cash:Bar        6.00 EUR   
+  Income:Bar            -6.00 EUR   
+
