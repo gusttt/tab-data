@@ -4232,3 +4232,11 @@
   Liabilities:Bar:Members:Sander   0.75 EUR  
   Income:Bar                      -0.75 EUR  
 
+2021-11-07 txn "Maja bought 1 items for €1.20"
+  timestamp: "2021-11-07 18:58:55.711526"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Liabilities:Bar:Members:Maja   1.20 EUR     
+  Income:Bar                    -1.20 EUR     
+
