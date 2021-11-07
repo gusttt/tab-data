@@ -4216,3 +4216,11 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2021-11-07 txn "Ljaytee bought 2 items for €4.00"
+  timestamp: "2021-11-07 17:29:09.709657"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 CM 
+  Liabilities:Bar:Members:Ljaytee      2 CM 
+  Liabilities:Bar:Members:Ljaytee   4.00 EUR
+  Income:Bar                       -4.00 EUR
+
