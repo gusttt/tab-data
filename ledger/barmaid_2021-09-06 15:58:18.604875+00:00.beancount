@@ -4310,3 +4310,9 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-11-07 txn "Evils gave Fearless a gift of €9.50"
+  timestamp: "2021-11-07 20:23:46.254945"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      9.50 EUR
+  Liabilities:Bar:Members:Fearless  -9.50 EUR
+
