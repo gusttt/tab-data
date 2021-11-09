@@ -4360,3 +4360,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2021-11-09 txn "Fearless bought 1 items for €2.50"
+  timestamp: "2021-11-09 17:27:29.054718"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 MYSTERY
+  Liabilities:Bar:Members:Fearless      1 MYSTERY
+  Liabilities:Bar:Members:Fearless   2.50 EUR    
+  Income:Bar                        -2.50 EUR    
+
