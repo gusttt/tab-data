@@ -4384,3 +4384,13 @@
   Liabilities:Bar:Members:Els     2.60 EUR
   Liabilities:Bar:Members:Sasja  -2.60 EUR
 
+2021-11-10 txn "Els bought 2 items for €3.20"
+  timestamp: "2021-11-10 13:03:12.995468"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FLORA
+  Liabilities:Bar:Members:Els      1 FLORA
+  Assets:Inventory:Bar            -1 CHIP 
+  Liabilities:Bar:Members:Els      1 CHIP 
+  Liabilities:Bar:Members:Els   3.20 EUR  
+  Income:Bar                   -3.20 EUR  
+
