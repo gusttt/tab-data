@@ -4368,3 +4368,13 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2021-11-10 txn "Sasja bought 2 items for €2.60"
+  timestamp: "2021-11-10 12:27:17.072133"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ   
+  Liabilities:Bar:Members:Sasja      1 FRITZ   
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Sasja      1 SNICKERS
+  Liabilities:Bar:Members:Sasja   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
