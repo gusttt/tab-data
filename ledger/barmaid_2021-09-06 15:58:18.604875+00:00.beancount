@@ -4698,3 +4698,11 @@
   Liabilities:Bar:Members:Maja   2.60 EUR 
   Income:Bar                    -2.60 EUR 
 
+2021-11-11 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2021-11-11 23:33:55.371914"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
