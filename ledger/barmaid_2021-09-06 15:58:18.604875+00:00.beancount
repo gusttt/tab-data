@@ -4532,3 +4532,11 @@
   Liabilities:Bar:Members:Stefaan   2.00 EUR
   Liabilities:Bar:Members:Thequux  -2.00 EUR
 
+2021-11-11 txn "Maja bought 1 items for €0.60"
+  timestamp: "2021-11-11 19:54:07.522375"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MARS
+  Liabilities:Bar:Members:Maja      1 MARS
+  Liabilities:Bar:Members:Maja   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
