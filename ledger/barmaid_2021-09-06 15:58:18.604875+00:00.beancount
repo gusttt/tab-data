@@ -4650,3 +4650,9 @@
   Liabilities:Bar:Members:Carroarmato0   0.80 EUR       
   Income:Bar                            -0.80 EUR       
 
+2021-11-11 txn "Maja deposited €22.00"
+  timestamp: "2021-11-11 21:36:23.334055"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -22.00 EUR
+  Assets:Cash:Bar                22.00 EUR
+
