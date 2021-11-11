@@ -4526,3 +4526,9 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2021-11-11 txn "Stefaan gave TQ a gift of €2.00"
+  timestamp: "2021-11-11 19:48:49.586301"
+  type: "transfer"
+  Liabilities:Bar:Members:Stefaan   2.00 EUR
+  Liabilities:Bar:Members:Thequux  -2.00 EUR
+
