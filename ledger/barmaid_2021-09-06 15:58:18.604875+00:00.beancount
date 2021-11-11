@@ -4714,3 +4714,11 @@
   Liabilities:Bar:Members:Merlijn   4.00 EUR  
   Income:Bar                       -4.00 EUR  
 
+2021-11-11 txn "Maja bought 1 items for €1.20"
+  timestamp: "2021-11-11 23:34:38.096882"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Liabilities:Bar:Members:Maja   1.20 EUR     
+  Income:Bar                    -1.20 EUR     
+
