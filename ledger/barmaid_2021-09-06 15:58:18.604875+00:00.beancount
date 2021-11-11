@@ -4440,3 +4440,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-11-11 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2021-11-11 17:50:43.739074"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+
