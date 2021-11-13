@@ -4824,3 +4824,11 @@
   Liabilities:Bar:Members:Ljaytee   3.00 EUR  
   Income:Bar                       -3.00 EUR  
 
+2021-11-13 txn "--CASH-- bought 1 items for €1.20"
+  timestamp: "2021-11-13 17:20:51.534385"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD_CUP
+  Assets:Cash:Bar           1 FOOD_CUP
+  Assets:Cash:Bar        1.20 EUR     
+  Income:Bar            -1.20 EUR     
+
