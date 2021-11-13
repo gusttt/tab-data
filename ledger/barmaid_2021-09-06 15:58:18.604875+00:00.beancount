@@ -4774,3 +4774,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-11-13 txn "--CASH-- bought 1 items for €0.60"
+  timestamp: "2021-11-13 16:04:44.074230"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SNICKERS
+  Assets:Cash:Bar           1 SNICKERS
+  Assets:Cash:Bar        0.60 EUR     
+  Income:Bar            -0.60 EUR     
+
