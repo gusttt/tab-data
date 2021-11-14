@@ -5004,3 +5004,9 @@
   Liabilities:Bar:Members:Sander   12.20 EUR    
   Income:Bar                      -12.20 EUR    
 
+2021-11-14 txn "Koen deposited €1.20"
+  timestamp: "2021-11-14 20:15:48.716117"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -1.20 EUR
+  Assets:Cash:Bar                1.20 EUR
+
