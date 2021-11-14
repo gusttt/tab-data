@@ -4952,3 +4952,9 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-11-14 txn "Sander deposited €5.00"
+  timestamp: "2021-11-14 19:02:33.725947"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -5.00 EUR
+  Assets:Cash:Bar                  5.00 EUR
+
