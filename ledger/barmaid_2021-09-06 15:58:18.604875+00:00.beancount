@@ -5024,3 +5024,12 @@
   Liabilities:Bar:Members:Sander  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2021-11-14 txn "Evils bought 1 items for €1.00"
+  timestamp: "2021-11-14 21:23:03.285109"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Elvis        1 ROM
+  Liabilities:Bar:Members:Elvis     1.00 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -0.50 EUR
+
