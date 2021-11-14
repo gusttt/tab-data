@@ -111,8 +111,8 @@
   currency: DUVEL
   category: alcohol
 - name: Chimay
-  price: 4.00
-  event_price: 6.00
+  price: 2.50
+  event_price: 4.00
   currency: CHIMAY
   category: alcohol
 - name: Hoegaarden
