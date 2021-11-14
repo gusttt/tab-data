@@ -4966,3 +4966,13 @@
   Liabilities:Bar:Members:Fearless   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2021-11-14 txn "Carro​armato0 bought 2 items for €3.50"
+  timestamp: "2021-11-14 19:14:08.889502"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0      1 COKE_ZERO
+  Assets:Inventory:Bar                     -1 VITAMALZ 
+  Liabilities:Bar:Members:Carroarmato0      1 VITAMALZ 
+  Liabilities:Bar:Members:Carroarmato0   3.50 EUR      
+  Income:Bar                            -3.50 EUR      
+
