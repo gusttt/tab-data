@@ -4992,3 +4992,15 @@
   Liabilities:Bar:Members:Sander   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2021-11-14 txn "Sander bought 8 items for €12.20"
+  timestamp: "2021-11-14 20:15:23.610016"
+  type: "purchase"
+  Assets:Inventory:Bar                -4 FRITZ  
+  Liabilities:Bar:Members:Sander       4 FRITZ  
+  Assets:Inventory:Bar                -2 JUPILER
+  Liabilities:Bar:Members:Sander       2 JUPILER
+  Assets:Inventory:Bar                -2 MARS   
+  Liabilities:Bar:Members:Sander       2 MARS   
+  Liabilities:Bar:Members:Sander   12.20 EUR    
+  Income:Bar                      -12.20 EUR    
+
