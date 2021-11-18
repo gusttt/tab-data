@@ -5317,3 +5317,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2021-11-18 txn "Sasja deposited €50.00"
+  timestamp: "2021-11-18 20:57:45.001421"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
