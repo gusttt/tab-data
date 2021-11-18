@@ -5181,3 +5181,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2021-11-18 txn "--CASH-- bought 2 items for €1.95"
+  timestamp: "2021-11-18 16:43:35.389538"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD_CUP
+  Assets:Cash:Bar           1 FOOD_CUP
+  Assets:Inventory:Bar     -1 WATER   
+  Assets:Cash:Bar           1 WATER   
+  Assets:Cash:Bar        1.95 EUR     
+  Income:Bar            -1.95 EUR     
+
