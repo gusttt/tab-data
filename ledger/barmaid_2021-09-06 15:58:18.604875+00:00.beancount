@@ -5191,3 +5191,11 @@
   Assets:Cash:Bar        1.95 EUR     
   Income:Bar            -1.95 EUR     
 
+2021-11-18 txn "Sander bought 1 items for €0.75"
+  timestamp: "2021-11-18 16:58:48.675423"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 WATER
+  Liabilities:Bar:Members:Sander      1 WATER
+  Liabilities:Bar:Members:Sander   0.75 EUR  
+  Income:Bar                      -0.75 EUR  
+
