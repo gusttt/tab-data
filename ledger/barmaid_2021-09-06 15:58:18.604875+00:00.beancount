@@ -5273,3 +5273,13 @@
   Liabilities:Bar:Members:Sonckie   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2021-11-18 txn "Maja bought 2 items for €3.20"
+  timestamp: "2021-11-18 20:04:27.079586"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Assets:Inventory:Bar             -1 CM      
+  Liabilities:Bar:Members:Maja      1 CM      
+  Liabilities:Bar:Members:Maja   3.20 EUR     
+  Income:Bar                    -3.20 EUR     
+
