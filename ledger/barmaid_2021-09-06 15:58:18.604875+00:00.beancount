@@ -5355,3 +5355,12 @@
   Assets:Cash:Bar        1.50 EUR  
   Income:Bar            -1.50 EUR  
 
+2021-11-18 txn "Merlijn bought 1 items for €1.00"
+  timestamp: "2021-11-18 21:12:14.617510"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ROM
+  Liabilities:Bar:Members:Merlijn      1 ROM
+  Liabilities:Bar:Members:Merlijn   1.00 EUR
+  Liabilities:Bar:Members:Thequux  -0.50 EUR
+  Income:Bar                       -0.50 EUR
+
