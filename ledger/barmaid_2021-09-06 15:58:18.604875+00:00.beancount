@@ -5309,3 +5309,11 @@
   Liabilities:Bar:Members:Sasja   36.50 EUR    
   Income:Bar                     -36.50 EUR    
 
+2021-11-18 txn "Miker bought 1 items for €1.50"
+  timestamp: "2021-11-18 20:57:18.275772"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Liabilities:Bar:Members:Miker   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
