@@ -5506,3 +5506,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2021-11-19 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2021-11-19 01:35:28.675448"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Sasja      1 SCHWEPPES
+  Liabilities:Bar:Members:Sasja   1.50 EUR      
+  Income:Bar                     -1.50 EUR      
+
