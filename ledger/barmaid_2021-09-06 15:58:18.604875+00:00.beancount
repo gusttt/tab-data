@@ -5484,3 +5484,9 @@
   Liabilities:Bar:Members:Bart  -5.00 EUR
   Assets:Cash:Bar                5.00 EUR
 
+2021-11-19 txn "Cesar deposited €15.00"
+  timestamp: "2021-11-19 01:12:13.217640"
+  type: "deposit"
+  Liabilities:Bar:Members:Cesar  -15.00 EUR
+  Assets:Cash:Bar                 15.00 EUR
+
