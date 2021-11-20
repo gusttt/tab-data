@@ -5597,3 +5597,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-11-20 txn "Sasja bought 2 items for €4.00"
+  timestamp: "2021-11-20 15:48:51.196949"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FLORA
+  Liabilities:Bar:Members:Sasja      2 FLORA
+  Liabilities:Bar:Members:Sasja   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
