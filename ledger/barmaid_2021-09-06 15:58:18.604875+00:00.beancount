@@ -6025,3 +6025,11 @@
   Liabilities:Bar:Members:Cesar   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2021-11-25 txn "Cesar bought 1 items for €2.50"
+  timestamp: "2021-11-25 23:56:28.966796"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Cesar      1 DUVEL
+  Liabilities:Bar:Members:Cesar   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
