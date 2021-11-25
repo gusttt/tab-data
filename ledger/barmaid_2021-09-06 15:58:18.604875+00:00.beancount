@@ -6007,3 +6007,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2021-11-25 txn "Cesar bought 2 items for €4.00"
+  timestamp: "2021-11-25 23:22:15.558766"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 MYSTERY
+  Liabilities:Bar:Members:Cesar      1 MYSTERY
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Cesar      1 AGRUMES
+  Liabilities:Bar:Members:Cesar   4.00 EUR    
+  Income:Bar                     -4.00 EUR    
+
