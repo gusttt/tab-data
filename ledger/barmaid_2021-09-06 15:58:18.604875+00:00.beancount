@@ -5883,3 +5883,13 @@
   Liabilities:Bar:Members:Maja   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2021-11-25 txn "Sasja bought 2 items for €3.00"
+  timestamp: "2021-11-25 19:11:55.353777"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KRIEK
+  Liabilities:Bar:Members:Sasja      1 KRIEK
+  Assets:Inventory:Bar              -1 HG   
+  Liabilities:Bar:Members:Sasja      1 HG   
+  Liabilities:Bar:Members:Sasja   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
