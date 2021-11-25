@@ -5967,3 +5967,11 @@
   Liabilities:Bar:Members:Elvis      5.00 EUR
   Liabilities:Bar:Members:Bloemist  -5.00 EUR
 
+2021-11-25 txn "Carro​armato0 bought 1 items for €1.20"
+  timestamp: "2021-11-25 22:00:49.474795"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0      1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
+  Income:Bar                            -1.20 EUR     
+
