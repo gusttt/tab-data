@@ -5961,3 +5961,9 @@
   Liabilities:Bar:Members:Maja   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2021-11-25 txn "Evils gave Bloemist a gift of €5.00"
+  timestamp: "2021-11-25 21:50:42.442151"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      5.00 EUR
+  Liabilities:Bar:Members:Bloemist  -5.00 EUR
+
