@@ -5835,3 +5835,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2021-11-25 txn "Carro​armato0 deposited €50.00"
+  timestamp: "2021-11-25 18:01:28.560392"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
+  Assets:Cash:Bar                        50.00 EUR
+
