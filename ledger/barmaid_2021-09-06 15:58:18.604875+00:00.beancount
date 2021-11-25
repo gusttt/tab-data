@@ -5909,3 +5909,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2021-11-25 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2021-11-25 20:05:19.285214"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE_ZERO
+  Assets:Cash:Bar           1 COKE_ZERO
+  Assets:Cash:Bar        1.50 EUR      
+  Income:Bar            -1.50 EUR      
+
