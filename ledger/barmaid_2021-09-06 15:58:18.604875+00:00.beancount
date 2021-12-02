@@ -6297,3 +6297,9 @@
   Liabilities:Bar:Members:Maja   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2021-12-02 txn "Carro​armato0 gave Sander a gift of €6.50"
+  timestamp: "2021-12-02 23:08:26.132748"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   6.50 EUR
+  Liabilities:Bar:Members:Sander        -6.50 EUR
+
