@@ -6289,3 +6289,11 @@
   Liabilities:Bar:Members:Carroarmato0   5.50 EUR      
   Income:Bar                            -5.50 EUR      
 
+2021-12-02 txn "Maja bought 1 items for €2.00"
+  timestamp: "2021-12-02 22:36:12.621609"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Maja      1 CM 
+  Liabilities:Bar:Members:Maja   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
