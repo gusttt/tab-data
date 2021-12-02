@@ -6303,3 +6303,11 @@
   Liabilities:Bar:Members:Carroarmato0   6.50 EUR
   Liabilities:Bar:Members:Sander        -6.50 EUR
 
+2021-12-02 txn "Bertrand bought 1 items for €2.00"
+  timestamp: "2021-12-02 23:16:46.697423"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Bertrand      1 FRITZ
+  Liabilities:Bar:Members:Bertrand   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
