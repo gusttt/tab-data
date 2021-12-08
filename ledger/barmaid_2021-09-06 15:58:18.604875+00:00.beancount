@@ -6435,3 +6435,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-12-08 txn "Sander gave Evils a gift of €2.00"
+  timestamp: "2021-12-08 17:35:46.359952"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   2.00 EUR
+  Liabilities:Bar:Members:Elvis   -2.00 EUR
+
