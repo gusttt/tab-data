@@ -143,8 +143,8 @@
   currency: SNACK
   category: food
 - name: Chips
-  price: 1.20
-  event_price: 1.80
+  price: 1.00
+  event_price: 1.50
   currency: CHIP
   category: food
 - name: Snickers
