@@ -6659,3 +6659,15 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2021-12-09 txn "Carro​armato0 bought 4 items for €6.20"
+  timestamp: "2021-12-09 22:35:04.485470"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMRED    
+  Liabilities:Bar:Members:Carroarmato0      1 CMRED    
+  Assets:Inventory:Bar                     -2 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0      2 COKE_ZERO
+  Assets:Inventory:Bar                     -1 CHIP     
+  Liabilities:Bar:Members:Carroarmato0      1 CHIP     
+  Liabilities:Bar:Members:Carroarmato0   6.20 EUR      
+  Income:Bar                            -6.20 EUR      
+
