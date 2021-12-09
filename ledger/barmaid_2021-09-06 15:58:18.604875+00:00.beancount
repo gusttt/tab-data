@@ -6695,3 +6695,9 @@
   Liabilities:Bar:Members:Koen  -12.20 EUR
   Assets:Cash:Bar                12.20 EUR
 
+2021-12-09 txn "Carro​armato0 deposited €5.00"
+  timestamp: "2021-12-09 23:25:00.530228"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -5.00 EUR
+  Assets:Cash:Bar                        5.00 EUR
+
