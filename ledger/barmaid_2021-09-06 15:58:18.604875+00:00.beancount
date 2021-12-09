@@ -6519,3 +6519,11 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2021-12-09 txn "Koen bought 1 items for €2.50"
+  timestamp: "2021-12-09 18:38:54.238716"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Koen      1 DUVEL
+  Liabilities:Bar:Members:Koen   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
