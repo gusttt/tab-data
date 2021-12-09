@@ -6563,3 +6563,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR   
   Income:Bar                            -2.00 EUR   
 
+2021-12-09 txn "Carro​armato0 gave Evils a gift of €5.00"
+  timestamp: "2021-12-09 19:29:35.734841"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   5.00 EUR
+  Liabilities:Bar:Members:Elvis         -5.00 EUR
+
