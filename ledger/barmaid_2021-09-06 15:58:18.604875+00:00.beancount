@@ -6593,3 +6593,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2021-12-09 txn "qwaxys deposited €10.00"
+  timestamp: "2021-12-09 19:51:01.406678"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
