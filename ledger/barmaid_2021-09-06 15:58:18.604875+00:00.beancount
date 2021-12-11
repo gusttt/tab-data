@@ -6853,3 +6853,11 @@
   Liabilities:Bar:Members:Sander   9.75 EUR
   Liabilities:Bar:Members:Yvan    -9.75 EUR
 
+2021-12-11 txn "Carro​armato0 bought 1 items for €1.20"
+  timestamp: "2021-12-11 22:58:33.865453"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0      1 FOOD_CUP
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
+  Income:Bar                            -1.20 EUR     
+
