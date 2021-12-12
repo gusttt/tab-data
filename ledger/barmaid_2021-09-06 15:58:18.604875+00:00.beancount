@@ -6899,3 +6899,15 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-12-12 txn "Carro​armato0 bought 4 items for €5.60"
+  timestamp: "2021-12-12 11:15:55.156834"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ    
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ    
+  Assets:Inventory:Bar                     -2 COKE_ZERO
+  Liabilities:Bar:Members:Carroarmato0      2 COKE_ZERO
+  Assets:Inventory:Bar                     -1 SNICKERS 
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS 
+  Liabilities:Bar:Members:Carroarmato0   5.60 EUR      
+  Income:Bar                            -5.60 EUR      
+
