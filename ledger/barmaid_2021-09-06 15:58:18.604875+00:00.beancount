@@ -6935,3 +6935,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-12-13 txn "qwaxys bought 1 items for €0.75"
+  timestamp: "2021-12-13 14:57:36.943373"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Bart      1 WATER
+  Liabilities:Bar:Members:Bart   0.75 EUR  
+  Income:Bar                    -0.75 EUR  
+
