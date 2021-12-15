@@ -7103,3 +7103,9 @@
   Liabilities:Bar:Members:Aris  -91.66 EUR
   Assets:Cash:Bar                91.66 EUR
 
+2021-12-15 txn "Aris deposited €-80.00"
+  timestamp: "2021-12-15 12:00:47.260114"
+  type: "deposit"
+  Liabilities:Bar:Members:Aris   80.00 EUR
+  Assets:Cash:Bar               -80.00 EUR
+
