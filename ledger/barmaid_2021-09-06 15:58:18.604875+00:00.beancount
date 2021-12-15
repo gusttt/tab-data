@@ -7117,3 +7117,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2021-12-15 txn "Aris bought 1 items for €2.00"
+  timestamp: "2021-12-15 12:06:52.493680"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Aris      1 CM 
+  Liabilities:Bar:Members:Aris   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
