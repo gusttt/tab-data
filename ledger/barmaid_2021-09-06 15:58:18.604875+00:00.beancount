@@ -7097,3 +7097,9 @@
   Liabilities:Bar:Members:Sander   2.70 EUR   
   Income:Bar                      -2.70 EUR   
 
+2021-12-15 txn "Aris deposited €91.66"
+  timestamp: "2021-12-15 12:00:28.108832"
+  type: "deposit"
+  Liabilities:Bar:Members:Aris  -91.66 EUR
+  Assets:Cash:Bar                91.66 EUR
+
