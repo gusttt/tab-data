@@ -7281,3 +7281,11 @@
   Liabilities:Bar:Members:Bart   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2021-12-16 txn "Miker bought 2 items for €3.00"
+  timestamp: "2021-12-16 21:07:25.360184"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Miker      2 JUPILER
+  Liabilities:Bar:Members:Miker   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
