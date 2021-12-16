@@ -7323,3 +7323,9 @@
   Liabilities:Bar:Members:Miker   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2021-12-16 txn "Miker gave TQ a gift of €1.00"
+  timestamp: "2021-12-16 22:12:01.191981"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker     1.00 EUR
+  Liabilities:Bar:Members:Thequux  -1.00 EUR
+
