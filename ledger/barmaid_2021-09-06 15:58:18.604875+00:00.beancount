@@ -7289,3 +7289,13 @@
   Liabilities:Bar:Members:Miker   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2021-12-16 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2021-12-16 21:19:04.830575"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ 
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ 
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
