@@ -7523,3 +7523,9 @@
   Liabilities:Bar:Members:Carroarmato0   20.00 EUR
   Liabilities:Bar:Members:3D-printer    -20.00 EUR
 
+2021-12-21 txn "Carro​armato0 deposited €50.00"
+  timestamp: "2021-12-21 17:23:34.833544"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
+  Assets:Cash:Bar                        50.00 EUR
+
