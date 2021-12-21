@@ -7517,3 +7517,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.80 EUR     
   Income:Bar                            -1.80 EUR     
 
+2021-12-21 txn "Carro​armato0 gave 3D-printer a gift of €20.00"
+  timestamp: "2021-12-21 17:21:31.606758"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   20.00 EUR
+  Liabilities:Bar:Members:3D-printer    -20.00 EUR
+
