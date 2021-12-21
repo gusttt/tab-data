@@ -7529,3 +7529,11 @@
   Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
   Assets:Cash:Bar                        50.00 EUR
 
+2021-12-21 txn "Els bought 1 items for €2.00"
+  timestamp: "2021-12-21 18:03:37.350455"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ
+  Liabilities:Bar:Members:Els      1 FRITZ
+  Liabilities:Bar:Members:Els   2.00 EUR  
+  Income:Bar                   -2.00 EUR  
+
