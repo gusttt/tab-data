@@ -7781,3 +7781,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2021-12-23 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2021-12-23 19:19:55.571632"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
