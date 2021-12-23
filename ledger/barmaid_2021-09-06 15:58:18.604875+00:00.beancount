@@ -7743,3 +7743,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-12-23 txn "Sander bought 1 items for €2.00"
+  timestamp: "2021-12-23 16:50:13.352096"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:Sander      1 CMCOLA
+  Liabilities:Bar:Members:Sander   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
