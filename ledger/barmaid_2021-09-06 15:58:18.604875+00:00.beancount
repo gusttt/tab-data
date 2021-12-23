@@ -7719,3 +7719,11 @@
   Liabilities:Bar:Members:Els   0.60 EUR 
   Income:Bar                   -0.60 EUR 
 
+2021-12-23 txn "Els bought 2 items for €4.00"
+  timestamp: "2021-12-23 12:02:28.424298"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 CM 
+  Liabilities:Bar:Members:Els      2 CM 
+  Liabilities:Bar:Members:Els   4.00 EUR
+  Income:Bar                   -4.00 EUR
+
