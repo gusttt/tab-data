@@ -7703,3 +7703,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Income:Bar                   -2.00 EUR
 
+2021-12-23 txn "Els bought 1 items for €1.50"
+  timestamp: "2021-12-23 09:39:48.353197"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE_ZERO
+  Liabilities:Bar:Members:Els      1 COKE_ZERO
+  Liabilities:Bar:Members:Els   1.50 EUR      
+  Income:Bar                   -1.50 EUR      
+
