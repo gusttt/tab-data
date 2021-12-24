@@ -7909,3 +7909,13 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2021-12-24 txn "Bloemist bought 5 items for €4.40"
+  timestamp: "2021-12-24 03:39:32.147520"
+  type: "purchase"
+  Assets:Inventory:Bar                 -4 SNACK
+  Liabilities:Bar:Members:Bloemist      4 SNACK
+  Assets:Inventory:Bar                 -1 CM   
+  Liabilities:Bar:Members:Bloemist      1 CM   
+  Liabilities:Bar:Members:Bloemist   4.40 EUR  
+  Income:Bar                        -4.40 EUR  
+
