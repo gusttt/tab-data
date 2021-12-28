@@ -8073,3 +8073,9 @@
   Liabilities:Bar:Members:Koen  -7.50 EUR
   Assets:Cash:Bar                7.50 EUR
 
+2021-12-28 txn "Maja deposited €10.00"
+  timestamp: "2021-12-28 20:10:44.274499"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
