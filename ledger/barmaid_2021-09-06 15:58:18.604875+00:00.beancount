@@ -8017,3 +8017,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2021-12-28 txn "Sander bought 1 items for €2.00"
+  timestamp: "2021-12-28 15:01:43.739931"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:Sander      1 CMCOLA
+  Liabilities:Bar:Members:Sander   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
