@@ -8131,3 +8131,11 @@
   Liabilities:Bar:Members:Maja   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-12-28 txn "Maja bought 1 items for €1.50"
+  timestamp: "2021-12-28 23:19:01.292024"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Liabilities:Bar:Members:Maja   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
