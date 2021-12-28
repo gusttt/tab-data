@@ -7965,3 +7965,9 @@
   Liabilities:Bar:Members:Sander   4.00 EUR
   Liabilities:Bar:Members:Yvan    -4.00 EUR
 
+2021-12-28 txn "Yvan gave qwaxys a gift of €1.00"
+  timestamp: "2021-12-28 10:43:40.365481"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   1.00 EUR
+  Liabilities:Bar:Members:Bart  -1.00 EUR
+
