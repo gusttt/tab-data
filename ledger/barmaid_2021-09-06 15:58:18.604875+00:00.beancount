@@ -8079,3 +8079,13 @@
   Liabilities:Bar:Members:Maja  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2021-12-28 txn "Maja bought 2 items for €2.60"
+  timestamp: "2021-12-28 20:11:40.323465"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Maja      1 KITKAT
+  Assets:Inventory:Bar             -1 CIDER 
+  Liabilities:Bar:Members:Maja      1 CIDER 
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
