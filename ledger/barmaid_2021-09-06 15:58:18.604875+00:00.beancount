@@ -8216,3 +8216,9 @@
   Liabilities:Bar:Members:Bart  -2.40 EUR     
   Income:Bar                    -2.60 EUR     
 
+2021-12-29 txn "Koen gave Yvan a gift of €1.50"
+  timestamp: "2021-12-29 15:30:04.663791"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   1.50 EUR
+  Liabilities:Bar:Members:Yvan  -1.50 EUR
+
