@@ -8336,3 +8336,9 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-12-29 txn "Maja deposited €15.00"
+  timestamp: "2021-12-29 19:45:28.177065"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -15.00 EUR
+  Assets:Cash:Bar                15.00 EUR
+
