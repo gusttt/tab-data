@@ -8460,3 +8460,11 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2021-12-29 txn "Maja bought 1 items for €1.20"
+  timestamp: "2021-12-29 23:51:11.791467"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Liabilities:Bar:Members:Maja   1.20 EUR     
+  Income:Bar                    -1.20 EUR     
+
