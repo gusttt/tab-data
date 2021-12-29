@@ -8155,3 +8155,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-12-29 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-12-29 13:36:55.845356"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA_ZERO
+  Liabilities:Bar:Members:Koen      1 ICETEA_ZERO
+  Liabilities:Bar:Members:Koen   1.50 EUR        
+  Income:Bar                    -1.50 EUR        
+
