@@ -8179,3 +8179,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2021-12-29 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2021-12-29 14:46:33.786232"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Bart      1 DUVEL
+  Liabilities:Bar:Members:Bart   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
