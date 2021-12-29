@@ -8197,3 +8197,13 @@
   Liabilities:Bar:Members:On8wr   2.60 EUR   
   Income:Bar                     -2.60 EUR   
 
+2021-12-29 txn "Yvan bought 2 items for €2.10"
+  timestamp: "2021-12-29 14:54:12.103536"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
