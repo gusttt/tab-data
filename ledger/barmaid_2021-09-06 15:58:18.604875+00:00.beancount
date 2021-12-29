@@ -8294,3 +8294,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR 
   Income:Bar                   -1.50 EUR 
 
+2021-12-29 txn "Maja bought 1 items for €1.50"
+  timestamp: "2021-12-29 18:57:21.768763"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Maja      1 COKE
+  Liabilities:Bar:Members:Maja   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
