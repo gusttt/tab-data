@@ -8358,3 +8358,11 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2021-12-29 txn "Koen bought 1 items for €1.50"
+  timestamp: "2021-12-29 20:40:26.342741"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KRIEK
+  Liabilities:Bar:Members:Koen      1 KRIEK
+  Liabilities:Bar:Members:Koen   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
