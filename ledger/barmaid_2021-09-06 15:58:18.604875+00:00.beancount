@@ -8342,3 +8342,11 @@
   Liabilities:Bar:Members:Maja  -15.00 EUR
   Assets:Cash:Bar                15.00 EUR
 
+2021-12-29 txn "Maja bought 1 items for €1.00"
+  timestamp: "2021-12-29 19:45:35.351295"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Maja      1 CHIP
+  Liabilities:Bar:Members:Maja   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
