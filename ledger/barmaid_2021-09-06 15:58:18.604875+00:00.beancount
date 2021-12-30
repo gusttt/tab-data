@@ -8632,3 +8632,9 @@
   Liabilities:Bar:Members:Maja   3.20 EUR     
   Income:Bar                    -3.20 EUR     
 
+2021-12-30 txn "Maja deposited €10.00"
+  timestamp: "2021-12-30 23:54:30.690435"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
