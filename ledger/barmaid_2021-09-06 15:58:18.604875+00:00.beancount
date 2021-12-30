@@ -8580,3 +8580,11 @@
   Liabilities:Bar:Members:Elvis   5.00 EUR
   Assets:Cash:Bar                -5.00 EUR
 
+2021-12-30 txn "Miker bought 1 items for €2.00"
+  timestamp: "2021-12-30 20:17:20.789454"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Liabilities:Bar:Members:Miker   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
