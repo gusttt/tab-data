@@ -8598,3 +8598,11 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2021-12-30 txn "Evils bought 1 items for €2.00"
+  timestamp: "2021-12-30 21:44:39.723685"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
