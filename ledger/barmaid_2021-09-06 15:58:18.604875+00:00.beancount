@@ -8532,3 +8532,13 @@
   Liabilities:Bar:Members:Sander   2.00 EUR   
   Income:Bar                      -2.00 EUR   
 
+2021-12-30 txn "Maja bought 2 items for €2.60"
+  timestamp: "2021-12-30 18:25:43.679686"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Assets:Inventory:Bar             -1 MARS  
+  Liabilities:Bar:Members:Maja      1 MARS  
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
