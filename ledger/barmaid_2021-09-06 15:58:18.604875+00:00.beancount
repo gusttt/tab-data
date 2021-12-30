@@ -8492,3 +8492,11 @@
   Liabilities:Bar:Members:Yvan   3.00 EUR   
   Income:Bar                    -3.00 EUR   
 
+2021-12-30 txn "Sasja bought 1 items for €2.00"
+  timestamp: "2021-12-30 15:18:02.735653"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Sasja      1 CM 
+  Liabilities:Bar:Members:Sasja   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
