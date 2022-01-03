@@ -8720,3 +8720,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR
   Liabilities:Bar:Members:Bart  -2.00 EUR
 
+2022-01-03 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2022-01-03 11:08:58.994594"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Yvan      1 CM 
+  Liabilities:Bar:Members:Yvan   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
