@@ -8784,3 +8784,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-01-06 txn "Alex bought 1 items for €1.50"
+  timestamp: "2022-01-06 10:14:35.383800"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 HG 
+  Liabilities:Bar:Members:Alex      1 HG 
+  Liabilities:Bar:Members:Alex   1.50 EUR
+  Income:Bar                    -1.50 EUR
+
