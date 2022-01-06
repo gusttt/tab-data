@@ -8896,3 +8896,11 @@
   Liabilities:Bar:Members:Sander  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2022-01-06 txn "Sander bought 1 items for €0.60"
+  timestamp: "2022-01-06 21:08:56.880677"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   0.60 EUR   
+  Income:Bar                      -0.60 EUR   
+
