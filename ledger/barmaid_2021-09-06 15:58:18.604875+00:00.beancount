@@ -8872,3 +8872,11 @@
   Liabilities:Bar:Members:Carroarmato0   6.00 EUR
   Liabilities:Bar:Members:Elvis         -6.00 EUR
 
+2022-01-06 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2022-01-06 19:30:34.413876"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
