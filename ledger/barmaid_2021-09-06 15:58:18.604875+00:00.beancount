@@ -9110,3 +9110,11 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2022-01-13 txn "Maja bought 1 items for €1.20"
+  timestamp: "2022-01-13 21:19:56.128081"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Liabilities:Bar:Members:Maja   1.20 EUR     
+  Income:Bar                    -1.20 EUR     
+
