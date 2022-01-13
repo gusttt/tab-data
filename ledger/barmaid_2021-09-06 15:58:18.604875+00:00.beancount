@@ -9118,3 +9118,13 @@
   Liabilities:Bar:Members:Maja   1.20 EUR     
   Income:Bar                    -1.20 EUR     
 
+2022-01-13 txn "Evils bought 2 items for €2.60"
+  timestamp: "2022-01-13 23:24:12.592813"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ   
+  Liabilities:Bar:Members:Elvis      1 FRITZ   
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
+  Liabilities:Bar:Members:Elvis   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
