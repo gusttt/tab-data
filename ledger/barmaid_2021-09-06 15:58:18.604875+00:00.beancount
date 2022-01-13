@@ -9062,3 +9062,9 @@
   Liabilities:Bar:Members:Carroarmato0   3.20 EUR     
   Income:Bar                            -3.20 EUR     
 
+2022-01-13 txn "Carro​armato0 deposited €30.00"
+  timestamp: "2022-01-13 17:04:36.171791"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -30.00 EUR
+  Assets:Cash:Bar                        30.00 EUR
+
