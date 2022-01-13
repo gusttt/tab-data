@@ -9092,3 +9092,13 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
   Income:Bar                            -2.00 EUR  
 
+2022-01-13 txn "Maja bought 2 items for €3.00"
+  timestamp: "2022-01-13 20:22:48.405246"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Maja      1 FRITZ
+  Assets:Inventory:Bar             -1 CHIP 
+  Liabilities:Bar:Members:Maja      1 CHIP 
+  Liabilities:Bar:Members:Maja   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
