@@ -9178,3 +9178,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-01-14 txn "Sander bought 3 items for €3.20"
+  timestamp: "2022-01-14 22:01:32.417672"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 BOUNTY
+  Liabilities:Bar:Members:Sander      2 BOUNTY
+  Assets:Inventory:Bar               -1 FRITZ 
+  Liabilities:Bar:Members:Sander      1 FRITZ 
+  Liabilities:Bar:Members:Sander   3.20 EUR   
+  Income:Bar                      -3.20 EUR   
+
