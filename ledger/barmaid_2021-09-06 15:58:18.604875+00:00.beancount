@@ -9196,3 +9196,15 @@
   Liabilities:Bar:Members:Sander   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2022-01-14 txn "Maja bought 3 items for €3.70"
+  timestamp: "2022-01-14 22:11:11.786918"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Assets:Inventory:Bar             -1 CHIP    
+  Liabilities:Bar:Members:Maja      1 CHIP    
+  Assets:Inventory:Bar             -1 KRIEK   
+  Liabilities:Bar:Members:Maja      1 KRIEK   
+  Liabilities:Bar:Members:Maja   3.70 EUR     
+  Income:Bar                    -3.70 EUR     
+
