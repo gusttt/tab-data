@@ -9144,3 +9144,11 @@
   Liabilities:Bar:Members:Maja   2.00 EUR
   Income:Bar                    -2.00 EUR
 
+2022-01-14 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-01-14 18:30:55.285547"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FANTA
+  Liabilities:Bar:Members:Sander      1 FANTA
+  Liabilities:Bar:Members:Sander   1.50 EUR  
+  Income:Bar                      -1.50 EUR  
+
