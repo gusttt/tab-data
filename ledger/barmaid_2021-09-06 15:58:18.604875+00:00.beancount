@@ -9230,3 +9230,15 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-01-15 txn "Bertrand bought 3 items for €5.00"
+  timestamp: "2022-01-15 16:04:35.204822"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bertrand      1 JUPILER
+  Assets:Inventory:Bar                 -1 FRITZ  
+  Liabilities:Bar:Members:Bertrand      1 FRITZ  
+  Assets:Inventory:Bar                 -1 KRIEK  
+  Liabilities:Bar:Members:Bertrand      1 KRIEK  
+  Liabilities:Bar:Members:Bertrand   5.00 EUR    
+  Income:Bar                        -5.00 EUR    
+
