@@ -9310,3 +9310,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
   Income:Bar                            -1.20 EUR     
 
+2022-01-15 txn "Koen deposited €3.00"
+  timestamp: "2022-01-15 22:02:35.940617"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -3.00 EUR
+  Assets:Cash:Bar                3.00 EUR
+
