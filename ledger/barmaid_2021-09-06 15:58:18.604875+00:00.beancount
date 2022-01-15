@@ -9316,3 +9316,9 @@
   Liabilities:Bar:Members:Koen  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2022-01-15 txn "Koen gave Yvan a gift of €3.00"
+  timestamp: "2022-01-15 22:03:16.793794"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   3.00 EUR
+  Liabilities:Bar:Members:Yvan  -3.00 EUR
+
