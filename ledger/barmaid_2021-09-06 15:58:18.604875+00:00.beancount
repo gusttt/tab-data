@@ -9422,3 +9422,15 @@
   Liabilities:Bar:Members:Miker  -100.00 EUR
   Assets:Cash:Bar                 100.00 EUR
 
+2022-01-20 txn "Miker bought 3 items for €6.00"
+  timestamp: "2022-01-20 18:54:23.447990"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ 
+  Liabilities:Bar:Members:Miker      1 FRITZ 
+  Assets:Inventory:Bar              -1 CHIMAY
+  Liabilities:Bar:Members:Miker      1 CHIMAY
+  Assets:Inventory:Bar              -1 HG    
+  Liabilities:Bar:Members:Miker      1 HG    
+  Liabilities:Bar:Members:Miker   6.00 EUR   
+  Income:Bar                     -6.00 EUR   
+
