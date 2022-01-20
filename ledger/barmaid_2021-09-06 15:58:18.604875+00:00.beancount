@@ -9416,3 +9416,9 @@
   Liabilities:Bar:Members:Sasja   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-01-20 txn "Miker deposited €100.00"
+  timestamp: "2022-01-20 18:47:52.581318"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -100.00 EUR
+  Assets:Cash:Bar                 100.00 EUR
+
