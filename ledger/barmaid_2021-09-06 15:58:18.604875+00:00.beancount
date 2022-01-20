@@ -9408,3 +9408,11 @@
   Liabilities:Bar:Members:Sasja   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2022-01-20 txn "Sasja bought 1 items for €1.00"
+  timestamp: "2022-01-20 18:34:22.129468"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Sasja      1 CHIP
+  Liabilities:Bar:Members:Sasja   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+
