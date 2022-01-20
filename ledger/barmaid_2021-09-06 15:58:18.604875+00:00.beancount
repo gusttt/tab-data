@@ -9492,3 +9492,11 @@
   Liabilities:Bar:Members:Maja   1.20 EUR     
   Income:Bar                    -1.20 EUR     
 
+2022-01-20 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-01-20 23:38:51.183369"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
