@@ -9526,3 +9526,13 @@
   Liabilities:Bar:Members:Maja   1.60 EUR   
   Income:Bar                    -1.60 EUR   
 
+2022-01-21 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-01-21 07:59:06.395511"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM    
+  Liabilities:Bar:Members:Yvan      1 CM    
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
