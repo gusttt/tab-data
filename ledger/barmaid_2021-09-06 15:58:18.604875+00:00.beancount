@@ -9622,3 +9622,15 @@
   Liabilities:Bar:Members:Els   8.00 EUR
   Income:Bar                   -8.00 EUR
 
+2022-01-23 txn "Yvan bought 3 items for €3.20"
+  timestamp: "2022-01-23 14:29:34.972256"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Yvan      1 FRITZ 
+  Assets:Inventory:Bar             -1 MARS  
+  Liabilities:Bar:Members:Yvan      1 MARS  
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   3.20 EUR   
+  Income:Bar                    -3.20 EUR   
+
