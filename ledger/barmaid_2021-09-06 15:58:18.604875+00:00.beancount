@@ -9780,3 +9780,11 @@
   Liabilities:Bar:Members:Elvis    1.30 EUR
   Liabilities:Bar:Members:Sander  -1.30 EUR
 
+2022-01-26 txn "Carro​armato0 bought 1 items for €2.00"
+  timestamp: "2022-01-26 19:04:25.101176"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
+  Income:Bar                            -2.00 EUR  
+
