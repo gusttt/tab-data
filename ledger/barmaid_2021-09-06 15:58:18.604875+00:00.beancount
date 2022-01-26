@@ -9774,3 +9774,9 @@
   Liabilities:Bar:Members:Sander         3.60 EUR
   Liabilities:Bar:Members:Carroarmato0  -3.60 EUR
 
+2022-01-26 txn "Evils gave Sander a gift of €1.30"
+  timestamp: "2022-01-26 18:49:11.497554"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    1.30 EUR
+  Liabilities:Bar:Members:Sander  -1.30 EUR
+
