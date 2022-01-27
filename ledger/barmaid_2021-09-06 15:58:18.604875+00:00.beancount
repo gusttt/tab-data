@@ -9944,3 +9944,11 @@
   Liabilities:Bar:Members:Maja   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-01-27 txn "Maja bought 1 items for €0.60"
+  timestamp: "2022-01-27 21:22:47.402030"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Maja      1 BOUNTY
+  Liabilities:Bar:Members:Maja   0.60 EUR   
+  Income:Bar                    -0.60 EUR   
+
