@@ -9908,3 +9908,15 @@
   Liabilities:Bar:Members:Carroarmato0   1.65 EUR
   Liabilities:Bar:Members:Thomas        -1.65 EUR
 
+2022-01-27 txn "Carro​armato0 bought 3 items for €3.20"
+  timestamp: "2022-01-27 20:56:59.409714"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ
+  Assets:Inventory:Bar                     -1 LEO  
+  Liabilities:Bar:Members:Carroarmato0      1 LEO  
+  Assets:Inventory:Bar                     -1 TWIX 
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX 
+  Liabilities:Bar:Members:Carroarmato0   3.20 EUR  
+  Income:Bar                            -3.20 EUR  
+
