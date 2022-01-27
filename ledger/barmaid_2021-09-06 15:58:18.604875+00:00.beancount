@@ -9896,3 +9896,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-01-27 txn "Evils gave Carro​armato0 a gift of €8.30"
+  timestamp: "2022-01-27 20:42:36.744821"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis          8.30 EUR
+  Liabilities:Bar:Members:Carroarmato0  -8.30 EUR
+
