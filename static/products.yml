@@ -172,6 +172,11 @@
   event_price: 0.90
   category: food
   currency: KITKAT
+- name: Leo
+  price: 0.60
+  event_price: 0.90
+  currency: LEO
+  category: food
 - name: King Mints
   price: 0.60
   event_price: 0.90
