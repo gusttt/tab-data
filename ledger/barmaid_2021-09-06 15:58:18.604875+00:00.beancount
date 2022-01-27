@@ -9902,3 +9902,9 @@
   Liabilities:Bar:Members:Elvis          8.30 EUR
   Liabilities:Bar:Members:Carroarmato0  -8.30 EUR
 
+2022-01-27 txn "Carro​armato0 gave Thomas a gift of €1.65"
+  timestamp: "2022-01-27 20:43:53.322885"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   1.65 EUR
+  Liabilities:Bar:Members:Thomas        -1.65 EUR
+
