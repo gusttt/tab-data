@@ -9880,3 +9880,11 @@
   Liabilities:Bar:Members:Thomas         10.00 EUR
   Liabilities:Bar:Members:Carroarmato0  -10.00 EUR
 
+2022-01-27 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-01-27 20:07:05.641413"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Liabilities:Bar:Members:Thomas   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
