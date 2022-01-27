@@ -9928,3 +9928,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-01-27 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2022-01-27 21:00:39.579693"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
