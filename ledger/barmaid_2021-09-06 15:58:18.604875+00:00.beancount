@@ -9970,3 +9970,11 @@
   Liabilities:Bar:Members:Miker   2.10 EUR      
   Income:Bar                     -2.10 EUR      
 
+2022-01-28 txn "Maja bought 1 items for €2.00"
+  timestamp: "2022-01-28 00:12:36.861949"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Maja      1 FRITZ
+  Liabilities:Bar:Members:Maja   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
