@@ -10108,3 +10108,11 @@
   Liabilities:Bar:Members:Koen  -2.50 EUR
   Assets:Cash:Bar                2.50 EUR
 
+2022-01-28 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-01-28 20:27:41.305380"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
