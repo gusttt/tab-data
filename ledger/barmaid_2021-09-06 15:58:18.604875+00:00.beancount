@@ -10012,3 +10012,13 @@
   Liabilities:Bar:Members:Els   4.00 EUR
   Income:Bar                   -4.00 EUR
 
+2022-01-28 txn "Els bought 2 items for €2.60"
+  timestamp: "2022-01-28 15:01:19.178829"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CIDER   
+  Liabilities:Bar:Members:Els      1 CIDER   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.60 EUR     
+  Income:Bar                   -2.60 EUR     
+
