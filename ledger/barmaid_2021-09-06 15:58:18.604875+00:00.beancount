@@ -10164,3 +10164,9 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-01-29 txn "Sander gave TQ a gift of €5.00"
+  timestamp: "2022-01-29 18:04:59.449687"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander    5.00 EUR
+  Liabilities:Bar:Members:Thequux  -5.00 EUR
+
