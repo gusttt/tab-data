@@ -10186,3 +10186,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-01-29 txn "Carro​armato0 gave Sander a gift of €3.49"
+  timestamp: "2022-01-29 19:49:38.145300"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   3.49 EUR
+  Liabilities:Bar:Members:Sander        -3.49 EUR
+
