@@ -10198,3 +10198,11 @@
   Liabilities:Bar:Members:Yvan     22.00 EUR
   Liabilities:Bar:Members:Sander  -22.00 EUR
 
+2022-01-30 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-01-30 13:51:03.773625"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 LEO
+  Liabilities:Bar:Members:Elvis      1 LEO
+  Liabilities:Bar:Members:Elvis   0.60 EUR
+  Income:Bar                     -0.60 EUR
+
