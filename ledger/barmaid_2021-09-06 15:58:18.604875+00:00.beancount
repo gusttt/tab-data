@@ -10230,3 +10230,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-01-30 txn "qwaxys deposited €6.00"
+  timestamp: "2022-01-30 19:03:44.107998"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -6.00 EUR
+  Assets:Cash:Bar                6.00 EUR
+
