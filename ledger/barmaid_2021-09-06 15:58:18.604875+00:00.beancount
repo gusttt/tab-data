@@ -10258,3 +10258,13 @@
   Liabilities:Bar:Members:Yvan  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2022-01-31 txn "Yvan bought 3 items for €1.80"
+  timestamp: "2022-01-31 12:12:53.670754"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 LEO   
+  Liabilities:Bar:Members:Yvan      2 LEO   
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Liabilities:Bar:Members:Yvan   1.80 EUR   
+  Income:Bar                    -1.80 EUR   
+
