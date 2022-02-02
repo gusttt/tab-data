@@ -10350,3 +10350,13 @@
   Liabilities:Bar:Members:Sander   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-02-02 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-02-02 17:54:40.425799"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ   
+  Liabilities:Bar:Members:Yvan      1 FRITZ   
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
