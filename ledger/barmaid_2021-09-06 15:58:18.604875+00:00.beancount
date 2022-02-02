@@ -10336,3 +10336,9 @@
   Liabilities:Bar:Members:Sander   2.60 EUR   
   Income:Bar                      -2.60 EUR   
 
+2022-02-02 txn "Sander deposited €2.00"
+  timestamp: "2022-02-02 15:32:29.312093"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -2.00 EUR
+  Assets:Cash:Bar                  2.00 EUR
+
