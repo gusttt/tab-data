@@ -10326,3 +10326,13 @@
   Liabilities:Bar:Members:Sander  -1.50 EUR
   Assets:Cash:Bar                  1.50 EUR
 
+2022-02-02 txn "Sander bought 2 items for €2.60"
+  timestamp: "2022-02-02 15:32:17.793405"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ 
+  Liabilities:Bar:Members:Sander      1 FRITZ 
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   2.60 EUR   
+  Income:Bar                      -2.60 EUR   
+
