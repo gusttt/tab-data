@@ -10342,3 +10342,11 @@
   Liabilities:Bar:Members:Sander  -2.00 EUR
   Assets:Cash:Bar                  2.00 EUR
 
+2022-02-02 txn "Sander bought 1 items for €0.60"
+  timestamp: "2022-02-02 15:37:19.777688"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:Sander      1 TWIX
+  Liabilities:Bar:Members:Sander   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
