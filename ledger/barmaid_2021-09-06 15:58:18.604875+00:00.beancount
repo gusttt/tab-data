@@ -10376,3 +10376,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR
   Income:Bar                    -0.60 EUR
 
+2022-02-02 txn "Evils bought 1 items for €2.00"
+  timestamp: "2022-02-02 21:06:33.241958"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
