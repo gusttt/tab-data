@@ -10444,3 +10444,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-02-03 txn "Els bought 2 items for €2.10"
+  timestamp: "2022-02-03 17:39:34.908135"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FANTA   
+  Liabilities:Bar:Members:Els      1 FANTA   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.10 EUR     
+  Income:Bar                   -2.10 EUR     
+
