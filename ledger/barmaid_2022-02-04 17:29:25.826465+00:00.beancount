@@ -16,3 +16,15 @@
   Liabilities:Bar:Members:Sander   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2022-02-05 txn "Yvan bought 4 items for €3.30"
+  timestamp: "2022-02-05 15:03:07.677037"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Yvan      2 BOUNTY
+  Assets:Inventory:Bar             -1 TWIX  
+  Liabilities:Bar:Members:Yvan      1 TWIX  
+  Liabilities:Bar:Members:Yvan   3.30 EUR   
+  Income:Bar                    -3.30 EUR   
+
