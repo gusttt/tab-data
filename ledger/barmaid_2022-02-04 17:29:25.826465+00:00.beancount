@@ -78,3 +78,13 @@
   Liabilities:Bar:Members:Ljaytee   2.60 EUR  
   Income:Bar                       -2.60 EUR  
 
+2022-02-07 txn "Yvan bought 2 items for €1.20"
+  timestamp: "2022-02-07 15:22:35.767757"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Yvan      1 BOUNTY
+  Assets:Inventory:Bar             -1 TWIX  
+  Liabilities:Bar:Members:Yvan      1 TWIX  
+  Liabilities:Bar:Members:Yvan   1.20 EUR   
+  Income:Bar                    -1.20 EUR   
+
