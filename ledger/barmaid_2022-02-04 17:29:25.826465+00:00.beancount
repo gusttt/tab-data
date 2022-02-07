@@ -88,3 +88,9 @@
   Liabilities:Bar:Members:Yvan   1.20 EUR   
   Income:Bar                    -1.20 EUR   
 
+2022-02-07 txn "Evils deposited €19.68"
+  timestamp: "2022-02-07 18:21:34.371506"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -19.68 EUR
+  Assets:Cash:Bar                 19.68 EUR
+
