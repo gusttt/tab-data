@@ -228,3 +228,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-02-10 txn "Miker bought 2 items for €4.00"
+  timestamp: "2022-02-10 18:56:03.694323"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FRITZ
+  Liabilities:Bar:Members:Miker      2 FRITZ
+  Liabilities:Bar:Members:Miker   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
