@@ -446,3 +446,13 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2022-02-10 txn "Carro​armato0 bought 2 items for €1.60"
+  timestamp: "2022-02-10 23:35:33.102633"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CHIP
+  Liabilities:Bar:Members:Carroarmato0      1 CHIP
+  Assets:Inventory:Bar                     -1 TWIX
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX
+  Liabilities:Bar:Members:Carroarmato0   1.60 EUR 
+  Income:Bar                            -1.60 EUR 
+
