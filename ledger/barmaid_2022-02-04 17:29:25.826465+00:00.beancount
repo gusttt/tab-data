@@ -296,3 +296,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-02-10 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-02-10 20:17:43.022630"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 AGRUMES
+  Liabilities:Bar:Members:Bart      1 AGRUMES
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
