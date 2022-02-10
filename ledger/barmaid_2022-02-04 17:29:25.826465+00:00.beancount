@@ -260,3 +260,13 @@
   Liabilities:Bar:Members:Thomas   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-02-10 txn "Miker bought 2 items for €2.10"
+  timestamp: "2022-02-10 19:45:37.140876"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Assets:Inventory:Bar              -1 MARS   
+  Liabilities:Bar:Members:Miker      1 MARS   
+  Liabilities:Bar:Members:Miker   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
