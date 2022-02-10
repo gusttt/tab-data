@@ -360,3 +360,11 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2022-02-10 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2022-02-10 21:51:00.838330"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 AGRUMES
+  Assets:Cash:Bar           1 AGRUMES
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+
