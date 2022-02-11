@@ -530,3 +530,11 @@
   Liabilities:Bar:Members:Jens   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-02-11 txn "Jens bought 1 items for €1.50"
+  timestamp: "2022-02-11 18:40:59.491704"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 AGRUMES
+  Liabilities:Bar:Members:Jens      1 AGRUMES
+  Liabilities:Bar:Members:Jens   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
