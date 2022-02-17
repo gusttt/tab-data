@@ -586,3 +586,13 @@
   Liabilities:Bar:Members:Miker   6.00 EUR  
   Income:Bar                     -6.00 EUR  
 
+2022-02-17 txn "Evils bought 2 items for €2.10"
+  timestamp: "2022-02-17 17:52:56.040937"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY 
+  Liabilities:Bar:Members:Elvis      1 BOUNTY 
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
