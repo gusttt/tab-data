@@ -620,3 +620,13 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-02-17 txn "Merlijn bought 2 items for €4.00"
+  timestamp: "2022-02-17 20:51:46.965638"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WINTER_MATE
+  Liabilities:Bar:Members:Merlijn      1 WINTER_MATE
+  Assets:Inventory:Bar                -1 CIDER      
+  Liabilities:Bar:Members:Merlijn      1 CIDER      
+  Liabilities:Bar:Members:Merlijn   4.00 EUR        
+  Income:Bar                       -4.00 EUR        
+
