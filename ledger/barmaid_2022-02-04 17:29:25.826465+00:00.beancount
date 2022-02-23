@@ -866,3 +866,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-02-23 txn "Els bought 2 items for €3.50"
+  timestamp: "2022-02-23 14:04:29.842783"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 JUPILER
+  Liabilities:Bar:Members:Els      1 JUPILER
+  Assets:Inventory:Bar            -1 CM     
+  Liabilities:Bar:Members:Els      1 CM     
+  Liabilities:Bar:Members:Els   3.50 EUR    
+  Income:Bar                   -3.50 EUR    
+
