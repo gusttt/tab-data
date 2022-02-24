@@ -1078,3 +1078,11 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2022-02-24 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-02-24 20:30:58.947651"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:Thomas      1 ICETEA
+  Liabilities:Bar:Members:Thomas   1.50 EUR   
+  Income:Bar                      -1.50 EUR   
+
