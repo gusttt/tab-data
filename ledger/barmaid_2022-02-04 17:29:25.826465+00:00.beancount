@@ -1044,3 +1044,11 @@
   Liabilities:Bar:Members:Fullscreen   2.10 EUR      
   Income:Bar                          -2.10 EUR      
 
+2022-02-24 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-02-24 19:03:40.943041"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
