@@ -1060,3 +1060,13 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2022-02-24 txn "Fullscreen bought 2 items for €2.50"
+  timestamp: "2022-02-24 19:45:34.222750"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen      1 COKE_ZERO
+  Assets:Inventory:Bar                   -1 CHIP     
+  Liabilities:Bar:Members:Fullscreen      1 CHIP     
+  Liabilities:Bar:Members:Fullscreen   2.50 EUR      
+  Income:Bar                          -2.50 EUR      
+
