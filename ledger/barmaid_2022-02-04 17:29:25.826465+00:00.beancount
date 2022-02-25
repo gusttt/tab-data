@@ -1136,3 +1136,11 @@
   Liabilities:Bar:Members:Fullscreen   6.00 EUR
   Liabilities:Bar:Members:Elvis       -6.00 EUR
 
+2022-02-25 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2022-02-25 14:05:54.499053"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KING
+  Liabilities:Bar:Members:Sasja      1 KING
+  Liabilities:Bar:Members:Sasja   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
