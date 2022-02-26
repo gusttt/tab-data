@@ -1200,3 +1200,13 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR
   Liabilities:Bar:Members:Elvis  -2.00 EUR
 
+2022-02-26 txn "Sasja bought 2 items for €2.10"
+  timestamp: "2022-02-26 12:59:45.521216"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Sasja      1 AGRUMES
+  Assets:Inventory:Bar              -1 KING   
+  Liabilities:Bar:Members:Sasja      1 KING   
+  Liabilities:Bar:Members:Sasja   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
