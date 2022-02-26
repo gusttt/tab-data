@@ -1246,3 +1246,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-02-26 txn "Sasja bought 1 items for €1.00"
+  timestamp: "2022-02-26 16:37:57.947478"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Sasja      1 CHIP
+  Liabilities:Bar:Members:Sasja   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+
