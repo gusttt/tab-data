@@ -1552,3 +1552,11 @@
   Liabilities:Bar:Members:Michiel  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2022-03-03 txn "Michiel bought 1 items for €2.00"
+  timestamp: "2022-03-03 20:35:34.868476"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Michiel      1 CIDER
+  Liabilities:Bar:Members:Michiel   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
