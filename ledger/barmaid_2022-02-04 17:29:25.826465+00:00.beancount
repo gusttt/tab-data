@@ -1560,3 +1560,11 @@
   Liabilities:Bar:Members:Michiel   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-03-03 txn "Merlijn bought 1 items for €2.00"
+  timestamp: "2022-03-03 21:19:55.917171"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Merlijn      1 CIDER
+  Liabilities:Bar:Members:Merlijn   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
