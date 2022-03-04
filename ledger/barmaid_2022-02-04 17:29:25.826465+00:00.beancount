@@ -1608,3 +1608,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-03-04 txn "Yvan bought 1 items for €1.20"
+  timestamp: "2022-03-04 11:21:21.140734"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Yvan      1 FOOD_CUP
+  Liabilities:Bar:Members:Yvan   1.20 EUR     
+  Income:Bar                    -1.20 EUR     
+
