@@ -1792,3 +1792,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR  
   Income:Bar                   -1.50 EUR  
 
+2022-03-09 txn "Els bought 1 items for €0.75"
+  timestamp: "2022-03-09 16:49:53.789711"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   0.75 EUR  
+  Income:Bar                   -0.75 EUR  
+
