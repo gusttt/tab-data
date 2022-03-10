@@ -1896,3 +1896,9 @@
   Liabilities:Bar:Members:Fullscreen  -20.00 EUR
   Assets:Cash:Bar                      20.00 EUR
 
+2022-03-10 txn "Evils gave Carro​armato0 a gift of €12.50"
+  timestamp: "2022-03-10 20:06:33.588142"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis          12.50 EUR
+  Liabilities:Bar:Members:Carroarmato0  -12.50 EUR
+
