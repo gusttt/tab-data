@@ -1972,3 +1972,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2022-03-10 txn "Merlijn bought 2 items for €3.00"
+  timestamp: "2022-03-10 21:52:32.900612"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 COKE_ZERO
+  Liabilities:Bar:Members:Merlijn      2 COKE_ZERO
+  Liabilities:Bar:Members:Merlijn   3.00 EUR      
+  Income:Bar                       -3.00 EUR      
+
