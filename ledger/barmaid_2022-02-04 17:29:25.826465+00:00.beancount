@@ -1910,3 +1910,9 @@
   Liabilities:Bar:Members:Miker   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2022-03-10 txn "Merlijn deposited €5.00"
+  timestamp: "2022-03-10 20:20:19.038050"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn  -5.00 EUR
+  Assets:Cash:Bar                   5.00 EUR
+
