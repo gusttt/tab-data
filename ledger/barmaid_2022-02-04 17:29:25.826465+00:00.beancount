@@ -1814,3 +1814,13 @@
   Liabilities:Bar:Members:Sander   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-03-10 txn "Miker bought 3 items for €6.00"
+  timestamp: "2022-03-10 14:28:28.701027"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM   
+  Liabilities:Bar:Members:Miker      2 CM   
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Miker      1 CMRED
+  Liabilities:Bar:Members:Miker   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
