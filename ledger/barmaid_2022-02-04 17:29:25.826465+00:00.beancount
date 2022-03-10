@@ -1824,3 +1824,9 @@
   Liabilities:Bar:Members:Miker   6.00 EUR  
   Income:Bar                     -6.00 EUR  
 
+2022-03-10 txn "Carro​armato0 deposited €50.00"
+  timestamp: "2022-03-10 16:30:54.210348"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
+  Assets:Cash:Bar                        50.00 EUR
+
