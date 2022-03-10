@@ -1882,3 +1882,11 @@
   Liabilities:Bar:Members:Fullscreen   1.50 EUR      
   Income:Bar                          -1.50 EUR      
 
+2022-03-10 txn "Els bought 1 items for €0.60"
+  timestamp: "2022-03-10 19:55:39.407483"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
