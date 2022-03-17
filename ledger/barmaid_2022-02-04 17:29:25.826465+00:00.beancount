@@ -2112,3 +2112,11 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-03-17 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-03-17 19:24:10.461621"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Stefaan      1 SNICKERS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR     
+  Income:Bar                       -0.60 EUR     
+
