@@ -2142,3 +2142,11 @@
   Liabilities:Bar:Members:Elvis    7.00 EUR
   Liabilities:Bar:Members:Sander  -7.00 EUR
 
+2022-03-17 txn "Betz bought 1 items for €2.50"
+  timestamp: "2022-03-17 19:36:32.359809"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MYSTERY
+  Liabilities:Bar:Members:Betz      1 MYSTERY
+  Liabilities:Bar:Members:Betz   2.50 EUR    
+  Income:Bar                    -2.50 EUR    
+
