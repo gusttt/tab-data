@@ -2104,3 +2104,11 @@
   Liabilities:Bar:Members:Ruleant   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-03-17 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2022-03-17 19:23:40.179753"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
