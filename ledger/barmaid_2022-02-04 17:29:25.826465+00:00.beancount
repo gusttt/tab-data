@@ -2242,3 +2242,9 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-03-17 txn "Thomas deposited €10.00"
+  timestamp: "2022-03-17 21:29:17.016555"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
