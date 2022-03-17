@@ -2218,3 +2218,11 @@
   Liabilities:Bar:Members:Betz  -11.10 EUR
   Assets:Cash:Bar                11.10 EUR
 
+2022-03-17 txn "Thomas bought 1 items for €2.50"
+  timestamp: "2022-03-17 20:48:56.515983"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 MYSTERY
+  Liabilities:Bar:Members:Thomas      1 MYSTERY
+  Liabilities:Bar:Members:Thomas   2.50 EUR    
+  Income:Bar                      -2.50 EUR    
+
