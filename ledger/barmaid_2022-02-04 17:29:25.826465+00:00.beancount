@@ -2248,3 +2248,9 @@
   Liabilities:Bar:Members:Thomas  -10.00 EUR
   Assets:Cash:Bar                  10.00 EUR
 
+2022-03-17 txn "Evils deposited €1.60"
+  timestamp: "2022-03-17 21:31:19.154951"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -1.60 EUR
+  Assets:Cash:Bar                 1.60 EUR
+
