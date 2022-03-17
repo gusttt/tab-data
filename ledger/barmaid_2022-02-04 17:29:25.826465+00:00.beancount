@@ -2136,3 +2136,9 @@
   Liabilities:Bar:Members:Michiel   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-03-17 txn "Evils gave Sander a gift of €7.00"
+  timestamp: "2022-03-17 19:35:34.779772"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    7.00 EUR
+  Liabilities:Bar:Members:Sander  -7.00 EUR
+
