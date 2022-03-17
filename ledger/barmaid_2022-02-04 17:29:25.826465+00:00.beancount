@@ -2150,3 +2150,9 @@
   Liabilities:Bar:Members:Betz   2.50 EUR    
   Income:Bar                    -2.50 EUR    
 
+2022-03-17 txn "Sander deposited €10.00"
+  timestamp: "2022-03-17 19:48:52.885093"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
