@@ -2254,3 +2254,9 @@
   Liabilities:Bar:Members:Elvis  -1.60 EUR
   Assets:Cash:Bar                 1.60 EUR
 
+2022-03-17 txn "3D-printer deposited €0.40"
+  timestamp: "2022-03-17 21:31:39.894581"
+  type: "deposit"
+  Liabilities:Bar:Members:3D-printer  -0.40 EUR
+  Assets:Cash:Bar                      0.40 EUR
+
