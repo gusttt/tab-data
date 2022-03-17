@@ -2276,3 +2276,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-03-17 txn "Koen bought 2 items for €4.00"
+  timestamp: "2022-03-17 22:31:41.489995"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CIDER
+  Liabilities:Bar:Members:Koen      2 CIDER
+  Liabilities:Bar:Members:Koen   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
