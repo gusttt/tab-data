@@ -2128,3 +2128,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-03-17 txn "Michiel bought 1 items for €2.00"
+  timestamp: "2022-03-17 19:32:03.584375"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Michiel      1 FRITZ
+  Liabilities:Bar:Members:Michiel   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
