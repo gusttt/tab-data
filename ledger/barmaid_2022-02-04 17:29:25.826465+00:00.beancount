@@ -2204,3 +2204,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2022-03-17 txn "Betz bought 2 items for €4.00"
+  timestamp: "2022-03-17 20:31:15.869014"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CIDER
+  Liabilities:Bar:Members:Betz      2 CIDER
+  Liabilities:Bar:Members:Betz   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
