@@ -190,3 +190,9 @@
   Liabilities:Bar:Members:Ljaytee   4.10 EUR  
   Income:Bar                       -4.10 EUR  
 
+2022-03-20 txn "Sander deposited €8.90"
+  timestamp: "2022-03-20 19:15:12.630451"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -8.90 EUR
+  Assets:Cash:Bar                  8.90 EUR
+
