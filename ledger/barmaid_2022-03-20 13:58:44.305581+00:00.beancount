@@ -208,3 +208,11 @@
   Liabilities:Bar:Members:Sander   8.90 EUR
   Liabilities:Bar:Members:Els     -8.90 EUR
 
+2022-03-20 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-03-20 19:17:02.918792"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Stefaan      1 SNICKERS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR     
+  Income:Bar                       -0.60 EUR     
+
