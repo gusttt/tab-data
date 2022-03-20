@@ -178,3 +178,15 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR 
   Income:Bar                        -1.00 EUR 
 
+2022-03-20 txn "Ljaytee bought 3 items for €4.10"
+  timestamp: "2022-03-20 19:10:35.683051"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Assets:Inventory:Bar                -1 HG   
+  Liabilities:Bar:Members:Ljaytee      1 HG   
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Liabilities:Bar:Members:Ljaytee   4.10 EUR  
+  Income:Bar                       -4.10 EUR  
+
