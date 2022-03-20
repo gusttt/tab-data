@@ -276,3 +276,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2022-03-20 txn "Stefaan gave Evils a gift of €0.15"
+  timestamp: "2022-03-20 22:29:35.269772"
+  type: "transfer"
+  Liabilities:Bar:Members:Stefaan   0.15 EUR
+  Liabilities:Bar:Members:Elvis    -0.15 EUR
+
