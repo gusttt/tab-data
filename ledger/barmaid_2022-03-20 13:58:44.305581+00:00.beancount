@@ -154,3 +154,11 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2022-03-20 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-03-20 18:51:49.294337"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
