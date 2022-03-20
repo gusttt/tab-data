@@ -232,3 +232,13 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2022-03-20 txn "Maja bought 2 items for €2.60"
+  timestamp: "2022-03-20 20:21:54.568401"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Maja      1 FRITZ 
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Maja      1 BOUNTY
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
