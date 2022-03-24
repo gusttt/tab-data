@@ -492,3 +492,11 @@
   Liabilities:Bar:Members:Sander  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2022-03-24 txn "Koen bought 1 items for €2.50"
+  timestamp: "2022-03-24 18:44:51.083512"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIMAY
+  Liabilities:Bar:Members:Koen      1 CHIMAY
+  Liabilities:Bar:Members:Koen   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
