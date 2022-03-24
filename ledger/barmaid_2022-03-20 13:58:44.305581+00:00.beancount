@@ -588,3 +588,9 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2022-03-24 txn "Koen gave --CASH-- a gift of €1.00"
+  timestamp: "2022-03-24 20:24:05.979975"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   1.00 EUR
+  Assets:Cash:Bar               -1.00 EUR
+
