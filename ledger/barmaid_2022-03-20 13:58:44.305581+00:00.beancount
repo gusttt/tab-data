@@ -384,3 +384,13 @@
   Liabilities:Bar:Members:Miker   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-03-24 txn "Els bought 2 items for €2.10"
+  timestamp: "2022-03-24 16:09:51.493318"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE    
+  Liabilities:Bar:Members:Els      1 COKE    
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.10 EUR     
+  Income:Bar                   -2.10 EUR     
+
