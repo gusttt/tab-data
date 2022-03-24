@@ -640,3 +640,9 @@
   Liabilities:Bar:Members:Carroarmato0   15.00 EUR
   Assets:Cash:Bar                       -15.00 EUR
 
+2022-03-24 txn "TQ gave --CASH-- a gift of €10.00"
+  timestamp: "2022-03-24 21:01:28.095230"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   10.00 EUR
+  Assets:Cash:Bar                  -10.00 EUR
+
