@@ -500,3 +500,13 @@
   Liabilities:Bar:Members:Koen   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2022-03-24 txn "Fullscreen bought 2 items for €3.50"
+  timestamp: "2022-03-24 18:55:01.891343"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 CMRED    
+  Liabilities:Bar:Members:Fullscreen      1 CMRED    
+  Assets:Inventory:Bar                   -1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen      1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen   3.50 EUR      
+  Income:Bar                          -3.50 EUR      
+
