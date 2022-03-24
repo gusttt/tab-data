@@ -622,3 +622,9 @@
   Liabilities:Bar:Members:Merlijn   15.00 EUR
   Assets:Cash:Bar                  -15.00 EUR
 
+2022-03-24 txn "qwaxys gave --CASH-- a gift of €15.00"
+  timestamp: "2022-03-24 20:59:40.083397"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   15.00 EUR
+  Assets:Cash:Bar               -15.00 EUR
+
