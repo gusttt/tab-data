@@ -652,3 +652,9 @@
   Liabilities:Bar:Members:Ljaytee   10.00 EUR
   Assets:Cash:Bar                  -10.00 EUR
 
+2022-03-24 txn "Koen gave --CASH-- a gift of €10.00"
+  timestamp: "2022-03-24 21:04:30.456992"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   10.00 EUR
+  Assets:Cash:Bar               -10.00 EUR
+
