@@ -610,3 +610,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-03-24 txn "Sander gave --CASH-- a gift of €15.00"
+  timestamp: "2022-03-24 20:58:14.906009"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   15.00 EUR
+  Assets:Cash:Bar                 -15.00 EUR
+
