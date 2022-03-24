@@ -364,3 +364,15 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-03-24 txn "Miker bought 3 items for €4.60"
+  timestamp: "2022-03-24 13:11:24.554044"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Miker      1 CM   
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Miker      1 CMRED
+  Assets:Inventory:Bar              -1 MARS 
+  Liabilities:Bar:Members:Miker      1 MARS 
+  Liabilities:Bar:Members:Miker   4.60 EUR  
+  Income:Bar                     -4.60 EUR  
+
