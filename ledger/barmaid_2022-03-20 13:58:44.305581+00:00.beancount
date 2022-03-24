@@ -410,3 +410,13 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-03-24 txn "Merlijn bought 2 items for €2.50"
+  timestamp: "2022-03-24 16:53:30.416799"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Merlijn      1 ICETEA
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Merlijn      1 CHIP  
+  Liabilities:Bar:Members:Merlijn   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
