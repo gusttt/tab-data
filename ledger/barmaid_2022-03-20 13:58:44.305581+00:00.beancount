@@ -768,3 +768,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
   Income:Bar                            -1.50 EUR    
 
+2022-03-26 txn "Yvan bought 2 items for €2.50"
+  timestamp: "2022-03-26 16:46:07.835550"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
