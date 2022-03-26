@@ -714,3 +714,11 @@
   Liabilities:Bar:Members:Yvan   2.70 EUR     
   Income:Bar                    -2.70 EUR     
 
+2022-03-26 txn "TQ bought 1 items for €2.00"
+  timestamp: "2022-03-26 12:46:34.143848"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMRED
+  Liabilities:Bar:Members:Thequux      1 CMRED
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
