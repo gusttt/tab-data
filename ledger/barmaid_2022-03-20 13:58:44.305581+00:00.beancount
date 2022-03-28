@@ -806,3 +806,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR 
   Income:Bar                            -1.50 EUR 
 
+2022-03-28 txn "Yvan bought 2 items for €3.50"
+  timestamp: "2022-03-28 10:34:05.069428"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED 
+  Liabilities:Bar:Members:Yvan      1 CMRED 
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   3.50 EUR   
+  Income:Bar                    -3.50 EUR   
+
