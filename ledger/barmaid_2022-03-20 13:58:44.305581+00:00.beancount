@@ -826,3 +826,15 @@
   Liabilities:Bar:Members:Carroarmato0   2.10 EUR     
   Income:Bar                            -2.10 EUR     
 
+2022-03-29 txn "Carro​armato0 bought 3 items for €3.10"
+  timestamp: "2022-03-29 20:08:35.057631"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FANTA   
+  Liabilities:Bar:Members:Carroarmato0      1 FANTA   
+  Assets:Inventory:Bar                     -1 CHIP    
+  Liabilities:Bar:Members:Carroarmato0      1 CHIP    
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   3.10 EUR     
+  Income:Bar                            -3.10 EUR     
+
