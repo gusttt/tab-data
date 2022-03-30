@@ -876,3 +876,11 @@
   Liabilities:Bar:Members:Bart  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2022-03-30 txn "Els bought 1 items for €1.00"
+  timestamp: "2022-03-30 16:23:44.216353"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   1.00 EUR 
+  Income:Bar                   -1.00 EUR 
+
