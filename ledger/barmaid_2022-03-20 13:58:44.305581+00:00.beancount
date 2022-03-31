@@ -1206,3 +1206,9 @@
   Liabilities:Bar:Members:Sander   2.00 EUR
   Assets:Cash:Bar                 -2.00 EUR
 
+2022-03-31 txn "Carro​armato0 gave --CASH-- a gift of €3.00"
+  timestamp: "2022-03-31 19:27:11.948708"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   3.00 EUR
+  Assets:Cash:Bar                       -3.00 EUR
+
