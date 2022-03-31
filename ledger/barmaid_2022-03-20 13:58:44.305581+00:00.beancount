@@ -1156,3 +1156,9 @@
   Liabilities:Bar:Members:Els  -30.00 EUR
   Assets:Cash:Bar               30.00 EUR
 
+2022-03-31 txn "Maja gave --CASH-- a gift of €4.00"
+  timestamp: "2022-03-31 19:23:53.182444"
+  type: "transfer"
+  Liabilities:Bar:Members:Maja   4.00 EUR
+  Assets:Cash:Bar               -4.00 EUR
+
