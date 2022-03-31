@@ -1262,3 +1262,9 @@
   Liabilities:Bar:Members:Maja   1.00 EUR
   Assets:Cash:Bar               -1.00 EUR
 
+2022-03-31 txn "Carro​armato0 gave --CASH-- a gift of €1.00"
+  timestamp: "2022-03-31 19:41:38.103905"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   1.00 EUR
+  Assets:Cash:Bar                       -1.00 EUR
+
