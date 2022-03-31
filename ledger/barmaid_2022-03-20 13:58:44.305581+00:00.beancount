@@ -1346,3 +1346,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-03-31 txn "Nachtvlinder deposited €30.00"
+  timestamp: "2022-03-31 23:25:53.097082"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
