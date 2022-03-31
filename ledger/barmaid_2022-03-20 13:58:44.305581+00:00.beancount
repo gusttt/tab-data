@@ -1200,3 +1200,9 @@
   Liabilities:Bar:Members:Maja   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-03-31 txn "Sander gave --CASH-- a gift of €2.00"
+  timestamp: "2022-03-31 19:27:00.506304"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   2.00 EUR
+  Assets:Cash:Bar                 -2.00 EUR
+
