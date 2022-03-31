@@ -1072,3 +1072,13 @@
   Liabilities:Bar:Members:Stefaan   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-03-31 txn "Ljaytee bought 2 items for €2.60"
+  timestamp: "2022-03-31 18:26:51.566368"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Assets:Inventory:Bar                -1 MARS 
+  Liabilities:Bar:Members:Ljaytee      1 MARS 
+  Liabilities:Bar:Members:Ljaytee   2.60 EUR  
+  Income:Bar                       -2.60 EUR  
+
