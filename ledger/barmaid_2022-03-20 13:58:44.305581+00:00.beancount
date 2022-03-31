@@ -1144,3 +1144,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-03-31 txn "Yvan gave --CASH-- a gift of €5.00"
+  timestamp: "2022-03-31 19:22:13.805166"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   5.00 EUR
+  Assets:Cash:Bar               -5.00 EUR
+
