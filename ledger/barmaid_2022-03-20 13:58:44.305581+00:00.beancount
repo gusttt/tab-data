@@ -1024,3 +1024,11 @@
   Liabilities:Bar:Members:Merlijn   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-03-31 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-03-31 18:01:14.140603"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FANTA
+  Liabilities:Bar:Members:Els      1 FANTA
+  Liabilities:Bar:Members:Els   1.50 EUR  
+  Income:Bar                   -1.50 EUR  
+
