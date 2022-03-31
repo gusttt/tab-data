@@ -1150,3 +1150,9 @@
   Liabilities:Bar:Members:Yvan   5.00 EUR
   Assets:Cash:Bar               -5.00 EUR
 
+2022-03-31 txn "Els deposited €30.00"
+  timestamp: "2022-03-31 19:23:00.838609"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -30.00 EUR
+  Assets:Cash:Bar               30.00 EUR
+
