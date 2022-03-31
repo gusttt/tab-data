@@ -1014,3 +1014,13 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-03-31 txn "Merlijn bought 2 items for €2.50"
+  timestamp: "2022-03-31 17:51:55.279533"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 COKE
+  Liabilities:Bar:Members:Merlijn      1 COKE
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Merlijn      1 CHIP
+  Liabilities:Bar:Members:Merlijn   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
