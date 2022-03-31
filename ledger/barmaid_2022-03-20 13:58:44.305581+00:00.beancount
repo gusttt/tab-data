@@ -1250,3 +1250,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
   Income:Bar                            -2.00 EUR  
 
+2022-03-31 txn "Yvan gave --CASH-- a gift of €1.00"
+  timestamp: "2022-03-31 19:39:53.255727"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   1.00 EUR
+  Assets:Cash:Bar               -1.00 EUR
+
