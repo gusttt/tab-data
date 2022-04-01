@@ -594,3 +594,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2022-04-01 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2022-04-01 21:50:42.452855"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 JUPILER
+  Liabilities:Bar:Members:Merlijn      1 JUPILER
+  Liabilities:Bar:Members:Merlijn   1.50 EUR    
+  Income:Bar                       -1.50 EUR    
+
