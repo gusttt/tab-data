@@ -266,3 +266,11 @@
   Liabilities:Bar:Members:HansA   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-04-01 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2022-04-01 19:16:48.760433"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
