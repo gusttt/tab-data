@@ -122,3 +122,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-04-01 txn "--CASH-- bought 3 items for €4.50"
+  timestamp: "2022-04-01 18:22:25.729364"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COKE   
+  Assets:Cash:Bar           1 COKE   
+  Assets:Inventory:Bar     -2 JUPILER
+  Assets:Cash:Bar           2 JUPILER
+  Assets:Cash:Bar        4.50 EUR    
+  Income:Bar            -4.50 EUR    
+
