@@ -140,3 +140,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2022-04-01 txn "HansA bought 1 items for €2.00"
+  timestamp: "2022-04-01 18:28:47.749064"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:HansA      1 CM 
+  Liabilities:Bar:Members:HansA   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
