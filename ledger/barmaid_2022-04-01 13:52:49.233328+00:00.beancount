@@ -322,3 +322,11 @@
   Assets:Cash:Bar        4.00 EUR  
   Income:Bar            -4.00 EUR  
 
+2022-04-01 txn "Stefaan bought 1 items for €2.00"
+  timestamp: "2022-04-01 19:38:56.757178"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Stefaan      1 FRITZ
+  Liabilities:Bar:Members:Stefaan   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
