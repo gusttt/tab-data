@@ -538,3 +538,11 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR    
   Income:Bar                       -2.50 EUR    
 
+2022-04-01 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-04-01 21:08:50.276415"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Stefaan      1 MARS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
