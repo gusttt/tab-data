@@ -500,3 +500,11 @@
   Liabilities:Bar:Members:HansA   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-04-01 txn "Aris bought 1 items for €2.00"
+  timestamp: "2022-04-01 20:46:02.757219"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Aris      1 FRITZ
+  Liabilities:Bar:Members:Aris   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
