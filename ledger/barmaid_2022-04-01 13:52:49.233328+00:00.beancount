@@ -92,3 +92,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-04-01 txn "Carro​armato0 deposited €10.00"
+  timestamp: "2022-04-01 18:07:57.718452"
+  type: "deposit"
+  Liabilities:Bar:Members:Carroarmato0  -10.00 EUR
+  Assets:Cash:Bar                        10.00 EUR
+
