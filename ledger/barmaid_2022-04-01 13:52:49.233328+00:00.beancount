@@ -466,3 +466,13 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2022-04-01 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2022-04-01 20:36:28.967802"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ_ZERO
+  Assets:Cash:Bar           1 FRITZ_ZERO
+  Assets:Inventory:Bar     -1 FRITZ     
+  Assets:Cash:Bar           1 FRITZ     
+  Assets:Cash:Bar        4.00 EUR       
+  Income:Bar            -4.00 EUR       
+
