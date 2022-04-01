@@ -418,3 +418,11 @@
   Liabilities:Bar:Members:Ljaytee   2.60 EUR  
   Income:Bar                       -2.60 EUR  
 
+2022-04-01 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-04-01 20:09:58.740331"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 HG 
+  Liabilities:Bar:Members:Bart      1 HG 
+  Liabilities:Bar:Members:Bart   1.50 EUR
+  Income:Bar                    -1.50 EUR
+
