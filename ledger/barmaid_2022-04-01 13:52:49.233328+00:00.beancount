@@ -682,3 +682,13 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2022-04-01 txn "Ljaytee bought 2 items for €1.60"
+  timestamp: "2022-04-01 22:52:09.788085"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP
+  Liabilities:Bar:Members:Ljaytee      1 CHIP
+  Assets:Inventory:Bar                -1 MARS
+  Liabilities:Bar:Members:Ljaytee      1 MARS
+  Liabilities:Bar:Members:Ljaytee   1.60 EUR 
+  Income:Bar                       -1.60 EUR 
+
