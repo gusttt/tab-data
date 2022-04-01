@@ -312,3 +312,13 @@
   Liabilities:Bar:Members:Stefaan  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2022-04-01 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2022-04-01 19:37:40.748573"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL
+  Assets:Cash:Bar           1 DUVEL
+  Assets:Inventory:Bar     -1 COKE 
+  Assets:Cash:Bar           1 COKE 
+  Assets:Cash:Bar        4.00 EUR  
+  Income:Bar            -4.00 EUR  
+
