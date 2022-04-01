@@ -732,3 +732,9 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-01 txn "Merlijn gave --CASH-- a gift of €0.50"
+  timestamp: "2022-04-01 23:44:11.782138"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   0.50 EUR
+  Assets:Cash:Bar                  -0.50 EUR
+
