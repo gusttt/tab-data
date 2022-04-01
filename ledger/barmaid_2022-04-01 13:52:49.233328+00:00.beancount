@@ -330,3 +330,11 @@
   Liabilities:Bar:Members:Stefaan   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-01 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2022-04-01 19:44:45.385617"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIMAY
+  Assets:Cash:Bar           1 CHIMAY
+  Assets:Cash:Bar        2.50 EUR   
+  Income:Bar            -2.50 EUR   
+
