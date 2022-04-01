@@ -450,3 +450,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR 
   Income:Bar                       -0.60 EUR 
 
+2022-04-01 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-04-01 20:18:09.903576"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 JUPILER
+  Liabilities:Bar:Members:Carroarmato0      1 JUPILER
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
+  Income:Bar                            -1.50 EUR    
+
