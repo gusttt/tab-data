@@ -282,3 +282,11 @@
   Liabilities:Bar:Members:Aris   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-04-01 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2022-04-01 19:17:58.760754"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+
