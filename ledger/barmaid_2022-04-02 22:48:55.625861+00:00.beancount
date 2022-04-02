@@ -18,3 +18,13 @@
   Liabilities:Bar:Members:Carroarmato0   4.00 EUR    
   Income:Bar                            -4.00 EUR    
 
+2022-04-02 txn "qwaxys bought 3 items for €4.50"
+  timestamp: "2022-04-02 22:50:15.802249"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE 
+  Liabilities:Bar:Members:Bart      1 COKE 
+  Assets:Inventory:Bar             -2 FANTA
+  Liabilities:Bar:Members:Bart      2 FANTA
+  Liabilities:Bar:Members:Bart   4.50 EUR  
+  Income:Bar                    -4.50 EUR  
+
