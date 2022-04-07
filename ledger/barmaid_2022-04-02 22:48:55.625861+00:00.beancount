@@ -114,3 +114,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2022-04-07 txn "Ewaut bought 1 items for €2.00"
+  timestamp: "2022-04-07 18:15:19.590854"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Ewaut      1 CM 
+  Liabilities:Bar:Members:Ewaut   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
