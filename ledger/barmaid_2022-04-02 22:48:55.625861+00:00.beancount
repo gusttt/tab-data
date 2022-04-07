@@ -182,3 +182,11 @@
   Liabilities:Bar:Members:Thequux   7.50 EUR
   Assets:Cash:Bar                  -7.50 EUR
 
+2022-04-07 txn "Thomas bought 1 items for €1.00"
+  timestamp: "2022-04-07 19:55:02.882287"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Thomas      1 CHIP
+  Liabilities:Bar:Members:Thomas   1.00 EUR 
+  Income:Bar                      -1.00 EUR 
+
