@@ -170,3 +170,9 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-04-07 txn "Ljaytee gave --CASH-- a gift of €15.00"
+  timestamp: "2022-04-07 19:53:12.319876"
+  type: "transfer"
+  Liabilities:Bar:Members:Ljaytee   15.00 EUR
+  Assets:Cash:Bar                  -15.00 EUR
+
