@@ -208,3 +208,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-04-07 txn "Thomas bought 1 items for €2.50"
+  timestamp: "2022-04-07 20:21:02.613934"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 MYSTERY
+  Liabilities:Bar:Members:Thomas      1 MYSTERY
+  Liabilities:Bar:Members:Thomas   2.50 EUR    
+  Income:Bar                      -2.50 EUR    
+
