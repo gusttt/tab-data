@@ -122,3 +122,11 @@
   Liabilities:Bar:Members:Ewaut   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-04-07 txn "Aris bought 1 items for €2.00"
+  timestamp: "2022-04-07 18:16:02.409191"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Aris      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Aris   2.00 EUR       
+  Income:Bar                    -2.00 EUR       
+
