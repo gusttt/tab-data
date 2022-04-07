@@ -200,3 +200,11 @@
   Liabilities:Bar:Members:Maja   3.50 EUR  
   Income:Bar                    -3.50 EUR  
 
+2022-04-07 txn "Thomas bought 1 items for €0.60"
+  timestamp: "2022-04-07 20:18:01.995307"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 MARS
+  Liabilities:Bar:Members:Thomas      1 MARS
+  Liabilities:Bar:Members:Thomas   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
