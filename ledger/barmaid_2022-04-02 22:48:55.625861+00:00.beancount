@@ -98,3 +98,11 @@
   Liabilities:Bar:Members:Aris  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2022-04-07 txn "Ljaytee bought 1 items for €2.00"
+  timestamp: "2022-04-07 17:48:54.412222"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Ljaytee      1 FRITZ
+  Liabilities:Bar:Members:Ljaytee   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
