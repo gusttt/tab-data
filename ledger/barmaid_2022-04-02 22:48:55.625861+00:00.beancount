@@ -230,3 +230,11 @@
   Liabilities:Bar:Members:Sander   5.00 EUR
   Assets:Cash:Bar                 -5.00 EUR
 
+2022-04-08 txn "Els bought 5 items for €10.00"
+  timestamp: "2022-04-08 08:40:58.246353"
+  type: "purchase"
+  Assets:Inventory:Bar             -5 CM 
+  Liabilities:Bar:Members:Els       5 CM 
+  Liabilities:Bar:Members:Els   10.00 EUR
+  Income:Bar                   -10.00 EUR
+
