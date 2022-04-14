@@ -518,3 +518,11 @@
   Liabilities:Bar:Members:Shmitty   1.50 EUR    
   Income:Bar                       -1.50 EUR    
 
+2022-04-14 txn "Carro​armato0 bought 2 items for €5.00"
+  timestamp: "2022-04-14 19:10:33.677680"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 CHIMAY
+  Liabilities:Bar:Members:Carroarmato0      2 CHIMAY
+  Liabilities:Bar:Members:Carroarmato0   5.00 EUR   
+  Income:Bar                            -5.00 EUR   
+
