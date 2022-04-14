@@ -412,3 +412,9 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-14 txn "Shmitty deposited €10.00"
+  timestamp: "2022-04-14 17:44:21.758163"
+  type: "deposit"
+  Liabilities:Bar:Members:Shmitty  -10.00 EUR
+  Assets:Cash:Bar                   10.00 EUR
+
