@@ -438,3 +438,9 @@
   Liabilities:Bar:Members:Shmitty   5.00 EUR
   Assets:Cash:Bar                  -5.00 EUR
 
+2022-04-14 txn "Merlijn gave --CASH-- a gift of €5.00"
+  timestamp: "2022-04-14 17:49:25.365858"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   5.00 EUR
+  Assets:Cash:Bar                  -5.00 EUR
+
