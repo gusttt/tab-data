@@ -648,3 +648,11 @@
   Liabilities:Bar:Members:DJefke   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2022-04-14 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-04-14 22:11:54.180179"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Liabilities:Bar:Members:Miker   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
