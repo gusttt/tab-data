@@ -426,3 +426,9 @@
   Liabilities:Bar:Members:Shmitty   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-14 txn "--CASH-- gave Merlijn a gift of €0.50"
+  timestamp: "2022-04-14 17:45:26.406649"
+  type: "transfer"
+  Assets:Cash:Bar                   0.50 EUR
+  Liabilities:Bar:Members:Merlijn  -0.50 EUR
+
