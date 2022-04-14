@@ -348,3 +348,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-04-14 txn "Merlijn bought 1 items for €1.50"
+  timestamp: "2022-04-14 17:10:44.991214"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 ICETEA
+  Liabilities:Bar:Members:Merlijn      1 ICETEA
+  Liabilities:Bar:Members:Merlijn   1.50 EUR   
+  Income:Bar                       -1.50 EUR   
+
