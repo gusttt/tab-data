@@ -504,3 +504,9 @@
   Liabilities:Bar:Members:Els   1.50 EUR  
   Income:Bar                   -1.50 EUR  
 
+2022-04-14 txn "Els gave --CASH-- a gift of €5.00"
+  timestamp: "2022-04-14 18:30:24.083051"
+  type: "transfer"
+  Liabilities:Bar:Members:Els   5.00 EUR
+  Assets:Cash:Bar              -5.00 EUR
+
