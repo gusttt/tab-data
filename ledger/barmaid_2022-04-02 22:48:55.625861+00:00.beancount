@@ -466,3 +466,11 @@
   Liabilities:Bar:Members:Sander   5.00 EUR
   Assets:Cash:Bar                 -5.00 EUR
 
+2022-04-14 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2022-04-14 18:15:11.657070"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Ljaytee      1 KRIEK
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
