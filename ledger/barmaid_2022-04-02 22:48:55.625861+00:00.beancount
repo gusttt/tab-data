@@ -616,3 +616,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-04-14 txn "DJefke bought 1 items for €2.00"
+  timestamp: "2022-04-14 20:40:32.101417"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:DJefke      1 FRITZ
+  Liabilities:Bar:Members:DJefke   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
