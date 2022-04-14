@@ -564,3 +564,15 @@
   Liabilities:Bar:Members:Shmitty   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-14 txn "Miker bought 3 items for €4.10"
+  timestamp: "2022-04-14 20:12:25.118599"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Assets:Inventory:Bar              -1 CM     
+  Liabilities:Bar:Members:Miker      1 CM     
+  Assets:Inventory:Bar              -1 MARS   
+  Liabilities:Bar:Members:Miker      1 MARS   
+  Liabilities:Bar:Members:Miker   4.10 EUR    
+  Income:Bar                     -4.10 EUR    
+
