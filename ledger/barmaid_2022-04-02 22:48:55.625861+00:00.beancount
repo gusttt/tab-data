@@ -576,3 +576,11 @@
   Liabilities:Bar:Members:Miker   4.10 EUR    
   Income:Bar                     -4.10 EUR    
 
+2022-04-14 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-04-14 20:25:11.050909"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FANTA
+  Liabilities:Bar:Members:Sander      1 FANTA
+  Liabilities:Bar:Members:Sander   1.50 EUR  
+  Income:Bar                      -1.50 EUR  
+
