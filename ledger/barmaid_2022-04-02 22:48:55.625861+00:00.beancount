@@ -460,3 +460,9 @@
   Liabilities:Bar:Members:Merlijn   5.00 EUR   
   Income:Bar                       -5.00 EUR   
 
+2022-04-14 txn "Sander gave --CASH-- a gift of €5.00"
+  timestamp: "2022-04-14 18:05:40.905220"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   5.00 EUR
+  Assets:Cash:Bar                 -5.00 EUR
+
