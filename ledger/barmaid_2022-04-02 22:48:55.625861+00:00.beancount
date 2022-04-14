@@ -556,3 +556,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-04-14 txn "Shmitty bought 1 items for €2.00"
+  timestamp: "2022-04-14 20:00:21.180419"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Shmitty      1 FRITZ
+  Liabilities:Bar:Members:Shmitty   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
