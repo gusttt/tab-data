@@ -1,0 +1,12 @@
+2022-04-18 txn "Bloemist bought 5 items for €6.50"
+  timestamp: "2022-04-18 23:55:43.157585"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 JUPILER
+  Liabilities:Bar:Members:Bloemist      2 JUPILER
+  Assets:Inventory:Bar                 -2 CHIP   
+  Liabilities:Bar:Members:Bloemist      2 CHIP   
+  Assets:Inventory:Bar                 -1 COKE   
+  Liabilities:Bar:Members:Bloemist      1 COKE   
+  Liabilities:Bar:Members:Bloemist   6.50 EUR    
+  Income:Bar                        -6.50 EUR    
+
