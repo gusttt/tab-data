@@ -30,3 +30,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR    
   Income:Bar                        -3.00 EUR    
 
+2022-04-19 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2022-04-19 23:28:13.091011"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist   0.60 EUR          
+  Income:Bar                        -0.60 EUR          
+
