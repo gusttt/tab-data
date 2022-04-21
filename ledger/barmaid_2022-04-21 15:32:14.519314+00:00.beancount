@@ -54,3 +54,9 @@
   Liabilities:Bar:Members:Carroarmato0   4.60 EUR    
   Income:Bar                            -4.60 EUR    
 
+2022-04-21 txn "Elfeera deposited €20.00"
+  timestamp: "2022-04-21 16:23:28.409119"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
