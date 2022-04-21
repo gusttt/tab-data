@@ -340,3 +340,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-04-21 txn "--CASH-- bought 1 items for €0.60"
+  timestamp: "2022-04-21 18:47:37.160267"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 EXPIRED_DRINK
+  Assets:Cash:Bar           1 EXPIRED_DRINK
+  Assets:Cash:Bar        0.60 EUR          
+  Income:Bar            -0.60 EUR          
+
