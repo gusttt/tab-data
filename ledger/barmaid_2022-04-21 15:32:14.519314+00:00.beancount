@@ -42,3 +42,15 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-04-21 txn "Carro​armato0 bought 3 items for €4.60"
+  timestamp: "2022-04-21 16:20:08.685408"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA 
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA 
+  Assets:Inventory:Bar                     -1 KITKAT 
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT 
+  Assets:Inventory:Bar                     -1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0      1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0   4.60 EUR    
+  Income:Bar                            -4.60 EUR    
+
