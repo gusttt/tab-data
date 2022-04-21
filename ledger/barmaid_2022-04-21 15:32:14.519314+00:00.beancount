@@ -316,3 +316,11 @@
   Liabilities:Bar:Members:Maja   5.00 EUR   
   Income:Bar                    -5.00 EUR   
 
+2022-04-21 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2022-04-21 18:44:14.826907"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
