@@ -38,3 +38,9 @@
   Liabilities:Bar:Members:Ruben   6.00 EUR      
   Income:Bar                     -6.00 EUR      
 
+2022-04-21 txn "Koen deposited €-10.00"
+  timestamp: "2022-04-21 19:41:58.755558"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen   10.00 EUR
+  Assets:Cash:Bar               -10.00 EUR
+
