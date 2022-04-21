@@ -34,3 +34,11 @@
   Liabilities:Bar:Members:Thomas   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-04-21 txn "Thomas bought 1 items for €0.60"
+  timestamp: "2022-04-21 21:06:11.435592"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Thomas      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Thomas   0.60 EUR          
+  Income:Bar                      -0.60 EUR          
+
