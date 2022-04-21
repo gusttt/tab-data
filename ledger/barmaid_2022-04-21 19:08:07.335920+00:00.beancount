@@ -68,3 +68,11 @@
   Liabilities:Bar:Members:Elvis    7.00 EUR
   Liabilities:Bar:Members:Sander  -7.00 EUR
 
+2022-04-21 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-04-21 19:51:46.372134"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
