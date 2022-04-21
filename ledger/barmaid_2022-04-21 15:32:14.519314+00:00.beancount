@@ -204,3 +204,11 @@
   Liabilities:Bar:Members:Merlijn  -40.00 EUR
   Assets:Cash:Bar                   40.00 EUR
 
+2022-04-21 txn "Elfeera bought 1 items for €2.50"
+  timestamp: "2022-04-21 17:44:33.264855"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIMAY
+  Liabilities:Bar:Members:Elfeera      1 CHIMAY
+  Liabilities:Bar:Members:Elfeera   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
