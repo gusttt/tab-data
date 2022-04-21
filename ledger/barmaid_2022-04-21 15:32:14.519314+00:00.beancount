@@ -198,3 +198,9 @@
   Liabilities:Bar:Members:Merlijn   1.00 EUR 
   Income:Bar                       -1.00 EUR 
 
+2022-04-21 txn "Merlijn deposited €40.00"
+  timestamp: "2022-04-21 17:42:51.022268"
+  type: "deposit"
+  Liabilities:Bar:Members:Merlijn  -40.00 EUR
+  Assets:Cash:Bar                   40.00 EUR
+
