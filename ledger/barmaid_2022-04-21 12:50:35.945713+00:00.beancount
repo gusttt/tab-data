@@ -48,3 +48,11 @@
   Liabilities:Bar:Members:Sander   1.20 EUR   
   Income:Bar                      -1.20 EUR   
 
+2022-04-21 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2022-04-21 14:41:15.030571"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist   0.60 EUR          
+  Income:Bar                        -0.60 EUR          
+
