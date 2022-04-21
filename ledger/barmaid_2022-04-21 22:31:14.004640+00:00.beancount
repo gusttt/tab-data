@@ -1,0 +1,10 @@
+2022-04-21 txn "Ruben bought 2 items for €3.50"
+  timestamp: "2022-04-21 22:31:13.950721"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FLORA  
+  Liabilities:Bar:Members:Ruben      1 FLORA  
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+  Liabilities:Bar:Members:Ruben   3.50 EUR    
+  Income:Bar                     -3.50 EUR    
+
