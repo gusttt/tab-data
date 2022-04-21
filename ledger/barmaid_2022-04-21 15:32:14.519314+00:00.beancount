@@ -150,3 +150,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-04-21 txn "Ruben bought 2 items for €3.00"
+  timestamp: "2022-04-21 17:23:54.870970"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 JUPILER
+  Liabilities:Bar:Members:Ruben      2 JUPILER
+  Liabilities:Bar:Members:Ruben   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
