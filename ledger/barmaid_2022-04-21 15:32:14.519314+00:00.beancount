@@ -158,3 +158,11 @@
   Liabilities:Bar:Members:Ruben   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2022-04-21 txn "Ruben bought 1 items for €1.00"
+  timestamp: "2022-04-21 17:30:24.771833"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Ruben      1 CHIP
+  Liabilities:Bar:Members:Ruben   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+
