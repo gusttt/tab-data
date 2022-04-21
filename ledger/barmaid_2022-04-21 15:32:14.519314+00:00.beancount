@@ -264,3 +264,11 @@
   Liabilities:Bar:Members:Ruben   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-04-21 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-04-21 18:23:42.604971"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG 
+  Liabilities:Bar:Members:Thomas      1 HG 
+  Liabilities:Bar:Members:Thomas   1.50 EUR
+  Income:Bar                      -1.50 EUR
+
