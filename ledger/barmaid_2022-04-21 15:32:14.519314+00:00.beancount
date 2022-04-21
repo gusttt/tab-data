@@ -60,3 +60,13 @@
   Liabilities:Bar:Members:Elfeera  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2022-04-21 txn "Elfeera bought 2 items for €1.20"
+  timestamp: "2022-04-21 16:26:32.383272"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BOUNTY
+  Liabilities:Bar:Members:Elfeera      1 BOUNTY
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Elfeera      1 KITKAT
+  Liabilities:Bar:Members:Elfeera   1.20 EUR   
+  Income:Bar                       -1.20 EUR   
+
