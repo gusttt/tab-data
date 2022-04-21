@@ -92,3 +92,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-04-21 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2022-04-21 20:29:45.260448"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 HG 
+  Liabilities:Bar:Members:Ruleant      1 HG 
+  Liabilities:Bar:Members:Ruleant   1.50 EUR
+  Income:Bar                       -1.50 EUR
+
