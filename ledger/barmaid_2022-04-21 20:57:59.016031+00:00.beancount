@@ -4,3 +4,11 @@
   Liabilities:Bar:Members:Ljaytee  -35.83 EUR
   Assets:Cash:Bar                   35.83 EUR
 
+2022-04-21 txn "Ruben bought 1 items for €1.50"
+  timestamp: "2022-04-21 20:58:30.633155"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Ruben      1 JUPILER
+  Liabilities:Bar:Members:Ruben   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
