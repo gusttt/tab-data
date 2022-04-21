@@ -52,3 +52,13 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-04-21 txn "Carro​armato0 bought 2 items for €4.00"
+  timestamp: "2022-04-21 19:46:24.351769"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA 
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA 
+  Assets:Inventory:Bar                     -1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0      1 MYSTERY
+  Liabilities:Bar:Members:Carroarmato0   4.00 EUR    
+  Income:Bar                            -4.00 EUR    
+
