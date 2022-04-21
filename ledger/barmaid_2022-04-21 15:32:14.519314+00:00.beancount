@@ -220,3 +220,15 @@
   Liabilities:Bar:Members:Yvan   10.00 EUR   
   Income:Bar                    -10.00 EUR   
 
+2022-04-21 txn "Carro​armato0 bought 4 items for €7.10"
+  timestamp: "2022-04-21 17:47:31.355790"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 AGRUMES
+  Liabilities:Bar:Members:Carroarmato0      1 AGRUMES
+  Assets:Inventory:Bar                     -2 CHIMAY 
+  Liabilities:Bar:Members:Carroarmato0      2 CHIMAY 
+  Assets:Inventory:Bar                     -1 SNACK  
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK  
+  Liabilities:Bar:Members:Carroarmato0   7.10 EUR    
+  Income:Bar                            -7.10 EUR    
+
