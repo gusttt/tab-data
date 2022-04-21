@@ -212,3 +212,11 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR   
   Income:Bar                       -2.50 EUR   
 
+2022-04-21 txn "Yvan bought 4 items for €10.00"
+  timestamp: "2022-04-21 17:45:23.792437"
+  type: "purchase"
+  Assets:Inventory:Bar              -4 CHIMAY
+  Liabilities:Bar:Members:Yvan       4 CHIMAY
+  Liabilities:Bar:Members:Yvan   10.00 EUR   
+  Income:Bar                    -10.00 EUR   
+
