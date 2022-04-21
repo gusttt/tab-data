@@ -1,0 +1,6 @@
+2022-04-21 txn "Ruben deposited €25.00"
+  timestamp: "2022-04-21 21:53:46.028278"
+  type: "deposit"
+  Liabilities:Bar:Members:Ruben  -25.00 EUR
+  Assets:Cash:Bar                 25.00 EUR
+
