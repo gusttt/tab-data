@@ -28,3 +28,13 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-04-21 txn "Ruben bought 4 items for €6.00"
+  timestamp: "2022-04-21 19:40:45.889447"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 COKE_ZERO
+  Liabilities:Bar:Members:Ruben      2 COKE_ZERO
+  Assets:Inventory:Bar              -2 JUPILER  
+  Liabilities:Bar:Members:Ruben      2 JUPILER  
+  Liabilities:Bar:Members:Ruben   6.00 EUR      
+  Income:Bar                     -6.00 EUR      
+
