@@ -1,0 +1,6 @@
+2022-04-21 txn "Ljaytee deposited €35.83"
+  timestamp: "2022-04-21 20:57:58.969567"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -35.83 EUR
+  Assets:Cash:Bar                   35.83 EUR
+
