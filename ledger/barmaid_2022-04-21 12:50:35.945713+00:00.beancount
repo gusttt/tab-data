@@ -1,0 +1,10 @@
+2022-04-21 txn "Miker bought 3 items for €6.00"
+  timestamp: "2022-04-21 12:50:35.897848"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM   
+  Liabilities:Bar:Members:Miker      2 CM   
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Miker      1 CMRED
+  Liabilities:Bar:Members:Miker   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
