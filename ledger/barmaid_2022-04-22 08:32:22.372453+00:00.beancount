@@ -14,3 +14,15 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2022-04-22 txn "Yvan bought 3 items for €1.90"
+  timestamp: "2022-04-22 10:25:39.936525"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHOCO_MILK
+  Liabilities:Bar:Members:Yvan      1 CHOCO_MILK
+  Assets:Inventory:Bar             -1 KITKAT    
+  Liabilities:Bar:Members:Yvan      1 KITKAT    
+  Assets:Inventory:Bar             -1 SNACK     
+  Liabilities:Bar:Members:Yvan      1 SNACK     
+  Liabilities:Bar:Members:Yvan   1.90 EUR       
+  Income:Bar                    -1.90 EUR       
+
