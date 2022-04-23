@@ -202,3 +202,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
   Income:Bar                            -1.20 EUR   
 
+2022-04-23 txn "Els bought 2 items for €2.50"
+  timestamp: "2022-04-23 16:06:29.779132"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Assets:Inventory:Bar            -1 CHIP  
+  Liabilities:Bar:Members:Els      1 CHIP  
+  Liabilities:Bar:Members:Els   2.50 EUR   
+  Income:Bar                   -2.50 EUR   
+
