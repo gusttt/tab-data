@@ -82,3 +82,15 @@
   Liabilities:Bar:Members:Els   2.10 EUR     
   Income:Bar                   -2.10 EUR     
 
+2022-04-23 txn "Els bought 3 items for €5.00"
+  timestamp: "2022-04-23 10:52:04.146040"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 MYSTERY
+  Liabilities:Bar:Members:Els      1 MYSTERY
+  Assets:Inventory:Bar            -1 ICETEA 
+  Liabilities:Bar:Members:Els      1 ICETEA 
+  Assets:Inventory:Bar            -1 CHIP   
+  Liabilities:Bar:Members:Els      1 CHIP   
+  Liabilities:Bar:Members:Els   5.00 EUR    
+  Income:Bar                   -5.00 EUR    
+
