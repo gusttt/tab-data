@@ -278,3 +278,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Income:Bar                   -2.00 EUR
 
+2022-04-24 txn "Ljaytee bought 2 items for €4.00"
+  timestamp: "2022-04-24 12:42:59.903218"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 CM 
+  Liabilities:Bar:Members:Ljaytee      2 CM 
+  Liabilities:Bar:Members:Ljaytee   4.00 EUR
+  Income:Bar                       -4.00 EUR
+
