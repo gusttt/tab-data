@@ -430,3 +430,9 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-04-24 txn "Ljaytee gave Carro​armato0 a gift of €17.50"
+  timestamp: "2022-04-24 19:30:29.990179"
+  type: "transfer"
+  Liabilities:Bar:Members:Ljaytee        17.50 EUR
+  Liabilities:Bar:Members:Carroarmato0  -17.50 EUR
+
