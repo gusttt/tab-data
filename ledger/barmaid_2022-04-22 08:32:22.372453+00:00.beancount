@@ -294,3 +294,11 @@
   Liabilities:Bar:Members:Thequux   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-04-24 txn "Els bought 1 items for €1.00"
+  timestamp: "2022-04-24 13:53:35.666829"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CHIP
+  Liabilities:Bar:Members:Els      1 CHIP
+  Liabilities:Bar:Members:Els   1.00 EUR 
+  Income:Bar                   -1.00 EUR 
+
