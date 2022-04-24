@@ -442,3 +442,9 @@
   Liabilities:Bar:Members:Carroarmato0   18.00 EUR
   Liabilities:Bar:Members:Ljaytee       -18.00 EUR
 
+2022-04-24 txn "Merlijn gave --CASH-- a gift of €10.00"
+  timestamp: "2022-04-24 19:49:17.415453"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn   10.00 EUR
+  Assets:Cash:Bar                  -10.00 EUR
+
