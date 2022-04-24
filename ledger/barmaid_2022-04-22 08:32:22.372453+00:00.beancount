@@ -416,3 +416,9 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-04-24 txn "Evils gave Carro​armato0 a gift of €18.50"
+  timestamp: "2022-04-24 18:59:05.051698"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis          18.50 EUR
+  Liabilities:Bar:Members:Carroarmato0  -18.50 EUR
+
