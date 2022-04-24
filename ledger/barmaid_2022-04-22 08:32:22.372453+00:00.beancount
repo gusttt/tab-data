@@ -346,3 +346,9 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-04-24 txn "Evils gave Ruben a gift of €0.70"
+  timestamp: "2022-04-24 15:30:56.297192"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   0.70 EUR
+  Liabilities:Bar:Members:Ruben  -0.70 EUR
+
