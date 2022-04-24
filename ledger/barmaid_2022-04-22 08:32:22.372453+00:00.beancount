@@ -436,3 +436,9 @@
   Liabilities:Bar:Members:Ljaytee        17.50 EUR
   Liabilities:Bar:Members:Carroarmato0  -17.50 EUR
 
+2022-04-24 txn "Carro​armato0 gave Ljaytee a gift of €18.00"
+  timestamp: "2022-04-24 19:32:30.774440"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   18.00 EUR
+  Liabilities:Bar:Members:Ljaytee       -18.00 EUR
+
