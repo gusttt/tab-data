@@ -448,3 +448,11 @@
   Liabilities:Bar:Members:Merlijn   10.00 EUR
   Assets:Cash:Bar                  -10.00 EUR
 
+2022-04-24 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2022-04-24 19:57:13.655511"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
+  Income:Bar                            -1.20 EUR   
+
