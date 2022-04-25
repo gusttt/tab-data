@@ -578,3 +578,11 @@
   Liabilities:Bar:Members:Merlijn   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-04-25 txn "Bloemist bought 1 items for €0.60"
+  timestamp: "2022-04-25 17:55:29.419364"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist   0.60 EUR          
+  Income:Bar                        -0.60 EUR          
+
