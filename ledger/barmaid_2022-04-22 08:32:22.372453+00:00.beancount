@@ -528,3 +528,11 @@
   Liabilities:Bar:Members:Ljaytee   2.00 EUR       
   Income:Bar                       -2.00 EUR       
 
+2022-04-25 txn "Ljaytee bought 2 items for €1.20"
+  timestamp: "2022-04-25 17:04:23.787187"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 KITKAT
+  Liabilities:Bar:Members:Ljaytee      2 KITKAT
+  Liabilities:Bar:Members:Ljaytee   1.20 EUR   
+  Income:Bar                       -1.20 EUR   
+
