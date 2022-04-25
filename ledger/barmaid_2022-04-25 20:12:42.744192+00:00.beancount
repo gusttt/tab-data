@@ -14,3 +14,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-04-25 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-04-25 20:55:48.300718"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
