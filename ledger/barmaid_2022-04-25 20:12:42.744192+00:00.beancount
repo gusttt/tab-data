@@ -268,3 +268,9 @@
   Liabilities:Bar:Members:Koen   9.90 EUR
   Liabilities:Bar:Members:Maja  -9.90 EUR
 
+2022-04-26 txn "Bloemist gave Nachtvlinder a gift of €14.65"
+  timestamp: "2022-04-26 18:18:59.502332"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   14.65 EUR
+  Liabilities:Bar:Members:Maja      -14.65 EUR
+
