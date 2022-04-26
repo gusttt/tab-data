@@ -262,3 +262,9 @@
   Liabilities:Bar:Members:Maja   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-04-26 txn "Koen gave Nachtvlinder a gift of €9.90"
+  timestamp: "2022-04-26 18:18:47.571632"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen   9.90 EUR
+  Liabilities:Bar:Members:Maja  -9.90 EUR
+
