@@ -90,3 +90,11 @@
   Liabilities:Bar:Members:Koen   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2022-04-26 txn "Bloemist bought 5 items for €3.00"
+  timestamp: "2022-04-26 02:13:18.017034"
+  type: "purchase"
+  Assets:Inventory:Bar                 -5 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist      5 EXPIRED_DRINK
+  Liabilities:Bar:Members:Bloemist   3.00 EUR          
+  Income:Bar                        -3.00 EUR          
+
