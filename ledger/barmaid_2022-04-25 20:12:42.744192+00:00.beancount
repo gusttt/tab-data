@@ -236,3 +236,13 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2022-04-26 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2022-04-26 17:08:50.743690"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FRITZ 
+  Liabilities:Bar:Members:Carroarmato0      1 FRITZ 
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
