@@ -246,3 +246,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
   Income:Bar                            -2.60 EUR   
 
+2022-04-26 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-04-26 17:37:53.990063"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
