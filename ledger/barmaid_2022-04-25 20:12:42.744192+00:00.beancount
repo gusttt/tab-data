@@ -282,3 +282,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-04-26 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2022-04-26 19:25:01.278915"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Fearless      1 JUPILER
+  Liabilities:Bar:Members:Fearless   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
