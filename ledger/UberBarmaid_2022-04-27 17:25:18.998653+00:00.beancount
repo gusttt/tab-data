@@ -6,3 +6,17 @@
   Liabilities:Bar:Members:Ljaytee   1.50 EUR
   Income:Bar                       -1.50 EUR
 
+2022-04-27 txn "Nachtvlinder bought 4 items for €5.20"
+  timestamp: "2022-04-27 17:26:45.723956"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA  
+  Liabilities:Bar:Members:Maja      1 ICETEA  
+  Assets:Inventory:Bar             -1 FOOD_CUP
+  Liabilities:Bar:Members:Maja      1 FOOD_CUP
+  Assets:Inventory:Bar             -1 COKE    
+  Liabilities:Bar:Members:Maja      1 COKE    
+  Assets:Inventory:Bar             -1 CHIP    
+  Liabilities:Bar:Members:Maja      1 CHIP    
+  Liabilities:Bar:Members:Maja   5.20 EUR     
+  Income:Bar                    -5.20 EUR     
+
