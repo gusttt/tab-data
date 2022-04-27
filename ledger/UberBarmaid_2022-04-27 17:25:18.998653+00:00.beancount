@@ -1,0 +1,8 @@
+2022-04-27 txn "Ljaytee bought 1 items for €1.50"
+  timestamp: "2022-04-27 17:25:18.995740"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 HG 
+  Liabilities:Bar:Members:Ljaytee      1 HG 
+  Liabilities:Bar:Members:Ljaytee   1.50 EUR
+  Income:Bar                       -1.50 EUR
+
