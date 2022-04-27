@@ -74,3 +74,9 @@
   Liabilities:Bar:Members:Fearless  -1.50 EUR
   Assets:Cash:Bar                    1.50 EUR
 
+2022-04-27 txn "Fearless deposited €50.00"
+  timestamp: "2022-04-27 21:45:56.200738"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -50.00 EUR
+  Assets:Cash:Bar                    50.00 EUR
+
