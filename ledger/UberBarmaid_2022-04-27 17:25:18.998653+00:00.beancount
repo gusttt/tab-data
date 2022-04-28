@@ -280,3 +280,9 @@
   Liabilities:Bar:Members:Bloemist   3.70 EUR    
   Income:Bar                        -3.70 EUR    
 
+2022-04-28 txn "Bloemist gave --CASH-- a gift of €0.05"
+  timestamp: "2022-04-28 18:06:59.833469"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   0.05 EUR
+  Assets:Cash:Bar                   -0.05 EUR
+
