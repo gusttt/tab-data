@@ -110,3 +110,11 @@
   Liabilities:Bar:Members:Maja   0.70 EUR       
   Income:Bar                    -0.70 EUR       
 
+2022-04-28 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2022-04-28 08:52:12.430436"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Liabilities:Bar:Members:Yvan   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
