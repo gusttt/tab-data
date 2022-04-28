@@ -142,6 +142,11 @@
   category: alcohol
 
 # snacks
+- name: FOOD 2.5
+  price: 2.50
+  event_price: 3.75
+  currency: FOOD2.5
+  category: food
 - name: Other Snack
   price: 0.60
   event_price: 0.90
