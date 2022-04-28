@@ -216,3 +216,11 @@
   Liabilities:Bar:Members:Sander   5.00 EUR    
   Income:Bar                      -5.00 EUR    
 
+2022-04-28 txn "Bloemist bought 3 items for €7.50"
+  timestamp: "2022-04-28 17:20:18.631274"
+  type: "purchase"
+  Assets:Inventory:Bar                 -3 FOOD2.5
+  Liabilities:Bar:Members:Bloemist      3 FOOD2.5
+  Liabilities:Bar:Members:Bloemist   7.50 EUR    
+  Income:Bar                        -7.50 EUR    
+
