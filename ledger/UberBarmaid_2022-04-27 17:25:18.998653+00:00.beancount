@@ -404,3 +404,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-04-28 txn "Carro​armato0 bought 3 items for €7.50"
+  timestamp: "2022-04-28 20:11:52.787054"
+  type: "purchase"
+  Assets:Inventory:Bar                     -3 FOOD2.5
+  Liabilities:Bar:Members:Carroarmato0      3 FOOD2.5
+  Liabilities:Bar:Members:Carroarmato0   7.50 EUR    
+  Income:Bar                            -7.50 EUR    
+
