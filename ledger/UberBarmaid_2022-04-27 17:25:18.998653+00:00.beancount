@@ -334,3 +334,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-04-28 txn "Fearless deposited €25.00"
+  timestamp: "2022-04-28 18:53:46.649794"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -25.00 EUR
+  Assets:Cash:Bar                    25.00 EUR
+
