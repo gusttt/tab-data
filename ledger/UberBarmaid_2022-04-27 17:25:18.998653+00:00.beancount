@@ -208,3 +208,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2022-04-28 txn "Sander bought 2 items for €5.00"
+  timestamp: "2022-04-28 17:07:45.458774"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 FOOD2.5
+  Liabilities:Bar:Members:Sander      2 FOOD2.5
+  Liabilities:Bar:Members:Sander   5.00 EUR    
+  Income:Bar                      -5.00 EUR    
+
