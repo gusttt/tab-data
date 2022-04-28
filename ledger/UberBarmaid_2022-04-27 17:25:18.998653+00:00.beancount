@@ -270,3 +270,13 @@
   Assets:Cash:Bar        0.60 EUR          
   Income:Bar            -0.60 EUR          
 
+2022-04-28 txn "Bloemist bought 3 items for €3.70"
+  timestamp: "2022-04-28 18:06:37.035456"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FOOD2.5
+  Liabilities:Bar:Members:Bloemist      1 FOOD2.5
+  Assets:Inventory:Bar                 -2 SNACK  
+  Liabilities:Bar:Members:Bloemist      2 SNACK  
+  Liabilities:Bar:Members:Bloemist   3.70 EUR    
+  Income:Bar                        -3.70 EUR    
+
