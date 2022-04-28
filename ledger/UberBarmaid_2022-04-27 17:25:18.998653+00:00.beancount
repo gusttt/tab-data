@@ -458,3 +458,11 @@
   Liabilities:Bar:Members:Stefaan   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-04-28 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2022-04-28 21:15:46.404565"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 FANTA
+  Liabilities:Bar:Members:Bloemist      2 FANTA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR  
+  Income:Bar                        -3.00 EUR  
+
