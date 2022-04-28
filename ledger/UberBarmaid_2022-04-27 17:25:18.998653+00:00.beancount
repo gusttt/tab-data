@@ -318,3 +318,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR  
   Income:Bar                   -1.50 EUR  
 
+2022-04-28 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-04-28 18:37:42.127961"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FANTA
+  Liabilities:Bar:Members:Carroarmato0      1 FANTA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR  
+  Income:Bar                            -1.50 EUR  
+
