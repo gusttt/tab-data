@@ -148,3 +148,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-04-28 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-04-28 14:21:34.059653"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Bart      1 JUPILER
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
