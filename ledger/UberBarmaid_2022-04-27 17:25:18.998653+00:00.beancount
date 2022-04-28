@@ -170,3 +170,19 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-04-28 txn "Carro​armato0 bought 5 items for €5.80"
+  timestamp: "2022-04-28 15:58:06.835522"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 MYSTERY 
+  Liabilities:Bar:Members:Carroarmato0      1 MYSTERY 
+  Assets:Inventory:Bar                     -1 AGRUMES 
+  Liabilities:Bar:Members:Carroarmato0      1 AGRUMES 
+  Assets:Inventory:Bar                     -1 BOUNTY  
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY  
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Assets:Inventory:Bar                     -1 KITKAT  
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT  
+  Liabilities:Bar:Members:Carroarmato0   5.80 EUR     
+  Income:Bar                            -5.80 EUR     
+
