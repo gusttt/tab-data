@@ -536,3 +536,11 @@
   Liabilities:Bar:Members:Koen   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-04-29 txn "Nachtvlinder bought 1 items for €1.50"
+  timestamp: "2022-04-29 02:01:10.887094"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 AGRUMES
+  Liabilities:Bar:Members:Maja      1 AGRUMES
+  Liabilities:Bar:Members:Maja   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
