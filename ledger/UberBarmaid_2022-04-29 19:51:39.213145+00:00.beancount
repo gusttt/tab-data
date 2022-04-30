@@ -58,3 +58,11 @@
   Liabilities:Bar:Members:Carroarmato0   5.00 EUR
   Liabilities:Bar:Members:Koen          -5.00 EUR
 
+2022-04-30 txn "Carro​armato0 bought 2 items for €4.00"
+  timestamp: "2022-04-30 11:49:52.870832"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 CM 
+  Liabilities:Bar:Members:Carroarmato0      2 CM 
+  Liabilities:Bar:Members:Carroarmato0   4.00 EUR
+  Income:Bar                            -4.00 EUR
+
