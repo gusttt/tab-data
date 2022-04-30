@@ -32,3 +32,11 @@
   Liabilities:Bar:Members:Elvis     0.07 EUR
   Liabilities:Bar:Members:Ljaytee  -0.07 EUR
 
+2022-04-30 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2022-04-30 11:41:42.509066"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
+  Income:Bar                            -1.20 EUR   
+
