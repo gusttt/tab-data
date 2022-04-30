@@ -40,3 +40,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR   
   Income:Bar                            -1.20 EUR   
 
+2022-04-30 txn "Carro​armato0 gave Els a gift of €15.00"
+  timestamp: "2022-04-30 11:43:05.751571"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   15.00 EUR
+  Liabilities:Bar:Members:Els           -15.00 EUR
+
