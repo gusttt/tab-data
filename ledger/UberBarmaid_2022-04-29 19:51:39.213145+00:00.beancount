@@ -442,3 +442,13 @@
   Assets:Cash:Bar        5.00 EUR    
   Income:Bar            -5.00 EUR    
 
+2022-05-05 txn "--CASH-- bought 4 items for €10.00"
+  timestamp: "2022-05-05 20:51:21.951235"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 MYSTERY
+  Assets:Cash:Bar            2 MYSTERY
+  Assets:Inventory:Bar      -2 FOOD2.5
+  Assets:Cash:Bar            2 FOOD2.5
+  Assets:Cash:Bar        10.00 EUR    
+  Income:Bar            -10.00 EUR    
+
