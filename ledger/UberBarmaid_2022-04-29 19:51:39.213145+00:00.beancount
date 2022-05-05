@@ -410,3 +410,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR
   Income:Bar                    -1.50 EUR
 
+2022-05-05 txn "Ewaut bought 2 items for €1.20"
+  timestamp: "2022-05-05 20:01:58.687427"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Ewaut      1 BOUNTY
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Ewaut      1 KITKAT
+  Liabilities:Bar:Members:Ewaut   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
