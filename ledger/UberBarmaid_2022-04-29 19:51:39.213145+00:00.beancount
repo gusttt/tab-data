@@ -468,3 +468,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-05-05 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2022-05-05 21:27:57.974187"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 MYSTERY
+  Assets:Cash:Bar           2 MYSTERY
+  Assets:Cash:Bar        5.00 EUR    
+  Income:Bar            -5.00 EUR    
+
