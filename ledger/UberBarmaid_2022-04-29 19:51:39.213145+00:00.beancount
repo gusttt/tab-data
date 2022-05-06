@@ -524,3 +524,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-05-06 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2022-05-06 13:33:38.794162"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
