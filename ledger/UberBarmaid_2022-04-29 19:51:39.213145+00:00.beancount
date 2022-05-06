@@ -508,3 +508,11 @@
   Liabilities:Bar:Members:Bloemist   2.40 EUR          
   Income:Bar                        -2.40 EUR          
 
+2022-05-06 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2022-05-06 06:53:55.918580"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Yvan      1 ICETEA
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
