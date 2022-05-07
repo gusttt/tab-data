@@ -554,3 +554,11 @@
   Liabilities:Bar:Members:Bloemist   21.75 EUR
   Liabilities:Bar:Members:Elvis     -21.75 EUR
 
+2022-05-07 txn "TQ bought 1 items for €2.00"
+  timestamp: "2022-05-07 16:03:06.882341"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMRED
+  Liabilities:Bar:Members:Thequux      1 CMRED
+  Liabilities:Bar:Members:Thequux   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
