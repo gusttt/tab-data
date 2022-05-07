@@ -548,3 +548,9 @@
   Liabilities:Bar:Members:Thequux   6.50 EUR
   Liabilities:Bar:Members:Elvis    -6.50 EUR
 
+2022-05-07 txn "Bloemist gave Evils a gift of €21.75"
+  timestamp: "2022-05-07 11:07:52.608876"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   21.75 EUR
+  Liabilities:Bar:Members:Elvis     -21.75 EUR
+
