@@ -542,3 +542,9 @@
   Liabilities:Bar:Members:Els   2.60 EUR     
   Income:Bar                   -2.60 EUR     
 
+2022-05-07 txn "TQ gave Evils a gift of €6.50"
+  timestamp: "2022-05-07 11:04:40.743467"
+  type: "transfer"
+  Liabilities:Bar:Members:Thequux   6.50 EUR
+  Liabilities:Bar:Members:Elvis    -6.50 EUR
+
