@@ -666,3 +666,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-05-10 txn "Fearless bought 1 items for €2.00"
+  timestamp: "2022-05-10 13:53:04.889953"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CM 
+  Liabilities:Bar:Members:Fearless      1 CM 
+  Liabilities:Bar:Members:Fearless   2.00 EUR
+  Income:Bar                        -2.00 EUR
+
