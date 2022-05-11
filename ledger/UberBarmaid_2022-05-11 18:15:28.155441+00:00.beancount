@@ -16,3 +16,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-05-11 txn "Evils bought 2 items for €4.00"
+  timestamp: "2022-05-11 18:18:09.356408"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FLORA
+  Liabilities:Bar:Members:Elvis      2 FLORA
+  Liabilities:Bar:Members:Elvis   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
