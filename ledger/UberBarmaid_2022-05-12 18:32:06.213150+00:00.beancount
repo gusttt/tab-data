@@ -100,3 +100,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-05-12 txn "Koen gave Carro​armato0 a gift of €10.20"
+  timestamp: "2022-05-12 19:23:27.144186"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen           10.20 EUR
+  Liabilities:Bar:Members:Carroarmato0  -10.20 EUR
+
