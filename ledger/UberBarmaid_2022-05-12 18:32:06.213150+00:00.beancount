@@ -304,3 +304,9 @@
   Liabilities:Bar:Members:Maja   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-05-12 txn "Stefaan gave TQ a gift of €0.40"
+  timestamp: "2022-05-12 22:15:43.309693"
+  type: "transfer"
+  Liabilities:Bar:Members:Stefaan   0.40 EUR
+  Liabilities:Bar:Members:Thequux  -0.40 EUR
+
