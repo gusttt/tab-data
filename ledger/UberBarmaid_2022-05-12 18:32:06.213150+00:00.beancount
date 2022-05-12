@@ -170,3 +170,13 @@
   Liabilities:Bar:Members:Miker   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-05-12 txn "Sander bought 2 items for €3.00"
+  timestamp: "2022-05-12 19:53:03.052903"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:Sander      1 ICETEA
+  Assets:Inventory:Bar               -1 FANTA 
+  Liabilities:Bar:Members:Sander      1 FANTA 
+  Liabilities:Bar:Members:Sander   3.00 EUR   
+  Income:Bar                      -3.00 EUR   
+
