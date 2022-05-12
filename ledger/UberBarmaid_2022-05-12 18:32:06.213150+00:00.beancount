@@ -204,3 +204,15 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-05-12 txn "Carro​armato0 bought 3 items for €1.80"
+  timestamp: "2022-05-12 20:05:49.590305"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BOUNTY
+  Liabilities:Bar:Members:Carroarmato0      1 BOUNTY
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0   1.80 EUR   
+  Income:Bar                            -1.80 EUR   
+
