@@ -118,3 +118,9 @@
   Liabilities:Bar:Members:Elvis          13.40 EUR
   Liabilities:Bar:Members:Carroarmato0  -13.40 EUR
 
+2022-05-12 txn "Nachtvlinder gave Carro​armato0 a gift of €6.70"
+  timestamp: "2022-05-12 19:25:04.600765"
+  type: "transfer"
+  Liabilities:Bar:Members:Maja           6.70 EUR
+  Liabilities:Bar:Members:Carroarmato0  -6.70 EUR
+
