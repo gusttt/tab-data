@@ -272,3 +272,11 @@
   Liabilities:Bar:Members:Bloemist       8.00 EUR
   Liabilities:Bar:Members:Carroarmato0  -8.00 EUR
 
+2022-05-12 txn "Stefaan bought 1 items for €1.50"
+  timestamp: "2022-05-12 21:37:38.229795"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Stefaan      1 FANTA
+  Liabilities:Bar:Members:Stefaan   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
