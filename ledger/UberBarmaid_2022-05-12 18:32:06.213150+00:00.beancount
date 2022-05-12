@@ -310,3 +310,13 @@
   Liabilities:Bar:Members:Stefaan   0.40 EUR
   Liabilities:Bar:Members:Thequux  -0.40 EUR
 
+2022-05-12 txn "Evils bought 2 items for €3.00"
+  timestamp: "2022-05-12 22:23:46.422294"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES  
+  Liabilities:Bar:Members:Elvis      1 AGRUMES  
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Elvis      1 SCHWEPPES
+  Liabilities:Bar:Members:Elvis   3.00 EUR      
+  Income:Bar                     -3.00 EUR      
+
