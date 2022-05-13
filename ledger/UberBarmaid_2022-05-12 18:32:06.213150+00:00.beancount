@@ -346,3 +346,9 @@
   Liabilities:Bar:Members:Yvan   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2022-05-13 txn "Evils gave Thomas a gift of €11.00"
+  timestamp: "2022-05-13 15:52:23.774436"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    11.00 EUR
+  Liabilities:Bar:Members:Thomas  -11.00 EUR
+
