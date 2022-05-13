@@ -352,3 +352,11 @@
   Liabilities:Bar:Members:Elvis    11.00 EUR
   Liabilities:Bar:Members:Thomas  -11.00 EUR
 
+2022-05-13 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-05-13 17:15:32.869255"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Elvis      1 COKE
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
