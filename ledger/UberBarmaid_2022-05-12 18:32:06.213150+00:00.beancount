@@ -526,3 +526,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR  
   Income:Bar                        -1.50 EUR  
 
+2022-05-15 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-05-15 19:56:36.579346"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Elvis      1 KITKAT
+  Liabilities:Bar:Members:Elvis   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
