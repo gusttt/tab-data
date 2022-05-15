@@ -518,3 +518,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-05-15 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-05-15 19:31:37.607290"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Bloemist      1 FANTA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR  
+  Income:Bar                        -1.50 EUR  
+
