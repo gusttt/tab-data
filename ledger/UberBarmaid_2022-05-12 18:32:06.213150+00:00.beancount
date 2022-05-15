@@ -494,3 +494,11 @@
   Liabilities:Bar:Members:Merlijn   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2022-05-15 txn "Fearless bought 1 items for €1.00"
+  timestamp: "2022-05-15 19:14:05.953914"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Fearless      1 CHIP
+  Liabilities:Bar:Members:Fearless   1.00 EUR 
+  Income:Bar                        -1.00 EUR 
+
