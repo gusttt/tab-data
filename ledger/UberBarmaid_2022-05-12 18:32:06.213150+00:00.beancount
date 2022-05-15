@@ -474,3 +474,13 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR      
   Income:Bar                        -1.50 EUR      
 
+2022-05-15 txn "Carro​armato0 bought 3 items for €3.20"
+  timestamp: "2022-05-15 18:16:26.955674"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM    
+  Liabilities:Bar:Members:Carroarmato0      1 CM    
+  Assets:Inventory:Bar                     -2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      2 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   3.20 EUR   
+  Income:Bar                            -3.20 EUR   
+
