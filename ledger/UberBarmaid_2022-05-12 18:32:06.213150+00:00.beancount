@@ -402,3 +402,15 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-05-15 txn "Yvan bought 3 items for €2.70"
+  timestamp: "2022-05-15 12:41:43.051273"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Yvan      1 SCHWEPPES
+  Assets:Inventory:Bar             -1 TWIX     
+  Liabilities:Bar:Members:Yvan      1 TWIX     
+  Assets:Inventory:Bar             -1 KITKAT   
+  Liabilities:Bar:Members:Yvan      1 KITKAT   
+  Liabilities:Bar:Members:Yvan   2.70 EUR      
+  Income:Bar                    -2.70 EUR      
+
