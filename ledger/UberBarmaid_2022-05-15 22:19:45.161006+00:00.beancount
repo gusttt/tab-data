@@ -98,3 +98,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR    
   Income:Bar                        -2.50 EUR    
 
+2022-05-17 txn "Bloemist bought 1 items for €0.70"
+  timestamp: "2022-05-17 15:26:28.372792"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHOCO_MILK
+  Liabilities:Bar:Members:Bloemist      1 CHOCO_MILK
+  Liabilities:Bar:Members:Bloemist   0.70 EUR       
+  Income:Bar                        -0.70 EUR       
+
