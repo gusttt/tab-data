@@ -42,3 +42,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-05-17 txn "Bloemist bought 2 items for €2.10"
+  timestamp: "2022-05-17 21:34:19.106456"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Assets:Inventory:Bar                 -1 TWIX   
+  Liabilities:Bar:Members:Bloemist      1 TWIX   
+  Liabilities:Bar:Members:Bloemist   2.10 EUR    
+  Income:Bar                        -2.10 EUR    
+
