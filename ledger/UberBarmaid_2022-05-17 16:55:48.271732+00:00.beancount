@@ -1,0 +1,6 @@
+2022-05-17 txn "Netman deposited €2.00"
+  timestamp: "2022-05-17 16:55:48.268913"
+  type: "deposit"
+  Liabilities:Bar:Members:Netman  -2.00 EUR
+  Assets:Cash:Bar                  2.00 EUR
+
