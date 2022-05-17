@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-05-17 txn "Yvan bought 1 items for €1.20"
+  timestamp: "2022-05-17 11:30:43.492922"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 NAKD
+  Liabilities:Bar:Members:Yvan      1 NAKD
+  Liabilities:Bar:Members:Yvan   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
