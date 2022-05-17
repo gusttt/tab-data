@@ -34,3 +34,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR 
   Income:Bar                        -0.60 EUR 
 
+2022-05-17 txn "Koen bought 1 items for €1.50"
+  timestamp: "2022-05-17 20:06:54.620708"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
