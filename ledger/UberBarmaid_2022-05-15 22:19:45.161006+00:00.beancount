@@ -114,3 +114,11 @@
   Liabilities:Bar:Members:Elvis   0.70 EUR       
   Income:Bar                     -0.70 EUR       
 
+2022-05-17 txn "Netman bought 1 items for €1.50"
+  timestamp: "2022-05-17 15:26:51.982970"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 AGRUMES
+  Liabilities:Bar:Members:Netman      1 AGRUMES
+  Liabilities:Bar:Members:Netman   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
