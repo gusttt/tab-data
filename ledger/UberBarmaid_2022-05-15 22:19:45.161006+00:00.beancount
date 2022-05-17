@@ -122,3 +122,11 @@
   Liabilities:Bar:Members:Netman   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-05-17 txn "Netman bought 1 items for €1.00"
+  timestamp: "2022-05-17 15:28:02.161626"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Netman      1 CHIP
+  Liabilities:Bar:Members:Netman   1.00 EUR 
+  Income:Bar                      -1.00 EUR 
+
