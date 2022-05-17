@@ -154,3 +154,11 @@
   Liabilities:Bar:Members:Netman   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-05-17 txn "Netman bought 2 items for €3.00"
+  timestamp: "2022-05-17 16:32:26.467280"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 JUPILER
+  Liabilities:Bar:Members:Netman      2 JUPILER
+  Liabilities:Bar:Members:Netman   3.00 EUR    
+  Income:Bar                      -3.00 EUR    
+
