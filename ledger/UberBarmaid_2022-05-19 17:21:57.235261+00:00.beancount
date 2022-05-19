@@ -68,3 +68,11 @@
   Liabilities:Bar:Members:Merlijn   1.60 EUR   
   Income:Bar                       -1.60 EUR   
 
+2022-05-19 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-05-19 17:51:57.302813"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Miker      1 JUPILER
+  Liabilities:Bar:Members:Miker   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
