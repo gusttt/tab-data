@@ -140,3 +140,13 @@
   Liabilities:Bar:Members:Ewaut   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-05-19 txn "Thomas bought 2 items for €3.50"
+  timestamp: "2022-05-19 18:49:04.946274"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 MYSTERY
+  Liabilities:Bar:Members:Thomas      1 MYSTERY
+  Assets:Inventory:Bar               -1 CHIP   
+  Liabilities:Bar:Members:Thomas      1 CHIP   
+  Liabilities:Bar:Members:Thomas   3.50 EUR    
+  Income:Bar                      -3.50 EUR    
+
