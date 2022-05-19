@@ -276,3 +276,11 @@
   Liabilities:Bar:Members:Miker   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-05-19 txn "Evils bought 1 items for €0.70"
+  timestamp: "2022-05-19 22:01:45.057590"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHOCO_MILK
+  Liabilities:Bar:Members:Elvis      1 CHOCO_MILK
+  Liabilities:Bar:Members:Elvis   0.70 EUR       
+  Income:Bar                     -0.70 EUR       
+
