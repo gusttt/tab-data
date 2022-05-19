@@ -176,3 +176,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR      
   Income:Bar                     -1.50 EUR      
 
+2022-05-19 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-05-19 19:15:32.931087"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 AGRUMES
+  Liabilities:Bar:Members:Sander      1 AGRUMES
+  Liabilities:Bar:Members:Sander   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
