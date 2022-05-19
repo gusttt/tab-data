@@ -268,3 +268,11 @@
   Assets:Cash:Bar        2.00 EUR       
   Income:Bar            -2.00 EUR       
 
+2022-05-19 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-05-19 21:35:54.609936"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Liabilities:Bar:Members:Miker   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
