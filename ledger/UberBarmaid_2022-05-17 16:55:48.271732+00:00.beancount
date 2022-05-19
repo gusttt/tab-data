@@ -100,3 +100,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-05-19 txn "qwaxys bought 2 items for €4.00"
+  timestamp: "2022-05-19 12:28:02.197921"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CMRED
+  Liabilities:Bar:Members:Bart      2 CMRED
+  Liabilities:Bar:Members:Bart   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
