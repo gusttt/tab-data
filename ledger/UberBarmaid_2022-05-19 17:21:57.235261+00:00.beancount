@@ -58,3 +58,13 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-05-19 txn "Merlijn bought 2 items for €1.60"
+  timestamp: "2022-05-19 17:28:33.938567"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Merlijn      1 KITKAT
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Merlijn      1 CHIP  
+  Liabilities:Bar:Members:Merlijn   1.60 EUR   
+  Income:Bar                       -1.60 EUR   
+
