@@ -316,3 +316,11 @@
   Liabilities:Bar:Members:Bloemist  -20.00 EUR
   Assets:Cash:Bar                    20.00 EUR
 
+2022-05-21 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-05-21 13:40:18.912650"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Liabilities:Bar:Members:Miker   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
