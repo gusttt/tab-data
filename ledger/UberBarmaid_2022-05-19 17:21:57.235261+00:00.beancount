@@ -690,3 +690,9 @@
   Liabilities:Bar:Members:Koen  -12.00 EUR
   Assets:Cash:Bar                12.00 EUR
 
+2022-05-26 txn "On8wr gave Bloemist a gift of €13.30"
+  timestamp: "2022-05-26 23:02:34.401043"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr      13.30 EUR
+  Liabilities:Bar:Members:Bloemist  -13.30 EUR
+
