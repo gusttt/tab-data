@@ -710,3 +710,11 @@
   Liabilities:Bar:Members:On8wr   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-05-26 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2022-05-26 23:20:27.930353"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist      2 SCHWEPPES
+  Liabilities:Bar:Members:Bloemist   3.00 EUR      
+  Income:Bar                        -3.00 EUR      
+
