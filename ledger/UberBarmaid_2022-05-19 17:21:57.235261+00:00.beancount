@@ -476,3 +476,9 @@
   Liabilities:Bar:Members:Matth   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-05-26 txn "Matth deposited €2.00"
+  timestamp: "2022-05-26 16:19:46.273916"
+  type: "deposit"
+  Liabilities:Bar:Members:Matth  -2.00 EUR
+  Assets:Cash:Bar                 2.00 EUR
+
