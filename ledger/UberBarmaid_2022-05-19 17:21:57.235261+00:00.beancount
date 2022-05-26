@@ -678,3 +678,9 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2022-05-26 txn "Koen gave Bloemist a gift of €10.50"
+  timestamp: "2022-05-26 23:00:50.117778"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen       10.50 EUR
+  Liabilities:Bar:Members:Bloemist  -10.50 EUR
+
