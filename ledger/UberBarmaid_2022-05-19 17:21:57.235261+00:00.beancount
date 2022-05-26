@@ -586,3 +586,11 @@
   Liabilities:Bar:Members:Bart   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-05-26 txn "Miker bought 1 items for €2.00"
+  timestamp: "2022-05-26 20:11:55.167061"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Miker      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Miker   2.00 EUR       
+  Income:Bar                     -2.00 EUR       
+
