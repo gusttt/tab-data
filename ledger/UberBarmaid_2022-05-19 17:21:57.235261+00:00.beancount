@@ -638,3 +638,11 @@
   Liabilities:Bar:Members:Koen  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2022-05-26 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2022-05-26 21:21:44.290121"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Fearless      1 ICETEA
+  Liabilities:Bar:Members:Fearless   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
