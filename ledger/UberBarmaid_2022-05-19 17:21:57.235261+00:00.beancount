@@ -718,3 +718,15 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR      
   Income:Bar                        -3.00 EUR      
 
+2022-05-27 txn "Nachtvlinder bought 4 items for €4.70"
+  timestamp: "2022-05-27 18:27:33.357054"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM    
+  Liabilities:Bar:Members:Maja      1 CM    
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Assets:Inventory:Bar             -2 BOUNTY
+  Liabilities:Bar:Members:Maja      2 BOUNTY
+  Liabilities:Bar:Members:Maja   4.70 EUR   
+  Income:Bar                    -4.70 EUR   
+
