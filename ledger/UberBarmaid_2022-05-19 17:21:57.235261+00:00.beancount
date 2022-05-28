@@ -760,3 +760,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
   Income:Bar                            -1.20 EUR     
 
+2022-05-28 txn "Nachtvlinder bought 2 items for €2.60"
+  timestamp: "2022-05-28 17:19:40.953357"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Maja      1 FRITZ 
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Maja      1 BOUNTY
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
