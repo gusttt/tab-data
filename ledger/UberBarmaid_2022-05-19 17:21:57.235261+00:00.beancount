@@ -770,3 +770,13 @@
   Liabilities:Bar:Members:Maja   2.60 EUR   
   Income:Bar                    -2.60 EUR   
 
+2022-05-28 txn "Nachtvlinder bought 2 items for €2.50"
+  timestamp: "2022-05-28 18:09:16.660964"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Maja      1 COKE
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Maja      1 CHIP
+  Liabilities:Bar:Members:Maja   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
