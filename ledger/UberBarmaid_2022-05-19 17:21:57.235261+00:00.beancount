@@ -1068,3 +1068,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-02 txn "Fearless bought 1 items for €2.00"
+  timestamp: "2022-06-02 22:18:35.347136"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FRITZ
+  Liabilities:Bar:Members:Fearless      1 FRITZ
+  Liabilities:Bar:Members:Fearless   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
