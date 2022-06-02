@@ -1076,3 +1076,9 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2022-06-02 txn "Sander deposited €50.00"
+  timestamp: "2022-06-02 22:24:50.585837"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
