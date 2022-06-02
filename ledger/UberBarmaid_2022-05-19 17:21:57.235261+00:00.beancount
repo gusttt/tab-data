@@ -914,3 +914,11 @@
   Liabilities:Bar:Members:Maja   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2022-06-02 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-06-02 16:35:52.349343"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Elvis      1 COKE
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
