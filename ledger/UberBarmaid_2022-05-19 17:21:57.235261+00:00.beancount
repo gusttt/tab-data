@@ -886,3 +886,13 @@
   Liabilities:Bar:Members:Maja   2.60 EUR   
   Income:Bar                    -2.60 EUR   
 
+2022-06-02 txn "Sander bought 2 items for €2.60"
+  timestamp: "2022-06-02 14:55:48.570105"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ 
+  Liabilities:Bar:Members:Sander      1 FRITZ 
+  Assets:Inventory:Bar               -1 BOUNTY
+  Liabilities:Bar:Members:Sander      1 BOUNTY
+  Liabilities:Bar:Members:Sander   2.60 EUR   
+  Income:Bar                      -2.60 EUR   
+
