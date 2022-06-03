@@ -1096,3 +1096,11 @@
   Liabilities:Bar:Members:Maja   0.70 EUR       
   Income:Bar                    -0.70 EUR       
 
+2022-06-03 txn "Nachtvlinder bought 1 items for €2.00"
+  timestamp: "2022-06-03 17:08:41.801658"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Maja      1 FRITZ
+  Liabilities:Bar:Members:Maja   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
