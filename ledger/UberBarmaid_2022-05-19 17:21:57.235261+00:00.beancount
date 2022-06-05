@@ -1124,3 +1124,13 @@
   Liabilities:Bar:Members:Maja   2.60 EUR   
   Income:Bar                    -2.60 EUR   
 
+2022-06-05 txn "Els bought 2 items for €2.60"
+  timestamp: "2022-06-05 14:30:36.919164"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ 
+  Liabilities:Bar:Members:Els      1 FRITZ 
+  Assets:Inventory:Bar            -1 KITKAT
+  Liabilities:Bar:Members:Els      1 KITKAT
+  Liabilities:Bar:Members:Els   2.60 EUR   
+  Income:Bar                   -2.60 EUR   
+
