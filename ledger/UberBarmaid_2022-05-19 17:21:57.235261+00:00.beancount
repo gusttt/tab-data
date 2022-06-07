@@ -1188,3 +1188,11 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2022-06-07 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-06-07 16:39:05.047724"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
+  Liabilities:Bar:Members:Elvis   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
