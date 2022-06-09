@@ -1454,3 +1454,9 @@
   Liabilities:Bar:Members:Els   2.00 EUR  
   Income:Bar                   -2.00 EUR  
 
+2022-06-09 txn "Koen gave Matth a gift of €10.00"
+  timestamp: "2022-06-09 17:16:33.958488"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen    10.00 EUR
+  Liabilities:Bar:Members:Matth  -10.00 EUR
+
