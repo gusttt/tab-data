@@ -1490,3 +1490,9 @@
   Assets:Cash:Bar        2.00 EUR       
   Income:Bar            -2.00 EUR       
 
+2022-06-09 txn "qwaxys deposited €10.00"
+  timestamp: "2022-06-09 17:22:26.241868"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
