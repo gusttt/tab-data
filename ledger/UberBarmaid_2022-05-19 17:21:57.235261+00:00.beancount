@@ -1524,3 +1524,11 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2022-06-09 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-06-09 17:35:36.466293"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
