@@ -1380,3 +1380,11 @@
   Liabilities:Bar:Members:Maja   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2022-06-09 txn "Koen bought 1 items for €1.50"
+  timestamp: "2022-06-09 16:06:41.116409"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
