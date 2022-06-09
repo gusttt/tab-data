@@ -1676,3 +1676,11 @@
   Liabilities:Bar:Members:Elvis      12.00 EUR
   Liabilities:Bar:Members:Bloemist  -12.00 EUR
 
+2022-06-09 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-06-09 20:03:32.346427"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
