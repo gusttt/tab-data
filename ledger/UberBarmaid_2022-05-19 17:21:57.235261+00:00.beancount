@@ -1548,3 +1548,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.20 EUR     
   Income:Bar                            -1.20 EUR     
 
+2022-06-09 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-06-09 17:55:23.313502"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 COKE
+  Liabilities:Bar:Members:Carroarmato0      1 COKE
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR 
+  Income:Bar                            -1.50 EUR 
+
