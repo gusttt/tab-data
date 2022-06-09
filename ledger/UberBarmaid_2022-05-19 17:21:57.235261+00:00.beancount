@@ -1508,3 +1508,11 @@
   Liabilities:Bar:Members:Koen   20.00 EUR
   Assets:Cash:Bar               -20.00 EUR
 
+2022-06-09 txn "Evils bought 1 items for €2.00"
+  timestamp: "2022-06-09 17:28:49.042665"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
