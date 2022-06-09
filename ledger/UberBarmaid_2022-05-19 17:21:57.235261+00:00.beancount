@@ -1622,3 +1622,11 @@
   Liabilities:Bar:Members:Fullscreen   1.50 EUR      
   Income:Bar                          -1.50 EUR      
 
+2022-06-09 txn "Matth bought 1 items for €1.50"
+  timestamp: "2022-06-09 19:09:16.205350"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Matth      1 FANTA
+  Liabilities:Bar:Members:Matth   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
