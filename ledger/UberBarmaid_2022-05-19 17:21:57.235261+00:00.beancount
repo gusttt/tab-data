@@ -1670,3 +1670,9 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-06-09 txn "Evils gave Bloemist a gift of €12.00"
+  timestamp: "2022-06-09 19:49:06.877191"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis      12.00 EUR
+  Liabilities:Bar:Members:Bloemist  -12.00 EUR
+
