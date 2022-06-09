@@ -1630,3 +1630,11 @@
   Liabilities:Bar:Members:Matth   1.50 EUR  
   Income:Bar                     -1.50 EUR  
 
+2022-06-09 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2022-06-09 19:15:42.212488"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
