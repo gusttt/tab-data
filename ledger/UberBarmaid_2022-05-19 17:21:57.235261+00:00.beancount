@@ -1460,3 +1460,9 @@
   Liabilities:Bar:Members:Koen    10.00 EUR
   Liabilities:Bar:Members:Matth  -10.00 EUR
 
+2022-06-09 txn "qwaxys gave Matth a gift of €17.00"
+  timestamp: "2022-06-09 17:17:15.808184"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart    17.00 EUR
+  Liabilities:Bar:Members:Matth  -17.00 EUR
+
