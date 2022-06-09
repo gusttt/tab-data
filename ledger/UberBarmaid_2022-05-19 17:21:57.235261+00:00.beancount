@@ -1496,3 +1496,9 @@
   Liabilities:Bar:Members:Bart  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2022-06-09 txn "Koen deposited €40.00"
+  timestamp: "2022-06-09 17:22:28.531764"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -40.00 EUR
+  Assets:Cash:Bar                40.00 EUR
+
