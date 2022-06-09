@@ -1370,3 +1370,13 @@
   Assets:Cash:Bar                 2.00 EUR
   Liabilities:Bar:Members:Matth  -2.00 EUR
 
+2022-06-09 txn "Nachtvlinder bought 2 items for €2.10"
+  timestamp: "2022-06-09 15:05:00.656412"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Maja      1 KITKAT
+  Liabilities:Bar:Members:Maja   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
