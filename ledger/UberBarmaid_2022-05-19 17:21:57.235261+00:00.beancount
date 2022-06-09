@@ -1516,3 +1516,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-09 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2022-06-09 17:31:40.649550"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
