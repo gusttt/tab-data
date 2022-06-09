@@ -1350,3 +1350,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-09 txn "Matth bought 1 items for €2.00"
+  timestamp: "2022-06-09 14:18:58.568877"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Matth      1 CMRED
+  Liabilities:Bar:Members:Matth   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
