@@ -1646,3 +1646,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-09 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-06-09 19:33:26.699140"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
