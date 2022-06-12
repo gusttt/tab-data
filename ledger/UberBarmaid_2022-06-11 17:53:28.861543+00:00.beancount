@@ -90,3 +90,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2022-06-12 txn "Carro​armato0 bought 3 items for €2.70"
+  timestamp: "2022-06-12 14:12:45.337841"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 KITKAT 
+  Liabilities:Bar:Members:Carroarmato0      2 KITKAT 
+  Assets:Inventory:Bar                     -1 AGRUMES
+  Liabilities:Bar:Members:Carroarmato0      1 AGRUMES
+  Liabilities:Bar:Members:Carroarmato0   2.70 EUR    
+  Income:Bar                            -2.70 EUR    
+
