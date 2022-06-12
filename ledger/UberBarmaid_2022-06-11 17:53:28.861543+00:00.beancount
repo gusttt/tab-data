@@ -130,3 +130,11 @@
   Liabilities:Bar:Members:Sander   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-06-12 txn "Evils bought 2 items for €4.00"
+  timestamp: "2022-06-12 17:55:26.014689"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FRITZ
+  Liabilities:Bar:Members:Elvis      2 FRITZ
+  Liabilities:Bar:Members:Elvis   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
