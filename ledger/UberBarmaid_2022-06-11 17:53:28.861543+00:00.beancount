@@ -228,3 +228,11 @@
   Liabilities:Bar:Members:Matth   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-16 txn "Matth bought 2 items for €3.00"
+  timestamp: "2022-06-16 14:33:43.190084"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 ICETEA
+  Liabilities:Bar:Members:Matth      2 ICETEA
+  Liabilities:Bar:Members:Matth   3.00 EUR   
+  Income:Bar                     -3.00 EUR   
+
