@@ -368,3 +368,11 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-06-16 txn "Els bought 1 items for €0.60"
+  timestamp: "2022-06-16 18:40:03.161689"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   0.60 EUR     
+  Income:Bar                   -0.60 EUR     
+
