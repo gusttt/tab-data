@@ -530,3 +530,11 @@
   Liabilities:Bar:Members:Maja   3.00 EUR 
   Income:Bar                    -3.00 EUR 
 
+2022-06-16 txn "Nachtvlinder bought 1 items for €0.60"
+  timestamp: "2022-06-16 22:03:24.561613"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Maja      1 KITKAT
+  Liabilities:Bar:Members:Maja   0.60 EUR   
+  Income:Bar                    -0.60 EUR   
+
