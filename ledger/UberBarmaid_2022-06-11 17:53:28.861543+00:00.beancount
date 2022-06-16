@@ -336,3 +336,13 @@
   Liabilities:Bar:Members:Matth  -1.50 EUR
   Assets:Cash:Bar                 1.50 EUR
 
+2022-06-16 txn "Els bought 2 items for €3.50"
+  timestamp: "2022-06-16 18:11:33.939802"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FRITZ 
+  Liabilities:Bar:Members:Els      1 FRITZ 
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   3.50 EUR   
+  Income:Bar                   -3.50 EUR   
+
