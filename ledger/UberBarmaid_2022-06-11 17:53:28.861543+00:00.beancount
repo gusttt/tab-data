@@ -260,3 +260,11 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-06-16 txn "Matth bought 1 items for €2.00"
+  timestamp: "2022-06-16 16:20:48.133938"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Matth      1 CM 
+  Liabilities:Bar:Members:Matth   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
