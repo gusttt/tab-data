@@ -210,3 +210,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2022-06-16 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-06-16 13:33:29.577190"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ 
+  Liabilities:Bar:Members:Yvan      1 FRITZ 
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
