@@ -424,3 +424,13 @@
   Liabilities:Bar:Members:DJefke   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-06-16 txn "Matth bought 2 items for €4.00"
+  timestamp: "2022-06-16 19:16:08.553782"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:Matth      1 CM   
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Matth      1 FRITZ
+  Liabilities:Bar:Members:Matth   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
