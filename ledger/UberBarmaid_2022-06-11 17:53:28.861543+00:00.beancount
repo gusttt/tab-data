@@ -392,3 +392,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-06-16 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2022-06-16 18:41:40.248130"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ_ZERO
+  Assets:Cash:Bar           1 FRITZ_ZERO
+  Assets:Cash:Bar        2.00 EUR       
+  Income:Bar            -2.00 EUR       
+
