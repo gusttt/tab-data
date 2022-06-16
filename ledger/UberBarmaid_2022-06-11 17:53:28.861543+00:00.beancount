@@ -320,3 +320,13 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-16 txn "Matth bought 2 items for €3.50"
+  timestamp: "2022-06-16 18:06:44.275751"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Matth      1 FANTA
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Matth      1 FRITZ
+  Liabilities:Bar:Members:Matth   3.50 EUR  
+  Income:Bar                     -3.50 EUR  
+
