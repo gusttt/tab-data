@@ -292,3 +292,9 @@
   Assets:Cash:Bar        2.00 EUR       
   Income:Bar            -2.00 EUR       
 
+2022-06-16 txn "Nachtvlinder deposited €30.00"
+  timestamp: "2022-06-16 17:30:36.226065"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
