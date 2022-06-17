@@ -44,3 +44,9 @@
   Liabilities:Bar:Members:Maja   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-06-17 txn "Yvan gave Carro​armato0 a gift of €4.05"
+  timestamp: "2022-06-17 19:00:13.944199"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan           4.05 EUR
+  Liabilities:Bar:Members:Carroarmato0  -4.05 EUR
+
