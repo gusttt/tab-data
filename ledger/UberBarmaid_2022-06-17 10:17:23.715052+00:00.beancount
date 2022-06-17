@@ -26,3 +26,13 @@
   Liabilities:Bar:Members:Maja   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-06-17 txn "Nachtvlinder bought 2 items for €2.10"
+  timestamp: "2022-06-17 14:03:32.140569"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Assets:Inventory:Bar             -1 TWIX  
+  Liabilities:Bar:Members:Maja      1 TWIX  
+  Liabilities:Bar:Members:Maja   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
