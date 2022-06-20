@@ -172,3 +172,13 @@
   Liabilities:Bar:Members:On8wr   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-06-20 txn "qwaxys bought 2 items for €3.00"
+  timestamp: "2022-06-20 16:24:01.640689"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 AGRUMES
+  Liabilities:Bar:Members:Bart      1 AGRUMES
+  Assets:Inventory:Bar             -1 FANTA  
+  Liabilities:Bar:Members:Bart      1 FANTA  
+  Liabilities:Bar:Members:Bart   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
