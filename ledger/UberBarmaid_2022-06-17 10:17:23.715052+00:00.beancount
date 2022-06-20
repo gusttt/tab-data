@@ -154,3 +154,13 @@
   Liabilities:Bar:Members:Bart   1.50 EUR      
   Income:Bar                    -1.50 EUR      
 
+2022-06-20 txn "On8wr bought 2 items for €3.50"
+  timestamp: "2022-06-20 15:11:49.640724"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:On8wr      1 ICETEA
+  Assets:Inventory:Bar              -1 CM    
+  Liabilities:Bar:Members:On8wr      1 CM    
+  Liabilities:Bar:Members:On8wr   3.50 EUR   
+  Income:Bar                     -3.50 EUR   
+
