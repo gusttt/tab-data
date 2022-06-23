@@ -284,3 +284,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR     
   Income:Bar                       -0.60 EUR     
 
+2022-06-23 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-06-23 16:37:19.126951"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Stefaan      1 SNICKERS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR     
+  Income:Bar                       -0.60 EUR     
+
