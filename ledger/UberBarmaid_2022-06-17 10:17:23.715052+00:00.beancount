@@ -420,3 +420,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-06-24 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-06-24 04:19:55.373944"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Elvis      1 FANTA
+  Liabilities:Bar:Members:Elvis   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
