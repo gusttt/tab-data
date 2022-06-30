@@ -730,3 +730,9 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-06-30 txn "Matth deposited €10.00"
+  timestamp: "2022-06-30 20:51:57.714424"
+  type: "deposit"
+  Liabilities:Bar:Members:Matth  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
