@@ -708,3 +708,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-06-30 txn "Sander deposited €25.00"
+  timestamp: "2022-06-30 20:27:23.701151"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -25.00 EUR
+  Assets:Cash:Bar                  25.00 EUR
+
