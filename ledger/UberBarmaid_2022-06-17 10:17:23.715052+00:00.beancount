@@ -786,3 +786,11 @@
   Liabilities:Bar:Members:Bart  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2022-06-30 txn "qwaxys bought 1 items for €1.00"
+  timestamp: "2022-06-30 21:15:09.942512"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Bart      1 ICE_CREAM
+  Liabilities:Bar:Members:Bart   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+
