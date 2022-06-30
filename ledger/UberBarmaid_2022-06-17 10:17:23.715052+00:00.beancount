@@ -598,3 +598,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-06-30 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-06-30 17:48:52.705263"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        1.00 EUR 
+  Income:Bar            -1.00 EUR 
+
