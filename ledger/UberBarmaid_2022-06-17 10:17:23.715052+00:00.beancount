@@ -750,3 +750,11 @@
   Liabilities:Bar:Members:Matth   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2022-06-30 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-06-30 20:59:06.798929"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Elvis      1 SNICKERS
+  Liabilities:Bar:Members:Elvis   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
