@@ -522,3 +522,11 @@
   Liabilities:Bar:Members:Yvan   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-06-30 txn "Yvan bought 1 items for €1.00"
+  timestamp: "2022-06-30 10:17:17.433550"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan      1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+
