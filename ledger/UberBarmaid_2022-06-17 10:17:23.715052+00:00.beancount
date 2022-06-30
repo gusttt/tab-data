@@ -606,3 +606,11 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2022-06-30 txn "Yvan bought 1 items for €1.00"
+  timestamp: "2022-06-30 17:53:31.506134"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan      1 ICE_CREAM
+  Liabilities:Bar:Members:Yvan   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+
