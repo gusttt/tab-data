@@ -780,3 +780,9 @@
   Liabilities:Bar:Members:Bart           8.50 EUR
   Liabilities:Bar:Members:Carroarmato0  -8.50 EUR
 
+2022-06-30 txn "qwaxys deposited €10.00"
+  timestamp: "2022-06-30 21:14:43.586074"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
