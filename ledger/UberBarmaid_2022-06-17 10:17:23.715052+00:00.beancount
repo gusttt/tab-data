@@ -530,3 +530,13 @@
   Liabilities:Bar:Members:Yvan   1.00 EUR      
   Income:Bar                    -1.00 EUR      
 
+2022-06-30 txn "Miker bought 3 items for €6.00"
+  timestamp: "2022-06-30 13:11:43.508348"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CMRED
+  Liabilities:Bar:Members:Miker      2 CMRED
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Miker      1 FRITZ
+  Liabilities:Bar:Members:Miker   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
