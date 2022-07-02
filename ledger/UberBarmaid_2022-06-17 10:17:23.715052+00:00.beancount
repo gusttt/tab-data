@@ -818,3 +818,9 @@
   Liabilities:Bar:Members:Maja   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-07-02 txn "Evils gave qwaxys a gift of €2.00"
+  timestamp: "2022-07-02 14:55:36.412572"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   2.00 EUR
+  Liabilities:Bar:Members:Bart   -2.00 EUR
+
