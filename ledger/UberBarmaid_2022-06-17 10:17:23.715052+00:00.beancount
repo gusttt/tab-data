@@ -888,3 +888,9 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2022-07-04 txn "Sander gave Carro​armato0 a gift of €14.95"
+  timestamp: "2022-07-04 18:35:29.143418"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander         14.95 EUR
+  Liabilities:Bar:Members:Carroarmato0  -14.95 EUR
+
