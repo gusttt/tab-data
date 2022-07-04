@@ -872,3 +872,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-07-04 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-07-04 15:24:31.499341"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 FANTA
+  Liabilities:Bar:Members:Carroarmato0      1 FANTA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR  
+  Income:Bar                            -1.50 EUR  
+
