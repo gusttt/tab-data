@@ -902,3 +902,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR  
   Income:Bar                            -2.00 EUR  
 
+2022-07-04 txn "qwaxys bought 1 items for €2.00"
+  timestamp: "2022-07-04 20:09:27.497023"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMRED
+  Liabilities:Bar:Members:Bart      1 CMRED
+  Liabilities:Bar:Members:Bart   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
