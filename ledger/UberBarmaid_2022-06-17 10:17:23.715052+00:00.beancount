@@ -918,3 +918,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR     
   Income:Bar                            -0.60 EUR     
 
+2022-07-06 txn "Miker bought 3 items for €6.00"
+  timestamp: "2022-07-06 11:48:39.263387"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 CMRED
+  Liabilities:Bar:Members:Miker      3 CMRED
+  Liabilities:Bar:Members:Miker   6.00 EUR  
+  Income:Bar                     -6.00 EUR  
+
