@@ -1042,3 +1042,9 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-07-07 txn "Evils deposited €50.20"
+  timestamp: "2022-07-07 21:19:05.852083"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -50.20 EUR
+  Assets:Cash:Bar                 50.20 EUR
+
