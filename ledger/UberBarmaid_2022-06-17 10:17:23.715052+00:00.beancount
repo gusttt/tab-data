@@ -960,3 +960,9 @@
   Liabilities:Bar:Members:Stefaan   2.10 EUR     
   Income:Bar                       -2.10 EUR     
 
+2022-07-07 txn "--CASH-- gave Stefaan a gift of €1.50"
+  timestamp: "2022-07-07 17:26:41.974886"
+  type: "transfer"
+  Assets:Cash:Bar                   1.50 EUR
+  Liabilities:Bar:Members:Stefaan  -1.50 EUR
+
