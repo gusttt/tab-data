@@ -976,3 +976,11 @@
   Liabilities:Bar:Members:Stefaan   2.60 EUR     
   Income:Bar                       -2.60 EUR     
 
+2022-07-07 txn "Joris bought 1 items for €2.00"
+  timestamp: "2022-07-07 18:00:23.925502"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Joris      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Joris   2.00 EUR       
+  Income:Bar                     -2.00 EUR       
+
