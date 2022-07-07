@@ -950,3 +950,13 @@
   Assets:Cash:Bar        2.00 EUR  
   Income:Bar            -2.00 EUR  
 
+2022-07-07 txn "Stefaan bought 2 items for €2.10"
+  timestamp: "2022-07-07 17:26:08.467108"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 AGRUMES 
+  Liabilities:Bar:Members:Stefaan      1 AGRUMES 
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Stefaan      1 SNICKERS
+  Liabilities:Bar:Members:Stefaan   2.10 EUR     
+  Income:Bar                       -2.10 EUR     
+
