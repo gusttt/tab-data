@@ -1168,3 +1168,9 @@
   Liabilities:Bar:Members:Fearless   4.00 EUR  
   Income:Bar                        -4.00 EUR  
 
+2022-07-08 txn "Carro​armato0 gave Fearless a gift of €7.50"
+  timestamp: "2022-07-08 18:59:20.030756"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   7.50 EUR
+  Liabilities:Bar:Members:Fearless      -7.50 EUR
+
