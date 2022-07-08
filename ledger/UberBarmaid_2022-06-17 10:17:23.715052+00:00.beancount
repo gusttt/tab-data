@@ -1122,3 +1122,9 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR      
   Income:Bar                        -1.00 EUR      
 
+2022-07-08 txn "Fearless gave Evils a gift of €10.35"
+  timestamp: "2022-07-08 18:13:29.846345"
+  type: "transfer"
+  Liabilities:Bar:Members:Fearless   10.35 EUR
+  Liabilities:Bar:Members:Elvis     -10.35 EUR
+
