@@ -1160,3 +1160,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-07-08 txn "Fearless bought 2 items for €4.00"
+  timestamp: "2022-07-08 18:56:24.468618"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 FRITZ
+  Liabilities:Bar:Members:Fearless      2 FRITZ
+  Liabilities:Bar:Members:Fearless   4.00 EUR  
+  Income:Bar                        -4.00 EUR  
+
