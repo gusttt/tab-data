@@ -1,0 +1,10 @@
+2022-07-10 txn "Bloemist bought 2 items for €2.50"
+  timestamp: "2022-07-10 18:25:52.393133"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICE_CREAM
+  Liabilities:Bar:Members:Bloemist      1 ICE_CREAM
+  Assets:Inventory:Bar                 -1 FANTA    
+  Liabilities:Bar:Members:Bloemist      1 FANTA    
+  Liabilities:Bar:Members:Bloemist   2.50 EUR      
+  Income:Bar                        -2.50 EUR      
+
