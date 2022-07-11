@@ -164,3 +164,9 @@
   Liabilities:Bar:Members:Jobj   2.50 EUR    
   Income:Bar                    -2.50 EUR    
 
+2022-07-11 txn "--CASH-- gave Jobj a gift of €0.50"
+  timestamp: "2022-07-11 15:52:08.266929"
+  type: "transfer"
+  Assets:Cash:Bar                0.50 EUR
+  Liabilities:Bar:Members:Jobj  -0.50 EUR
+
