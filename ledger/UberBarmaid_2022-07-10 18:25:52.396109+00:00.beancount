@@ -178,3 +178,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-07-11 txn "On8wr bought 1 items for €2.00"
+  timestamp: "2022-07-11 17:08:44.198449"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:On8wr      1 FRITZ
+  Liabilities:Bar:Members:On8wr   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
