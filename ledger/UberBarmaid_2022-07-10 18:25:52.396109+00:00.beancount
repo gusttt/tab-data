@@ -78,3 +78,11 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR  
   Income:Bar                     -1.50 EUR  
 
+2022-07-11 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-07-11 00:16:33.490992"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 AGRUMES
+  Liabilities:Bar:Members:Bloemist      1 AGRUMES
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
