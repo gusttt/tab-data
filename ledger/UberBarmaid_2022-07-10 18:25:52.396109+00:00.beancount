@@ -156,3 +156,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-07-11 txn "Jobj bought 1 items for €2.50"
+  timestamp: "2022-07-11 15:50:22.353329"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 MYSTERY
+  Liabilities:Bar:Members:Jobj      1 MYSTERY
+  Liabilities:Bar:Members:Jobj   2.50 EUR    
+  Income:Bar                    -2.50 EUR    
+
