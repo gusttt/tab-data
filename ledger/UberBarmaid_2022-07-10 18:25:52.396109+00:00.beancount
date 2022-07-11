@@ -170,3 +170,11 @@
   Assets:Cash:Bar                0.50 EUR
   Liabilities:Bar:Members:Jobj  -0.50 EUR
 
+2022-07-11 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-07-11 16:50:48.964690"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 AGRUMES
+  Liabilities:Bar:Members:Bart      1 AGRUMES
+  Liabilities:Bar:Members:Bart   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
