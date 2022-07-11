@@ -124,3 +124,11 @@
   Liabilities:Bar:Members:Jobj   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-07-11 txn "On8wr bought 1 items for €2.00"
+  timestamp: "2022-07-11 12:39:28.716154"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Liabilities:Bar:Members:On8wr   2.00 EUR
+  Income:Bar                     -2.00 EUR
+
