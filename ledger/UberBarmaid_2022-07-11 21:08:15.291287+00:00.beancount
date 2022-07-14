@@ -418,3 +418,11 @@
   Assets:Cash:Bar        2.00 EUR
   Income:Bar            -2.00 EUR
 
+2022-07-14 txn "Bloemist bought 3 items for €4.50"
+  timestamp: "2022-07-14 19:32:39.091484"
+  type: "purchase"
+  Assets:Inventory:Bar                 -3 JUPILER
+  Liabilities:Bar:Members:Bloemist      3 JUPILER
+  Liabilities:Bar:Members:Bloemist   4.50 EUR    
+  Income:Bar                        -4.50 EUR    
+
