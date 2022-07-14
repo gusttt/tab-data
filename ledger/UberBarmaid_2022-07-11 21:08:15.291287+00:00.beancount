@@ -370,3 +370,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2022-07-14 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-07-14 18:38:11.457341"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis   0.60 EUR          
+  Income:Bar                     -0.60 EUR          
+
