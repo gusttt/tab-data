@@ -494,3 +494,9 @@
   Liabilities:Bar:Members:Elvis        0.06 EUR
   Liabilities:Bar:Members:3D-printer  -0.06 EUR
 
+2022-07-15 txn "Evils gave 3D-printer a gift of €0.06"
+  timestamp: "2022-07-15 02:06:38.045441"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis        0.06 EUR
+  Liabilities:Bar:Members:3D-printer  -0.06 EUR
+
