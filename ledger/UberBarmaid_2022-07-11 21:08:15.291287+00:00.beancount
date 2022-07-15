@@ -516,3 +516,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2022-07-15 txn "Miker deposited €40.00"
+  timestamp: "2022-07-15 12:58:40.399742"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
