@@ -472,3 +472,11 @@
   Liabilities:Bar:Members:Bloemist  -30.00 EUR
   Assets:Cash:Bar                    30.00 EUR
 
+2022-07-15 txn "Evils bought 1 items for €2.00"
+  timestamp: "2022-07-15 00:38:35.234418"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Elvis      1 CMRED
+  Liabilities:Bar:Members:Elvis   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
