@@ -562,3 +562,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
   Income:Bar                            -1.50 EUR    
 
+2022-07-16 txn "Yvan bought 2 items for €2.00"
+  timestamp: "2022-07-16 17:33:21.437230"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 CHIP
+  Liabilities:Bar:Members:Yvan      2 CHIP
+  Liabilities:Bar:Members:Yvan   2.00 EUR 
+  Income:Bar                    -2.00 EUR 
+
