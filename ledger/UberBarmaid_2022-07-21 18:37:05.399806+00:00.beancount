@@ -36,3 +36,9 @@
   Liabilities:Bar:Members:Miker   20.00 EUR
   Liabilities:Bar:Members:Elvis  -20.00 EUR
 
+2022-07-21 txn "Miker deposited €40.00"
+  timestamp: "2022-07-21 19:36:02.992731"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
