@@ -58,3 +58,13 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2022-07-21 txn "Koen bought 2 items for €2.50"
+  timestamp: "2022-07-21 20:22:47.378768"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Koen      1 CHIP  
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Koen      1 ICETEA
+  Liabilities:Bar:Members:Koen   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
