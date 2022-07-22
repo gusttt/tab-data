@@ -112,3 +112,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2022-07-22 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-07-22 17:39:16.359651"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SCHWEPPES
+  Liabilities:Bar:Members:Carroarmato0      1 SCHWEPPES
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR      
+  Income:Bar                            -1.50 EUR      
+
