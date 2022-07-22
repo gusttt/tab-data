@@ -138,3 +138,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2022-07-22 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2022-07-22 18:23:14.594474"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 TWIX 
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX 
+  Assets:Inventory:Bar                     -1 SNACK
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR  
+  Income:Bar                            -1.20 EUR  
+
