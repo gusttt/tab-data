@@ -228,3 +228,11 @@
   Liabilities:Bar:Members:Alex   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2022-07-24 txn "Alex bought 1 items for €1.20"
+  timestamp: "2022-07-24 18:41:53.977122"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 NAKD
+  Liabilities:Bar:Members:Alex      1 NAKD
+  Liabilities:Bar:Members:Alex   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
