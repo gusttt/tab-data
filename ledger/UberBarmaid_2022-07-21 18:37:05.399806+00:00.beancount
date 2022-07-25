@@ -300,3 +300,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-07-25 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2022-07-25 14:07:20.820237"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:DJefke      1 COKE
+  Liabilities:Bar:Members:DJefke   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
