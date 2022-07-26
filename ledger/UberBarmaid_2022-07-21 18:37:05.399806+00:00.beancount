@@ -308,3 +308,11 @@
   Liabilities:Bar:Members:DJefke   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-07-26 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-07-26 00:58:55.589617"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Bloemist      1 FANTA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR  
+  Income:Bar                        -1.50 EUR  
+
