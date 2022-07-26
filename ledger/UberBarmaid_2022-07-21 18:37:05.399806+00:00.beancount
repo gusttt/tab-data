@@ -370,3 +370,9 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-07-26 txn "Yvan gave qwaxys a gift of €5.00"
+  timestamp: "2022-07-26 10:49:28.699030"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   5.00 EUR
+  Liabilities:Bar:Members:Bart  -5.00 EUR
+
