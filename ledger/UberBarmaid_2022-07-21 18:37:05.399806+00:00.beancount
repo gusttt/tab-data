@@ -396,3 +396,9 @@
   Liabilities:Bar:Members:Carroarmato0   3.20 EUR   
   Income:Bar                            -3.20 EUR   
 
+2022-07-26 txn "Miker gave Carro​armato0 a gift of €33.32"
+  timestamp: "2022-07-26 12:10:49.515148"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker          33.32 EUR
+  Liabilities:Bar:Members:Carroarmato0  -33.32 EUR
+
