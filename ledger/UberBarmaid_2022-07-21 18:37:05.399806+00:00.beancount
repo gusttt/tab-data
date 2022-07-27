@@ -516,3 +516,9 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-07-27 txn "Carro​armato0 gave Bloemist a gift of €7.95"
+  timestamp: "2022-07-27 11:13:43.927138"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   7.95 EUR
+  Liabilities:Bar:Members:Bloemist      -7.95 EUR
+
