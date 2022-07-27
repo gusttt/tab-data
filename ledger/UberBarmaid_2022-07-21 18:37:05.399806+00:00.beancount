@@ -528,3 +528,11 @@
   Liabilities:Bar:Members:Sander     7.95 EUR
   Liabilities:Bar:Members:Bloemist  -7.95 EUR
 
+2022-07-27 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-07-27 14:33:30.538309"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 ICETEA
+  Liabilities:Bar:Members:Bloemist      1 ICETEA
+  Liabilities:Bar:Members:Bloemist   1.50 EUR   
+  Income:Bar                        -1.50 EUR   
+
