@@ -536,3 +536,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-07-27 txn "Bloemist gave 3D-printer a gift of €0.30"
+  timestamp: "2022-07-27 15:21:27.014816"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist     0.30 EUR
+  Liabilities:Bar:Members:3D-printer  -0.30 EUR
+
