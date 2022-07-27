@@ -508,3 +508,11 @@
   Liabilities:Bar:Members:Bloemist   5.00 EUR
   Liabilities:Bar:Members:Elvis     -5.00 EUR
 
+2022-07-27 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2022-07-27 10:38:02.714432"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Yvan      1 COKE
+  Liabilities:Bar:Members:Yvan   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
