@@ -542,3 +542,11 @@
   Liabilities:Bar:Members:Bloemist     0.30 EUR
   Liabilities:Bar:Members:3D-printer  -0.30 EUR
 
+2022-07-27 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-07-27 15:33:28.685484"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis   0.60 EUR          
+  Income:Bar                     -0.60 EUR          
+
