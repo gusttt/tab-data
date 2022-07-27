@@ -522,3 +522,9 @@
   Liabilities:Bar:Members:Carroarmato0   7.95 EUR
   Liabilities:Bar:Members:Bloemist      -7.95 EUR
 
+2022-07-27 txn "Sander gave Bloemist a gift of €7.95"
+  timestamp: "2022-07-27 11:14:00.164862"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander     7.95 EUR
+  Liabilities:Bar:Members:Bloemist  -7.95 EUR
+
