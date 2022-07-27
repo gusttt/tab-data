@@ -1,0 +1,10 @@
+2022-07-27 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2022-07-27 17:01:43.375344"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Bloemist      1 CHIP
+  Assets:Inventory:Bar                 -1 CM  
+  Liabilities:Bar:Members:Bloemist      1 CM  
+  Liabilities:Bar:Members:Bloemist   3.00 EUR 
+  Income:Bar                        -3.00 EUR 
+
