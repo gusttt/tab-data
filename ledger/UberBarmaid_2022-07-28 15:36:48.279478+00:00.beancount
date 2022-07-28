@@ -108,3 +108,13 @@
   Liabilities:Bar:Members:DJefke  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2022-07-28 txn "Carro​armato0 bought 2 items for €3.50"
+  timestamp: "2022-07-28 19:59:20.144636"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM    
+  Liabilities:Bar:Members:Carroarmato0      1 CM    
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   3.50 EUR   
+  Income:Bar                            -3.50 EUR   
+
