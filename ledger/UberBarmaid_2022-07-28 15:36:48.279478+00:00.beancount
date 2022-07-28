@@ -183,3 +183,11 @@
   Liabilities:Bar:Members:DJefke   1.50 EUR  
   Income:Bar                      -1.50 EUR  
 
+2022-07-28 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-07-28 20:44:19.627291"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
