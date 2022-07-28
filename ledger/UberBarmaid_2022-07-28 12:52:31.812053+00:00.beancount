@@ -10,3 +10,15 @@
   Liabilities:Bar:Members:Yvan   4.10 EUR  
   Income:Bar                    -4.10 EUR  
 
+2022-07-28 txn "Carro​armato0 bought 5 items for €4.40"
+  timestamp: "2022-07-28 13:52:06.188774"
+  type: "purchase"
+  Assets:Inventory:Bar                     -3 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      3 KITKAT
+  Assets:Inventory:Bar                     -1 LEO   
+  Liabilities:Bar:Members:Carroarmato0      1 LEO   
+  Assets:Inventory:Bar                     -1 CM    
+  Liabilities:Bar:Members:Carroarmato0      1 CM    
+  Liabilities:Bar:Members:Carroarmato0   4.40 EUR   
+  Income:Bar                            -4.40 EUR   
+
