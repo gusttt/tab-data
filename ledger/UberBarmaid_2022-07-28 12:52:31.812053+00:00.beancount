@@ -1,0 +1,12 @@
+2022-07-28 txn "Yvan bought 3 items for €4.10"
+  timestamp: "2022-07-28 12:52:31.809137"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Yvan      1 SNACK
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Yvan      1 FANTA
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Yvan      1 CM   
+  Liabilities:Bar:Members:Yvan   4.10 EUR  
+  Income:Bar                    -4.10 EUR  
+
