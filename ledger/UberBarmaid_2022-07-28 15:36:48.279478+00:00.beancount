@@ -169,3 +169,9 @@
   Liabilities:Bar:Members:Bart    -1.20 EUR     
   Income:Bar                      -2.80 EUR     
 
+2022-07-28 txn "DJefke deposited €4.00"
+  timestamp: "2022-07-28 20:34:33.835392"
+  type: "deposit"
+  Liabilities:Bar:Members:DJefke  -4.00 EUR
+  Assets:Cash:Bar                  4.00 EUR
+
