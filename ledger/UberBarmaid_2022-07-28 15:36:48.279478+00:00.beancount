@@ -148,3 +148,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR          
   Income:Bar                     -0.60 EUR          
 
+2022-07-28 txn "--CASH-- bought 4 items for €8.00"
+  timestamp: "2022-07-28 20:31:06.142521"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CMRED
+  Assets:Cash:Bar           1 CMRED
+  Assets:Inventory:Bar     -3 CM   
+  Assets:Cash:Bar           3 CM   
+  Assets:Cash:Bar        8.00 EUR  
+  Income:Bar            -8.00 EUR  
+
