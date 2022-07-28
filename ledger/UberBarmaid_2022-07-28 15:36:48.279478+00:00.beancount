@@ -158,3 +158,14 @@
   Assets:Cash:Bar        8.00 EUR  
   Income:Bar            -8.00 EUR  
 
+2022-07-28 txn "DJefke bought 2 items for €4.00"
+  timestamp: "2022-07-28 20:33:07.528192"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 PASSPORT
+  Liabilities:Bar:Members:DJefke      1 PASSPORT
+  Assets:Inventory:Bar               -1 FANTA   
+  Liabilities:Bar:Members:DJefke      1 FANTA   
+  Liabilities:Bar:Members:DJefke   4.00 EUR     
+  Liabilities:Bar:Members:Bart    -1.20 EUR     
+  Income:Bar                      -2.80 EUR     
+
