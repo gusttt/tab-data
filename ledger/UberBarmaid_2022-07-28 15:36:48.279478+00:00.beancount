@@ -38,3 +38,11 @@
   Assets:Cash:Bar        1.00 EUR      
   Income:Bar            -1.00 EUR      
 
+2022-07-28 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-07-28 17:30:07.628183"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICE_CREAM
+  Assets:Cash:Bar           1 ICE_CREAM
+  Assets:Cash:Bar        1.00 EUR      
+  Income:Bar            -1.00 EUR      
+
