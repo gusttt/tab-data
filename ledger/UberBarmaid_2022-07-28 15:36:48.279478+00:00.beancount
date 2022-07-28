@@ -215,3 +215,9 @@
   Liabilities:Bar:Members:Miker   0.60 EUR
   Income:Bar                     -0.60 EUR
 
+2022-07-28 txn "3D-printer deposited €10.00"
+  timestamp: "2022-07-28 22:01:15.153458"
+  type: "deposit"
+  Liabilities:Bar:Members:3D-printer  -10.00 EUR
+  Assets:Cash:Bar                      10.00 EUR
+
