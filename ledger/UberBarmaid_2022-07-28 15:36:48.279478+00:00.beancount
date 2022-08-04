@@ -407,3 +407,9 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-08-04 txn "Koen deposited €10.00"
+  timestamp: "2022-08-04 21:24:18.841705"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
