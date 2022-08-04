@@ -343,3 +343,11 @@
   Liabilities:Bar:Members:Koen     4.00 EUR
   Liabilities:Bar:Members:Thomas  -4.00 EUR
 
+2022-08-04 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-08-04 18:59:48.259421"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG 
+  Liabilities:Bar:Members:Thomas      1 HG 
+  Liabilities:Bar:Members:Thomas   1.50 EUR
+  Income:Bar                      -1.50 EUR
+
