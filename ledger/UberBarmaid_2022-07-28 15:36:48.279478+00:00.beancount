@@ -337,3 +337,9 @@
   Assets:Cash:Bar        3.50 EUR   
   Income:Bar            -3.50 EUR   
 
+2022-08-04 txn "Koen gave Thomas a gift of €4.00"
+  timestamp: "2022-08-04 18:32:56.516708"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen     4.00 EUR
+  Liabilities:Bar:Members:Thomas  -4.00 EUR
+
