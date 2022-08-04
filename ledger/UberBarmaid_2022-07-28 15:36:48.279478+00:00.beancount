@@ -367,3 +367,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-08-04 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-08-04 20:38:50.517041"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICE_CREAM
+  Assets:Cash:Bar           1 ICE_CREAM
+  Assets:Cash:Bar        1.00 EUR      
+  Income:Bar            -1.00 EUR      
+
