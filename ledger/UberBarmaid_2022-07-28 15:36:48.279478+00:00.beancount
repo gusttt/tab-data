@@ -327,3 +327,13 @@
   Liabilities:Bar:Members:Thomas   1.50 EUR
   Income:Bar                      -1.50 EUR
 
+2022-08-04 txn "--CASH-- bought 2 items for €3.50"
+  timestamp: "2022-08-04 18:21:03.844249"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICETEA
+  Assets:Cash:Bar           1 ICETEA
+  Assets:Inventory:Bar     -1 CMRED 
+  Assets:Cash:Bar           1 CMRED 
+  Assets:Cash:Bar        3.50 EUR   
+  Income:Bar            -3.50 EUR   
+
