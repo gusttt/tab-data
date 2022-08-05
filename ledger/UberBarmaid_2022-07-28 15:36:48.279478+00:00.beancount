@@ -443,3 +443,11 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-08-05 txn "Evils bought 1 items for €1.00"
+  timestamp: "2022-08-05 01:39:01.044103"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Income:Bar                     -1.00 EUR      
+
