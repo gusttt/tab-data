@@ -467,3 +467,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2022-08-06 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-08-06 10:30:39.860193"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Yvan      1 CM   
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Yvan      1 SNACK
+  Liabilities:Bar:Members:Yvan   2.60 EUR  
+  Income:Bar                    -2.60 EUR  
+
