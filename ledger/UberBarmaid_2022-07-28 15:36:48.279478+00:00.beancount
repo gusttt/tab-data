@@ -635,3 +635,11 @@
   Liabilities:Bar:Members:Elfeera   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2022-08-09 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2022-08-09 10:36:27.131187"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:DJefke      1 TWIX
+  Liabilities:Bar:Members:DJefke   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
