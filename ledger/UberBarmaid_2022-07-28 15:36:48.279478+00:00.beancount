@@ -659,3 +659,11 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR
   Income:Bar                      -2.00 EUR
 
+2022-08-09 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-08-09 19:07:41.784722"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis   0.60 EUR          
+  Income:Bar                     -0.60 EUR          
+
