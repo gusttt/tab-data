@@ -1053,3 +1053,9 @@
   Assets:Cash:Bar        8.70 EUR 
   Income:Bar            -8.70 EUR 
 
+2022-08-11 txn "--CASH-- gave Carro​armato0 a gift of €8.70"
+  timestamp: "2022-08-11 21:21:09.153242"
+  type: "transfer"
+  Assets:Cash:Bar                        8.70 EUR
+  Liabilities:Bar:Members:Carroarmato0  -8.70 EUR
+
