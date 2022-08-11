@@ -813,3 +813,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
   Income:Bar                            -1.50 EUR   
 
+2022-08-11 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2022-08-11 17:23:25.894350"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:DJefke      1 ICETEA
+  Liabilities:Bar:Members:DJefke   1.50 EUR   
+  Income:Bar                      -1.50 EUR   
+
