@@ -919,3 +919,13 @@
   Liabilities:Bar:Members:Thomas   1.50 EUR
   Income:Bar                      -1.50 EUR
 
+2022-08-11 txn "Miker bought 2 items for €2.10"
+  timestamp: "2022-08-11 19:47:59.801473"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Miker      1 COKE
+  Assets:Inventory:Bar              -1 LEO 
+  Liabilities:Bar:Members:Miker      1 LEO 
+  Liabilities:Bar:Members:Miker   2.10 EUR 
+  Income:Bar                     -2.10 EUR 
+
