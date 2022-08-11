@@ -995,3 +995,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR          
   Income:Bar                     -0.60 EUR          
 
+2022-08-11 txn "Miker gave Thomas a gift of €1.50"
+  timestamp: "2022-08-11 20:49:16.449040"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker    1.50 EUR
+  Liabilities:Bar:Members:Thomas  -1.50 EUR
+
