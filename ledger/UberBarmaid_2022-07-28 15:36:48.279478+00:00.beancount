@@ -853,3 +853,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-08-11 txn "Joris bought 1 items for €1.50"
+  timestamp: "2022-08-11 18:52:09.041119"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Joris      1 AGRUMES
+  Liabilities:Bar:Members:Joris   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
