@@ -1041,3 +1041,15 @@
   Liabilities:Bar:Members:Elfeera  -30.00 EUR
   Assets:Cash:Bar                   30.00 EUR
 
+2022-08-11 txn "--CASH-- bought 7 items for €8.70"
+  timestamp: "2022-08-11 21:20:06.409460"
+  type: "purchase"
+  Assets:Inventory:Bar     -5 COKE
+  Assets:Cash:Bar           5 COKE
+  Assets:Inventory:Bar     -1 LEO 
+  Assets:Cash:Bar           1 LEO 
+  Assets:Inventory:Bar     -1 TWIX
+  Assets:Cash:Bar           1 TWIX
+  Assets:Cash:Bar        8.70 EUR 
+  Income:Bar            -8.70 EUR 
+
