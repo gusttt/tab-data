@@ -911,3 +911,11 @@
   Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
   Income:Bar                            -1.50 EUR    
 
+2022-08-11 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-08-11 19:47:38.066203"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HG 
+  Liabilities:Bar:Members:Thomas      1 HG 
+  Liabilities:Bar:Members:Thomas   1.50 EUR
+  Income:Bar                      -1.50 EUR
+
