@@ -789,3 +789,11 @@
   Liabilities:Bar:Members:Elfeera   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2022-08-11 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-08-11 17:09:22.001715"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR   
+  Income:Bar                            -1.50 EUR   
+
