@@ -903,3 +903,11 @@
   Liabilities:Bar:Members:Carroarmato0   3.00 EUR   
   Income:Bar                            -3.00 EUR   
 
+2022-08-11 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2022-08-11 19:40:22.510688"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 AGRUMES
+  Liabilities:Bar:Members:Carroarmato0      1 AGRUMES
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR    
+  Income:Bar                            -1.50 EUR    
+
