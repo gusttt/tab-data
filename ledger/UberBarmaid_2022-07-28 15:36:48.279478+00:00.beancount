@@ -729,3 +729,11 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR      
   Income:Bar                      -2.00 EUR      
 
+2022-08-11 txn "Miker bought 2 items for €4.00"
+  timestamp: "2022-08-11 12:30:46.685509"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM 
+  Liabilities:Bar:Members:Miker      2 CM 
+  Liabilities:Bar:Members:Miker   4.00 EUR
+  Income:Bar                     -4.00 EUR
+
