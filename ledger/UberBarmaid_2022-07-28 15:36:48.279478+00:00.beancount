@@ -1023,3 +1023,9 @@
   Liabilities:Bar:Members:DJefke  -50.00 EUR
   Assets:Cash:Bar                  50.00 EUR
 
+2022-08-11 txn "Elfeera gave Carro​armato0 a gift of €11.50"
+  timestamp: "2022-08-11 20:54:47.718638"
+  type: "transfer"
+  Liabilities:Bar:Members:Elfeera        11.50 EUR
+  Liabilities:Bar:Members:Carroarmato0  -11.50 EUR
+
