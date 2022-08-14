@@ -1103,3 +1103,11 @@
   Liabilities:Bar:Members:Lisa   2.70 EUR   
   Income:Bar                    -2.70 EUR   
 
+2022-08-14 txn "Lisa bought 1 items for €1.00"
+  timestamp: "2022-08-14 13:49:41.263670"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Lisa      1 ICE_CREAM
+  Liabilities:Bar:Members:Lisa   1.00 EUR      
+  Income:Bar                    -1.00 EUR      
+
