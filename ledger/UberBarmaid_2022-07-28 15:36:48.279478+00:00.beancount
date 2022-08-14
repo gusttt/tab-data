@@ -1093,3 +1093,13 @@
   Liabilities:Bar:Members:DJefke   1.00 EUR      
   Income:Bar                      -1.00 EUR      
 
+2022-08-14 txn "Lisa bought 2 items for €2.70"
+  timestamp: "2022-08-14 11:33:33.293469"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Lisa      1 ICETEA
+  Assets:Inventory:Bar             -1 NAKD  
+  Liabilities:Bar:Members:Lisa      1 NAKD  
+  Liabilities:Bar:Members:Lisa   2.70 EUR   
+  Income:Bar                    -2.70 EUR   
+
