@@ -247,12 +247,18 @@
   event_price: 1.50
   currency: ICE_CREAM
   category: food
+  payback:
+    account: Liabilities:Bar:Members:Yvan
+    amount: 0.63
 - name: Pizza
   # Also listed as 3.50
-  price: 2.00
-  event_price: 3.50
+  price: 2.50
+  event_price: 4.00
   currency: PIZZA
   category: food
+  payback:
+    account: Liabilities:Bar:Members:Yvan
+    amount: 1.50
 
 # swag
 - name: Wristband
