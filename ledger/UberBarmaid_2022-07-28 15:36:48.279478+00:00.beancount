@@ -1459,3 +1459,9 @@
   Liabilities:Bar:Members:Maja   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-08-18 txn "Evils deposited €-5.00"
+  timestamp: "2022-08-18 21:37:10.135211"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   5.00 EUR
+  Assets:Cash:Bar                -5.00 EUR
+
