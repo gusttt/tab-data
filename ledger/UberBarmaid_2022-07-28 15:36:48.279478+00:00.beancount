@@ -1244,3 +1244,13 @@
   Liabilities:Bar:Members:Stefaan  -40.00 EUR
   Assets:Cash:Bar                   40.00 EUR
 
+2022-08-18 txn "--CASH-- bought 2 items for €2.50"
+  timestamp: "2022-08-18 17:16:45.063531"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 AGRUMES
+  Assets:Cash:Bar           1 AGRUMES
+  Assets:Inventory:Bar     -1 CHIP   
+  Assets:Cash:Bar           1 CHIP   
+  Assets:Cash:Bar        2.50 EUR    
+  Income:Bar            -2.50 EUR    
+
