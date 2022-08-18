@@ -1443,3 +1443,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2022-08-18 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2022-08-18 21:24:43.928796"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Elfeera      1 FANTA
+  Liabilities:Bar:Members:Elfeera   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
