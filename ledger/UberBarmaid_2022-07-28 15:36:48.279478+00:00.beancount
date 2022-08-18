@@ -1358,3 +1358,13 @@
   Liabilities:Bar:Members:Elfeera   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-08-18 txn "Thomas bought 2 items for €2.60"
+  timestamp: "2022-08-18 20:08:00.385135"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM   
+  Liabilities:Bar:Members:Thomas      1 CM   
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Thomas      1 SNACK
+  Liabilities:Bar:Members:Thomas   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
