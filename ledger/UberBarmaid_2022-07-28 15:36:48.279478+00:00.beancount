@@ -1425,3 +1425,13 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR      
   Income:Bar                        -1.50 EUR      
 
+2022-08-18 txn "Evils bought 2 items for €1.20"
+  timestamp: "2022-08-18 21:05:12.812281"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Elvis      1 BOUNTY
+  Assets:Inventory:Bar              -1 SNACK 
+  Liabilities:Bar:Members:Elvis      1 SNACK 
+  Liabilities:Bar:Members:Elvis   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
