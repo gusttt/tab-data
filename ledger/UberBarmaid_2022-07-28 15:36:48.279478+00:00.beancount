@@ -1294,3 +1294,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR   
   Income:Bar                      -1.50 EUR   
 
+2022-08-18 txn "Matth bought 1 items for €1.50"
+  timestamp: "2022-08-18 18:06:26.152677"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE
+  Liabilities:Bar:Members:Matth      1 COKE
+  Liabilities:Bar:Members:Matth   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
