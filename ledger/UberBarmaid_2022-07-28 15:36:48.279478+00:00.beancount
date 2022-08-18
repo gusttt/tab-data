@@ -1278,3 +1278,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-08-18 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-08-18 17:36:29.572688"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:Elvis   0.60 EUR          
+  Income:Bar                     -0.60 EUR          
+
