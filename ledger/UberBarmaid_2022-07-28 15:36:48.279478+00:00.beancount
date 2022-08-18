@@ -1205,3 +1205,12 @@
   Liabilities:Bar:Members:Sander   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-08-18 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-08-18 16:42:19.205925"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Assets:Cash:Bar                   1 ICE_CREAM
+  Assets:Cash:Bar                1.00 EUR      
+  Liabilities:Bar:Members:Yvan  -0.63 EUR      
+  Income:Bar                    -0.37 EUR      
+
