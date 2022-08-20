@@ -1525,3 +1525,11 @@
   Liabilities:Bar:Members:Yvan   2.10 EUR  
   Income:Bar                    -2.10 EUR  
 
+2022-08-20 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-08-20 12:45:28.701284"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 AGRUMES
+  Liabilities:Bar:Members:Sander      1 AGRUMES
+  Liabilities:Bar:Members:Sander   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
