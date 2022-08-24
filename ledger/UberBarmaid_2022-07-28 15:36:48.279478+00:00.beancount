@@ -1583,3 +1583,13 @@
   Liabilities:Bar:Members:Yvan   2.75 EUR  
   Income:Bar                    -2.75 EUR  
 
+2022-08-24 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2022-08-24 15:43:15.096374"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Assets:Inventory:Bar                     -1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0      1 KITKAT
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
