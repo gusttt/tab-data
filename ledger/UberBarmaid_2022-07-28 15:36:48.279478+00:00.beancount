@@ -1741,3 +1741,11 @@
   Liabilities:Bar:Members:Elfeera   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-08-25 txn "Merlijn bought 1 items for €0.75"
+  timestamp: "2022-08-25 18:56:40.667755"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Merlijn      1 WATER
+  Liabilities:Bar:Members:Merlijn   0.75 EUR  
+  Income:Bar                       -0.75 EUR  
+
