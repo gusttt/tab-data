@@ -1829,3 +1829,9 @@
   Liabilities:Bar:Members:Jenny   1.20 EUR   
   Income:Bar                     -1.20 EUR   
 
+2022-08-25 txn "Elfeera gave Jenny a gift of €0.80"
+  timestamp: "2022-08-25 19:29:40.456172"
+  type: "transfer"
+  Liabilities:Bar:Members:Elfeera   0.80 EUR
+  Liabilities:Bar:Members:Jenny    -0.80 EUR
+
