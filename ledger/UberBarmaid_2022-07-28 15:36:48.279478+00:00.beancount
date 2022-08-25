@@ -1915,3 +1915,9 @@
   Liabilities:Bar:Members:Michiel   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-08-25 txn "Merlijn gave Carro​armato0 a gift of €12.40"
+  timestamp: "2022-08-25 20:18:50.034448"
+  type: "transfer"
+  Liabilities:Bar:Members:Merlijn        12.40 EUR
+  Liabilities:Bar:Members:Carroarmato0  -12.40 EUR
+
