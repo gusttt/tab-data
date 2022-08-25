@@ -1749,3 +1749,11 @@
   Liabilities:Bar:Members:Merlijn   0.75 EUR  
   Income:Bar                       -0.75 EUR  
 
+2022-08-25 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2022-08-25 19:10:04.388426"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:DJefke      1 COKE
+  Liabilities:Bar:Members:DJefke   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
