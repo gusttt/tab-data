@@ -1639,3 +1639,11 @@
   Liabilities:Bar:Members:DJefke   3.00 EUR    
   Income:Bar                      -3.00 EUR    
 
+2022-08-25 txn "--CASH-- bought 1 items for €0.75"
+  timestamp: "2022-08-25 16:08:34.076398"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 WATER
+  Assets:Cash:Bar           1 WATER
+  Assets:Cash:Bar        0.75 EUR  
+  Income:Bar            -0.75 EUR  
+
