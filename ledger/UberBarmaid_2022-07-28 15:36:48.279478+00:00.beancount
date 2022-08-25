@@ -1949,3 +1949,11 @@
   Liabilities:Bar:Members:Yvan    -0.63 EUR      
   Income:Bar                      -0.37 EUR      
 
+2022-08-25 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2022-08-25 20:35:27.587640"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Elfeera      1 FANTA
+  Liabilities:Bar:Members:Elfeera   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
