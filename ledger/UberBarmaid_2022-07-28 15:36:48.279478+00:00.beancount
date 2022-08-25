@@ -1859,3 +1859,13 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-08-25 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2022-08-25 19:44:25.998494"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SCHWEPPES
+  Liabilities:Bar:Members:Carroarmato0      1 SCHWEPPES
+  Assets:Inventory:Bar                     -1 TWIX     
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX     
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR      
+  Income:Bar                            -2.10 EUR      
+
