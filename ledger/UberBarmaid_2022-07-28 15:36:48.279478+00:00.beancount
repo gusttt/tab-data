@@ -1811,3 +1811,11 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR
   Income:Bar                      -0.60 EUR
 
+2022-08-25 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-08-25 19:26:21.704437"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
