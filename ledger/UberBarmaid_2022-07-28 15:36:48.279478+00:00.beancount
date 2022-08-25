@@ -1921,3 +1921,12 @@
   Liabilities:Bar:Members:Merlijn        12.40 EUR
   Liabilities:Bar:Members:Carroarmato0  -12.40 EUR
 
+2022-08-25 txn "qwaxys bought 1 items for €1.00"
+  timestamp: "2022-08-25 20:32:10.325668"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Bart      1 ICE_CREAM
+  Liabilities:Bar:Members:Bart   1.00 EUR      
+  Liabilities:Bar:Members:Yvan  -0.63 EUR      
+  Income:Bar                    -0.37 EUR      
+
