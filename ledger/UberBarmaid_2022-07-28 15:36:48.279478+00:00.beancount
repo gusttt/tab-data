@@ -1819,3 +1819,13 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-08-25 txn "Jenny bought 2 items for €1.20"
+  timestamp: "2022-08-25 19:28:23.060383"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY
+  Liabilities:Bar:Members:Jenny      1 BOUNTY
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Jenny      1 KITKAT
+  Liabilities:Bar:Members:Jenny   1.20 EUR   
+  Income:Bar                     -1.20 EUR   
+
