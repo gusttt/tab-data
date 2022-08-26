@@ -2015,3 +2015,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR   
   Income:Bar                            -0.60 EUR   
 
+2022-08-26 txn "Gust bought 1 items for €2.00"
+  timestamp: "2022-08-26 16:04:50.866046"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+  Liabilities:Bar:Members:Gust   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
