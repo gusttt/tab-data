@@ -2045,3 +2045,11 @@
   Liabilities:Bar:Members:Gust   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2022-08-26 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-08-26 18:49:43.223820"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:Elvis      1 AGRUMES
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
