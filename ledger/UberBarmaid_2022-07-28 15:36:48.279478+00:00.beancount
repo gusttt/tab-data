@@ -2037,3 +2037,11 @@
   Liabilities:Bar:Members:Gust   20.00 EUR   
   Income:Bar                    -20.00 EUR   
 
+2022-08-26 txn "Gust bought 1 items for €1.00"
+  timestamp: "2022-08-26 18:05:28.105188"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Liabilities:Bar:Members:Gust   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
