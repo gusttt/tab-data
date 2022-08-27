@@ -1,0 +1,8 @@
+2022-08-27 txn "Stefaan bought 3 items for €1.80"
+  timestamp: "2022-08-27 13:33:16.313573"
+  type: "purchase"
+  Assets:Inventory:Bar                -3 KITKAT
+  Liabilities:Bar:Members:Stefaan      3 KITKAT
+  Liabilities:Bar:Members:Stefaan   1.80 EUR   
+  Income:Bar                       -1.80 EUR   
+
