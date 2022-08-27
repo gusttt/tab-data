@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:Stefaan   1.80 EUR   
   Income:Bar                       -1.80 EUR   
 
+2022-08-27 txn "Fearless bought 2 items for €4.00"
+  timestamp: "2022-08-27 18:09:13.821418"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CIDER
+  Liabilities:Bar:Members:Fearless      2 CIDER
+  Liabilities:Bar:Members:Fearless   4.00 EUR  
+  Income:Bar                        -4.00 EUR  
+
