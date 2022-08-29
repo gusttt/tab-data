@@ -106,3 +106,13 @@
   Liabilities:Bar:Members:Bart   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2022-08-29 txn "Carro​armato0 bought 2 items for €2.10"
+  timestamp: "2022-08-29 21:36:26.173658"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 LEO   
+  Liabilities:Bar:Members:Carroarmato0      1 LEO   
+  Assets:Inventory:Bar                     -1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0      1 ICETEA
+  Liabilities:Bar:Members:Carroarmato0   2.10 EUR   
+  Income:Bar                            -2.10 EUR   
+
