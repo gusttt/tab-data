@@ -98,3 +98,11 @@
   Liabilities:Bar:Members:Merlijn   1.60 EUR 
   Income:Bar                       -1.60 EUR 
 
+2022-08-29 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2022-08-29 18:17:33.803773"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bart      1 SNICKERS
+  Liabilities:Bar:Members:Bart   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
