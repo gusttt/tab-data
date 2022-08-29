@@ -62,3 +62,11 @@
   Liabilities:Bar:Members:Merlijn   1.50 EUR   
   Income:Bar                       -1.50 EUR   
 
+2022-08-29 txn "Merlijn bought 1 items for €0.60"
+  timestamp: "2022-08-29 17:56:13.375251"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 LEO
+  Liabilities:Bar:Members:Merlijn      1 LEO
+  Liabilities:Bar:Members:Merlijn   0.60 EUR
+  Income:Bar                       -0.60 EUR
+
