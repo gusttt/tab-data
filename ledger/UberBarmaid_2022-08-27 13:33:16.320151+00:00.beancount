@@ -266,3 +266,11 @@
   Liabilities:Bar:Members:Elfeera   2.10 EUR   
   Income:Bar                       -2.10 EUR   
 
+2022-08-31 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-08-31 20:35:09.801956"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FANTA
+  Liabilities:Bar:Members:Bart      1 FANTA
+  Liabilities:Bar:Members:Bart   1.50 EUR  
+  Income:Bar                    -1.50 EUR  
+
