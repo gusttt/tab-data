@@ -274,3 +274,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2022-08-31 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2022-08-31 20:38:24.850991"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:DJefke      1 JUPILER
+  Liabilities:Bar:Members:DJefke   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
