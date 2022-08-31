@@ -238,3 +238,12 @@
   Liabilities:Bar:Members:Elfeera   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-08-31 txn "Evils bought 1 items for €1.00"
+  timestamp: "2022-08-31 19:02:37.934691"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Liabilities:Bar:Members:Yvan   -0.63 EUR      
+  Income:Bar                     -0.37 EUR      
+
