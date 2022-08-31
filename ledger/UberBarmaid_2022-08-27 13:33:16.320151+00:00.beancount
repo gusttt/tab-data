@@ -290,3 +290,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-08-31 txn "Elfeera deposited €25.00"
+  timestamp: "2022-08-31 21:51:20.081107"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -25.00 EUR
+  Assets:Cash:Bar                   25.00 EUR
+
