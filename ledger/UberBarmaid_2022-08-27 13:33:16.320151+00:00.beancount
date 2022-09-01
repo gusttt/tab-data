@@ -336,3 +336,11 @@
   Liabilities:Bar:Members:Miker   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-09-01 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2022-09-01 14:34:10.291829"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 AGRUMES
+  Liabilities:Bar:Members:DJefke      1 AGRUMES
+  Liabilities:Bar:Members:DJefke   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
