@@ -38,3 +38,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-09-01 txn "On8wr bought 2 items for €2.10"
+  timestamp: "2022-09-01 20:18:54.528473"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BOUNTY 
+  Liabilities:Bar:Members:On8wr      1 BOUNTY 
+  Assets:Inventory:Bar              -1 AGRUMES
+  Liabilities:Bar:Members:On8wr      1 AGRUMES
+  Liabilities:Bar:Members:On8wr   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
