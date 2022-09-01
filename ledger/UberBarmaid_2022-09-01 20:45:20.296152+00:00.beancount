@@ -8,3 +8,9 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR    
   Income:Bar                      -2.50 EUR    
 
+2022-09-01 txn "Sander deposited €20.00"
+  timestamp: "2022-09-01 20:59:25.310032"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
