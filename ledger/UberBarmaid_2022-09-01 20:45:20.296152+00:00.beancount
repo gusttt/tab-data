@@ -22,3 +22,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-09-01 txn "Sander bought 5 items for €10.00"
+  timestamp: "2022-09-01 21:00:02.962245"
+  type: "purchase"
+  Assets:Inventory:Bar                -5 CMCOLA
+  Liabilities:Bar:Members:Sander       5 CMCOLA
+  Liabilities:Bar:Members:Sander   10.00 EUR   
+  Income:Bar                      -10.00 EUR   
+
