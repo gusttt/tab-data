@@ -318,3 +318,13 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-09-01 txn "Elfeera bought 2 items for €2.10"
+  timestamp: "2022-09-01 10:57:16.348134"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA 
+  Liabilities:Bar:Members:Elfeera      1 FANTA 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Elfeera      1 KITKAT
+  Liabilities:Bar:Members:Elfeera   2.10 EUR   
+  Income:Bar                       -2.10 EUR   
+
