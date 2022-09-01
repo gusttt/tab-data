@@ -22,3 +22,11 @@
   Liabilities:Bar:Members:Thijs   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-09-01 txn "Miker bought 1 items for €0.60"
+  timestamp: "2022-09-01 19:59:48.353885"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
