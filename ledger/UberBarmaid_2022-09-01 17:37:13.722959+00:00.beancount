@@ -94,3 +94,9 @@
   Liabilities:Bar:Members:Miker   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-09-01 txn "Miker deposited €60.00"
+  timestamp: "2022-09-01 19:09:35.726067"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -60.00 EUR
+  Assets:Cash:Bar                 60.00 EUR
+
