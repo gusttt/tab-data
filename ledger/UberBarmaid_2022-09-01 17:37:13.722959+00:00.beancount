@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-09-01 txn "Thijs bought 1 items for €2.00"
+  timestamp: "2022-09-01 17:39:04.455759"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMRED
+  Liabilities:Bar:Members:Thijs      1 CMRED
+  Liabilities:Bar:Members:Thijs   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
