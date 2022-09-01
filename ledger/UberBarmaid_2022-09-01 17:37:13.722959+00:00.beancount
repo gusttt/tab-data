@@ -14,3 +14,11 @@
   Liabilities:Bar:Members:Thijs   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-09-01 txn "Koen bought 1 items for €1.50"
+  timestamp: "2022-09-01 17:39:25.105476"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
