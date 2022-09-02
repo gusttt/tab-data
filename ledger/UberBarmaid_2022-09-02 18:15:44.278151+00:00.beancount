@@ -380,3 +380,15 @@
   Liabilities:Bar:Members:On8wr   6.00 EUR    
   Income:Bar                     -6.00 EUR    
 
+2022-09-02 txn "Merlijn bought 3 items for €7.00"
+  timestamp: "2022-09-02 21:20:47.816044"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 LOEMPIA
+  Liabilities:Bar:Members:Merlijn      1 LOEMPIA
+  Assets:Inventory:Bar                -1 GERMAN 
+  Liabilities:Bar:Members:Merlijn      1 GERMAN 
+  Assets:Inventory:Bar                -1 WATER  
+  Liabilities:Bar:Members:Merlijn      1 WATER  
+  Liabilities:Bar:Members:Merlijn   7.00 EUR    
+  Income:Bar                       -7.00 EUR    
+
