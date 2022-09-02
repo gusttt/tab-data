@@ -194,3 +194,11 @@
   Liabilities:Bar:Members:Koen   5.00 EUR 
   Income:Bar                    -5.00 EUR 
 
+2022-09-02 txn "Aris bought 1 items for €3.50"
+  timestamp: "2022-09-02 19:52:24.817740"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Aris      1 DUVEL
+  Liabilities:Bar:Members:Aris   3.50 EUR  
+  Income:Bar                    -3.50 EUR  
+
