@@ -306,3 +306,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2022-09-02 txn "TQ bought 1 items for €2.50"
+  timestamp: "2022-09-02 20:52:21.485697"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BEER
+  Liabilities:Bar:Members:Thequux      1 BEER
+  Liabilities:Bar:Members:Thequux   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
