@@ -532,3 +532,11 @@
   Liabilities:Bar:Members:Bart  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2022-09-02 txn "SamL bought 1 items for €3.00"
+  timestamp: "2022-09-02 22:16:06.684019"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:SamL      1 GERMAN
+  Liabilities:Bar:Members:SamL   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
