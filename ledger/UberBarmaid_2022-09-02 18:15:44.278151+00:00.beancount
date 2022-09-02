@@ -124,3 +124,13 @@
   Liabilities:Bar:Members:SamL   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-02 txn "--CASH-- bought 2 items for €5.50"
+  timestamp: "2022-09-02 19:22:02.147999"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CIDER
+  Assets:Cash:Bar           1 CIDER
+  Assets:Inventory:Bar     -1 BEER 
+  Assets:Cash:Bar           1 BEER 
+  Assets:Cash:Bar        5.50 EUR  
+  Income:Bar            -5.50 EUR  
+
