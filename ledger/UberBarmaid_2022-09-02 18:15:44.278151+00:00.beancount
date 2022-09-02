@@ -588,3 +588,11 @@
   Liabilities:Bar:Members:SamL   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-02 txn "Ljaytee bought 1 items for €3.00"
+  timestamp: "2022-09-02 22:50:26.534480"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Ljaytee      1 GERMAN
+  Liabilities:Bar:Members:Ljaytee   3.00 EUR   
+  Income:Bar                       -3.00 EUR   
+
