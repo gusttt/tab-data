@@ -442,3 +442,11 @@
   Liabilities:Bar:Members:Koen   5.00 EUR 
   Income:Bar                    -5.00 EUR 
 
+2022-09-02 txn "On8wr bought 1 items for €2.50"
+  timestamp: "2022-09-02 21:46:23.881283"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:On8wr      1 SODA
+  Liabilities:Bar:Members:On8wr   2.50 EUR 
+  Income:Bar                     -2.50 EUR 
+
