@@ -208,3 +208,11 @@
   Liabilities:Bar:Members:Aris  -3.50 EUR
   Assets:Cash:Bar                3.50 EUR
 
+2022-09-02 txn "Els bought 1 items for €0.90"
+  timestamp: "2022-09-02 19:53:12.115442"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   0.90 EUR  
+  Income:Bar                   -0.90 EUR  
+
