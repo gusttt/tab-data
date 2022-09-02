@@ -155,3 +155,9 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR   
   Income:Bar                        -3.50 EUR   
 
+2022-09-02 txn "SamL deposited €30.00"
+  timestamp: "2022-09-02 16:51:12.640152"
+  type: "deposit"
+  Liabilities:Bar:Members:SamL  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
