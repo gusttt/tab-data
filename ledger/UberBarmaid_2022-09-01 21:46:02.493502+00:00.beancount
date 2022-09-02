@@ -82,3 +82,11 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR 
   Income:Bar                        -1.00 EUR 
 
+2022-09-02 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2022-09-02 07:45:21.350936"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:DJefke      1 TWIX
+  Liabilities:Bar:Members:DJefke   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
