@@ -98,3 +98,9 @@
   Liabilities:Bar:Members:Elfeera   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-09-02 txn "DJefke gave Yvan a gift of €7.50"
+  timestamp: "2022-09-02 10:47:34.768757"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   7.50 EUR
+  Liabilities:Bar:Members:Yvan    -7.50 EUR
+
