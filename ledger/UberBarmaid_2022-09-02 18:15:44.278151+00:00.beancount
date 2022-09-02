@@ -272,3 +272,11 @@
   Liabilities:Bar:Members:SamL   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-02 txn "Bloemist bought 1 items for €3.50"
+  timestamp: "2022-09-02 20:23:00.346925"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.50 EUR     
+  Income:Bar                        -3.50 EUR     
+
