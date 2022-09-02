@@ -622,3 +622,11 @@
   Liabilities:Bar:Members:Carroarmato0   3.90 EUR  
   Income:Bar                            -3.90 EUR  
 
+2022-09-02 txn "SamL bought 1 items for €1.00"
+  timestamp: "2022-09-02 23:42:31.735374"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:SamL      1 WATER
+  Liabilities:Bar:Members:SamL   1.00 EUR  
+  Income:Bar                    -1.00 EUR  
+
