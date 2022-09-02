@@ -202,3 +202,9 @@
   Liabilities:Bar:Members:Aris   3.50 EUR  
   Income:Bar                    -3.50 EUR  
 
+2022-09-02 txn "Aris deposited €3.50"
+  timestamp: "2022-09-02 19:52:36.248702"
+  type: "deposit"
+  Liabilities:Bar:Members:Aris  -3.50 EUR
+  Assets:Cash:Bar                3.50 EUR
+
