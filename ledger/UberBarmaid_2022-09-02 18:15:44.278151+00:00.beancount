@@ -484,3 +484,11 @@
   Liabilities:Bar:Members:Merlijn   5.00 EUR     
   Income:Bar                       -5.00 EUR     
 
+2022-09-02 txn "Evils bought 1 items for €3.00"
+  timestamp: "2022-09-02 21:56:52.903703"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 LOEMPIA
+  Liabilities:Bar:Members:Elvis      1 LOEMPIA
+  Liabilities:Bar:Members:Elvis   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
