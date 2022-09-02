@@ -130,7 +130,7 @@
 - name: Beer
   price: 1.50
   event_price: 2.50
-  currency: Beer
+  currency: BEER
   category: alcohol
 - name: Duvel
   price: 2.50
