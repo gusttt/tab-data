@@ -158,3 +158,15 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-02 txn "Merlijn bought 3 items for €9.00"
+  timestamp: "2022-09-02 19:39:00.378776"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Merlijn      1 DUVEL
+  Assets:Inventory:Bar                -1 CIDER
+  Liabilities:Bar:Members:Merlijn      1 CIDER
+  Assets:Inventory:Bar                -1 SODA 
+  Liabilities:Bar:Members:Merlijn      1 SODA 
+  Liabilities:Bar:Members:Merlijn   9.00 EUR  
+  Income:Bar                       -9.00 EUR  
+
