@@ -224,3 +224,9 @@
   Liabilities:Bar:Members:Aris   3.00 EUR  
   Income:Bar                    -3.00 EUR  
 
+2022-09-02 txn "Aris gave Bloemist a gift of €15.00"
+  timestamp: "2022-09-02 19:53:53.736732"
+  type: "transfer"
+  Liabilities:Bar:Members:Aris       15.00 EUR
+  Liabilities:Bar:Members:Bloemist  -15.00 EUR
+
