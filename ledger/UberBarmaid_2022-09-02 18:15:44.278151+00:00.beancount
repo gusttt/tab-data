@@ -6,3 +6,9 @@
   Liabilities:Bar:Members:Elvis   3.00 EUR   
   Income:Bar                     -3.00 EUR   
 
+2022-09-02 txn "Carro​armato0 gave Merlijn a gift of €10.00"
+  timestamp: "2022-09-02 18:17:08.118710"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   10.00 EUR
+  Liabilities:Bar:Members:Merlijn       -10.00 EUR
+
