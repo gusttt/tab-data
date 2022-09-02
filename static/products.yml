@@ -1,114 +1,136 @@
 # soft drinks
-- name: Fanta
+# catchall
+- name: Soda
   price: 1.50
   event_price: 2.50
-  currency: FANTA
+  currency: SODA
   category: drink
-- name: Ice Tea
-  price: 1.50
-  event_price: 2.50
-  category: drink
-  currency: ICETEA
-- name: Ice Tea Zero
-  price: 1.50
-  event_price: 2.50
-  category: drink
-  currency: ICETEA_ZERO
-- name: Cola
-  price: 1.50
-  event_price: 2.50
-  currency: COKE
-  category: drink
-- name: Cola Zero
-  price: 1.50
-  event_price: 2.50
-  currency: COKE_ZERO
-  category: drink
-- name: Schweppes
-  price: 1.50
-  event_price: 2.50
-  currency: SCHWEPPES
-  category: drink
+#- name: Fanta
+#  price: 1.50
+#  event_price: 2.50
+#  currency: FANTA
+#  category: drink
+#- name: Ice Tea
+#  price: 1.50
+#  event_price: 2.50
+#  category: drink
+#  currency: ICETEA
+#- name: Ice Tea Zero
+#  price: 1.50
+#  event_price: 2.50
+#  category: drink
+#  currency: ICETEA_ZERO
+#- name: Cola
+#  price: 1.50
+#  event_price: 2.50
+#  currency: COKE
+#  category: drink
+#- name: Cola Zero
+#  price: 1.50
+#  event_price: 2.50
+#  currency: COKE_ZERO
+#  category: drink
+#- name: Schweppes
+#  price: 1.50
+#  event_price: 2.50
+#  currency: SCHWEPPES
+#  category: drink
+#- name: Agrumes
+#  price: 1.50
+#  event_price: 2.50
+#  currency: AGRUMES
+#  category: drink
+#- name: Cecemel
+#  price: 0.70
+#  event_price: 1.00
+#  currency: CHOCO_MILK
+#  category: drink
 - name: Expired drink
   price: 0.60
   event_price: 0.60
   currency: EXPIRED_DRINK
   category: drink
-- name: Agrumes
-  price: 1.50
-  event_price: 2.50
-  currency: AGRUMES
-  category: drink
-- name: Cecemel
-  price: 0.70
-  event_price: 1.00
-  currency: CHOCO_MILK
-  category: drink
 
 # weird german stuff
-- name: Fritz
+# catchall
+- name: German
   price: 2.00
   event_price: 3.00
-  currency: FRITZ
+  currency: GERMAN
   category: drink
-- name: Fritz Zero
-  price: 2.00
-  event_price: 3.00
-  currency: FRITZ_ZERO
-  category: drink
-- name: Club Mate
-  price: 2.00
-  event_price: 3.00
-  currency: CM
-  category: drink
-- name: Club Mate Red
-  price: 2.00
-  event_price: 3.00
-  currency: CMRED
-  category: drink
-- name: Club Mate Cola
-  price: 2.00
-  event_price: 3.00
-  category: drink
-  currency: CMCOLA
-- name : Club Mate Winter
-  price: 2.00
-  event_price: 3.00
-  category: drink
-  currency: WINTER_MATE
-- name: Flora Power
-  price: 2.00
-  event_price: 3.00
-  category: drink
-  currency: FLORA
-- name : "Vitamalz"
-  price: 2.00
-  event_price: 3.00
-  category: drink
-  currency: VITAMALZ
+#- name: Fritz
+#  price: 2.00
+#  event_price: 3.00
+#  currency: FRITZ
+#  category: drink
+#- name: Fritz Zero
+#  price: 2.00
+#  event_price: 3.00
+#  currency: FRITZ_ZERO
+#  category: drink
+#- name: Club Mate
+#  price: 2.00
+#  event_price: 3.00
+#  currency: CM
+#  category: drink
+#- name: Club Mate Red
+#  price: 2.00
+#  event_price: 3.00
+#  currency: CMRED
+#  category: drink
+#- name: Club Mate Cola
+#  price: 2.00
+#  event_price: 3.00
+#  category: drink
+#  currency: CMCOLA
+#- name : Club Mate Winter
+#  price: 2.00
+#  event_price: 3.00
+#  category: drink
+#  currency: WINTER_MATE
+#- name: Flora Power
+#  price: 2.00
+#  event_price: 3.00
+#  category: drink
+#  currency: FLORA
+#- name : "Vitamalz"
+#  price: 2.00
+#  event_price: 3.00
+#  category: drink
+#  currency: VITAMALZ
 
 # plain drinks
-- name: Water (glass)
-  price: 0.50
-  event_price: 0.50
-  currency: WATER_GLASS
-  category: drink
+#- name: Water (glass)
+#  price: 0.50
+#  event_price: 0.50
+#  currency: WATER_GLASS
+#  category: drink
 - name: Water (bottle)
   price: 0.75
   event_price: 1.00
   currency: WATER
   category: drink
-- name: Tea
-  price: 0.50
-  event_price: 0.75
-  currency: TEA
+#- name: Tea
+#  price: 0.50
+#  event_price: 0.75
+#  currency: TEA
+#  category: drink
+- name: Kombucha
+  price: 3.00
+  event_price: 3.50
+  currency: KOMBUCHA
   category: drink
 
 # alcoholics
-- name: Jupiler
+#- name: Jupiler
+#  price: 1.50
+#  event_price: 2.50
+#  currency: JUPILER
+#  category: alcohol
+- name: Beer
   price: 1.50
   event_price: 2.50
-  currency: JUPILER
+  currency: Beer
   category: alcohol
 - name: Duvel
   price: 2.50
@@ -120,34 +142,30 @@
   event_price: 4.00
   currency: CHIMAY
   category: alcohol
-- name: Hoegaarden
-  price: 1.50
-  event_price: 2.50
-  currency: HG
-  category: alcohol
-- name: Kriek
-  price: 1.50
-  event_price: 2.50
-  currency: KRIEK
-  category: alcohol
 - name: Cider
   price: 2.00
   event_price: 3.00
   currency: CIDER
   category: alcohol
-- name: Mystery Beer
-  price: 2.50
-  event_price: 3.50
-  currency: MYSTERY
-  category: alcohol
+#- name: Kriek
+#  price: 1.50
+#  event_price: 2.50
+#  currency: KRIEK
+#  category: alcohol
+#- name: Hoegaarden
+#  price: 1.50
+#  event_price: 2.50
+#  currency: HG
+#  category: alcohol
+#- name: Mystery Beer
+#  price: 2.50
+#  event_price: 3.50
+#  currency: MYSTERY
+#  category: alcohol
 
 # snacks
-- name: FOOD 2.5
-  price: 2.50
-  event_price: 3.75
-  currency: FOOD2.5
-  category: food
-- name: Other Snack
+# catchall
+- name: Snack
   price: 0.60
   event_price: 0.90
   currency: SNACK
@@ -157,85 +175,95 @@
   event_price: 1.50
   currency: CHIP
   category: food
-- name: Snickers
-  price: 0.60
-  event_price: 0.90
-  currency: SNICKERS
-  category: food
-- name: Twix
-  price: 0.60
-  event_price: 0.90
-  currency: TWIX
-  category: food
-- name: Mars
-  price: 0.60
-  event_price: 0.90
-  currency: MARS
-  category: food
-- name: "M&M"
-  price: 0.60
-  event_price: 0.90
-  currency: MNM
-  category: food
-- name: KitKat
-  price: 0.60
-  event_price: 0.90
-  category: food
-  currency: KITKAT
-- name: Leo
-  price: 0.60
-  event_price: 0.90
-  currency: LEO
-  category: food
-- name: King Mints
-  price: 0.60
-  event_price: 0.90
-  category: food
-  currency: KING
-- name: "1 Chupa Chups"
-  price: 0.20
-  event_price: 0.30
-  currency: CHUPACHUPS
-  category: food
-- name: "Rolo"
-  price: 0.60
-  event_price: 0.90
-  category: food
-  currency: ROLO
-- name: Popcorn
-  price: 0.50
-  event_price: 0.50
-  currency: POPCORN
-  category: food
-- name: Bounty
-  price: 0.60
-  event_price: 0.90
-  currency: BOUNTY
-  category: food
-- name: Lion
-  price: 0.60
-  event_price: 0.90
-  currency: LION
-  category: food
-- name: Pick Up!
-  price: 0.70
-  event_price: 1.05
-  currency: PICKUP
-  category: food
-- name: ROM
-  price: 1.00
-  event_price: 1.50
-  currency: ROM
-  category: food
-  payback:
-    account: Liabilities:Bar:Members:Thequux
-    amount: 0.50
-- name: Food Cup
-  price: 1.20
-  event_price: 2.00
-  currency: FOOD_CUP
-  category: food
-- name: nākd
+#- name: FOOD 2.5
+#  price: 2.50
+#  event_price: 3.75
+#  currency: FOOD2.5
+#  category: food
+#- name: Other Snack
+#  price: 0.60
+#  event_price: 0.90
+#  currency: SNACK
+#  category: food
+#- name: Snickers
+#  price: 0.60
+#  event_price: 0.90
+#  currency: SNICKERS
+#  category: food
+#- name: Twix
+#  price: 0.60
+#  event_price: 0.90
+#  currency: TWIX
+#  category: food
+#- name: Mars
+#  price: 0.60
+#  event_price: 0.90
+#  currency: MARS
+#  category: food
+#- name: "M&M"
+#  price: 0.60
+#  event_price: 0.90
+#  currency: MNM
+#  category: food
+#- name: KitKat
+#  price: 0.60
+#  event_price: 0.90
+#  category: food
+#  currency: KITKAT
+#- name: Leo
+#  price: 0.60
+#  event_price: 0.90
+#  currency: LEO
+#  category: food
+#- name: King Mints
+#  price: 0.60
+#  event_price: 0.90
+#  category: food
+#  currency: KING
+#- name: "1 Chupa Chups"
+#  price: 0.20
+#  event_price: 0.30
+#  currency: CHUPACHUPS
+#  category: food
+#- name: "Rolo"
+#  price: 0.60
+#  event_price: 0.90
+#  category: food
+#  currency: ROLO
+#- name: Popcorn
+#  price: 0.50
+#  event_price: 0.50
+#  currency: POPCORN
+#  category: food
+#- name: Bounty
+#  price: 0.60
+#  event_price: 0.90
+#  currency: BOUNTY
+#  category: food
+#- name: Lion
+#  price: 0.60
+#  event_price: 0.90
+#  currency: LION
+#  category: food
+#- name: Pick Up!
+#  price: 0.70
+#  event_price: 1.05
+#  currency: PICKUP
+#  category: food
+#- name: ROM
+#  price: 1.00
+#  event_price: 1.50
+#  currency: ROM
+#  category: food
+#  payback:
+#    account: Liabilities:Bar:Members:Thequux
+#    amount: 0.50
+#- name: Food Cup
+#  price: 1.20
+#  event_price: 2.00
+#  currency: FOOD_CUP
+#  category: food
+- name: Nākd
   price: 1.20
   event_price: 2.00
   currency: NAKD
@@ -287,11 +315,11 @@
     account: Liabilities:Bar:Members:Bart
     amount: 1.20
   category: swag
-- name: Facemask
-  price: 4.00
-  event_price: 4.00
-  currency: FACEMASK
-  category: swag
+#- name: Facemask
+#  price: 4.00
+#  event_price: 4.00
+#  currency: FACEMASK
+#  category: swag
 # unused products below
 
 #- name: Soda
