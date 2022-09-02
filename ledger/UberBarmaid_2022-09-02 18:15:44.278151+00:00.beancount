@@ -346,3 +346,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2022-09-02 txn "qwaxys bought 2 items for €5.00"
+  timestamp: "2022-09-02 21:06:16.254169"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 BEER
+  Liabilities:Bar:Members:Bart      2 BEER
+  Liabilities:Bar:Members:Bart   5.00 EUR 
+  Income:Bar                    -5.00 EUR 
+
