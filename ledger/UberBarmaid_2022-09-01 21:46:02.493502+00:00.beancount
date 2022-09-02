@@ -148,8 +148,8 @@
 2022-09-02 txn "Bloemist bought 2 items for €3.50"
   timestamp: "2022-09-02 16:07:51.051596"
   type: "purchase"
-  Assets:Inventory:Bar                 -1 Beer  
-  Liabilities:Bar:Members:Bloemist      1 Beer  
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Bloemist      1 BEER  
   Assets:Inventory:Bar                 -1 GERMAN
   Liabilities:Bar:Members:Bloemist      1 GERMAN
   Liabilities:Bar:Members:Bloemist   3.50 EUR   
