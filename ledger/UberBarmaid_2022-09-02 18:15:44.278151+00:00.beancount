@@ -82,3 +82,11 @@
   Liabilities:Bar:Members:Carroarmato0   3.40 EUR  
   Income:Bar                            -3.40 EUR  
 
+2022-09-02 txn "DJ bought 1 items for €2.50"
+  timestamp: "2022-09-02 19:02:29.502004"
+  type: "purchase"
+  Assets:Inventory:Bar           -1 SODA
+  Liabilities:Bar:Members:DJ      1 SODA
+  Liabilities:Bar:Members:DJ   2.50 EUR 
+  Income:Bar                  -2.50 EUR 
+
