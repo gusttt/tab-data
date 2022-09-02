@@ -18,3 +18,9 @@
   Liabilities:Bar:Members:Bart      10.00 EUR
   Liabilities:Bar:Members:Merlijn  -10.00 EUR
 
+2022-09-02 txn "Elfeera gave Merlijn a gift of €20.00"
+  timestamp: "2022-09-02 18:20:18.436979"
+  type: "transfer"
+  Liabilities:Bar:Members:Elfeera   20.00 EUR
+  Liabilities:Bar:Members:Merlijn  -20.00 EUR
+
