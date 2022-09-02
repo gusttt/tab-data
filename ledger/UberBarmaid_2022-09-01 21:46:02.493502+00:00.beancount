@@ -171,3 +171,11 @@
   Liabilities:Bar:Members:Els   3.50 EUR   
   Income:Bar                   -3.50 EUR   
 
+2022-09-02 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2022-09-02 17:10:20.641371"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR     
+  Income:Bar                        -3.00 EUR     
+
