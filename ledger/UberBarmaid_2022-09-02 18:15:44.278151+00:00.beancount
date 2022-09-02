@@ -216,3 +216,11 @@
   Liabilities:Bar:Members:Els   0.90 EUR  
   Income:Bar                   -0.90 EUR  
 
+2022-09-02 txn "Aris bought 1 items for €3.00"
+  timestamp: "2022-09-02 19:53:37.132196"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Aris      1 CIDER
+  Liabilities:Bar:Members:Aris   3.00 EUR  
+  Income:Bar                    -3.00 EUR  
+
