@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Ljaytee   3.00 EUR   
   Income:Bar                       -3.00 EUR   
 
+2022-09-02 txn "Thijs bought 1 items for €3.00"
+  timestamp: "2022-09-02 18:38:59.372966"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Thijs      1 GERMAN
+  Liabilities:Bar:Members:Thijs   3.00 EUR   
+  Income:Bar                     -3.00 EUR   
+
