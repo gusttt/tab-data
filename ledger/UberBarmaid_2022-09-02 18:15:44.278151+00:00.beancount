@@ -540,3 +540,11 @@
   Liabilities:Bar:Members:SamL   3.00 EUR   
   Income:Bar                    -3.00 EUR   
 
+2022-09-02 txn "Evils bought 1 items for €3.00"
+  timestamp: "2022-09-02 22:19:04.327134"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 LOEMPIA
+  Liabilities:Bar:Members:Elvis      1 LOEMPIA
+  Liabilities:Bar:Members:Elvis   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
