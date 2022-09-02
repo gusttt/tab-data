@@ -24,3 +24,11 @@
   Liabilities:Bar:Members:Elfeera   20.00 EUR
   Liabilities:Bar:Members:Merlijn  -20.00 EUR
 
+2022-09-02 txn "--CASH-- bought 1 items for €0.90"
+  timestamp: "2022-09-02 18:25:58.267689"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SNACK
+  Assets:Cash:Bar           1 SNACK
+  Assets:Cash:Bar        0.90 EUR  
+  Income:Bar            -0.90 EUR  
+
