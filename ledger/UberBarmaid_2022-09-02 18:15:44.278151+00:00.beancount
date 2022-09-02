@@ -186,3 +186,11 @@
   Liabilities:Bar:Members:Koen   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-02 txn "Koen bought 2 items for €5.00"
+  timestamp: "2022-09-02 19:43:52.679483"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 BEER
+  Liabilities:Bar:Members:Koen      2 BEER
+  Liabilities:Bar:Members:Koen   5.00 EUR 
+  Income:Bar                    -5.00 EUR 
+
