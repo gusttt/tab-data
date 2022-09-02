@@ -502,3 +502,11 @@
   Assets:Cash:Bar        5.50 EUR   
   Income:Bar            -5.50 EUR   
 
+2022-09-02 txn "DJ bought 1 items for €2.50"
+  timestamp: "2022-09-02 21:58:54.951000"
+  type: "purchase"
+  Assets:Inventory:Bar           -1 BEER
+  Liabilities:Bar:Members:DJ      1 BEER
+  Liabilities:Bar:Members:DJ   2.50 EUR 
+  Income:Bar                  -2.50 EUR 
+
