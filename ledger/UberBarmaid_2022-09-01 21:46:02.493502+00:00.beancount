@@ -161,3 +161,13 @@
   Liabilities:Bar:Members:SamL  -30.00 EUR
   Assets:Cash:Bar                30.00 EUR
 
+2022-09-02 txn "Els bought 2 items for €3.50"
+  timestamp: "2022-09-02 17:00:19.845172"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 GERMAN
+  Liabilities:Bar:Members:Els      1 GERMAN
+  Assets:Inventory:Bar            -1 SODA  
+  Liabilities:Bar:Members:Els      1 SODA  
+  Liabilities:Bar:Members:Els   3.50 EUR   
+  Income:Bar                   -3.50 EUR   
+
