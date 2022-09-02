@@ -147,6 +147,11 @@
   event_price: 3.00
   currency: CIDER
   category: alcohol
+- name: Wine
+  price: 1.50
+  event_price: 2.00
+  currency: WINE
+  category: alcohol
 #- name: Kriek
 #  price: 1.50
 #  event_price: 2.50
