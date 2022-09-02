@@ -185,6 +185,11 @@
   event_price: 2.00
   currency: CROQUE
   category: food
+- name: Loempia
+  price: 2.00
+  event_price: 3.00
+  currency: LOEMPIA
+  category: food
 #- name: FOOD 2.5
 #  price: 2.50
 #  event_price: 3.75
