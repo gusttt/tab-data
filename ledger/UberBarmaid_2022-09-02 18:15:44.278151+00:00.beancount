@@ -290,3 +290,11 @@
   Liabilities:Bar:Members:Koen   3.50 EUR  
   Income:Bar                    -3.50 EUR  
 
+2022-09-02 txn "Merlijn bought 1 items for €3.50"
+  timestamp: "2022-09-02 20:30:45.383069"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Merlijn      1 DUVEL
+  Liabilities:Bar:Members:Merlijn   3.50 EUR  
+  Income:Bar                       -3.50 EUR  
+
