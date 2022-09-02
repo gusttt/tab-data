@@ -90,3 +90,13 @@
   Liabilities:Bar:Members:DJ   2.50 EUR 
   Income:Bar                  -2.50 EUR 
 
+2022-09-02 txn "Els bought 3 items for €8.50"
+  timestamp: "2022-09-02 19:08:01.494549"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 BEER  
+  Liabilities:Bar:Members:Els      1 BEER  
+  Assets:Inventory:Bar            -2 GERMAN
+  Liabilities:Bar:Members:Els      2 GERMAN
+  Liabilities:Bar:Members:Els   8.50 EUR   
+  Income:Bar                   -8.50 EUR   
+
