@@ -474,3 +474,13 @@
   Liabilities:Bar:Members:Koen   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-02 txn "Merlijn bought 2 items for €5.00"
+  timestamp: "2022-09-02 21:52:46.871442"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CHIP    
+  Liabilities:Bar:Members:Merlijn      1 CHIP    
+  Assets:Inventory:Bar                -1 KOMBUCHA
+  Liabilities:Bar:Members:Merlijn      1 KOMBUCHA
+  Liabilities:Bar:Members:Merlijn   5.00 EUR     
+  Income:Bar                       -5.00 EUR     
+
