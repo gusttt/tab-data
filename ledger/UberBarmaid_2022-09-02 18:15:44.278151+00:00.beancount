@@ -12,3 +12,9 @@
   Liabilities:Bar:Members:Carroarmato0   10.00 EUR
   Liabilities:Bar:Members:Merlijn       -10.00 EUR
 
+2022-09-02 txn "qwaxys gave Merlijn a gift of €10.00"
+  timestamp: "2022-09-02 18:17:26.068671"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart      10.00 EUR
+  Liabilities:Bar:Members:Merlijn  -10.00 EUR
+
