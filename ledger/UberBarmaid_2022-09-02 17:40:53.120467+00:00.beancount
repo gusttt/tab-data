@@ -32,3 +32,11 @@
   Liabilities:Bar:Members:Elfeera   6.00 EUR   
   Income:Bar                       -6.00 EUR   
 
+2022-09-02 txn "SamL bought 1 items for €2.50"
+  timestamp: "2022-09-02 17:59:51.017540"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:SamL      1 SODA
+  Liabilities:Bar:Members:SamL   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
