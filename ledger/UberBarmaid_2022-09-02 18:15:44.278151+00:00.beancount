@@ -72,3 +72,13 @@
   Liabilities:Bar:Members:Elfeera   1.00 EUR  
   Income:Bar                       -1.00 EUR  
 
+2022-09-02 txn "Carro​armato0 bought 2 items for €3.40"
+  timestamp: "2022-09-02 18:50:00.282834"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SODA 
+  Liabilities:Bar:Members:Carroarmato0      1 SODA 
+  Assets:Inventory:Bar                     -1 SNACK
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK
+  Liabilities:Bar:Members:Carroarmato0   3.40 EUR  
+  Income:Bar                            -3.40 EUR  
+
