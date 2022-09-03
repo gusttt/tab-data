@@ -1517,3 +1517,11 @@
   Liabilities:Bar:Members:On8wr   3.00 EUR    
   Income:Bar                     -3.00 EUR    
 
+2022-09-03 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2022-09-03 19:54:52.873499"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 LOEMPIA
+  Assets:Cash:Bar           1 LOEMPIA
+  Assets:Cash:Bar        3.00 EUR    
+  Income:Bar            -3.00 EUR    
+
