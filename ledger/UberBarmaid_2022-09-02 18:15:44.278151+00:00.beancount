@@ -1423,3 +1423,11 @@
   Liabilities:Bar:Members:Shmitty  -5.00 EUR
   Assets:Cash:Bar                   5.00 EUR
 
+2022-09-03 txn "Thijs bought 1 items for €3.00"
+  timestamp: "2022-09-03 18:41:55.470019"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CIDER
+  Liabilities:Bar:Members:Thijs      1 CIDER
+  Liabilities:Bar:Members:Thijs   3.00 EUR  
+  Income:Bar                     -3.00 EUR  
+
