@@ -1525,3 +1525,11 @@
   Assets:Cash:Bar        3.00 EUR    
   Income:Bar            -3.00 EUR    
 
+2022-09-03 txn "Sander bought 2 items for €4.00"
+  timestamp: "2022-09-03 19:55:41.555974"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 CROQUE
+  Liabilities:Bar:Members:Sander      2 CROQUE
+  Liabilities:Bar:Members:Sander   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
