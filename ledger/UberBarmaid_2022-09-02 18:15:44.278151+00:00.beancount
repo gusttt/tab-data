@@ -1487,3 +1487,9 @@
   Liabilities:Bar:Members:On8wr   3.50 EUR     
   Income:Bar                     -3.50 EUR     
 
+2022-09-03 txn "Sander gave --CASH-- a gift of €4.00"
+  timestamp: "2022-09-03 19:39:46.539478"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   4.00 EUR
+  Assets:Cash:Bar                 -4.00 EUR
+
