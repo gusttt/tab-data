@@ -1157,3 +1157,11 @@
   Liabilities:Bar:Members:Koen   5.00 EUR 
   Income:Bar                    -5.00 EUR 
 
+2022-09-03 txn "TQ bought 2 items for €10.00"
+  timestamp: "2022-09-03 16:10:33.407507"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 FOOD
+  Liabilities:Bar:Members:Thequux       2 FOOD
+  Liabilities:Bar:Members:Thequux   10.00 EUR 
+  Income:Bar                       -10.00 EUR 
+
