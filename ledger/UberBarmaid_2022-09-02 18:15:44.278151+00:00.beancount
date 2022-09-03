@@ -1253,3 +1253,11 @@
   Liabilities:Bar:Members:Bloemist   5.00 EUR 
   Income:Bar                        -5.00 EUR 
 
+2022-09-03 txn "ruleant bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:28:08.663080"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Ruleant      1 FOOD
+  Liabilities:Bar:Members:Ruleant   5.00 EUR 
+  Income:Bar                       -5.00 EUR 
+
