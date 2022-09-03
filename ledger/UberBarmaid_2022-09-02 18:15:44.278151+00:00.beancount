@@ -656,3 +656,9 @@
   Liabilities:Bar:Members:Carroarmato0   3.40 EUR  
   Income:Bar                            -3.40 EUR  
 
+2022-09-03 txn "HansA deposited €20.00"
+  timestamp: "2022-09-03 10:50:52.011107"
+  type: "deposit"
+  Liabilities:Bar:Members:HansA  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
