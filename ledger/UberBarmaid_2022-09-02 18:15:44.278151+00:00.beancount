@@ -1261,3 +1261,11 @@
   Liabilities:Bar:Members:Ruleant   5.00 EUR 
   Income:Bar                       -5.00 EUR 
 
+2022-09-03 txn "Shmitty bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:29:38.077855"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Shmitty      1 FOOD
+  Liabilities:Bar:Members:Shmitty   5.00 EUR 
+  Income:Bar                       -5.00 EUR 
+
