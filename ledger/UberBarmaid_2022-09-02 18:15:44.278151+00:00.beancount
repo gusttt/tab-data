@@ -1075,3 +1075,11 @@
   Liabilities:Bar:Members:Ruleant   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-09-03 txn "Ljaytee bought 1 items for €3.00"
+  timestamp: "2022-09-03 15:43:17.112723"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Ljaytee      1 GERMAN
+  Liabilities:Bar:Members:Ljaytee   3.00 EUR   
+  Income:Bar                       -3.00 EUR   
+
