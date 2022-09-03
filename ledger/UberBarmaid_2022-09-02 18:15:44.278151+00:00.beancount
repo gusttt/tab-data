@@ -1027,3 +1027,9 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-03 txn "Koen deposited €40.00"
+  timestamp: "2022-09-03 15:10:06.112300"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -40.00 EUR
+  Assets:Cash:Bar                40.00 EUR
+
