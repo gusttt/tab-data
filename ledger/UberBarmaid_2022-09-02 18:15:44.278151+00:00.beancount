@@ -844,3 +844,12 @@
   Liabilities:Bar:Members:Thequux   6.00 EUR    
   Income:Bar                       -6.00 EUR    
 
+2022-09-03 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-09-03 12:59:22.585015"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICE_CREAM
+  Liabilities:Bar:Members:Els       1 ICE_CREAM
+  Liabilities:Bar:Members:Els    1.50 EUR      
+  Liabilities:Bar:Members:Yvan  -0.63 EUR      
+  Income:Bar                    -0.87 EUR      
+
