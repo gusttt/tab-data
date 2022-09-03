@@ -1547,3 +1547,9 @@
   Assets:Cash:Bar        6.00 EUR   
   Income:Bar            -6.00 EUR   
 
+2022-09-03 txn "--CASH-- deposited €3.00"
+  timestamp: "2022-09-03 19:59:35.639021"
+  type: "deposit"
+  Assets:Cash:Bar  -3.00 EUR
+  Assets:Cash:Bar   3.00 EUR
+
