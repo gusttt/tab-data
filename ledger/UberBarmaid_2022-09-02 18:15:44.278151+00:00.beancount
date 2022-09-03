@@ -1141,3 +1141,11 @@
   Liabilities:Bar:Members:Elfeera   5.00 EUR 
   Income:Bar                       -5.00 EUR 
 
+2022-09-03 txn "Alex bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:08:02.877773"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD
+  Liabilities:Bar:Members:Alex      1 FOOD
+  Liabilities:Bar:Members:Alex   5.00 EUR 
+  Income:Bar                    -5.00 EUR 
+
