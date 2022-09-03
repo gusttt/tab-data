@@ -1509,3 +1509,11 @@
   Liabilities:Bar:Members:Thijs   3.50 EUR  
   Income:Bar                     -3.50 EUR  
 
+2022-09-03 txn "On8wr bought 1 items for €3.00"
+  timestamp: "2022-09-03 19:54:35.921548"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 LOEMPIA
+  Liabilities:Bar:Members:On8wr      1 LOEMPIA
+  Liabilities:Bar:Members:On8wr   3.00 EUR    
+  Income:Bar                     -3.00 EUR    
+
