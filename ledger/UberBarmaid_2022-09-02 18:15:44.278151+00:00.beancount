@@ -646,3 +646,13 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2022-09-03 txn "Carro​armato0 bought 2 items for €3.40"
+  timestamp: "2022-09-03 10:49:18.403121"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SODA 
+  Liabilities:Bar:Members:Carroarmato0      1 SODA 
+  Assets:Inventory:Bar                     -1 SNACK
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK
+  Liabilities:Bar:Members:Carroarmato0   3.40 EUR  
+  Income:Bar                            -3.40 EUR  
+
