@@ -1703,3 +1703,11 @@
   Liabilities:Bar:Members:On8wr   6.00 EUR   
   Income:Bar                     -6.00 EUR   
 
+2022-09-03 txn "Sander bought 1 items for €2.50"
+  timestamp: "2022-09-03 21:45:50.013955"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Sander      1 SODA
+  Liabilities:Bar:Members:Sander   2.50 EUR 
+  Income:Bar                      -2.50 EUR 
+
