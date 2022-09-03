@@ -1655,3 +1655,11 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2022-09-03 txn "Alex bought 1 items for €1.50"
+  timestamp: "2022-09-03 20:37:38.139305"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Alex      1 CHIP
+  Liabilities:Bar:Members:Alex   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
