@@ -1067,3 +1067,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.90 EUR  
   Income:Bar                            -0.90 EUR  
 
+2022-09-03 txn "ruleant bought 1 items for €2.50"
+  timestamp: "2022-09-03 15:42:49.472418"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+  Liabilities:Bar:Members:Ruleant   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
