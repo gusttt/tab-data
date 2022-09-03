@@ -1471,3 +1471,11 @@
   Liabilities:Bar:Members:Shmitty   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-09-03 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2022-09-03 19:31:33.214260"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 GERMAN
+  Assets:Cash:Bar           2 GERMAN
+  Assets:Cash:Bar        6.00 EUR   
+  Income:Bar            -6.00 EUR   
+
