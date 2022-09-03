@@ -1309,3 +1309,11 @@
   Liabilities:Bar:Members:Koen   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2022-09-03 txn "Els bought 2 items for €6.00"
+  timestamp: "2022-09-03 16:57:34.485572"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 GERMAN
+  Liabilities:Bar:Members:Els      2 GERMAN
+  Liabilities:Bar:Members:Els   6.00 EUR   
+  Income:Bar                   -6.00 EUR   
+
