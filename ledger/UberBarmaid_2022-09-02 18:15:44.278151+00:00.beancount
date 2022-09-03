@@ -905,3 +905,11 @@
   Liabilities:Bar:Members:Ljaytee   5.00 EUR   
   Income:Bar                       -5.00 EUR   
 
+2022-09-03 txn "Fearless bought 1 items for €3.00"
+  timestamp: "2022-09-03 13:54:57.347021"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   3.00 EUR  
+  Income:Bar                        -3.00 EUR  
+
