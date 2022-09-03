@@ -834,3 +834,13 @@
   Liabilities:Bar:Members:HansA   0.60 EUR          
   Income:Bar                     -0.60 EUR          
 
+2022-09-03 txn "TQ bought 2 items for €6.00"
+  timestamp: "2022-09-03 12:55:43.801014"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 LOEMPIA
+  Liabilities:Bar:Members:Thequux      1 LOEMPIA
+  Assets:Inventory:Bar                -1 GERMAN 
+  Liabilities:Bar:Members:Thequux      1 GERMAN 
+  Liabilities:Bar:Members:Thequux   6.00 EUR    
+  Income:Bar                       -6.00 EUR    
+
