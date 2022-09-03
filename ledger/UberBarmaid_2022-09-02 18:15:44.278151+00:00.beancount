@@ -1571,3 +1571,11 @@
   Assets:Cash:Bar        8.00 EUR   
   Income:Bar            -8.00 EUR   
 
+2022-09-03 txn "Els bought 1 items for €3.00"
+  timestamp: "2022-09-03 20:01:20.532381"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CIDER
+  Liabilities:Bar:Members:Els      1 CIDER
+  Liabilities:Bar:Members:Els   3.00 EUR  
+  Income:Bar                   -3.00 EUR  
+
