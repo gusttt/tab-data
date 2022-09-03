@@ -1285,3 +1285,11 @@
   Liabilities:Bar:Members:HansA   3.00 EUR   
   Income:Bar                     -3.00 EUR   
 
+2022-09-03 txn "Shmitty bought 1 items for €2.50"
+  timestamp: "2022-09-03 16:42:19.810250"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BEER
+  Liabilities:Bar:Members:Shmitty      1 BEER
+  Liabilities:Bar:Members:Shmitty   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
