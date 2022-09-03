@@ -1621,3 +1621,13 @@
   Liabilities:Bar:Members:Sonckie   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-09-03 txn "qwaxys bought 2 items for €5.50"
+  timestamp: "2022-09-03 20:13:03.992402"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Bart      1 CIDER
+  Assets:Inventory:Bar             -1 BEER 
+  Liabilities:Bar:Members:Bart      1 BEER 
+  Liabilities:Bar:Members:Bart   5.50 EUR  
+  Income:Bar                    -5.50 EUR  
+
