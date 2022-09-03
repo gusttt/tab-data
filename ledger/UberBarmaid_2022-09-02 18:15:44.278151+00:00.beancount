@@ -1269,3 +1269,11 @@
   Liabilities:Bar:Members:Shmitty   5.00 EUR 
   Income:Bar                       -5.00 EUR 
 
+2022-09-03 txn "Els bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:30:10.134431"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FOOD
+  Liabilities:Bar:Members:Els      1 FOOD
+  Liabilities:Bar:Members:Els   5.00 EUR 
+  Income:Bar                   -5.00 EUR 
+
