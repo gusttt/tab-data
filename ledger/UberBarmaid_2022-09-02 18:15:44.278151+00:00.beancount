@@ -1663,3 +1663,11 @@
   Liabilities:Bar:Members:Alex   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-09-03 txn "Thijs bought 1 items for €3.50"
+  timestamp: "2022-09-03 21:06:06.982117"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Thijs      1 DUVEL
+  Liabilities:Bar:Members:Thijs   3.50 EUR  
+  Income:Bar                     -3.50 EUR  
+
