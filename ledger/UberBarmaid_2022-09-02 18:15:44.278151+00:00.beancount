@@ -1587,3 +1587,11 @@
   Liabilities:Bar:Members:Thequux   6.00 EUR   
   Income:Bar                       -6.00 EUR   
 
+2022-09-03 txn "Els bought 1 items for €3.00"
+  timestamp: "2022-09-03 20:09:09.520669"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 LOEMPIA
+  Liabilities:Bar:Members:Els      1 LOEMPIA
+  Liabilities:Bar:Members:Els   3.00 EUR    
+  Income:Bar                   -3.00 EUR    
+
