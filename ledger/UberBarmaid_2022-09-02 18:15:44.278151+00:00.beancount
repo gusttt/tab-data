@@ -1403,3 +1403,9 @@
   Liabilities:Bar:Members:Shmitty   5.50 EUR   
   Income:Bar                       -5.50 EUR   
 
+2022-09-03 txn "Shmitty deposited €3.00"
+  timestamp: "2022-09-03 18:25:16.711380"
+  type: "deposit"
+  Liabilities:Bar:Members:Shmitty  -3.00 EUR
+  Assets:Cash:Bar                   3.00 EUR
+
