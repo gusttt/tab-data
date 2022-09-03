@@ -853,3 +853,11 @@
   Liabilities:Bar:Members:Yvan  -0.63 EUR      
   Income:Bar                    -0.87 EUR      
 
+2022-09-03 txn "--CASH-- bought 2 items for €6.00"
+  timestamp: "2022-09-03 13:29:36.420344"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 GERMAN
+  Assets:Cash:Bar           2 GERMAN
+  Assets:Cash:Bar        6.00 EUR   
+  Income:Bar            -6.00 EUR   
+
