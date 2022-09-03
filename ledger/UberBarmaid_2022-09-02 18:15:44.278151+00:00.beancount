@@ -1189,3 +1189,11 @@
   Liabilities:Bar:Members:On8wr   5.00 EUR 
   Income:Bar                     -5.00 EUR 
 
+2022-09-03 txn "--CASH-- bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:11:54.370978"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD
+  Assets:Cash:Bar           1 FOOD
+  Assets:Cash:Bar        5.00 EUR 
+  Income:Bar            -5.00 EUR 
+
