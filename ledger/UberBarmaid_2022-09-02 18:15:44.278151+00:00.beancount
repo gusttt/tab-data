@@ -1749,3 +1749,11 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-03 txn "Sonckie bought 1 items for €0.90"
+  timestamp: "2022-09-03 23:24:45.634164"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Sonckie      1 SNACK
+  Liabilities:Bar:Members:Sonckie   0.90 EUR  
+  Income:Bar                       -0.90 EUR  
+
