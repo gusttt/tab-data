@@ -1165,3 +1165,11 @@
   Liabilities:Bar:Members:Thequux   10.00 EUR 
   Income:Bar                       -10.00 EUR 
 
+2022-09-03 txn "--CASH-- bought 2 items for €10.00"
+  timestamp: "2022-09-03 16:10:35.280229"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 FOOD
+  Assets:Cash:Bar            2 FOOD
+  Assets:Cash:Bar        10.00 EUR 
+  Income:Bar            -10.00 EUR 
+
