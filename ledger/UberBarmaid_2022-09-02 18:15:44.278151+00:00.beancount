@@ -1049,3 +1049,13 @@
   Liabilities:Bar:Members:HansA   0.60 EUR          
   Income:Bar                     -0.60 EUR          
 
+2022-09-03 txn "Carro​armato0 bought 2 items for €3.40"
+  timestamp: "2022-09-03 15:21:32.532047"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SODA 
+  Liabilities:Bar:Members:Carroarmato0      1 SODA 
+  Assets:Inventory:Bar                     -1 SNACK
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK
+  Liabilities:Bar:Members:Carroarmato0   3.40 EUR  
+  Income:Bar                            -3.40 EUR  
+
