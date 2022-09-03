@@ -1359,3 +1359,13 @@
   Liabilities:Bar:Members:Ljaytee   3.00 EUR   
   Income:Bar                       -3.00 EUR   
 
+2022-09-03 txn "Alex bought 3 items for €9.00"
+  timestamp: "2022-09-03 17:59:42.155880"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER 
+  Liabilities:Bar:Members:Alex      1 CIDER 
+  Assets:Inventory:Bar             -2 GERMAN
+  Liabilities:Bar:Members:Alex      2 GERMAN
+  Liabilities:Bar:Members:Alex   9.00 EUR   
+  Income:Bar                    -9.00 EUR   
+
