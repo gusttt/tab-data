@@ -1757,3 +1757,11 @@
   Liabilities:Bar:Members:Sonckie   0.90 EUR  
   Income:Bar                       -0.90 EUR  
 
+2022-09-03 txn "Evils bought 1 items for €0.90"
+  timestamp: "2022-09-03 23:24:56.144344"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+  Liabilities:Bar:Members:Elvis   0.90 EUR  
+  Income:Bar                     -0.90 EUR  
+
