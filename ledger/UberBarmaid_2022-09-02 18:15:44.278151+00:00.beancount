@@ -1333,3 +1333,13 @@
   Assets:Cash:Bar        3.50 EUR  
   Income:Bar            -3.50 EUR  
 
+2022-09-03 txn "On8wr bought 2 items for €3.40"
+  timestamp: "2022-09-03 17:46:19.767330"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:On8wr      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:On8wr      1 SNACK
+  Liabilities:Bar:Members:On8wr   3.40 EUR  
+  Income:Bar                     -3.40 EUR  
+
