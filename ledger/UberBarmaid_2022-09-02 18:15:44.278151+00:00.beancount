@@ -808,3 +808,13 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2022-09-03 txn "--CASH-- bought 4 items for €11.50"
+  timestamp: "2022-09-03 12:51:01.564283"
+  type: "purchase"
+  Assets:Inventory:Bar      -3 GERMAN
+  Assets:Cash:Bar            3 GERMAN
+  Assets:Inventory:Bar      -1 SODA  
+  Assets:Cash:Bar            1 SODA  
+  Assets:Cash:Bar        11.50 EUR   
+  Income:Bar            -11.50 EUR   
+
