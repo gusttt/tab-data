@@ -1099,3 +1099,13 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2022-09-03 txn "DJefke bought 2 items for €3.90"
+  timestamp: "2022-09-03 15:48:55.751949"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK 
+  Liabilities:Bar:Members:DJefke      1 SNACK 
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:DJefke      1 GERMAN
+  Liabilities:Bar:Members:DJefke   3.90 EUR   
+  Income:Bar                      -3.90 EUR   
+
