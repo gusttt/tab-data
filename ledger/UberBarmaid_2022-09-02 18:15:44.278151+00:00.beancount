@@ -1343,3 +1343,11 @@
   Liabilities:Bar:Members:On8wr   3.40 EUR  
   Income:Bar                     -3.40 EUR  
 
+2022-09-03 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2022-09-03 17:53:23.097898"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 BEER
+  Assets:Cash:Bar           2 BEER
+  Assets:Cash:Bar        5.00 EUR 
+  Income:Bar            -5.00 EUR 
+
