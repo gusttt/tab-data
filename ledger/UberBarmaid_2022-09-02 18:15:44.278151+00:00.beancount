@@ -818,3 +818,11 @@
   Assets:Cash:Bar        11.50 EUR   
   Income:Bar            -11.50 EUR   
 
+2022-09-03 txn "HansA bought 1 items for €0.60"
+  timestamp: "2022-09-03 12:52:10.623692"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 EXPIRED_DRINK
+  Liabilities:Bar:Members:HansA      1 EXPIRED_DRINK
+  Liabilities:Bar:Members:HansA   0.60 EUR          
+  Income:Bar                     -0.60 EUR          
+
