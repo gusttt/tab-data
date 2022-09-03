@@ -1237,3 +1237,11 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-03 txn "Elfeera bought 1 items for €5.00"
+  timestamp: "2022-09-03 16:24:18.227453"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Elfeera      1 FOOD
+  Liabilities:Bar:Members:Elfeera   5.00 EUR 
+  Income:Bar                       -5.00 EUR 
+
