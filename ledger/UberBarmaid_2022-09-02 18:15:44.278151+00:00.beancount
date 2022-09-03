@@ -1301,3 +1301,11 @@
   Liabilities:Bar:Members:Carroarmato0   5.00 EUR 
   Income:Bar                            -5.00 EUR 
 
+2022-09-03 txn "Koen bought 1 items for €2.50"
+  timestamp: "2022-09-03 16:49:09.835299"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BEER
+  Liabilities:Bar:Members:Koen      1 BEER
+  Liabilities:Bar:Members:Koen   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
