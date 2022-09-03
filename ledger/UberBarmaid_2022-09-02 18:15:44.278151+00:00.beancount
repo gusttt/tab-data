@@ -943,3 +943,11 @@
   Liabilities:Bar:Members:Alex   3.50 EUR     
   Income:Bar                    -3.50 EUR     
 
+2022-09-03 txn "ruleant bought 1 items for €2.50"
+  timestamp: "2022-09-03 14:36:12.191800"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+  Liabilities:Bar:Members:Ruleant   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
