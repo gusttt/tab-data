@@ -1463,3 +1463,11 @@
   Assets:Cash:Bar        7.50 EUR 
   Income:Bar            -7.50 EUR 
 
+2022-09-03 txn "Shmitty bought 1 items for €2.50"
+  timestamp: "2022-09-03 19:10:07.703659"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Shmitty      1 SODA
+  Liabilities:Bar:Members:Shmitty   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
