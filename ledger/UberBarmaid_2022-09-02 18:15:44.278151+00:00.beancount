@@ -1479,3 +1479,11 @@
   Assets:Cash:Bar        6.00 EUR   
   Income:Bar            -6.00 EUR   
 
+2022-09-03 txn "On8wr bought 1 items for €3.50"
+  timestamp: "2022-09-03 19:38:03.282231"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KOMBUCHA
+  Liabilities:Bar:Members:On8wr      1 KOMBUCHA
+  Liabilities:Bar:Members:On8wr   3.50 EUR     
+  Income:Bar                     -3.50 EUR     
+
