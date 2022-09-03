@@ -929,3 +929,9 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-03 txn "Alex deposited €20.00"
+  timestamp: "2022-09-03 14:05:38.592468"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
