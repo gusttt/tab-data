@@ -1117,3 +1117,11 @@
   Assets:Cash:Bar        2.00 EUR   
   Income:Bar            -2.00 EUR   
 
+2022-09-03 txn "Alex bought 2 items for €6.00"
+  timestamp: "2022-09-03 16:01:29.161861"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 GERMAN
+  Liabilities:Bar:Members:Alex      2 GERMAN
+  Liabilities:Bar:Members:Alex   6.00 EUR   
+  Income:Bar                    -6.00 EUR   
+
