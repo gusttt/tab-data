@@ -959,3 +959,13 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR   
   Income:Bar                       -3.00 EUR   
 
+2022-09-03 txn "Els bought 2 items for €5.50"
+  timestamp: "2022-09-03 14:48:52.309780"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA  
+  Liabilities:Bar:Members:Els      1 SODA  
+  Assets:Inventory:Bar            -1 GERMAN
+  Liabilities:Bar:Members:Els      1 GERMAN
+  Liabilities:Bar:Members:Els   5.50 EUR   
+  Income:Bar                   -5.50 EUR   
+
