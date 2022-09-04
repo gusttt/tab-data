@@ -2349,3 +2349,11 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2022-09-04 txn "Merlijn bought 1 items for €0.90"
+  timestamp: "2022-09-04 14:27:10.678255"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Merlijn      1 SNACK
+  Liabilities:Bar:Members:Merlijn   0.90 EUR  
+  Income:Bar                       -0.90 EUR  
+
