@@ -2477,3 +2477,11 @@
   Liabilities:Bar:Members:Sander   3.00 EUR    
   Income:Bar                      -3.00 EUR    
 
+2022-09-04 txn "Els bought 1 items for €3.00"
+  timestamp: "2022-09-04 16:16:06.554154"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CIDER
+  Liabilities:Bar:Members:Els      1 CIDER
+  Liabilities:Bar:Members:Els   3.00 EUR  
+  Income:Bar                   -3.00 EUR  
+
