@@ -2317,3 +2317,11 @@
   Liabilities:Bar:Members:Elfeera   9.30 EUR   
   Income:Bar                       -9.30 EUR   
 
+2022-09-04 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2022-09-04 14:25:38.136724"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Cash:Bar        3.00 EUR   
+  Income:Bar            -3.00 EUR   
+
