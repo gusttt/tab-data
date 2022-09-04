@@ -2181,3 +2181,11 @@
   Assets:Cash:Bar        7.40 EUR     
   Income:Bar            -7.40 EUR     
 
+2022-09-04 txn "Bloemist bought 1 items for €3.50"
+  timestamp: "2022-09-04 13:52:01.804453"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.50 EUR     
+  Income:Bar                        -3.50 EUR     
+
