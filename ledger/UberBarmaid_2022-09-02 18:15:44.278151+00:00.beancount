@@ -2011,3 +2011,13 @@
   Liabilities:Bar:Members:Elfeera   3.40 EUR  
   Income:Bar                       -3.40 EUR  
 
+2022-09-04 txn "--CASH-- bought 2 items for €5.50"
+  timestamp: "2022-09-04 12:33:31.378628"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Inventory:Bar     -1 SODA  
+  Assets:Cash:Bar           1 SODA  
+  Assets:Cash:Bar        5.50 EUR   
+  Income:Bar            -5.50 EUR   
+
