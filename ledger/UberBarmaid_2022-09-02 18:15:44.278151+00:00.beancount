@@ -2557,3 +2557,11 @@
   Liabilities:Bar:Members:Els   2.50 EUR 
   Income:Bar                   -2.50 EUR 
 
+2022-09-04 txn "TQ bought 1 items for €5.00"
+  timestamp: "2022-09-04 17:06:25.884377"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Thequux      1 FOOD
+  Liabilities:Bar:Members:Thequux   5.00 EUR 
+  Income:Bar                       -5.00 EUR 
+
