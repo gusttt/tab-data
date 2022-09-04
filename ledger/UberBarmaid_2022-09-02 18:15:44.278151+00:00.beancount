@@ -2045,3 +2045,11 @@
   Liabilities:Bar:Members:Gust   3.00 EUR   
   Income:Bar                    -3.00 EUR   
 
+2022-09-04 txn "Stefaan bought 1 items for €2.50"
+  timestamp: "2022-09-04 12:48:53.021931"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Stefaan      1 SODA
+  Liabilities:Bar:Members:Stefaan   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
