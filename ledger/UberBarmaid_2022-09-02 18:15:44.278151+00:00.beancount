@@ -2225,3 +2225,11 @@
   Assets:Cash:Bar        6.00 EUR   
   Income:Bar            -6.00 EUR   
 
+2022-09-04 txn "Miker bought 1 items for €3.00"
+  timestamp: "2022-09-04 14:12:21.621930"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Miker      1 GERMAN
+  Liabilities:Bar:Members:Miker   3.00 EUR   
+  Income:Bar                     -3.00 EUR   
+
