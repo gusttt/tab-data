@@ -2169,3 +2169,15 @@
   Liabilities:Bar:Members:Gust   5.00 EUR 
   Income:Bar                    -5.00 EUR 
 
+2022-09-04 txn "--CASH-- bought 3 items for €7.40"
+  timestamp: "2022-09-04 13:43:06.079210"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 KOMBUCHA
+  Assets:Cash:Bar           1 KOMBUCHA
+  Assets:Inventory:Bar     -1 GERMAN  
+  Assets:Cash:Bar           1 GERMAN  
+  Assets:Inventory:Bar     -1 SNACK   
+  Assets:Cash:Bar           1 SNACK   
+  Assets:Cash:Bar        7.40 EUR     
+  Income:Bar            -7.40 EUR     
+
