@@ -2053,3 +2053,13 @@
   Liabilities:Bar:Members:Stefaan   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-09-04 txn "Alex bought 2 items for €5.50"
+  timestamp: "2022-09-04 12:49:50.794641"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA  
+  Liabilities:Bar:Members:Alex      1 SODA  
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Alex      1 GERMAN
+  Liabilities:Bar:Members:Alex   5.50 EUR   
+  Income:Bar                    -5.50 EUR   
+
