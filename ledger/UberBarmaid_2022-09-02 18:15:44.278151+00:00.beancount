@@ -2249,3 +2249,11 @@
   Liabilities:Bar:Members:Merlijn   2.50 EUR 
   Income:Bar                       -2.50 EUR 
 
+2022-09-04 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2022-09-04 14:16:37.975540"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 SODA
+  Assets:Cash:Bar           2 SODA
+  Assets:Cash:Bar        5.00 EUR 
+  Income:Bar            -5.00 EUR 
+
