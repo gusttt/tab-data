@@ -2189,3 +2189,11 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-04 txn "Merlijn bought 1 items for €5.00"
+  timestamp: "2022-09-04 13:57:54.631057"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Merlijn      1 FOOD
+  Liabilities:Bar:Members:Merlijn   5.00 EUR 
+  Income:Bar                       -5.00 EUR 
+
