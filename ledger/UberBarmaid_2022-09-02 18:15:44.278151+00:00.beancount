@@ -2565,3 +2565,12 @@
   Liabilities:Bar:Members:Thequux   5.00 EUR 
   Income:Bar                       -5.00 EUR 
 
+2022-09-04 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-09-04 17:14:39.202500"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WRISTBAND
+  Liabilities:Bar:Members:Bart         1 WRISTBAND
+  Liabilities:Bar:Members:Bart      1.50 EUR      
+  Liabilities:Bar:Members:Marquis  -0.50 EUR      
+  Income:Bar                       -1.00 EUR      
+
