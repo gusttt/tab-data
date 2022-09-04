@@ -2305,3 +2305,15 @@
   Liabilities:Bar:Members:Aris   3.50 EUR     
   Income:Bar                    -3.50 EUR     
 
+2022-09-04 txn "Elfeera bought 5 items for €9.30"
+  timestamp: "2022-09-04 14:24:58.922084"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 GERMAN
+  Liabilities:Bar:Members:Elfeera      2 GERMAN
+  Assets:Inventory:Bar                -2 SNACK 
+  Liabilities:Bar:Members:Elfeera      2 SNACK 
+  Assets:Inventory:Bar                -1 CHIP  
+  Liabilities:Bar:Members:Elfeera      1 CHIP  
+  Liabilities:Bar:Members:Elfeera   9.30 EUR   
+  Income:Bar                       -9.30 EUR   
+
