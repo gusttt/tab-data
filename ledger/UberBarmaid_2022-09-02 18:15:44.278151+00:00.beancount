@@ -1879,3 +1879,11 @@
   Liabilities:Bar:Members:Thijs  -3.50 EUR
   Assets:Cash:Bar                 3.50 EUR
 
+2022-09-04 txn "Gust bought 1 items for €3.00"
+  timestamp: "2022-09-04 11:15:43.549185"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Gust      1 GERMAN
+  Liabilities:Bar:Members:Gust   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
