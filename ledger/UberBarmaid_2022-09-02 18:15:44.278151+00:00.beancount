@@ -2469,3 +2469,11 @@
   Liabilities:Bar:Members:Miker   5.00 EUR 
   Income:Bar                     -5.00 EUR 
 
+2022-09-04 txn "Sander bought 1 items for €3.00"
+  timestamp: "2022-09-04 16:13:25.786622"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 LOEMPIA
+  Liabilities:Bar:Members:Sander      1 LOEMPIA
+  Liabilities:Bar:Members:Sander   3.00 EUR    
+  Income:Bar                      -3.00 EUR    
+
