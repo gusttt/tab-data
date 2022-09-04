@@ -2257,3 +2257,11 @@
   Assets:Cash:Bar        5.00 EUR 
   Income:Bar            -5.00 EUR 
 
+2022-09-04 txn "Lisa bought 1 items for €3.00"
+  timestamp: "2022-09-04 14:17:34.328957"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Lisa      1 GERMAN
+  Liabilities:Bar:Members:Lisa   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
