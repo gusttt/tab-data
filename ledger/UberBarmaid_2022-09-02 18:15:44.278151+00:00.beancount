@@ -2405,3 +2405,11 @@
   Assets:Cash:Bar        5.00 EUR 
   Income:Bar            -5.00 EUR 
 
+2022-09-04 txn "Stefaan bought 1 items for €0.90"
+  timestamp: "2022-09-04 15:22:04.465330"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Stefaan      1 SNACK
+  Liabilities:Bar:Members:Stefaan   0.90 EUR  
+  Income:Bar                       -0.90 EUR  
+
