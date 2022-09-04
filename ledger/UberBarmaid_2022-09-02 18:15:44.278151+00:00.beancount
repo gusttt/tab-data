@@ -1863,3 +1863,13 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2022-09-04 txn "Thijs bought 3 items for €8.50"
+  timestamp: "2022-09-04 11:12:24.389886"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA  
+  Liabilities:Bar:Members:Thijs      1 SODA  
+  Assets:Inventory:Bar              -2 GERMAN
+  Liabilities:Bar:Members:Thijs      2 GERMAN
+  Liabilities:Bar:Members:Thijs   8.50 EUR   
+  Income:Bar                     -8.50 EUR   
+
