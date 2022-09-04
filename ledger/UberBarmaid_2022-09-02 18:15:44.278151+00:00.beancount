@@ -1945,3 +1945,11 @@
   Liabilities:Bar:Members:DJefke   3.00 EUR   
   Income:Bar                      -3.00 EUR   
 
+2022-09-04 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2022-09-04 12:10:34.540113"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Cash:Bar        3.00 EUR   
+  Income:Bar            -3.00 EUR   
+
