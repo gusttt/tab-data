@@ -1813,3 +1813,13 @@
   Liabilities:Bar:Members:Elfeera  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2022-09-04 txn "Elfeera bought 2 items for €7.50"
+  timestamp: "2022-09-04 10:44:38.014725"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Elfeera      1 SODA
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Elfeera      1 FOOD
+  Liabilities:Bar:Members:Elfeera   7.50 EUR 
+  Income:Bar                       -7.50 EUR 
+
