@@ -2037,3 +2037,11 @@
   Liabilities:Bar:Members:Bloemist   3.50 EUR     
   Income:Bar                        -3.50 EUR     
 
+2022-09-04 txn "Gust bought 1 items for €3.00"
+  timestamp: "2022-09-04 12:48:16.006685"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Gust      1 GERMAN
+  Liabilities:Bar:Members:Gust   3.00 EUR   
+  Income:Bar                    -3.00 EUR   
+
