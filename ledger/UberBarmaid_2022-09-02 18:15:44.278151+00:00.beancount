@@ -2001,3 +2001,13 @@
   Assets:Cash:Bar        3.00 EUR   
   Income:Bar            -3.00 EUR   
 
+2022-09-04 txn "Elfeera bought 2 items for €3.40"
+  timestamp: "2022-09-04 12:25:39.784384"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA 
+  Liabilities:Bar:Members:Elfeera      1 SODA 
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Elfeera      1 SNACK
+  Liabilities:Bar:Members:Elfeera   3.40 EUR  
+  Income:Bar                       -3.40 EUR  
+
