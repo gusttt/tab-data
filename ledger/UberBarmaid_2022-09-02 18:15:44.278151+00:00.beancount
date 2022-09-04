@@ -2197,3 +2197,11 @@
   Liabilities:Bar:Members:Merlijn   5.00 EUR 
   Income:Bar                       -5.00 EUR 
 
+2022-09-04 txn "Evils bought 1 items for €3.00"
+  timestamp: "2022-09-04 14:03:29.841176"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Elvis      1 GERMAN
+  Liabilities:Bar:Members:Elvis   3.00 EUR   
+  Income:Bar                     -3.00 EUR   
+
