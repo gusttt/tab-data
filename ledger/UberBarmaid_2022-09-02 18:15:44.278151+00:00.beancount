@@ -1807,3 +1807,9 @@
   Liabilities:Bar:Members:DJefke   3.00 EUR   
   Income:Bar                      -3.00 EUR   
 
+2022-09-04 txn "Elfeera deposited €50.00"
+  timestamp: "2022-09-04 10:43:48.066453"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
