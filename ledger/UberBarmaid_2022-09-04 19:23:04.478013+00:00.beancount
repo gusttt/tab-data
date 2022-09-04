@@ -1,0 +1,9 @@
+2022-09-04 txn "Evils bought 1 items for €1.00"
+  timestamp: "2022-09-04 19:23:04.475178"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis      1 ICE_CREAM
+  Liabilities:Bar:Members:Elvis   1.00 EUR      
+  Liabilities:Bar:Members:Yvan   -0.63 EUR      
+  Income:Bar                     -0.37 EUR      
+
