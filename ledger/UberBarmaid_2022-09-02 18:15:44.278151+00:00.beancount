@@ -2365,3 +2365,11 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2022-09-04 txn "Els bought 1 items for €5.00"
+  timestamp: "2022-09-04 14:39:35.297349"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 FOOD
+  Liabilities:Bar:Members:Els      1 FOOD
+  Liabilities:Bar:Members:Els   5.00 EUR 
+  Income:Bar                   -5.00 EUR 
+
