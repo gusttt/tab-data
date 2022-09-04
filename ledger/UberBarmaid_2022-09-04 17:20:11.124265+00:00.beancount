@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR   
   Income:Bar                        -3.00 EUR   
 
+2022-09-04 txn "--CASH-- bought 1 items for €20.00"
+  timestamp: "2022-09-04 17:21:16.082398"
+  type: "purchase"
+  Assets:Inventory:Bar      -1 TSHIRT
+  Assets:Cash:Bar            1 TSHIRT
+  Assets:Cash:Bar        20.00 EUR   
+  Income:Bar            -20.00 EUR   
+
