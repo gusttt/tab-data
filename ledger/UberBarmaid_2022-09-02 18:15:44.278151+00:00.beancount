@@ -2297,3 +2297,11 @@
   Assets:Cash:Bar        3.00 EUR   
   Income:Bar            -3.00 EUR   
 
+2022-09-04 txn "Aris bought 1 items for €3.50"
+  timestamp: "2022-09-04 14:21:58.239089"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KOMBUCHA
+  Liabilities:Bar:Members:Aris      1 KOMBUCHA
+  Liabilities:Bar:Members:Aris   3.50 EUR     
+  Income:Bar                    -3.50 EUR     
+
