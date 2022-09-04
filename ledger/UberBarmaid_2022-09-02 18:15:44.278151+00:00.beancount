@@ -2215,3 +2215,13 @@
   Assets:Cash:Bar        5.50 EUR   
   Income:Bar            -5.50 EUR   
 
+2022-09-04 txn "--CASH-- bought 3 items for €6.00"
+  timestamp: "2022-09-04 14:11:37.221394"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 CHIP  
+  Assets:Cash:Bar           2 CHIP  
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Cash:Bar        6.00 EUR   
+  Income:Bar            -6.00 EUR   
+
