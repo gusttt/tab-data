@@ -2413,3 +2413,11 @@
   Liabilities:Bar:Members:Stefaan   0.90 EUR  
   Income:Bar                       -0.90 EUR  
 
+2022-09-04 txn "Sander bought 1 items for €0.90"
+  timestamp: "2022-09-04 15:22:33.075959"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Sander      1 SNACK
+  Liabilities:Bar:Members:Sander   0.90 EUR  
+  Income:Bar                      -0.90 EUR  
+
