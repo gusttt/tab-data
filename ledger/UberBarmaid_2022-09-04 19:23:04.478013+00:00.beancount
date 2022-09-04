@@ -27,3 +27,9 @@
   Assets:Cash:Bar              12.50 EUR
   Liabilities:Bar:Members:DJ  -12.50 EUR
 
+2022-09-04 txn "Bloemist deposited €125.00"
+  timestamp: "2022-09-04 20:32:01.632406"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -125.00 EUR
+  Assets:Cash:Bar                    125.00 EUR
+
