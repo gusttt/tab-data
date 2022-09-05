@@ -200,11 +200,6 @@
   event_price: 3.75
   currency: FOOD2.5
   category: food
-- name: Other Snack
-  price: 0.60
-  event_price: 0.90
-  currency: SNACK
-  category: food
 - name: Snickers
   price: 0.60
   event_price: 0.90
@@ -389,11 +384,6 @@
 #  event_price: 7.50
 #  currency: CURRY
 #  category: food
-- name: Kriek
-  price: 2.00
-  event_price: 3.00
-  currency: KRIEK
-  category: alcohol
 #- name: Croque
 #  price: 1.50
 #  event_price: 2.25
