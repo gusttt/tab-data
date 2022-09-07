@@ -113,3 +113,9 @@
   Liabilities:Bar:Members:Yvan   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2022-09-07 txn "DJefke deposited €50.00"
+  timestamp: "2022-09-07 08:47:11.935147"
+  type: "deposit"
+  Liabilities:Bar:Members:DJefke  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
