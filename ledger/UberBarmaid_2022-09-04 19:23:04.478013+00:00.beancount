@@ -545,3 +545,11 @@
   Liabilities:Bar:Members:Thijs   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-09-08 txn "Thijs bought 1 items for €2.00"
+  timestamp: "2022-09-08 21:01:38.107205"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Thijs      1 FRITZ
+  Liabilities:Bar:Members:Thijs   2.00 EUR  
+  Income:Bar                     -2.00 EUR  
+
