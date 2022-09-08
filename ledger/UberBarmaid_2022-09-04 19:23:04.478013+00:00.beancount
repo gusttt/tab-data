@@ -196,3 +196,11 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-09-08 txn "Bloemist bought 1 items for €2.00"
+  timestamp: "2022-09-08 15:44:33.654266"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Liabilities:Bar:Members:Bloemist   2.00 EUR   
+  Income:Bar                        -2.00 EUR   
+
