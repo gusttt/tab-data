@@ -505,3 +505,11 @@
   Liabilities:Bar:Members:SamL   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-09-08 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-09-08 20:27:07.120306"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
+  Liabilities:Bar:Members:Elvis   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
