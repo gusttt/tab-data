@@ -180,3 +180,11 @@
   Liabilities:Bar:Members:Elfeera   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-09-08 txn "Evils bought 1 items for €2.00"
+  timestamp: "2022-09-08 15:07:53.015767"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.00 EUR   
+  Income:Bar                     -2.00 EUR   
+
