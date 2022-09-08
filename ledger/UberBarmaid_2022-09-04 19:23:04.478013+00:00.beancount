@@ -463,3 +463,13 @@
   Liabilities:Bar:Members:Thomas   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-09-08 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2022-09-08 19:52:59.081742"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA  
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA  
+  Assets:Inventory:Bar                     -1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0      1 SNICKERS
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR     
+  Income:Bar                            -2.60 EUR     
+
