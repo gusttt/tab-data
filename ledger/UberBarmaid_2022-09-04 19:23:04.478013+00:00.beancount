@@ -381,3 +381,9 @@
   Liabilities:Bar:Members:Thijs   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2022-09-08 txn "Thijs deposited €2.00"
+  timestamp: "2022-09-08 19:20:35.270367"
+  type: "deposit"
+  Liabilities:Bar:Members:Thijs  -2.00 EUR
+  Assets:Cash:Bar                 2.00 EUR
+
