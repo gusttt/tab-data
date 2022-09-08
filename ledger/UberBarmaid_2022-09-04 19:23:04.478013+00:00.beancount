@@ -349,3 +349,9 @@
   Liabilities:Bar:Members:Fearless  -25.00 EUR
   Assets:Cash:Bar                    25.00 EUR
 
+2022-09-08 txn "Sander gave Yvan a gift of €16.50"
+  timestamp: "2022-09-08 19:02:03.750196"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   16.50 EUR
+  Liabilities:Bar:Members:Yvan    -16.50 EUR
+
