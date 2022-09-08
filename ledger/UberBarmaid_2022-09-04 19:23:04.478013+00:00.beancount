@@ -371,3 +371,13 @@
   Liabilities:Bar:Members:Miker   2.00 EUR   
   Income:Bar                     -2.00 EUR   
 
+2022-09-08 txn "Thijs bought 2 items for €4.00"
+  timestamp: "2022-09-08 19:20:21.086699"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 WINE 
+  Liabilities:Bar:Members:Thijs      1 WINE 
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Thijs      1 DUVEL
+  Liabilities:Bar:Members:Thijs   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
