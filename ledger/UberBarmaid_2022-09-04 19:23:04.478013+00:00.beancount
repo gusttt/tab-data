@@ -657,3 +657,13 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR     
   Income:Bar                      -0.60 EUR     
 
+2022-09-09 txn "DJefke bought 2 items for €2.60"
+  timestamp: "2022-09-09 13:56:47.901289"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:DJefke      1 FRITZ
+  Assets:Inventory:Bar               -1 TWIX 
+  Liabilities:Bar:Members:DJefke      1 TWIX 
+  Liabilities:Bar:Members:DJefke   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
