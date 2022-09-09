@@ -621,3 +621,13 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-09-09 txn "DJefke bought 2 items for €2.60"
+  timestamp: "2022-09-09 07:49:03.762523"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM  
+  Liabilities:Bar:Members:DJefke      1 CM  
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:DJefke      1 TWIX
+  Liabilities:Bar:Members:DJefke   2.60 EUR 
+  Income:Bar                      -2.60 EUR 
+
