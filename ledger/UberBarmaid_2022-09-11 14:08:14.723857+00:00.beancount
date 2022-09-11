@@ -60,3 +60,9 @@
   Liabilities:Bar:Members:Merlijn  -40.00 EUR
   Assets:Cash:Bar                   40.00 EUR
 
+2022-09-11 txn "TQ deposited €50.00"
+  timestamp: "2022-09-11 17:50:55.850782"
+  type: "deposit"
+  Liabilities:Bar:Members:Thequux  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
