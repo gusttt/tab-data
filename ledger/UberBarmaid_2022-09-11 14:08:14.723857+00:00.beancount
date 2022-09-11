@@ -74,3 +74,11 @@
   Liabilities:Bar:Members:Thequux   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-09-11 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-09-11 17:58:22.485744"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
