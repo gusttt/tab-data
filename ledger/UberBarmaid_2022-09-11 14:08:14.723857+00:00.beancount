@@ -66,3 +66,11 @@
   Liabilities:Bar:Members:Thequux  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2022-09-11 txn "TQ bought 1 items for €1.50"
+  timestamp: "2022-09-11 17:55:38.597384"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KRIEK
+  Liabilities:Bar:Members:Thequux      1 KRIEK
+  Liabilities:Bar:Members:Thequux   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
