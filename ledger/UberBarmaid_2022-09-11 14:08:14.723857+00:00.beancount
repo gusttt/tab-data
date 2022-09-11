@@ -1,0 +1,8 @@
+2022-09-11 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2022-09-11 14:08:14.720735"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Yvan      1 FRITZ
+  Liabilities:Bar:Members:Yvan   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
