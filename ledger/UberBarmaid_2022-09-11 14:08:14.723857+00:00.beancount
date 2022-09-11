@@ -92,3 +92,13 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR   
   Income:Bar                        -3.00 EUR   
 
+2022-09-11 txn "Carro​armato0 bought 2 items for €2.60"
+  timestamp: "2022-09-11 18:04:10.876165"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Assets:Inventory:Bar                     -1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0      1 TWIX  
+  Liabilities:Bar:Members:Carroarmato0   2.60 EUR   
+  Income:Bar                            -2.60 EUR   
+
