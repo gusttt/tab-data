@@ -212,3 +212,11 @@
   Liabilities:Bar:Members:Fullscreen   1.00 EUR 
   Income:Bar                          -1.00 EUR 
 
+2022-09-12 txn "Fullscreen bought 1 items for €1.50"
+  timestamp: "2022-09-12 21:19:09.789416"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen      1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen   1.50 EUR      
+  Income:Bar                          -1.50 EUR      
+
