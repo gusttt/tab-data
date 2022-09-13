@@ -220,3 +220,11 @@
   Liabilities:Bar:Members:Fullscreen   1.50 EUR      
   Income:Bar                          -1.50 EUR      
 
+2022-09-13 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-09-13 06:58:01.065585"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
