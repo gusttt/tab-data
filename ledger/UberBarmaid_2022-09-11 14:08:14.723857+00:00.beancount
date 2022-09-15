@@ -639,3 +639,13 @@
   Liabilities:Bar:Members:Elvis   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2022-09-15 txn "Nachtvlinder bought 2 items for €2.60"
+  timestamp: "2022-09-15 23:43:00.779471"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Assets:Inventory:Bar             -1 BOUNTY
+  Liabilities:Bar:Members:Maja      1 BOUNTY
+  Liabilities:Bar:Members:Maja   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
