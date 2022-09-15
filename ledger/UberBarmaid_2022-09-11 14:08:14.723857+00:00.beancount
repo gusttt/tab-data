@@ -521,3 +521,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-09-15 txn "Fullscreen bought 1 items for €1.50"
+  timestamp: "2022-09-15 20:30:32.542077"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 SODA
+  Liabilities:Bar:Members:Fullscreen      1 SODA
+  Liabilities:Bar:Members:Fullscreen   1.50 EUR 
+  Income:Bar                          -1.50 EUR 
+
