@@ -496,3 +496,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-09-15 txn "Elfeera bought 1 items for €0.60"
+  timestamp: "2022-09-15 20:02:52.048385"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Elfeera      1 KITKAT
+  Liabilities:Bar:Members:Elfeera   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
