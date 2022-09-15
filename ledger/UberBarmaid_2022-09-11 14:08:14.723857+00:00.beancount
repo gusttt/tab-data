@@ -607,3 +607,11 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR 
   Income:Bar                        -1.00 EUR 
 
+2022-09-15 txn "Fearless bought 2 items for €2.00"
+  timestamp: "2022-09-15 22:18:29.808516"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CHIP
+  Liabilities:Bar:Members:Fearless      2 CHIP
+  Liabilities:Bar:Members:Fearless   2.00 EUR 
+  Income:Bar                        -2.00 EUR 
+
