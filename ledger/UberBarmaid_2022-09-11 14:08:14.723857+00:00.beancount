@@ -472,3 +472,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-09-15 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2022-09-15 19:40:37.324554"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Elfeera      1 FANTA
+  Liabilities:Bar:Members:Elfeera   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
