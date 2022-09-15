@@ -543,3 +543,11 @@
   Liabilities:Bar:Members:Elfeera   11.30 EUR
   Liabilities:Bar:Members:Sander   -11.30 EUR
 
+2022-09-15 txn "Elfeera bought 1 items for €0.60"
+  timestamp: "2022-09-15 20:55:21.272025"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Elfeera      1 SNACK
+  Liabilities:Bar:Members:Elfeera   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
