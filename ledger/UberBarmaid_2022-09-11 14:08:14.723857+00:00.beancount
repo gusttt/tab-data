@@ -537,3 +537,9 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2022-09-15 txn "Elfeera gave Sander a gift of €11.30"
+  timestamp: "2022-09-15 20:37:50.015864"
+  type: "transfer"
+  Liabilities:Bar:Members:Elfeera   11.30 EUR
+  Liabilities:Bar:Members:Sander   -11.30 EUR
+
