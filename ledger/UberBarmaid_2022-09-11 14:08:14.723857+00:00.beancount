@@ -583,3 +583,11 @@
   Liabilities:Bar:Members:Fullscreen   1.50 EUR      
   Income:Bar                          -1.50 EUR      
 
+2022-09-15 txn "Evils bought 1 items for €1.00"
+  timestamp: "2022-09-15 22:02:54.460612"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Elvis      1 CHIP
+  Liabilities:Bar:Members:Elvis   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+
