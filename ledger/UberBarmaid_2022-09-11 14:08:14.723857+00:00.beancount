@@ -448,3 +448,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-09-15 txn "Fullscreen bought 1 items for €1.50"
+  timestamp: "2022-09-15 19:15:10.399267"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 SCHWEPPES
+  Liabilities:Bar:Members:Fullscreen      1 SCHWEPPES
+  Liabilities:Bar:Members:Fullscreen   1.50 EUR      
+  Income:Bar                          -1.50 EUR      
+
