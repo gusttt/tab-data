@@ -673,3 +673,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR   
   Income:Bar                        -1.50 EUR   
 
+2022-09-16 txn "DJefke bought 1 items for €2.00"
+  timestamp: "2022-09-16 15:49:14.527299"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:DJefke      1 CMCOLA
+  Liabilities:Bar:Members:DJefke   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
