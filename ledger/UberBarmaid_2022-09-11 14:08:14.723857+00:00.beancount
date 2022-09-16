@@ -649,3 +649,11 @@
   Liabilities:Bar:Members:Maja   2.60 EUR   
   Income:Bar                    -2.60 EUR   
 
+2022-09-16 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-09-16 00:30:06.475012"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Elvis      1 ICETEA
+  Liabilities:Bar:Members:Elvis   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
