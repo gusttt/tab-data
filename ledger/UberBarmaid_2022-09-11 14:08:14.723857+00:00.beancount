@@ -791,3 +791,11 @@
   Liabilities:Bar:Members:DJefke  -50.00 EUR
   Assets:Cash:Bar                  50.00 EUR
 
+2022-09-18 txn "Koen bought 1 items for €1.50"
+  timestamp: "2022-09-18 17:30:07.032552"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BEER
+  Liabilities:Bar:Members:Koen      1 BEER
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
