@@ -755,3 +755,11 @@
   Liabilities:Bar:Members:Koen  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2022-09-18 txn "Yvan bought 1 items for €2.00"
+  timestamp: "2022-09-18 14:56:57.019002"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Yvan      1 CM 
+  Liabilities:Bar:Members:Yvan   2.00 EUR
+  Income:Bar                    -2.00 EUR
+
