@@ -6,3 +6,9 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR   
   Income:Bar                            -2.00 EUR   
 
+2022-09-18 txn "Koen gave Sander a gift of €13.50"
+  timestamp: "2022-09-18 20:03:43.130061"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen     13.50 EUR
+  Liabilities:Bar:Members:Sander  -13.50 EUR
+
