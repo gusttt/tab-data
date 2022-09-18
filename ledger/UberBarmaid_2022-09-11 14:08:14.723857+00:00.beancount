@@ -869,3 +869,11 @@
   Liabilities:Bar:Members:Elfeera   1.50 EUR  
   Income:Bar                       -1.50 EUR  
 
+2022-09-18 txn "Nachtvlinder bought 1 items for €1.50"
+  timestamp: "2022-09-18 19:11:17.597626"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Maja      1 COKE
+  Liabilities:Bar:Members:Maja   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
