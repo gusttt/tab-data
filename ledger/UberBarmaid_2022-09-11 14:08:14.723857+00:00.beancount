@@ -901,3 +901,11 @@
   Liabilities:Bar:Members:Maja   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2022-09-18 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2022-09-18 19:36:01.393148"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Fearless      1 JUPILER
+  Liabilities:Bar:Members:Fearless   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
