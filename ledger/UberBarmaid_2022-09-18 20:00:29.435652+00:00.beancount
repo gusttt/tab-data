@@ -12,3 +12,9 @@
   Liabilities:Bar:Members:Koen     13.50 EUR
   Liabilities:Bar:Members:Sander  -13.50 EUR
 
+2022-09-18 txn "DJefke gave Sander a gift of €12.00"
+  timestamp: "2022-09-18 20:04:44.107341"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   12.00 EUR
+  Liabilities:Bar:Members:Sander  -12.00 EUR
+
