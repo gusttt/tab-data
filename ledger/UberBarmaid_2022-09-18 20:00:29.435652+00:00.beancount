@@ -334,3 +334,9 @@
   Liabilities:Bar:Members:DJefke   9.00 EUR
   Liabilities:Bar:Members:Yvan    -9.00 EUR
 
+2022-09-22 txn "Sander gave Yvan a gift of €3.25"
+  timestamp: "2022-09-22 19:39:27.646683"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   3.25 EUR
+  Liabilities:Bar:Members:Yvan    -3.25 EUR
+
