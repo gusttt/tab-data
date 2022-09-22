@@ -188,3 +188,11 @@
   Liabilities:Bar:Members:Elvis   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-09-22 txn "Fullscreen bought 1 items for €1.50"
+  timestamp: "2022-09-22 17:33:54.375929"
+  type: "purchase"
+  Assets:Inventory:Bar                   -1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen      1 COKE_ZERO
+  Liabilities:Bar:Members:Fullscreen   1.50 EUR      
+  Income:Bar                          -1.50 EUR      
+
