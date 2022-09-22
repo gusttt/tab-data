@@ -404,3 +404,11 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2022-09-22 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2022-09-22 20:36:30.879682"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 FANTA
+  Liabilities:Bar:Members:Fearless      1 FANTA
+  Liabilities:Bar:Members:Fearless   1.50 EUR  
+  Income:Bar                        -1.50 EUR  
+
