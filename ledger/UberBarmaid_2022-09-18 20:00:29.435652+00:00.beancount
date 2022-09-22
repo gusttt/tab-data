@@ -152,3 +152,9 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR   
   Income:Bar                      -2.00 EUR   
 
+2022-09-22 txn "DJefke gave Sander a gift of €8.00"
+  timestamp: "2022-09-22 16:50:43.389617"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   8.00 EUR
+  Liabilities:Bar:Members:Sander  -8.00 EUR
+
