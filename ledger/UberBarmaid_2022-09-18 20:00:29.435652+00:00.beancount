@@ -262,3 +262,13 @@
   Liabilities:Bar:Members:Maja   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2022-09-22 txn "Els bought 2 items for €2.10"
+  timestamp: "2022-09-22 18:54:48.874546"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA  
+  Liabilities:Bar:Members:Els      1 ICETEA  
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   2.10 EUR     
+  Income:Bar                   -2.10 EUR     
+
