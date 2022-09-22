@@ -320,3 +320,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.00 EUR
   Income:Bar                            -2.00 EUR
 
+2022-09-22 txn "Nachtvlinder bought 1 items for €2.00"
+  timestamp: "2022-09-22 19:36:49.966198"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.00 EUR   
+  Income:Bar                    -2.00 EUR   
+
