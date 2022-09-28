@@ -507,3 +507,9 @@
   Liabilities:Bar:Members:Els   2.60 EUR   
   Income:Bar                   -2.60 EUR   
 
+2022-09-28 txn "Els gave Yvan a gift of €12.00"
+  timestamp: "2022-09-28 11:09:52.747374"
+  type: "transfer"
+  Liabilities:Bar:Members:Els    12.00 EUR
+  Liabilities:Bar:Members:Yvan  -12.00 EUR
+
