@@ -513,3 +513,11 @@
   Liabilities:Bar:Members:Els    12.00 EUR
   Liabilities:Bar:Members:Yvan  -12.00 EUR
 
+2022-09-28 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-09-28 11:10:09.143485"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 COKE
+  Liabilities:Bar:Members:Els      1 COKE
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
