@@ -727,3 +727,13 @@
   Liabilities:Bar:Members:Miker   2.10 EUR   
   Income:Bar                     -2.10 EUR   
 
+2022-09-29 txn "Thijs bought 2 items for €2.10"
+  timestamp: "2022-09-29 21:50:45.841779"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT 
+  Liabilities:Bar:Members:Thijs      1 KITKAT 
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Thijs      1 JUPILER
+  Liabilities:Bar:Members:Thijs   2.10 EUR    
+  Income:Bar                     -2.10 EUR    
+
