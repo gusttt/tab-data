@@ -678,3 +678,12 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2022-09-29 txn "Koen bought 1 items for €2.50"
+  timestamp: "2022-09-29 20:37:32.443249"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 PIZZA
+  Liabilities:Bar:Members:Koen      1 PIZZA
+  Liabilities:Bar:Members:Koen   2.50 EUR  
+  Liabilities:Bar:Members:Yvan  -1.50 EUR  
+  Income:Bar                    -1.00 EUR  
+
