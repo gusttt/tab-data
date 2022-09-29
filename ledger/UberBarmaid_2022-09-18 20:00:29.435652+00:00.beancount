@@ -632,3 +632,9 @@
   Assets:Cash:Bar        2.00 EUR       
   Income:Bar            -2.00 EUR       
 
+2022-09-29 txn "Yvan deposited €-1.50"
+  timestamp: "2022-09-29 19:58:57.083399"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan   1.50 EUR
+  Assets:Cash:Bar               -1.50 EUR
+
