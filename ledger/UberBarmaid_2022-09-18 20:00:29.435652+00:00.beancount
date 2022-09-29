@@ -644,3 +644,13 @@
   Assets:Cash:Bar   1.00 EUR
   Assets:Cash:Bar  -1.00 EUR
 
+2022-09-29 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2022-09-29 20:08:01.868195"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CMCOLA
+  Liabilities:Bar:Members:Bloemist      1 CMCOLA
+  Assets:Inventory:Bar                 -1 CHIP  
+  Liabilities:Bar:Members:Bloemist      1 CHIP  
+  Liabilities:Bar:Members:Bloemist   3.00 EUR   
+  Income:Bar                        -3.00 EUR   
+
