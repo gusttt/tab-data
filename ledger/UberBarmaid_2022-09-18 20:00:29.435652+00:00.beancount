@@ -624,3 +624,11 @@
   Liabilities:Bar:Members:Yvan  -3.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-09-29 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2022-09-29 19:51:05.203039"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ_ZERO
+  Assets:Cash:Bar           1 FRITZ_ZERO
+  Assets:Cash:Bar        2.00 EUR       
+  Income:Bar            -2.00 EUR       
+
