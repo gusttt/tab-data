@@ -615,3 +615,12 @@
   Assets:Cash:Bar        1.00 EUR 
   Income:Bar            -1.00 EUR 
 
+2022-09-29 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2022-09-29 19:47:06.646172"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 PIZZA
+  Assets:Cash:Bar                   2 PIZZA
+  Assets:Cash:Bar                5.00 EUR  
+  Liabilities:Bar:Members:Yvan  -3.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
