@@ -717,3 +717,13 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR 
   Income:Bar                        -1.00 EUR 
 
+2022-09-29 txn "Miker bought 2 items for €2.10"
+  timestamp: "2022-09-29 21:24:01.350591"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 COKE  
+  Liabilities:Bar:Members:Miker      1 COKE  
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Miker      1 KITKAT
+  Liabilities:Bar:Members:Miker   2.10 EUR   
+  Income:Bar                     -2.10 EUR   
+
