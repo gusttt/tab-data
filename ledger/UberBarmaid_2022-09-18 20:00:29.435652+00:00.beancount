@@ -775,3 +775,11 @@
   Liabilities:Bar:Members:Alex  -26.00 EUR
   Assets:Cash:Bar                26.00 EUR
 
+2022-10-04 txn "Alex bought 1 items for €1.00"
+  timestamp: "2022-10-04 15:50:19.072509"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Alex      1 CHIP
+  Liabilities:Bar:Members:Alex   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
