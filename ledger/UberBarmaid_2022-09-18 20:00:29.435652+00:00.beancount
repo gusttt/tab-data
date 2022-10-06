@@ -815,3 +815,9 @@
   Liabilities:Bar:Members:Thijs   2.00 EUR
   Income:Bar                     -2.00 EUR
 
+2022-10-06 txn "Wouter deposited €20.00"
+  timestamp: "2022-10-06 17:17:01.082639"
+  type: "deposit"
+  Liabilities:Bar:Members:Wouter  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
