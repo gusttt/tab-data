@@ -837,3 +837,9 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-10-06 txn "Evils gave Thomas a gift of €2.53"
+  timestamp: "2022-10-06 18:08:02.699132"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    2.53 EUR
+  Liabilities:Bar:Members:Thomas  -2.53 EUR
+
