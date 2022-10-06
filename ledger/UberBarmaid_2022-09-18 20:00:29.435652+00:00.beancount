@@ -867,3 +867,13 @@
   Liabilities:Bar:Members:Maja   2.00 EUR   
   Income:Bar                    -2.00 EUR   
 
+2022-10-06 txn "Miker bought 2 items for €2.60"
+  timestamp: "2022-10-06 18:55:50.468171"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA  
+  Liabilities:Bar:Members:Miker      1 CMCOLA  
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   2.60 EUR     
+  Income:Bar                     -2.60 EUR     
+
