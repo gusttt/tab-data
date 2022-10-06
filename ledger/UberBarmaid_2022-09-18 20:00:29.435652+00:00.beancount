@@ -877,3 +877,11 @@
   Liabilities:Bar:Members:Miker   2.60 EUR     
   Income:Bar                     -2.60 EUR     
 
+2022-10-06 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-10-06 19:06:07.842140"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 AGRUMES
+  Liabilities:Bar:Members:Sander      1 AGRUMES
+  Liabilities:Bar:Members:Sander   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
