@@ -893,3 +893,9 @@
   Liabilities:Bar:Members:Maja   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2022-10-06 txn "Evils gave Miker a gift of €16.45"
+  timestamp: "2022-10-06 19:26:50.179110"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   16.45 EUR
+  Liabilities:Bar:Members:Miker  -16.45 EUR
+
