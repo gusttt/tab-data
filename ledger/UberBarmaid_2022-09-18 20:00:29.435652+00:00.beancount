@@ -937,3 +937,11 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2022-10-06 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-10-06 21:06:41.037404"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Miker      1 ICETEA
+  Liabilities:Bar:Members:Miker   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
