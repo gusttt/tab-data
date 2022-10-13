@@ -999,3 +999,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-10-13 txn "Koen gave Thomas a gift of €15.99"
+  timestamp: "2022-10-13 17:34:03.702239"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen     15.99 EUR
+  Liabilities:Bar:Members:Thomas  -15.99 EUR
+
