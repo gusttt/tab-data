@@ -1005,3 +1005,9 @@
   Liabilities:Bar:Members:Koen     15.99 EUR
   Liabilities:Bar:Members:Thomas  -15.99 EUR
 
+2022-10-13 txn "Koen deposited €25.00"
+  timestamp: "2022-10-13 17:35:03.366545"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -25.00 EUR
+  Assets:Cash:Bar                25.00 EUR
+
