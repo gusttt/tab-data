@@ -1155,3 +1155,11 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-10-13 txn "Sander bought 1 items for €2.00"
+  timestamp: "2022-10-13 20:31:31.362201"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:Sander      1 CMCOLA
+  Liabilities:Bar:Members:Sander   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
