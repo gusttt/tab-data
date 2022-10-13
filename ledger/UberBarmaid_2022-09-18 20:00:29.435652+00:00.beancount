@@ -1011,3 +1011,13 @@
   Liabilities:Bar:Members:Koen  -25.00 EUR
   Assets:Cash:Bar                25.00 EUR
 
+2022-10-13 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-10-13 17:39:23.238105"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ   
+  Liabilities:Bar:Members:Yvan      1 FRITZ   
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Yvan      1 SNICKERS
+  Liabilities:Bar:Members:Yvan   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
