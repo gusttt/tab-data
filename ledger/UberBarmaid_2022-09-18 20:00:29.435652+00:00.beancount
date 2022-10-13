@@ -1045,3 +1045,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-10-13 txn "DJefke bought 2 items for €4.00"
+  timestamp: "2022-10-13 18:17:57.064961"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 FRITZ
+  Liabilities:Bar:Members:DJefke      2 FRITZ
+  Liabilities:Bar:Members:DJefke   4.00 EUR  
+  Income:Bar                      -4.00 EUR  
+
