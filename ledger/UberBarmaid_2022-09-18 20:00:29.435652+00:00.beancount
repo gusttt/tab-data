@@ -1109,3 +1109,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-10-13 txn "Koen gave Wouter a gift of €13.00"
+  timestamp: "2022-10-13 18:58:40.769127"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen     13.00 EUR
+  Liabilities:Bar:Members:Wouter  -13.00 EUR
+
