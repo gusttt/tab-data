@@ -1139,3 +1139,11 @@
   Liabilities:Bar:Members:Thijs   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-10-13 txn "Elfeera bought 1 items for €2.00"
+  timestamp: "2022-10-13 20:16:12.833850"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Elfeera      1 FRITZ
+  Liabilities:Bar:Members:Elfeera   2.00 EUR  
+  Income:Bar                       -2.00 EUR  
+
