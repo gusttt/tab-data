@@ -1440,3 +1440,9 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-10-16 txn "Sander gave 3D-printer a gift of €2.00"
+  timestamp: "2022-10-16 21:25:55.910930"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander       2.00 EUR
+  Liabilities:Bar:Members:3D-printer  -2.00 EUR
+
