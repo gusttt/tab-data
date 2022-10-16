@@ -1254,3 +1254,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-10-16 txn "DJefke bought 1 items for €2.00"
+  timestamp: "2022-10-16 17:35:34.978904"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:DJefke      1 CMCOLA
+  Liabilities:Bar:Members:DJefke   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
