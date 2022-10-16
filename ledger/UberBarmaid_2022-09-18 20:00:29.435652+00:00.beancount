@@ -1316,3 +1316,11 @@
   Liabilities:Bar:Members:Bloemist  -25.00 EUR
   Assets:Cash:Bar                    25.00 EUR
 
+2022-10-16 txn "Koen bought 1 items for €1.50"
+  timestamp: "2022-10-16 18:09:43.847084"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 JUPILER
+  Liabilities:Bar:Members:Koen      1 JUPILER
+  Liabilities:Bar:Members:Koen   1.50 EUR    
+  Income:Bar                    -1.50 EUR    
+
