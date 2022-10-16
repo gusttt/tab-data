@@ -1392,3 +1392,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2022-10-16 txn "Wouter bought 1 items for €2.00"
+  timestamp: "2022-10-16 19:31:47.485210"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SPRITE
+  Liabilities:Bar:Members:Wouter      1 SPRITE
+  Liabilities:Bar:Members:Wouter   2.00 EUR   
+  Income:Bar                      -2.00 EUR   
+
