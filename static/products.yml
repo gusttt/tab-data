@@ -69,8 +69,8 @@
   currency: FRITZ_ZERO
   category: drink
 - name: Club Mate
-  price: 2.00
-  event_price: 3.00
+  price: 3.00
+  event_price: 4.00
   currency: CM
   category: drink
 - name: Club Mate Red
@@ -79,8 +79,8 @@
   currency: CMRED
   category: drink
 - name: Club Mate Cola
-  price: 2.00
-  event_price: 3.00
+  price: 2.50
+  event_price: 3.50
   category: drink
   currency: CMCOLA
 - name : Club Mate Winter
