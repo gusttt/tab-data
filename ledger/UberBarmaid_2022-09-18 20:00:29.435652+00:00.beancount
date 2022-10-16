@@ -1276,3 +1276,13 @@
   Liabilities:Bar:Members:Elfeera  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2022-10-16 txn "Yvan bought 2 items for €2.60"
+  timestamp: "2022-10-16 17:44:07.968257"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Yvan      1 CMCOLA
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
