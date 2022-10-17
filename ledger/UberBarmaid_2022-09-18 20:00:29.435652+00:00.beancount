@@ -1446,3 +1446,11 @@
   Liabilities:Bar:Members:Sander       2.00 EUR
   Liabilities:Bar:Members:3D-printer  -2.00 EUR
 
+2022-10-17 txn "Nachtvlinder bought 1 items for €2.50"
+  timestamp: "2022-10-17 19:37:43.268560"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
