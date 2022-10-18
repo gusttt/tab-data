@@ -1454,3 +1454,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2022-10-18 txn "Fearless bought 1 items for €0.60"
+  timestamp: "2022-10-18 13:25:10.343979"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SNICKERS
+  Liabilities:Bar:Members:Fearless      1 SNICKERS
+  Liabilities:Bar:Members:Fearless   0.60 EUR     
+  Income:Bar                        -0.60 EUR     
+
