@@ -1708,3 +1708,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2022-10-20 txn "Miker bought 1 items for €2.50"
+  timestamp: "2022-10-20 19:15:20.173064"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Miker      1 CMCOLA
+  Liabilities:Bar:Members:Miker   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
