@@ -1740,3 +1740,11 @@
   Liabilities:Bar:Members:Miker   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2022-10-20 txn "DJefke bought 1 items for €2.00"
+  timestamp: "2022-10-20 20:24:10.496902"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:DJefke      1 FRITZ
+  Liabilities:Bar:Members:DJefke   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
