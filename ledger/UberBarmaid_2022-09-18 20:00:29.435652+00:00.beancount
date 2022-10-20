@@ -1764,3 +1764,11 @@
   Liabilities:Bar:Members:Thijs  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2022-10-20 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2022-10-20 20:26:30.355538"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Thijs      1 BEER
+  Liabilities:Bar:Members:Thijs   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
