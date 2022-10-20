@@ -1510,3 +1510,13 @@
   Liabilities:Bar:Members:Els   1.50 EUR   
   Income:Bar                   -1.50 EUR   
 
+2022-10-20 txn "DJefke bought 2 items for €3.60"
+  timestamp: "2022-10-20 11:14:16.735500"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM      
+  Liabilities:Bar:Members:DJefke      1 CM      
+  Assets:Inventory:Bar               -1 SNICKERS
+  Liabilities:Bar:Members:DJefke      1 SNICKERS
+  Liabilities:Bar:Members:DJefke   3.60 EUR     
+  Income:Bar                      -3.60 EUR     
+
