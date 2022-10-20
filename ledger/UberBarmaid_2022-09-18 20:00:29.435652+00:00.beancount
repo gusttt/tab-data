@@ -1462,3 +1462,11 @@
   Liabilities:Bar:Members:Fearless   0.60 EUR     
   Income:Bar                        -0.60 EUR     
 
+2022-10-20 txn "Nachtvlinder bought 1 items for €2.50"
+  timestamp: "2022-10-20 09:12:18.072512"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
