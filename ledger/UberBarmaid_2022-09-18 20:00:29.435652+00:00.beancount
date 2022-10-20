@@ -1748,3 +1748,13 @@
   Liabilities:Bar:Members:DJefke   2.00 EUR  
   Income:Bar                      -2.00 EUR  
 
+2022-10-20 txn "--CASH-- bought 2 items for €2.50"
+  timestamp: "2022-10-20 20:25:21.650301"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SCHWEPPES
+  Assets:Cash:Bar           1 SCHWEPPES
+  Assets:Inventory:Bar     -1 CHIP     
+  Assets:Cash:Bar           1 CHIP     
+  Assets:Cash:Bar        2.50 EUR      
+  Income:Bar            -2.50 EUR      
+
