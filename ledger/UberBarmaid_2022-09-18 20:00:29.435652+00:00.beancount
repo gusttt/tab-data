@@ -1610,3 +1610,11 @@
   Liabilities:Bar:Members:Yvan   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-10-20 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-10-20 17:14:20.979736"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CROQUE
+  Liabilities:Bar:Members:Els      1 CROQUE
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
