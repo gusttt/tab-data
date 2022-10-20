@@ -1502,3 +1502,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2022-10-20 txn "Els bought 1 items for €1.50"
+  timestamp: "2022-10-20 11:04:10.316881"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Liabilities:Bar:Members:Els   1.50 EUR   
+  Income:Bar                   -1.50 EUR   
+
