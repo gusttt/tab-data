@@ -1642,3 +1642,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-10-20 txn "Yvan bought 1 items for €1.50"
+  timestamp: "2022-10-20 17:28:55.906779"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CROQUE
+  Liabilities:Bar:Members:Yvan      1 CROQUE
+  Liabilities:Bar:Members:Yvan   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
