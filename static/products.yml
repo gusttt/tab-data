@@ -59,13 +59,13 @@
   currency: GERMAN
   category: drink
 - name: Fritz
-  price: 2.00
-  event_price: 3.00
+  price: 2.50
+  event_price: 3.50
   currency: FRITZ
   category: drink
 - name: Fritz Zero
-  price: 2.00
-  event_price: 3.00
+  price: 2.50
+  event_price: 3.50
   currency: FRITZ_ZERO
   category: drink
 - name: Club Mate
