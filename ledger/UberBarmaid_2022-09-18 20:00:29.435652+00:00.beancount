@@ -1836,3 +1836,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-10-21 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2022-10-21 21:10:59.588183"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Thijs      1 JUPILER
+  Liabilities:Bar:Members:Thijs   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
