@@ -1912,3 +1912,9 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR   
   Income:Bar                        -2.50 EUR   
 
+2022-10-25 txn "qwaxys gave Evils a gift of €6.09"
+  timestamp: "2022-10-25 18:17:07.048979"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart    6.09 EUR
+  Liabilities:Bar:Members:Elvis  -6.09 EUR
+
