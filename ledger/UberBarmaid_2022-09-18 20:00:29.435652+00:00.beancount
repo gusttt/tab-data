@@ -2245,3 +2245,11 @@
   Liabilities:Bar:Members:Els   3.00 EUR  
   Income:Bar                   -3.00 EUR  
 
+2022-10-27 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2022-10-27 19:15:16.291814"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Wouter      1 JUPILER
+  Liabilities:Bar:Members:Wouter   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
