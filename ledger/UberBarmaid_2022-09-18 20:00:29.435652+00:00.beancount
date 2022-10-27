@@ -2269,3 +2269,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR  
   Income:Bar                    -1.50 EUR  
 
+2022-10-27 txn "Evils bought 1 items for €2.50"
+  timestamp: "2022-10-27 19:31:11.623331"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
