@@ -2231,3 +2231,9 @@
   Liabilities:Bar:Members:Els  -42.00 EUR
   Assets:Cash:Bar               42.00 EUR
 
+2022-10-27 txn "qwaxys gave Koen a gift of €4.00"
+  timestamp: "2022-10-27 18:58:25.645328"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   4.00 EUR
+  Liabilities:Bar:Members:Koen  -4.00 EUR
+
