@@ -2195,3 +2195,9 @@
   Liabilities:Bar:Members:Wouter   0.40 EUR
   Liabilities:Bar:Members:Elvis   -0.40 EUR
 
+2022-10-27 txn "Bloemist gave Wouter a gift of €23.65"
+  timestamp: "2022-10-27 18:50:03.890064"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   23.65 EUR
+  Liabilities:Bar:Members:Wouter    -23.65 EUR
+
