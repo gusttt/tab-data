@@ -2253,3 +2253,11 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-10-27 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2022-10-27 19:18:18.012273"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 KITKAT
+  Liabilities:Bar:Members:DJefke      1 KITKAT
+  Liabilities:Bar:Members:DJefke   0.60 EUR   
+  Income:Bar                      -0.60 EUR   
+
