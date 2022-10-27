@@ -2379,3 +2379,11 @@
   Liabilities:Bar:Members:Elvis   8.50 EUR
   Liabilities:Bar:Members:Thijs  -8.50 EUR
 
+2022-10-27 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2022-10-27 20:50:31.439555"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ_ZERO
+  Assets:Cash:Bar           1 FRITZ_ZERO
+  Assets:Cash:Bar        2.50 EUR       
+  Income:Bar            -2.50 EUR       
+
