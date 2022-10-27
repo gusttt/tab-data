@@ -2443,3 +2443,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR     
   Income:Bar                    -0.60 EUR     
 
+2022-10-27 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-10-27 21:34:54.232707"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Stefaan      1 KITKAT
+  Liabilities:Bar:Members:Stefaan   0.60 EUR   
+  Income:Bar                       -0.60 EUR   
+
