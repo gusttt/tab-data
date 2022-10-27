@@ -2373,3 +2373,9 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2022-10-27 txn "Evils gave Thijs a gift of €8.50"
+  timestamp: "2022-10-27 20:31:03.891976"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   8.50 EUR
+  Liabilities:Bar:Members:Thijs  -8.50 EUR
+
