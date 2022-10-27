@@ -2467,3 +2467,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR   
   Income:Bar                        -2.50 EUR   
 
+2022-10-27 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2022-10-27 22:00:36.358399"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Stefaan      1 SNICKERS
+  Liabilities:Bar:Members:Stefaan   0.60 EUR     
+  Income:Bar                       -0.60 EUR     
+
