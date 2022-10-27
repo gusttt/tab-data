@@ -2349,3 +2349,11 @@
   Liabilities:Bar:Members:Wouter   2.00 EUR   
   Income:Bar                      -2.00 EUR   
 
+2022-10-27 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2022-10-27 20:15:20.701263"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FANTA
+  Liabilities:Bar:Members:Ruleant      1 FANTA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR  
+  Income:Bar                       -1.50 EUR  
+
