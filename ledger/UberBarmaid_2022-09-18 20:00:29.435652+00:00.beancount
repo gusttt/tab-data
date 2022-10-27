@@ -2387,3 +2387,11 @@
   Assets:Cash:Bar        2.50 EUR       
   Income:Bar            -2.50 EUR       
 
+2022-10-27 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2022-10-27 20:55:56.005409"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Thijs      1 JUPILER
+  Liabilities:Bar:Members:Thijs   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
