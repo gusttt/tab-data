@@ -2201,3 +2201,11 @@
   Liabilities:Bar:Members:Bloemist   23.65 EUR
   Liabilities:Bar:Members:Wouter    -23.65 EUR
 
+2022-10-27 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2022-10-27 18:51:06.717948"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FANTA
+  Liabilities:Bar:Members:Thijs      1 FANTA
+  Liabilities:Bar:Members:Thijs   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
