@@ -2183,3 +2183,9 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2022-10-27 txn "Bloemist gave Evils a gift of €0.99"
+  timestamp: "2022-10-27 18:36:44.243422"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   0.99 EUR
+  Liabilities:Bar:Members:Elvis     -0.99 EUR
+
