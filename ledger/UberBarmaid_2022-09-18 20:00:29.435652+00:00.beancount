@@ -2451,3 +2451,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-10-27 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-10-27 21:41:57.186945"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        1.00 EUR 
+  Income:Bar            -1.00 EUR 
+
