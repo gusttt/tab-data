@@ -2189,3 +2189,9 @@
   Liabilities:Bar:Members:Bloemist   0.99 EUR
   Liabilities:Bar:Members:Elvis     -0.99 EUR
 
+2022-10-27 txn "Wouter gave Evils a gift of €0.40"
+  timestamp: "2022-10-27 18:47:02.527197"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   0.40 EUR
+  Liabilities:Bar:Members:Elvis   -0.40 EUR
+
