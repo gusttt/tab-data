@@ -2225,3 +2225,9 @@
   Liabilities:Bar:Members:Els   3.00 EUR
   Income:Bar                   -3.00 EUR
 
+2022-10-27 txn "Els deposited €42.00"
+  timestamp: "2022-10-27 18:56:20.851584"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -42.00 EUR
+  Assets:Cash:Bar               42.00 EUR
+
