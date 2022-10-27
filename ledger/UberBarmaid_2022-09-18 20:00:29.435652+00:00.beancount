@@ -2139,3 +2139,13 @@
   Liabilities:Bar:Members:Carroarmato0   3.70 EUR     
   Income:Bar                            -3.70 EUR     
 
+2022-10-27 txn "--CASH-- bought 2 items for €4.50"
+  timestamp: "2022-10-27 18:04:01.891278"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FRITZ
+  Assets:Cash:Bar           1 FRITZ
+  Assets:Inventory:Bar     -1 LEFFE
+  Assets:Cash:Bar           1 LEFFE
+  Assets:Cash:Bar        4.50 EUR  
+  Income:Bar            -4.50 EUR  
+
