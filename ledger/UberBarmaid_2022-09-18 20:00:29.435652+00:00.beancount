@@ -2435,3 +2435,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-10-27 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2022-10-27 21:34:10.727727"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bart      1 SNICKERS
+  Liabilities:Bar:Members:Bart   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
