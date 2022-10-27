@@ -2237,3 +2237,11 @@
   Liabilities:Bar:Members:Bart   4.00 EUR
   Liabilities:Bar:Members:Koen  -4.00 EUR
 
+2022-10-27 txn "Els bought 2 items for €3.00"
+  timestamp: "2022-10-27 19:07:46.472701"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 KRIEK
+  Liabilities:Bar:Members:Els      2 KRIEK
+  Liabilities:Bar:Members:Els   3.00 EUR  
+  Income:Bar                   -3.00 EUR  
+
