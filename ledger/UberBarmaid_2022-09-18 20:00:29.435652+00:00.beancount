@@ -2325,3 +2325,11 @@
   Liabilities:Bar:Members:Matth  -10.00 EUR
   Assets:Cash:Bar                 10.00 EUR
 
+2022-10-27 txn "Matth bought 1 items for €1.50"
+  timestamp: "2022-10-27 20:03:20.271846"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KRIEK
+  Liabilities:Bar:Members:Matth      1 KRIEK
+  Liabilities:Bar:Members:Matth   1.50 EUR  
+  Income:Bar                     -1.50 EUR  
+
