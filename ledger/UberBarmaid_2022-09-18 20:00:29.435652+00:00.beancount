@@ -2539,3 +2539,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2022-10-28 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2022-10-28 12:08:31.121079"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:DJefke      1 CMCOLA
+  Liabilities:Bar:Members:DJefke   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
