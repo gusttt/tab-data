@@ -2753,3 +2753,9 @@
   Liabilities:Bar:Members:Joris   1.50 EUR      
   Income:Bar                     -1.50 EUR      
 
+2022-11-03 txn "Fearless deposited €25.00"
+  timestamp: "2022-11-03 20:27:00.651957"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -25.00 EUR
+  Assets:Cash:Bar                    25.00 EUR
+
