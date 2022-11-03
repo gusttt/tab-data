@@ -2693,3 +2693,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-11-03 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2022-11-03 19:22:52.229944"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 JUPILER
+  Assets:Cash:Bar           2 JUPILER
+  Assets:Cash:Bar        3.00 EUR    
+  Income:Bar            -3.00 EUR    
+
