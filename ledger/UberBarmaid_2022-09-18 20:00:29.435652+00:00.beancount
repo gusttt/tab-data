@@ -2739,3 +2739,9 @@
   Liabilities:Bar:Members:Miker   2.50 EUR
   Liabilities:Bar:Members:Joris  -2.50 EUR
 
+2022-11-03 txn "Joris deposited €5.00"
+  timestamp: "2022-11-03 20:21:12.350862"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -5.00 EUR
+  Assets:Cash:Bar                 5.00 EUR
+
