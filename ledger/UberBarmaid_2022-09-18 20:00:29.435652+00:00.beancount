@@ -2725,3 +2725,11 @@
   Liabilities:Bar:Members:Thijs   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-11-03 txn "Joris bought 1 items for €2.50"
+  timestamp: "2022-11-03 20:18:09.372643"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Joris      1 FRITZ
+  Liabilities:Bar:Members:Joris   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
