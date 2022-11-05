@@ -1,0 +1,10 @@
+2022-11-05 txn "qwaxys bought 2 items for €4.00"
+  timestamp: "2022-11-05 00:36:22.234555"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BEER 
+  Liabilities:Bar:Members:Bart      1 BEER 
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
