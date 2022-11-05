@@ -1,0 +1,14 @@
+2022-11-05 txn "Els bought 5 items for €8.10"
+  timestamp: "2022-11-05 14:43:14.952201"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM      
+  Liabilities:Bar:Members:Els      1 CM      
+  Assets:Inventory:Bar            -1 COKE    
+  Liabilities:Bar:Members:Els      1 COKE    
+  Assets:Inventory:Bar            -2 KRIEK   
+  Liabilities:Bar:Members:Els      2 KRIEK   
+  Assets:Inventory:Bar            -1 SNICKERS
+  Liabilities:Bar:Members:Els      1 SNICKERS
+  Liabilities:Bar:Members:Els   8.10 EUR     
+  Income:Bar                   -8.10 EUR     
+
