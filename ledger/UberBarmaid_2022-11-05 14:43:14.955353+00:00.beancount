@@ -40,3 +40,11 @@
   Liabilities:Bar:Members:Koen  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2022-11-07 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2022-11-07 20:21:54.695974"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:DJefke      1 CMCOLA
+  Liabilities:Bar:Members:DJefke   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
