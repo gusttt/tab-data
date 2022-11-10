@@ -308,3 +308,11 @@
   Liabilities:Bar:Members:Maja   1.50 EUR   
   Income:Bar                    -1.50 EUR   
 
+2022-11-10 txn "--CASH-- bought 2 items for €4.00"
+  timestamp: "2022-11-10 20:33:59.325192"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 LEFFE
+  Assets:Cash:Bar           2 LEFFE
+  Assets:Cash:Bar        4.00 EUR  
+  Income:Bar            -4.00 EUR  
+
