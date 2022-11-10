@@ -324,3 +324,11 @@
   Liabilities:Bar:Members:HansA   6.00 EUR
   Income:Bar                     -6.00 EUR
 
+2022-11-10 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2022-11-10 20:35:57.628313"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 JUPILER
+  Assets:Cash:Bar           1 JUPILER
+  Assets:Cash:Bar        1.50 EUR    
+  Income:Bar            -1.50 EUR    
+
