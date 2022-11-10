@@ -476,3 +476,9 @@
   Liabilities:Bar:Members:On8wr  -15.40 EUR
   Assets:Cash:Bar                 15.40 EUR
 
+2022-11-10 txn "DJefke deposited €50.00"
+  timestamp: "2022-11-10 22:08:29.616030"
+  type: "deposit"
+  Liabilities:Bar:Members:DJefke  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
