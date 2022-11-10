@@ -112,3 +112,9 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2022-11-10 txn "On8wr gave Wouter a gift of €9.00"
+  timestamp: "2022-11-10 18:43:43.780607"
+  type: "transfer"
+  Liabilities:Bar:Members:On8wr    9.00 EUR
+  Liabilities:Bar:Members:Wouter  -9.00 EUR
+
