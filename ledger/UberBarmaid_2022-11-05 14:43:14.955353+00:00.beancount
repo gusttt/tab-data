@@ -268,3 +268,11 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2022-11-10 txn "Miker bought 1 items for €2.50"
+  timestamp: "2022-11-10 20:14:20.004397"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Miker      1 CMCOLA
+  Liabilities:Bar:Members:Miker   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
