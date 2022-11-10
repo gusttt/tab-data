@@ -118,3 +118,9 @@
   Liabilities:Bar:Members:On8wr    9.00 EUR
   Liabilities:Bar:Members:Wouter  -9.00 EUR
 
+2022-11-10 txn "qwaxys gave Wouter a gift of €13.00"
+  timestamp: "2022-11-10 18:44:20.054914"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart     13.00 EUR
+  Liabilities:Bar:Members:Wouter  -13.00 EUR
+
