@@ -300,3 +300,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR    
   Income:Bar                    -1.50 EUR    
 
+2022-11-10 txn "Nachtvlinder bought 1 items for €1.50"
+  timestamp: "2022-11-10 20:32:20.319856"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Liabilities:Bar:Members:Maja   1.50 EUR   
+  Income:Bar                    -1.50 EUR   
+
