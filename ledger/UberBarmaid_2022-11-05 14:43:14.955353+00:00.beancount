@@ -124,3 +124,9 @@
   Liabilities:Bar:Members:Bart     13.00 EUR
   Liabilities:Bar:Members:Wouter  -13.00 EUR
 
+2022-11-10 txn "qwaxys deposited €30.00"
+  timestamp: "2022-11-10 18:45:28.090391"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
