@@ -214,3 +214,11 @@
   Liabilities:Bar:Members:Koen   2.00 EUR  
   Income:Bar                    -2.00 EUR  
 
+2022-11-10 txn "Koen bought 1 items for €2.00"
+  timestamp: "2022-11-10 19:38:22.754157"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 LEFFE
+  Liabilities:Bar:Members:Koen      1 LEFFE
+  Liabilities:Bar:Members:Koen   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
