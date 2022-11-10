@@ -348,3 +348,13 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR    
   Income:Bar                      -1.50 EUR    
 
+2022-11-10 txn "Elfeera bought 2 items for €2.60"
+  timestamp: "2022-11-10 20:52:36.780303"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 LEFFE   
+  Liabilities:Bar:Members:Elfeera      1 LEFFE   
+  Assets:Inventory:Bar                -1 SNICKERS
+  Liabilities:Bar:Members:Elfeera      1 SNICKERS
+  Liabilities:Bar:Members:Elfeera   2.60 EUR     
+  Income:Bar                       -2.60 EUR     
+
