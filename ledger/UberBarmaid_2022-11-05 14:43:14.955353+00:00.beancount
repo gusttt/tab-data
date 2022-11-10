@@ -358,3 +358,11 @@
   Liabilities:Bar:Members:Elfeera   2.60 EUR     
   Income:Bar                       -2.60 EUR     
 
+2022-11-10 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2022-11-10 21:02:59.454545"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 ICETEA
+  Assets:Cash:Bar           1 ICETEA
+  Assets:Cash:Bar        1.50 EUR   
+  Income:Bar            -1.50 EUR   
+
