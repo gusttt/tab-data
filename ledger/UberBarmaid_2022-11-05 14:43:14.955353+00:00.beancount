@@ -192,3 +192,9 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2022-11-10 txn "Koen deposited €6.00"
+  timestamp: "2022-11-10 19:20:36.318321"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -6.00 EUR
+  Assets:Cash:Bar                6.00 EUR
+
