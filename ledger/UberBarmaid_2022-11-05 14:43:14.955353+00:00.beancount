@@ -398,3 +398,11 @@
   Assets:Cash:Bar        1.50 EUR   
   Income:Bar            -1.50 EUR   
 
+2022-11-10 txn "--CASH-- bought 3 items for €4.50"
+  timestamp: "2022-11-10 21:30:53.828650"
+  type: "purchase"
+  Assets:Inventory:Bar     -3 BEER
+  Assets:Cash:Bar           3 BEER
+  Assets:Cash:Bar        4.50 EUR 
+  Income:Bar            -4.50 EUR 
+
