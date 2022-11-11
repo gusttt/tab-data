@@ -578,3 +578,11 @@
   Assets:Cash:Bar        1.50 EUR    
   Income:Bar            -1.50 EUR    
 
+2022-11-11 txn "Fearless bought 1 items for €1.20"
+  timestamp: "2022-11-11 08:52:10.749377"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 NAKD
+  Liabilities:Bar:Members:Fearless      1 NAKD
+  Liabilities:Bar:Members:Fearless   1.20 EUR 
+  Income:Bar                        -1.20 EUR 
+
