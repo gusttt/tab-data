@@ -1,0 +1,8 @@
+2022-11-11 txn "Els bought 1 items for €3.00"
+  timestamp: "2022-11-11 12:07:15.118430"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Els      1 CM 
+  Liabilities:Bar:Members:Els   3.00 EUR
+  Income:Bar                   -3.00 EUR
+
