@@ -562,3 +562,11 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR     
   Income:Bar                     -0.60 EUR     
 
+2022-11-11 txn "Miker bought 1 items for €1.50"
+  timestamp: "2022-11-11 00:33:13.118928"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Miker      1 ICETEA
+  Liabilities:Bar:Members:Miker   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
