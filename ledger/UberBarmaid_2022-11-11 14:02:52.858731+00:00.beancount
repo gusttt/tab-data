@@ -6,3 +6,11 @@
   Liabilities:Bar:Members:On8wr   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2022-11-11 txn "On8wr bought 1 items for €0.60"
+  timestamp: "2022-11-11 14:50:58.075479"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:On8wr      1 SNACK
+  Liabilities:Bar:Members:On8wr   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
