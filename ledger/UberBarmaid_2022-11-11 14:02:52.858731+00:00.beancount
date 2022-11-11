@@ -76,3 +76,9 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR     
   Income:Bar                      -0.60 EUR     
 
+2022-11-11 txn "Yvan gave --CASH-- a gift of €300.00"
+  timestamp: "2022-11-11 20:01:33.848358"
+  type: "transfer"
+  Liabilities:Bar:Members:Yvan   300.00 EUR
+  Assets:Cash:Bar               -300.00 EUR
+
