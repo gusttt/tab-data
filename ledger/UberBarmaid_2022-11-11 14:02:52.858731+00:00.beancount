@@ -1,0 +1,8 @@
+2022-11-11 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2022-11-11 14:02:52.855794"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:On8wr      1 SODA
+  Liabilities:Bar:Members:On8wr   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
