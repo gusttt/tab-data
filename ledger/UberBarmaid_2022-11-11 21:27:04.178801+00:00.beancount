@@ -20,3 +20,11 @@
   Liabilities:Bar:Members:Koen  -5.00 EUR
   Assets:Cash:Bar                5.00 EUR
 
+2022-11-13 txn "Koen bought 1 items for €2.00"
+  timestamp: "2022-11-13 15:14:18.082614"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CIDER
+  Liabilities:Bar:Members:Koen      1 CIDER
+  Liabilities:Bar:Members:Koen   2.00 EUR  
+  Income:Bar                    -2.00 EUR  
+
