@@ -110,3 +110,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-11-13 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2022-11-13 19:53:35.067465"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Bloemist      1 BEER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
