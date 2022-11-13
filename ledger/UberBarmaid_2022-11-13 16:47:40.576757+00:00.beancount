@@ -172,3 +172,13 @@
   Liabilities:Bar:Members:Carroarmato0   1.00 EUR 
   Income:Bar                            -1.00 EUR 
 
+2022-11-13 txn "Carro​armato0 bought 2 items for €5.50"
+  timestamp: "2022-11-13 21:29:56.040001"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CM    
+  Liabilities:Bar:Members:Carroarmato0      1 CM    
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0   5.50 EUR   
+  Income:Bar                            -5.50 EUR   
+
