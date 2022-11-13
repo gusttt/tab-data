@@ -118,3 +118,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2022-11-13 txn "3D-printer deposited €25.00"
+  timestamp: "2022-11-13 20:04:04.364715"
+  type: "deposit"
+  Liabilities:Bar:Members:3D-printer  -25.00 EUR
+  Assets:Cash:Bar                      25.00 EUR
+
