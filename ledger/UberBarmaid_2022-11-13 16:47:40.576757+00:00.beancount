@@ -40,3 +40,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2022-11-13 txn "Elfeera bought 1 items for €2.50"
+  timestamp: "2022-11-13 18:26:15.512304"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Elfeera      1 FRITZ
+  Liabilities:Bar:Members:Elfeera   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
