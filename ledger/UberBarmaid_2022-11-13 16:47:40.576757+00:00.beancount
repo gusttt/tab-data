@@ -132,3 +132,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.50 EUR   
   Income:Bar                            -2.50 EUR   
 
+2022-11-13 txn "Koen bought 2 items for €3.00"
+  timestamp: "2022-11-13 20:07:08.281429"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+  Liabilities:Bar:Members:Koen   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
