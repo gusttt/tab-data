@@ -232,3 +232,9 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2022-11-16 txn "--CASH-- gave Evils a gift of €35.00"
+  timestamp: "2022-11-16 15:00:16.753343"
+  type: "transfer"
+  Assets:Cash:Bar                 35.00 EUR
+  Liabilities:Bar:Members:Elvis  -35.00 EUR
+
