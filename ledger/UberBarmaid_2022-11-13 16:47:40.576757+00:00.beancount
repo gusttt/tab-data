@@ -220,3 +220,9 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-11-16 txn "Evils gave --CASH-- a gift of €35.00"
+  timestamp: "2022-11-16 14:57:54.377861"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   35.00 EUR
+  Assets:Cash:Bar                -35.00 EUR
+
