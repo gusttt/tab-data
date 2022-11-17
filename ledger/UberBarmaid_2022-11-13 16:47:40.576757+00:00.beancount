@@ -418,3 +418,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2022-11-17 txn "Wouter bought 1 items for €2.50"
+  timestamp: "2022-11-17 19:21:58.129110"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter   2.50 EUR       
+  Income:Bar                      -2.50 EUR       
+
