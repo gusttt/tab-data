@@ -258,3 +258,11 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2022-11-17 txn "Evils bought 1 items for €0.60"
+  timestamp: "2022-11-17 16:22:47.447665"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 TWIX
+  Liabilities:Bar:Members:Elvis      1 TWIX
+  Liabilities:Bar:Members:Elvis   0.60 EUR 
+  Income:Bar                     -0.60 EUR 
+
