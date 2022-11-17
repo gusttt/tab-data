@@ -284,3 +284,9 @@
   Liabilities:Bar:Members:Auke   2.60 EUR     
   Income:Bar                    -2.60 EUR     
 
+2022-11-17 txn "Auke deposited €20.00"
+  timestamp: "2022-11-17 16:29:15.503575"
+  type: "deposit"
+  Liabilities:Bar:Members:Auke  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
