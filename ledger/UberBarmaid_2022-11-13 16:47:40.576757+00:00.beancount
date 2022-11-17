@@ -454,3 +454,9 @@
   Liabilities:Bar:Members:Bart     15.95 EUR
   Liabilities:Bar:Members:DJefke  -15.95 EUR
 
+2022-11-17 txn "Wouter gave Evils a gift of €0.20"
+  timestamp: "2022-11-17 20:43:47.464610"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   0.20 EUR
+  Liabilities:Bar:Members:Elvis   -0.20 EUR
+
