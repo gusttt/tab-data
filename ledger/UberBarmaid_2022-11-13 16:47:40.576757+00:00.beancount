@@ -448,3 +448,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2022-11-17 txn "qwaxys gave DJefke a gift of €15.95"
+  timestamp: "2022-11-17 20:34:32.269630"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart     15.95 EUR
+  Liabilities:Bar:Members:DJefke  -15.95 EUR
+
