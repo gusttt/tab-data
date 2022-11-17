@@ -382,3 +382,9 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-11-17 txn "Thijs gave DJefke a gift of €10.95"
+  timestamp: "2022-11-17 18:18:53.199905"
+  type: "transfer"
+  Liabilities:Bar:Members:Thijs    10.95 EUR
+  Liabilities:Bar:Members:DJefke  -10.95 EUR
+
