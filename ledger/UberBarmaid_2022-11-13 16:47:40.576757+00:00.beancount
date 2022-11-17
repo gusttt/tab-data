@@ -274,3 +274,13 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2022-11-17 txn "Auke bought 2 items for €2.60"
+  timestamp: "2022-11-17 16:27:20.919453"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SPRITE  
+  Liabilities:Bar:Members:Auke      1 SPRITE  
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Auke      1 SNICKERS
+  Liabilities:Bar:Members:Auke   2.60 EUR     
+  Income:Bar                    -2.60 EUR     
+
