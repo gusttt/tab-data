@@ -360,3 +360,9 @@
   Liabilities:Bar:Members:Thijs   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-11-17 txn "Evils gave DJefke a gift of €11.00"
+  timestamp: "2022-11-17 17:56:20.435894"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    11.00 EUR
+  Liabilities:Bar:Members:DJefke  -11.00 EUR
+
