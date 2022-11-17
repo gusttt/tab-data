@@ -460,3 +460,11 @@
   Liabilities:Bar:Members:Wouter   0.20 EUR
   Liabilities:Bar:Members:Elvis   -0.20 EUR
 
+2022-11-17 txn "Wouter bought 1 items for €1.00"
+  timestamp: "2022-11-17 20:44:38.839178"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Wouter      1 CHIP
+  Liabilities:Bar:Members:Wouter   1.00 EUR 
+  Income:Bar                      -1.00 EUR 
+
