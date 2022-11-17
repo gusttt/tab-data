@@ -476,3 +476,11 @@
   Liabilities:Bar:Members:Miker   5.00 EUR  
   Income:Bar                     -5.00 EUR  
 
+2022-11-17 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2022-11-17 21:26:50.084592"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FRITZ
+  Liabilities:Bar:Members:Bart      1 FRITZ
+  Liabilities:Bar:Members:Bart   2.50 EUR  
+  Income:Bar                    -2.50 EUR  
+
