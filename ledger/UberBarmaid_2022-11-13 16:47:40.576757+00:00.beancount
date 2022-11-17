@@ -298,3 +298,9 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2022-11-17 txn "qwaxys gave Thijs a gift of €1.80"
+  timestamp: "2022-11-17 17:00:45.045022"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart    1.80 EUR
+  Liabilities:Bar:Members:Thijs  -1.80 EUR
+
