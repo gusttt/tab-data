@@ -318,3 +318,11 @@
   Liabilities:Bar:Members:Sander   11.00 EUR
   Liabilities:Bar:Members:DJefke  -11.00 EUR
 
+2022-11-17 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2022-11-17 17:16:33.857850"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:DJefke      1 FRITZ
+  Liabilities:Bar:Members:DJefke   2.50 EUR  
+  Income:Bar                      -2.50 EUR  
+
