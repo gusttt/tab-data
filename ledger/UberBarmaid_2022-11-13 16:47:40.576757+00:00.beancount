@@ -484,3 +484,11 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2022-11-17 txn "Miker bought 1 items for €0.60"
+  timestamp: "2022-11-17 21:27:15.109630"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
