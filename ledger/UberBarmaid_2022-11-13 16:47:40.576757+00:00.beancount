@@ -468,3 +468,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-11-17 txn "Miker bought 2 items for €5.00"
+  timestamp: "2022-11-17 21:26:34.933920"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FRITZ
+  Liabilities:Bar:Members:Miker      2 FRITZ
+  Liabilities:Bar:Members:Miker   5.00 EUR  
+  Income:Bar                     -5.00 EUR  
+
