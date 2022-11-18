@@ -508,3 +508,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2022-11-18 txn "Fearless bought 2 items for €3.50"
+  timestamp: "2022-11-18 15:14:47.094771"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COKE 
+  Liabilities:Bar:Members:Fearless      1 COKE 
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   3.50 EUR  
+  Income:Bar                        -3.50 EUR  
+
