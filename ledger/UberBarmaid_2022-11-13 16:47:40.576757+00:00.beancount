@@ -684,3 +684,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR 
   Income:Bar                      -0.60 EUR 
 
+2022-11-20 txn "DJefke bought 1 items for €1.00"
+  timestamp: "2022-11-20 18:04:42.046913"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:DJefke      1 CHIP
+  Liabilities:Bar:Members:DJefke   1.00 EUR 
+  Income:Bar                      -1.00 EUR 
+
