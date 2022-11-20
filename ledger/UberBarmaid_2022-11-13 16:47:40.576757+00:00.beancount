@@ -666,3 +666,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-11-20 txn "DJefke bought 2 items for €3.10"
+  timestamp: "2022-11-20 17:08:37.117244"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ
+  Liabilities:Bar:Members:DJefke      1 FRITZ
+  Assets:Inventory:Bar               -1 LION 
+  Liabilities:Bar:Members:DJefke      1 LION 
+  Liabilities:Bar:Members:DJefke   3.10 EUR  
+  Income:Bar                      -3.10 EUR  
+
