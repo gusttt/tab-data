@@ -518,3 +518,11 @@
   Liabilities:Bar:Members:Fearless   3.50 EUR  
   Income:Bar                        -3.50 EUR  
 
+2022-11-20 txn "Evils bought 1 items for €2.50"
+  timestamp: "2022-11-20 12:39:50.672691"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Liabilities:Bar:Members:Elvis   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
