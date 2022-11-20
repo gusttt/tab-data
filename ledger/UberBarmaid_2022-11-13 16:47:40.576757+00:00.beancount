@@ -726,3 +726,9 @@
   Liabilities:Bar:Members:Elvis   8.00 EUR
   Liabilities:Bar:Members:Koen   -8.00 EUR
 
+2022-11-20 txn "qwaxys gave Koen a gift of €8.50"
+  timestamp: "2022-11-20 19:13:59.002803"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   8.50 EUR
+  Liabilities:Bar:Members:Koen  -8.50 EUR
+
