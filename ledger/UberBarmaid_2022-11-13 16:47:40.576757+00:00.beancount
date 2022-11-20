@@ -714,3 +714,9 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2022-11-20 txn "Sander gave Koen a gift of €3.50"
+  timestamp: "2022-11-20 19:12:08.877379"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   3.50 EUR
+  Liabilities:Bar:Members:Koen    -3.50 EUR
+
