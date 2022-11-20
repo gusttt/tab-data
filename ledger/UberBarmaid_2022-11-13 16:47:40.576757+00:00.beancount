@@ -676,3 +676,11 @@
   Liabilities:Bar:Members:DJefke   3.10 EUR  
   Income:Bar                      -3.10 EUR  
 
+2022-11-20 txn "Sander bought 1 items for €0.60"
+  timestamp: "2022-11-20 17:40:21.317455"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 TWIX
+  Liabilities:Bar:Members:Sander      1 TWIX
+  Liabilities:Bar:Members:Sander   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
