@@ -628,3 +628,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR 
   Income:Bar                    -0.60 EUR 
 
+2022-11-20 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2022-11-20 15:51:59.257933"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 LION
+  Liabilities:Bar:Members:Bart      1 LION
+  Liabilities:Bar:Members:Bart   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
