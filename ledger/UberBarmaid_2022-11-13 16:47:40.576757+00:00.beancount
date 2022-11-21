@@ -748,3 +748,13 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2022-11-21 txn "Yvan bought 2 items for €1.20"
+  timestamp: "2022-11-21 16:14:56.768276"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 LION  
+  Liabilities:Bar:Members:Yvan      1 LION  
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Yvan      1 KITKAT
+  Liabilities:Bar:Members:Yvan   1.20 EUR   
+  Income:Bar                    -1.20 EUR   
+
