@@ -774,3 +774,13 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR   
   Income:Bar                       -0.60 EUR   
 
+2022-11-24 txn "DJefke bought 2 items for €3.60"
+  timestamp: "2022-11-24 07:42:26.460563"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM  
+  Liabilities:Bar:Members:DJefke      1 CM  
+  Assets:Inventory:Bar               -1 LION
+  Liabilities:Bar:Members:DJefke      1 LION
+  Liabilities:Bar:Members:DJefke   3.60 EUR 
+  Income:Bar                      -3.60 EUR 
+
