@@ -1106,3 +1106,11 @@
   Liabilities:Bar:Members:Mateo  -35.00 EUR
   Assets:Cash:Bar                 35.00 EUR
 
+2022-11-24 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2022-11-24 23:56:34.608298"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Cash:Bar        1.00 EUR 
+  Income:Bar            -1.00 EUR 
+
