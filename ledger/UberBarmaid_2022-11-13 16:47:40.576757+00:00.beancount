@@ -930,3 +930,11 @@
   Liabilities:Bar:Members:Thijs   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-11-24 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2022-11-24 20:24:08.091724"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 LION
+  Liabilities:Bar:Members:DJefke      1 LION
+  Liabilities:Bar:Members:DJefke   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
