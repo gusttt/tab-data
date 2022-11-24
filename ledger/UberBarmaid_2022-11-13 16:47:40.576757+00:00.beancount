@@ -1072,3 +1072,9 @@
   Liabilities:Bar:Members:Stefaan  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2022-11-24 txn "Elfeera deposited €65.00"
+  timestamp: "2022-11-24 23:09:18.816482"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -65.00 EUR
+  Assets:Cash:Bar                   65.00 EUR
+
