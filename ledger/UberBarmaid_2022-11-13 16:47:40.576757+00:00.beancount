@@ -1092,3 +1092,11 @@
   Liabilities:Bar:Members:Mateo   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2022-11-24 txn "Mateo bought 1 items for €35.00"
+  timestamp: "2022-11-24 23:32:29.138391"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 HOODIE
+  Liabilities:Bar:Members:Mateo       1 HOODIE
+  Liabilities:Bar:Members:Mateo   35.00 EUR   
+  Income:Bar                     -35.00 EUR   
+
