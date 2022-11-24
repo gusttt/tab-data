@@ -978,3 +978,11 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2022-11-24 txn "Evils bought 1 items for €1.50"
+  timestamp: "2022-11-24 20:48:58.945215"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Elvis      1 JUPILER
+  Liabilities:Bar:Members:Elvis   1.50 EUR    
+  Income:Bar                     -1.50 EUR    
+
