@@ -1078,3 +1078,9 @@
   Liabilities:Bar:Members:Elfeera  -65.00 EUR
   Assets:Cash:Bar                   65.00 EUR
 
+2022-11-24 txn "Mateo deposited €5.00"
+  timestamp: "2022-11-24 23:20:16.698841"
+  type: "deposit"
+  Liabilities:Bar:Members:Mateo  -5.00 EUR
+  Assets:Cash:Bar                 5.00 EUR
+
