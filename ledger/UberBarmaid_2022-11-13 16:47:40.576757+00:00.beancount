@@ -1084,3 +1084,11 @@
   Liabilities:Bar:Members:Mateo  -5.00 EUR
   Assets:Cash:Bar                 5.00 EUR
 
+2022-11-24 txn "Mateo bought 1 items for €1.50"
+  timestamp: "2022-11-24 23:21:05.060158"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Mateo      1 ICETEA
+  Liabilities:Bar:Members:Mateo   1.50 EUR   
+  Income:Bar                     -1.50 EUR   
+
