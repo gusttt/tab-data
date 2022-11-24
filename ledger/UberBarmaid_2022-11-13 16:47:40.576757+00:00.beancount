@@ -850,3 +850,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2022-11-24 txn "TQ bought 1 items for €3.00"
+  timestamp: "2022-11-24 19:03:21.236450"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+  Liabilities:Bar:Members:Thequux   3.00 EUR
+  Income:Bar                       -3.00 EUR
+
