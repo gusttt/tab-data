@@ -914,3 +914,11 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2022-11-24 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2022-11-24 19:43:11.105465"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Wouter      1 JUPILER
+  Liabilities:Bar:Members:Wouter   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
