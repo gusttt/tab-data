@@ -1152,3 +1152,9 @@
   Liabilities:Bar:Members:Thijs        1.00 EUR
   Liabilities:Bar:Members:3D-printer  -1.00 EUR
 
+2022-11-25 txn "Yvan deposited €400.00"
+  timestamp: "2022-11-25 11:52:00.096283"
+  type: "deposit"
+  Liabilities:Bar:Members:Yvan  -400.00 EUR
+  Assets:Cash:Bar                400.00 EUR
+
