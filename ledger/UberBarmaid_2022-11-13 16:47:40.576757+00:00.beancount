@@ -1462,3 +1462,11 @@
   Assets:Cash:Bar        3.00 EUR 
   Income:Bar            -3.00 EUR 
 
+2022-11-26 txn "--CASH-- bought 7 items for €14.00"
+  timestamp: "2022-11-26 21:18:35.705197"
+  type: "purchase"
+  Assets:Inventory:Bar      -7 LEFFE
+  Assets:Cash:Bar            7 LEFFE
+  Assets:Cash:Bar        14.00 EUR  
+  Income:Bar            -14.00 EUR  
+
