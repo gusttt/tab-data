@@ -1372,3 +1372,13 @@
   Assets:Cash:Bar        2.50 EUR  
   Income:Bar            -2.50 EUR  
 
+2022-11-26 txn "qwaxys bought 2 items for €2.60"
+  timestamp: "2022-11-26 19:23:58.331806"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Bart      1 GERMAN
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Bart      1 KITKAT
+  Liabilities:Bar:Members:Bart   2.60 EUR   
+  Income:Bar                    -2.60 EUR   
+
