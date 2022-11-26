@@ -1418,3 +1418,9 @@
   Liabilities:Bar:Members:Bart   5.50 EUR   
   Income:Bar                    -5.50 EUR   
 
+2022-11-26 txn "Enzian deposited €9.00"
+  timestamp: "2022-11-26 20:00:26.672424"
+  type: "deposit"
+  Liabilities:Bar:Members:Enzian  -9.00 EUR
+  Assets:Cash:Bar                  9.00 EUR
+
