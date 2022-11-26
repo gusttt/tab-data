@@ -1298,3 +1298,13 @@
   Liabilities:Bar:Members:Koen   7.50 EUR
   Assets:Cash:Bar               -7.50 EUR
 
+2022-11-26 txn "Koen bought 2 items for €3.00"
+  timestamp: "2022-11-26 17:48:23.087854"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Koen      1 SCHWEPPES
+  Assets:Inventory:Bar             -1 ICETEA   
+  Liabilities:Bar:Members:Koen      1 ICETEA   
+  Liabilities:Bar:Members:Koen   3.00 EUR      
+  Income:Bar                    -3.00 EUR      
+
