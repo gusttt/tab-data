@@ -1228,3 +1228,11 @@
   Liabilities:Bar:Members:Bart   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2022-11-26 txn "Enzian bought 1 items for €3.00"
+  timestamp: "2022-11-26 15:36:15.187683"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Enzian      1 CM 
+  Liabilities:Bar:Members:Enzian   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
