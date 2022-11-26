@@ -1454,3 +1454,11 @@
   Liabilities:Bar:Members:Bart   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-11-26 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2022-11-26 20:55:46.755350"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 COKE
+  Assets:Cash:Bar           2 COKE
+  Assets:Cash:Bar        3.00 EUR 
+  Income:Bar            -3.00 EUR 
+
