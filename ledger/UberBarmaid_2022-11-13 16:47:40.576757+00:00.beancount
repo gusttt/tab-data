@@ -1424,3 +1424,9 @@
   Liabilities:Bar:Members:Enzian  -9.00 EUR
   Assets:Cash:Bar                  9.00 EUR
 
+2022-11-26 txn "Carro​armato0 gave qwaxys a gift of €5.00"
+  timestamp: "2022-11-26 20:09:26.307548"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   5.00 EUR
+  Liabilities:Bar:Members:Bart          -5.00 EUR
+
