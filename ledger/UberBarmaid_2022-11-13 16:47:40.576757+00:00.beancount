@@ -1520,3 +1520,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.50 EUR  
   Income:Bar                            -2.50 EUR  
 
+2022-11-26 txn "Evils bought 1 items for €2.50"
+  timestamp: "2022-11-26 23:21:40.314156"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FRITZ
+  Liabilities:Bar:Members:Elvis      1 FRITZ
+  Liabilities:Bar:Members:Elvis   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
