@@ -1398,3 +1398,13 @@
   Liabilities:Bar:Members:Merlijn   2.00 EUR  
   Income:Bar                       -2.00 EUR  
 
+2022-11-26 txn "--CASH-- bought 2 items for €3.10"
+  timestamp: "2022-11-26 19:45:15.600839"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CMCOLA  
+  Assets:Cash:Bar           1 CMCOLA  
+  Assets:Inventory:Bar     -1 SNICKERS
+  Assets:Cash:Bar           1 SNICKERS
+  Assets:Cash:Bar        3.10 EUR     
+  Income:Bar            -3.10 EUR     
+
