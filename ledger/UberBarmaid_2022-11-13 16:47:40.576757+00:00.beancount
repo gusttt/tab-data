@@ -1308,3 +1308,11 @@
   Liabilities:Bar:Members:Koen   3.00 EUR      
   Income:Bar                    -3.00 EUR      
 
+2022-11-26 txn "Enzian bought 1 items for €3.00"
+  timestamp: "2022-11-26 17:54:55.142337"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Enzian      1 CM 
+  Liabilities:Bar:Members:Enzian   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
