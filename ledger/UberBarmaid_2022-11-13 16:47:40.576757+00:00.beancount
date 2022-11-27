@@ -1566,3 +1566,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-11-27 txn "qwaxys bought 1 items for €3.00"
+  timestamp: "2022-11-27 00:43:43.676330"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Bart      1 CM 
+  Liabilities:Bar:Members:Bart   3.00 EUR
+  Income:Bar                    -3.00 EUR
+
