@@ -1706,3 +1706,9 @@
   Liabilities:Bar:Members:Wouter   2.50 EUR       
   Income:Bar                      -2.50 EUR       
 
+2022-11-30 txn "Wouter gave Evils a gift of €0.15"
+  timestamp: "2022-11-30 20:26:18.739287"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   0.15 EUR
+  Liabilities:Bar:Members:Elvis   -0.15 EUR
+
