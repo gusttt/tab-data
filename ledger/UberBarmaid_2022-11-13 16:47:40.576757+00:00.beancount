@@ -1818,3 +1818,9 @@
   Liabilities:Bar:Members:Wouter   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2022-12-01 txn "Miker deposited €40.00"
+  timestamp: "2022-12-01 19:43:42.110041"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
