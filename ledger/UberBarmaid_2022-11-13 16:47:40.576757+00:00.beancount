@@ -2006,3 +2006,9 @@
   Liabilities:Bar:Members:Thijs        1.00 EUR
   Liabilities:Bar:Members:3D-printer  -1.00 EUR
 
+2022-12-01 txn "Thijs deposited €20.00"
+  timestamp: "2022-12-01 23:28:11.772468"
+  type: "deposit"
+  Liabilities:Bar:Members:Thijs  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
