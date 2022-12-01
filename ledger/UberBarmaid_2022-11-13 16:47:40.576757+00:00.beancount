@@ -1794,3 +1794,11 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-12-01 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2022-12-01 19:06:27.241423"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 LEFFE
+  Liabilities:Bar:Members:Thomas      1 LEFFE
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
