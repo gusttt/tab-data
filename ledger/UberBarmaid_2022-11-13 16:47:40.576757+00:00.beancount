@@ -1914,3 +1914,9 @@
   Liabilities:Bar:Members:Thomas   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-12-01 txn "qwaxys gave Wouter a gift of €10.25"
+  timestamp: "2022-12-01 20:48:11.768670"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart     10.25 EUR
+  Liabilities:Bar:Members:Wouter  -10.25 EUR
+
