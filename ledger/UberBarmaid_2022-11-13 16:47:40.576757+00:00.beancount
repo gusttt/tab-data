@@ -1850,3 +1850,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-12-01 txn "Miker bought 1 items for €0.60"
+  timestamp: "2022-12-01 20:12:03.428011"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNICKERS
+  Liabilities:Bar:Members:Miker      1 SNICKERS
+  Liabilities:Bar:Members:Miker   0.60 EUR     
+  Income:Bar                     -0.60 EUR     
+
