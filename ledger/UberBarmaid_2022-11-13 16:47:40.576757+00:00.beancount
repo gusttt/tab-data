@@ -1898,3 +1898,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2022-12-01 txn "Thomas bought 1 items for €2.00"
+  timestamp: "2022-12-01 20:43:23.966601"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CIDER
+  Liabilities:Bar:Members:Thomas      1 CIDER
+  Liabilities:Bar:Members:Thomas   2.00 EUR  
+  Income:Bar                      -2.00 EUR  
+
