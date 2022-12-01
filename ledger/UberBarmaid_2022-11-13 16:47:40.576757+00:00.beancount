@@ -1734,3 +1734,9 @@
   Liabilities:Bar:Members:Wouter   0.30 EUR
   Liabilities:Bar:Members:Elvis   -0.30 EUR
 
+2022-12-01 txn "Wouter deposited €10.00"
+  timestamp: "2022-12-01 13:01:10.775707"
+  type: "deposit"
+  Liabilities:Bar:Members:Wouter  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
