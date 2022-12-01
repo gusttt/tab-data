@@ -1940,3 +1940,11 @@
   Liabilities:Bar:Members:Koen  -15.00 EUR
   Assets:Cash:Bar                15.00 EUR
 
+2022-12-01 txn "Mateo bought 1 items for €1.50"
+  timestamp: "2022-12-01 21:37:50.836161"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SCHWEPPES
+  Liabilities:Bar:Members:Mateo      1 SCHWEPPES
+  Liabilities:Bar:Members:Mateo   1.50 EUR      
+  Income:Bar                     -1.50 EUR      
+
