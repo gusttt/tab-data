@@ -1832,3 +1832,13 @@
   Liabilities:Bar:Members:Miker   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-12-01 txn "Thomas bought 2 items for €2.60"
+  timestamp: "2022-12-01 20:06:45.106046"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 LEFFE
+  Liabilities:Bar:Members:Thomas      1 LEFFE
+  Assets:Inventory:Bar               -1 TWIX 
+  Liabilities:Bar:Members:Thomas      1 TWIX 
+  Liabilities:Bar:Members:Thomas   2.60 EUR  
+  Income:Bar                      -2.60 EUR  
+
