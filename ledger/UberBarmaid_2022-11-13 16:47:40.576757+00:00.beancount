@@ -2000,3 +2000,9 @@
   Liabilities:Bar:Members:Mateo   1.50 EUR   
   Income:Bar                     -1.50 EUR   
 
+2022-12-01 txn "Thijs gave 3D-printer a gift of €1.00"
+  timestamp: "2022-12-01 23:27:25.345939"
+  type: "transfer"
+  Liabilities:Bar:Members:Thijs        1.00 EUR
+  Liabilities:Bar:Members:3D-printer  -1.00 EUR
+
