@@ -130,3 +130,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.50 EUR   
   Income:Bar                            -2.50 EUR   
 
+2022-12-08 txn "Miker bought 1 items for €0.60"
+  timestamp: "2022-12-08 20:12:50.405553"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Miker      1 KITKAT
+  Liabilities:Bar:Members:Miker   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
