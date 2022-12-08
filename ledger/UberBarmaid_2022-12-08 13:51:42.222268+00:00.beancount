@@ -50,3 +50,11 @@
   Liabilities:Bar:Members:Wouter   2.10 EUR   
   Income:Bar                      -2.10 EUR   
 
+2022-12-08 txn "Carro​armato0 bought 1 items for €2.50"
+  timestamp: "2022-12-08 18:49:01.479313"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0   2.50 EUR   
+  Income:Bar                            -2.50 EUR   
+
