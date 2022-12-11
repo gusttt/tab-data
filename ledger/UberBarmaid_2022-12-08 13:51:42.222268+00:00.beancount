@@ -322,3 +322,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-12-11 txn "Thijs bought 1 items for €0.60"
+  timestamp: "2022-12-11 20:23:33.379499"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Thijs      1 KITKAT
+  Liabilities:Bar:Members:Thijs   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
