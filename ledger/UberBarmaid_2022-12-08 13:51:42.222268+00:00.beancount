@@ -360,3 +360,9 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2022-12-11 txn "Sasja gave Evils a gift of €30.00"
+  timestamp: "2022-12-11 20:50:43.799605"
+  type: "transfer"
+  Liabilities:Bar:Members:Sasja   30.00 EUR
+  Liabilities:Bar:Members:Elvis  -30.00 EUR
+
