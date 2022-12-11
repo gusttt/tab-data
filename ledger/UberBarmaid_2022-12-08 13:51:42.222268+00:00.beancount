@@ -218,3 +218,11 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2022-12-11 txn "qwaxys bought 1 items for €1.50"
+  timestamp: "2022-12-11 14:37:21.418880"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Bart      1 COKE
+  Liabilities:Bar:Members:Bart   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
