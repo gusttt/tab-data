@@ -382,3 +382,13 @@
   Liabilities:Bar:Members:Thijs   1.50 EUR    
   Income:Bar                     -1.50 EUR    
 
+2022-12-13 txn "Yvan bought 10 items for €6.00"
+  timestamp: "2022-12-13 14:08:56.302791"
+  type: "purchase"
+  Assets:Inventory:Bar             -6 KITKAT
+  Liabilities:Bar:Members:Yvan      6 KITKAT
+  Assets:Inventory:Bar             -4 TWIX  
+  Liabilities:Bar:Members:Yvan      4 TWIX  
+  Liabilities:Bar:Members:Yvan   6.00 EUR   
+  Income:Bar                    -6.00 EUR   
+
