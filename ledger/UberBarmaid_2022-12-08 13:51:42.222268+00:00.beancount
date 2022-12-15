@@ -576,3 +576,13 @@
   Liabilities:Bar:Members:Miker   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-12-15 txn "Nachtvlinder bought 2 items for €2.10"
+  timestamp: "2022-12-15 19:57:30.424328"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Maja      1 COKE
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Maja      1 TWIX
+  Liabilities:Bar:Members:Maja   2.10 EUR 
+  Income:Bar                    -2.10 EUR 
+
