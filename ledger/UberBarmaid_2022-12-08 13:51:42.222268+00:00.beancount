@@ -436,3 +436,13 @@
   Liabilities:Bar:Members:Wouter   2.00 EUR
   Assets:Cash:Bar                 -2.00 EUR
 
+2022-12-15 txn "Miker bought 3 items for €6.60"
+  timestamp: "2022-12-15 14:14:26.455515"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM    
+  Liabilities:Bar:Members:Miker      2 CM    
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Miker      1 KITKAT
+  Liabilities:Bar:Members:Miker   6.60 EUR   
+  Income:Bar                     -6.60 EUR   
+
