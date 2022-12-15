@@ -508,3 +508,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR   
   Income:Bar                   -1.50 EUR   
 
+2022-12-15 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2022-12-15 18:46:19.172721"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Bart      1 CMCOLA
+  Liabilities:Bar:Members:Bart   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
