@@ -640,3 +640,11 @@
   Liabilities:Bar:Members:Elvis    12.00 EUR
   Liabilities:Bar:Members:Wouter  -12.00 EUR
 
+2022-12-15 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-12-15 20:58:04.955085"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SCHWEPPES
+  Liabilities:Bar:Members:Sander      1 SCHWEPPES
+  Liabilities:Bar:Members:Sander   1.50 EUR      
+  Income:Bar                      -1.50 EUR      
+
