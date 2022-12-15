@@ -696,3 +696,11 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-12-15 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2022-12-15 23:34:18.147992"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Bart      1 KITKAT
+  Liabilities:Bar:Members:Bart   0.60 EUR   
+  Income:Bar                    -0.60 EUR   
+
