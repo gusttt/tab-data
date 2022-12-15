@@ -594,3 +594,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2022-12-15 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2022-12-15 20:37:05.807765"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Bart      1 SNICKERS
+  Liabilities:Bar:Members:Bart   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
