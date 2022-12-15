@@ -468,3 +468,11 @@
   Liabilities:Bar:Members:Wouter   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-12-15 txn "Evils bought 1 items for €3.00"
+  timestamp: "2022-12-15 16:51:44.543163"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
