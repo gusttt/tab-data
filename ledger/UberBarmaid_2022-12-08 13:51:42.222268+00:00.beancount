@@ -546,3 +546,9 @@
   Liabilities:Bar:Members:Sander  -25.06 EUR
   Assets:Cash:Bar                  25.06 EUR
 
+2022-12-15 txn "Sander gave Wouter a gift of €4.00"
+  timestamp: "2022-12-15 19:10:17.271312"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   4.00 EUR
+  Liabilities:Bar:Members:Wouter  -4.00 EUR
+
