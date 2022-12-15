@@ -704,3 +704,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR   
   Income:Bar                    -0.60 EUR   
 
+2022-12-15 txn "Thijs bought 2 items for €1.00"
+  timestamp: "2022-12-15 23:45:21.343991"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 TEA
+  Liabilities:Bar:Members:Thijs      2 TEA
+  Liabilities:Bar:Members:Thijs   1.00 EUR
+  Income:Bar                     -1.00 EUR
+
