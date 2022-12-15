@@ -656,3 +656,11 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR 
   Income:Bar                        -1.00 EUR 
 
+2022-12-15 txn "Nachtvlinder bought 1 items for €0.60"
+  timestamp: "2022-12-15 21:19:53.954724"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNICKERS
+  Liabilities:Bar:Members:Maja      1 SNICKERS
+  Liabilities:Bar:Members:Maja   0.60 EUR     
+  Income:Bar                    -0.60 EUR     
+
