@@ -728,3 +728,11 @@
   Liabilities:Bar:Members:Sasja  -35.00 EUR
   Assets:Cash:Bar                 35.00 EUR
 
+2022-12-19 txn "Sasja bought 2 items for €3.00"
+  timestamp: "2022-12-19 19:18:58.826165"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 BEER
+  Liabilities:Bar:Members:Sasja      2 BEER
+  Liabilities:Bar:Members:Sasja   3.00 EUR 
+  Income:Bar                     -3.00 EUR 
+
