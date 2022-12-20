@@ -792,3 +792,15 @@
   Liabilities:Bar:Members:Sasja   0.60 EUR   
   Income:Bar                     -0.60 EUR   
 
+2022-12-20 txn "Carro​armato0 bought 3 items for €3.70"
+  timestamp: "2022-12-20 15:46:15.248907"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 CMCOLA
+  Liabilities:Bar:Members:Carroarmato0      1 CMCOLA
+  Assets:Inventory:Bar                     -1 LION  
+  Liabilities:Bar:Members:Carroarmato0      1 LION  
+  Assets:Inventory:Bar                     -1 SNACK 
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK 
+  Liabilities:Bar:Members:Carroarmato0   3.70 EUR   
+  Income:Bar                            -3.70 EUR   
+
