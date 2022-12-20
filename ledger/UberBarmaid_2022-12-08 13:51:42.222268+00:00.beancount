@@ -804,3 +804,13 @@
   Liabilities:Bar:Members:Carroarmato0   3.70 EUR   
   Income:Bar                            -3.70 EUR   
 
+2022-12-20 txn "Evils bought 2 items for €3.10"
+  timestamp: "2022-12-20 15:59:49.469661"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CMCOLA
+  Liabilities:Bar:Members:Elvis      1 CMCOLA
+  Assets:Inventory:Bar              -1 SNACK 
+  Liabilities:Bar:Members:Elvis      1 SNACK 
+  Liabilities:Bar:Members:Elvis   3.10 EUR   
+  Income:Bar                     -3.10 EUR   
+
