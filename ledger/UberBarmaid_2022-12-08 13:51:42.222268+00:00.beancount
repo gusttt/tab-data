@@ -784,3 +784,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR    
   Income:Bar                        -3.00 EUR    
 
+2022-12-20 txn "Sasja bought 1 items for €0.60"
+  timestamp: "2022-12-20 00:14:28.392631"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Sasja      1 KITKAT
+  Liabilities:Bar:Members:Sasja   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
