@@ -840,3 +840,11 @@
   Liabilities:Bar:Members:Thijs   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2022-12-22 txn "Thijs bought 1 items for €0.60"
+  timestamp: "2022-12-22 16:38:35.729834"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KITKAT
+  Liabilities:Bar:Members:Thijs      1 KITKAT
+  Liabilities:Bar:Members:Thijs   0.60 EUR   
+  Income:Bar                     -0.60 EUR   
+
