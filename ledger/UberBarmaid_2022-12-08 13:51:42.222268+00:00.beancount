@@ -856,3 +856,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-12-22 txn "Wouter bought 1 items for €2.50"
+  timestamp: "2022-12-22 16:57:20.780208"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter   2.50 EUR       
+  Income:Bar                      -2.50 EUR       
+
