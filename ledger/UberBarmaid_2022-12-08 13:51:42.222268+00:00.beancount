@@ -1052,3 +1052,9 @@
   Liabilities:Bar:Members:Koen  -1.50 EUR
   Assets:Cash:Bar                1.50 EUR
 
+2022-12-22 txn "Bloemist gave Evils a gift of €6.05"
+  timestamp: "2022-12-22 21:55:12.332347"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   6.05 EUR
+  Liabilities:Bar:Members:Elvis     -6.05 EUR
+
