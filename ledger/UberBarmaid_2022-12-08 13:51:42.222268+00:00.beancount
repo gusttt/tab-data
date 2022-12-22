@@ -924,3 +924,11 @@
   Liabilities:Bar:Members:Wouter   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-12-22 txn "Nachtvlinder bought 1 items for €2.50"
+  timestamp: "2022-12-22 19:25:40.871777"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Maja      1 CMCOLA
+  Liabilities:Bar:Members:Maja   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
