@@ -916,3 +916,11 @@
   Liabilities:Bar:Members:Matth   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2022-12-22 txn "Wouter bought 1 items for €0.60"
+  timestamp: "2022-12-22 19:21:36.990243"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 KITKAT
+  Liabilities:Bar:Members:Wouter      1 KITKAT
+  Liabilities:Bar:Members:Wouter   0.60 EUR   
+  Income:Bar                      -0.60 EUR   
+
