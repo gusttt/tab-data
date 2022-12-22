@@ -1036,3 +1036,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2022-12-22 txn "Koen bought 2 items for €2.10"
+  timestamp: "2022-12-22 21:52:31.053123"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SCHWEPPES
+  Liabilities:Bar:Members:Koen      1 SCHWEPPES
+  Assets:Inventory:Bar             -1 LION     
+  Liabilities:Bar:Members:Koen      1 LION     
+  Liabilities:Bar:Members:Koen   2.10 EUR      
+  Income:Bar                    -2.10 EUR      
+
