@@ -1198,3 +1198,11 @@
   Liabilities:Bar:Members:Maja  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2022-12-25 txn "Els bought 2 items for €1.20"
+  timestamp: "2022-12-25 15:11:16.836555"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 TWIX
+  Liabilities:Bar:Members:Els      2 TWIX
+  Liabilities:Bar:Members:Els   1.20 EUR 
+  Income:Bar                   -1.20 EUR 
+
