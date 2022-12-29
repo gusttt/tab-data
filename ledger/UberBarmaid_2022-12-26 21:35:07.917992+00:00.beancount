@@ -246,3 +246,13 @@
   Liabilities:Bar:Members:Gust   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2022-12-29 txn "Elfeera bought 2 items for €3.10"
+  timestamp: "2022-12-29 19:51:13.135961"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ 
+  Liabilities:Bar:Members:Elfeera      1 FRITZ 
+  Assets:Inventory:Bar                -1 KITKAT
+  Liabilities:Bar:Members:Elfeera      1 KITKAT
+  Liabilities:Bar:Members:Elfeera   3.10 EUR   
+  Income:Bar                       -3.10 EUR   
+
