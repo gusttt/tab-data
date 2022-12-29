@@ -152,3 +152,9 @@
   Liabilities:Bar:Members:Wouter   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2022-12-29 txn "Gust deposited €20.00"
+  timestamp: "2022-12-29 18:33:38.341971"
+  type: "deposit"
+  Liabilities:Bar:Members:Gust  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
