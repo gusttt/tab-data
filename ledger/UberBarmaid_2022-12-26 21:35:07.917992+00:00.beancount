@@ -290,3 +290,11 @@
   Liabilities:Bar:Members:Sander   1.50 EUR      
   Income:Bar                      -1.50 EUR      
 
+2022-12-29 txn "--CASH-- bought 2 items for €5.00"
+  timestamp: "2022-12-29 20:24:49.721320"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 FRITZ
+  Assets:Cash:Bar           2 FRITZ
+  Assets:Cash:Bar        5.00 EUR  
+  Income:Bar            -5.00 EUR  
+
