@@ -392,3 +392,11 @@
   Liabilities:Bar:Members:Elfeera   3.10 EUR   
   Income:Bar                       -3.10 EUR   
 
+2022-12-29 txn "Sander bought 1 items for €0.60"
+  timestamp: "2022-12-29 21:38:49.125631"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 LION
+  Liabilities:Bar:Members:Sander      1 LION
+  Liabilities:Bar:Members:Sander   0.60 EUR 
+  Income:Bar                      -0.60 EUR 
+
