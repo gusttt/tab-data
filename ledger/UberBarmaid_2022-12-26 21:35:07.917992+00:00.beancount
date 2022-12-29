@@ -166,3 +166,11 @@
   Liabilities:Bar:Members:Gust   6.00 EUR
   Income:Bar                    -6.00 EUR
 
+2022-12-29 txn "Gust bought 1 items for €0.60"
+  timestamp: "2022-12-29 18:34:26.475260"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Gust      1 TWIX
+  Liabilities:Bar:Members:Gust   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
