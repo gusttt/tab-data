@@ -222,3 +222,11 @@
   Liabilities:Bar:Members:Wouter   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-12-29 txn "Sander bought 1 items for €1.50"
+  timestamp: "2022-12-29 19:38:15.512240"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COKE
+  Liabilities:Bar:Members:Sander      1 COKE
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
