@@ -342,3 +342,11 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR   
   Income:Bar                      -1.50 EUR   
 
+2022-12-29 txn "Thomas bought 1 items for €1.50"
+  timestamp: "2022-12-29 21:08:49.654869"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BEER
+  Liabilities:Bar:Members:Thomas      1 BEER
+  Liabilities:Bar:Members:Thomas   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
