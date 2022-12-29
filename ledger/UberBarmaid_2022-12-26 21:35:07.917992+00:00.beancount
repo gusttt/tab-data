@@ -516,3 +516,11 @@
   Liabilities:Bar:Members:Sasja  -5.00 EUR
   Assets:Cash:Bar                 5.00 EUR
 
+2022-12-29 txn "Evils bought 1 items for €1.00"
+  timestamp: "2022-12-29 23:41:35.860477"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Elvis      1 CHIP
+  Liabilities:Bar:Members:Elvis   1.00 EUR 
+  Income:Bar                     -1.00 EUR 
+
