@@ -106,3 +106,11 @@
   Liabilities:Bar:Members:Wouter   0.60 EUR   
   Income:Bar                      -0.60 EUR   
 
+2022-12-29 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2022-12-29 17:14:56.158756"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:Wouter      1 ICETEA
+  Liabilities:Bar:Members:Wouter   1.50 EUR   
+  Income:Bar                      -1.50 EUR   
+
