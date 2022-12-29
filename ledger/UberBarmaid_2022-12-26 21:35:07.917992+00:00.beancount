@@ -238,3 +238,11 @@
   Liabilities:Bar:Members:Thomas   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2022-12-29 txn "Gust bought 1 items for €1.00"
+  timestamp: "2022-12-29 19:50:15.246504"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Liabilities:Bar:Members:Gust   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
