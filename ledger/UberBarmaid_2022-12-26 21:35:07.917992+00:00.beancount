@@ -136,3 +136,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2022-12-29 txn "Koen bought 1 items for €1.00"
+  timestamp: "2022-12-29 18:24:43.264782"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Liabilities:Bar:Members:Koen   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
