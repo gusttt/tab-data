@@ -54,3 +54,13 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-12-29 txn "Yvan bought 2 items for €1.20"
+  timestamp: "2022-12-29 14:09:22.081301"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 LION
+  Liabilities:Bar:Members:Yvan      1 LION
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Yvan      1 TWIX
+  Liabilities:Bar:Members:Yvan   1.20 EUR 
+  Income:Bar                    -1.20 EUR 
+
