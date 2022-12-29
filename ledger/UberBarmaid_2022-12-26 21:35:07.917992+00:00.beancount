@@ -374,3 +374,11 @@
   Liabilities:Bar:Members:Gust   3.00 EUR
   Income:Bar                    -3.00 EUR
 
+2022-12-29 txn "Gust bought 1 items for €1.50"
+  timestamp: "2022-12-29 21:31:30.640220"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COKE
+  Liabilities:Bar:Members:Gust      1 COKE
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
