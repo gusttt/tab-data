@@ -556,3 +556,13 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2022-12-30 txn "Nachtvlinder bought 2 items for €2.10"
+  timestamp: "2022-12-30 00:48:59.962327"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KITKAT
+  Liabilities:Bar:Members:Maja      1 KITKAT
+  Assets:Inventory:Bar             -1 ICETEA
+  Liabilities:Bar:Members:Maja      1 ICETEA
+  Liabilities:Bar:Members:Maja   2.10 EUR   
+  Income:Bar                    -2.10 EUR   
+
