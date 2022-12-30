@@ -574,3 +574,13 @@
   Assets:Cash:Bar        1.50 EUR      
   Income:Bar            -1.50 EUR      
 
+2022-12-30 txn "Els bought 2 items for €2.10"
+  timestamp: "2022-12-30 20:44:38.279871"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Assets:Inventory:Bar            -1 LION  
+  Liabilities:Bar:Members:Els      1 LION  
+  Liabilities:Bar:Members:Els   2.10 EUR   
+  Income:Bar                   -2.10 EUR   
+
