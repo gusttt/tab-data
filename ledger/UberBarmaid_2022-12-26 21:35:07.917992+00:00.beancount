@@ -566,3 +566,11 @@
   Liabilities:Bar:Members:Maja   2.10 EUR   
   Income:Bar                    -2.10 EUR   
 
+2022-12-30 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2022-12-30 01:10:51.987075"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SCHWEPPES
+  Assets:Cash:Bar           1 SCHWEPPES
+  Assets:Cash:Bar        1.50 EUR      
+  Income:Bar            -1.50 EUR      
+
