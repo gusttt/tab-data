@@ -1,103 +1,201 @@
-# soft drinks
-# catchall
+# ----- current visible list ------
+# Cold drinks:
 - name: Soda
   price: 1.50
   event_price: 2.50
   currency: SODA
   category: drink
-- name: Fanta
-  price: 1.50
-  event_price: 2.50
-  currency: FANTA
-  category: drink
-- name: Ice Tea
-  price: 1.50
-  event_price: 2.50
-  category: drink
-  currency: ICETEA
-- name: Ice Tea Zero
-  price: 1.50
-  event_price: 2.50
-  category: drink
-  currency: ICETEA_ZERO
-- name: Cola
-  price: 1.50
-  event_price: 2.50
-  currency: COKE
-  category: drink
-- name: Cola Zero
-  price: 1.50
-  event_price: 2.50
-  currency: COKE_ZERO
-  category: drink
-- name: Schweppes
-  price: 1.50
-  event_price: 2.50
-  currency: SCHWEPPES
-  category: drink
-- name: Agrumes
-  price: 1.50
-  event_price: 2.50
-  currency: AGRUMES
-  category: drink
+  visible: True
 - name: Cecemel
   price: 0.70
   event_price: 1.00
   currency: CHOCO_MILK
   category: drink
-- name: Expired drink
-  price: 0.60
-  event_price: 0.60
-  currency: EXPIRED_DRINK
-  category: drink
-
-# weird german stuff
-# catchall
-- name: German
-  price: 2.00
-  event_price: 3.00
+  visible: True
+- name: Fritz / Club Mate Cola
+  price: 2.50
+  event_price: 3.50
   currency: GERMAN
   category: drink
-- name: Fritz
-  price: 2.50
-  event_price: 3.50
-  currency: FRITZ
-  category: drink
-- name: Fritz Zero
-  price: 2.50
-  event_price: 3.50
-  currency: FRITZ_ZERO
-  category: drink
+  visible: True
 - name: Club Mate
   price: 3.00
   event_price: 4.00
   currency: CM
   category: drink
+  visible: True
+
+# Warm drinks:
+- name: Tea
+  price: 0.50
+  event_price: 0.75
+  currency: TEA
+  category: drink
+  visible: True    
+
+# Alcohol:
+- name: Lager
+  price: 1.50
+  event_price: 2.50
+  currency: BEER
+  category: alcohol
+  visible: True
+- name: Belgian beer
+  price: 2.50
+  event_price: 3.50
+  currency: DUVEL
+  category: alcohol
+  visible: True
+- name: Cider
+  price: 2.00
+  event_price: 3.00
+  currency: CIDER
+  category: alcohol
+  visible: True
+
+# Snacks etc:
+- name: Candy bar
+  price: 0.60
+  event_price: 0.90
+  currency: SNACK
+  category: food
+  visible: True
+- name: Crisps
+  price: 1.00
+  event_price: 1.50
+  currency: CHIP
+  category: food
+  visible: True
+  
+# Swag:
+- name: Wristband
+  price: 1.00
+  event_price: 1.50
+  currency: WRISTBAND
+  payback:
+    account: Liabilities:Bar:Members:Marquis
+    amount: 0.50
+  visible: True
+  category: swag
+- name: T-Shirt
+  price: 20.00
+  event_price: 20.00
+  currency: TSHIRT
+  category: swag
+  visible: True
+- name: Hoodie
+  price: 35.00
+  event_price: 35.00
+  currency: HOODIE
+  category: swag
+  visible: True
+- name: Passport
+  price: 2.50
+  event_price: 3.60
+  currency: PASSPORT
+  payback:
+    account: Liabilities:Bar:Members:Bart
+    amount: 1.20
+  category: swag
+  visible: True
+# ----- end current visible list -----
+# ----- legacy/removed items: -----
+# catchall
+
+- name: Fanta
+  price: 1.50
+  event_price: 2.50
+  currency: FANTA
+  category: drink
+  visible: False
+- name: Ice Tea
+  price: 1.50
+  event_price: 2.50
+  category: drink
+  currency: ICETEA
+  visible: False
+- name: Ice Tea Zero
+  price: 1.50
+  event_price: 2.50
+  category: drink
+  currency: ICETEA_ZERO
+  visible: False
+- name: Cola
+  price: 1.50
+  event_price: 2.50
+  currency: COKE
+  category: drink
+  visible: False
+- name: Cola Zero
+  price: 1.50
+  event_price: 2.50
+  currency: COKE_ZERO
+  category: drink
+  visible: False
+- name: Schweppes
+  price: 1.50
+  event_price: 2.50
+  currency: SCHWEPPES
+  category: drink
+  visible: False
+- name: Agrumes
+  price: 1.50
+  event_price: 2.50
+  currency: AGRUMES
+  category: drink
+  visible: False
+- name: Expired drink
+  price: 0.60
+  event_price: 0.60
+  currency: EXPIRED_DRINK
+  category: drink
+  visible: False
+
+# weird german stuff
+# catchall
+
+- name: Fritz
+  price: 2.50
+  event_price: 3.50
+  currency: FRITZ
+  category: drink
+  visible: False
+- name: Fritz Zero
+  price: 2.50
+  event_price: 3.50
+  currency: FRITZ_ZERO
+  category: drink
+  visible: False
 - name: Club Mate Red
   price: 2.00
   event_price: 3.00
   currency: CMRED
   category: drink
+  visible: False
 - name: Club Mate Cola
   price: 2.50
   event_price: 3.50
   category: drink
   currency: CMCOLA
+  visible: False
 - name : Club Mate Winter
   price: 2.00
   event_price: 3.00
   category: drink
   currency: WINTER_MATE
+  visible: False
 - name: Flora Power
   price: 2.00
   event_price: 3.00
   category: drink
   currency: FLORA
+  visible: False
 - name : "Vitamalz"
   price: 2.00
   event_price: 3.00
   category: drink
   currency: VITAMALZ
+  visible: False
 
 # plain drinks
 #- name: Water (glass)
@@ -110,16 +208,14 @@
   event_price: 1.00
   currency: WATER
   category: drink
-- name: Tea
-  price: 0.50
-  event_price: 0.75
-  currency: TEA
-  category: drink
+  visible: False
+
 - name: Kombucha
   price: 3.00
   event_price: 3.50
   currency: KOMBUCHA
   category: drink
+  visible: False
 
 # alcoholics
 - name: Jupiler
@@ -127,144 +223,143 @@
   event_price: 2.50
   currency: JUPILER
   category: alcohol
-- name: Beer
-  price: 1.50
-  event_price: 2.50
-  currency: BEER
-  category: alcohol
-- name: Duvel
-  price: 2.50
-  event_price: 3.50
-  currency: DUVEL
-  category: alcohol
+  visible: False
 - name: Chimay
   price: 2.50
   event_price: 4.00
   currency: CHIMAY
   category: alcohol
-- name: Cider
-  price: 2.00
-  event_price: 3.00
-  currency: CIDER
-  category: alcohol
+  visible: False
 - name: Wine
   price: 1.50
   event_price: 2.00
   currency: WINE
   category: alcohol
+  visible: False
 - name: Kriek
   price: 1.50
   event_price: 2.50
   currency: KRIEK
   category: alcohol
+  visible: False
 - name: Hoegaarden
   price: 1.50
   event_price: 2.50
   currency: HG
   category: alcohol
+  visible: False
 - name: Mystery Beer
   price: 2.50
   event_price: 3.50
   currency: MYSTERY
   category: alcohol
+  visible: False
 
 # snacks
 # catchall
-- name: Snack
-  price: 0.60
-  event_price: 0.90
-  currency: SNACK
-  category: food
-- name: Chips
-  price: 1.00
-  event_price: 1.50
-  currency: CHIP
-  category: food
+
 - name: Croque
   price: 1.5
   event_price: 2.00
   currency: CROQUE
   category: food
+  visible: False
 - name: Loempia
   price: 2.00
   event_price: 3.00
   currency: LOEMPIA
   category: food
+  visible: False
 - name: Food
   price: 3.50
   event_price: 5.00
   currency: FOOD
   category: food
+  visible: False
 - name: FOOD 2.5
   price: 2.50
   event_price: 3.75
   currency: FOOD2.5
   category: food
+  visible: False
 - name: Snickers
   price: 0.60
   event_price: 0.90
   currency: SNICKERS
   category: food
+  visible: False
 - name: Twix
   price: 0.60
   event_price: 0.90
   currency: TWIX
   category: food
+  visible: False
 - name: Mars
   price: 0.60
   event_price: 0.90
   currency: MARS
   category: food
+  visible: False
 - name: "M&M"
   price: 0.60
   event_price: 0.90
   currency: MNM
   category: food
+  visible: False
 - name: KitKat
   price: 0.60
   event_price: 0.90
   category: food
   currency: KITKAT
+  visible: False
 - name: Leo
   price: 0.60
   event_price: 0.90
   currency: LEO
   category: food
+  visible: False
 - name: King Mints
   price: 0.60
   event_price: 0.90
   category: food
   currency: KING
+  visible: False
 - name: "1 Chupa Chups"
   price: 0.20
   event_price: 0.30
   currency: CHUPACHUPS
   category: food
+  visible: False
 - name: "Rolo"
   price: 0.60
   event_price: 0.90
   category: food
   currency: ROLO
+  visible: False
 - name: Popcorn
   price: 0.50
   event_price: 0.50
   currency: POPCORN
   category: food
+  visible: False
 - name: Bounty
   price: 0.60
   event_price: 0.90
   currency: BOUNTY
   category: food
+  visible: False
 - name: Lion
   price: 0.60
   event_price: 0.90
   currency: LION
   category: food
+  visible: False
 - name: Pick Up!
   price: 0.70
   event_price: 1.05
   currency: PICKUP
   category: food
+  visible: False
 - name: ROM
   price: 1.00
   event_price: 1.50
@@ -273,16 +368,19 @@
   payback:
     account: Liabilities:Bar:Members:Thequux
     amount: 0.50
+  visible: False
 - name: Food Cup
   price: 1.20
   event_price: 2.00
   currency: FOOD_CUP
   category: food
+  visible: False
 - name: Nākd
   price: 1.20
   event_price: 2.00
   currency: NAKD
   category: food
+  visible: False
 
 # frozen goods
 - name: Ice Cream
@@ -293,6 +391,7 @@
   payback:
     account: Liabilities:Bar:Members:Yvan
     amount: 0.63
+  visible: False
 - name: Pizza
   # Also listed as 3.50
   price: 2.50
@@ -302,34 +401,8 @@
   payback:
     account: Liabilities:Bar:Members:Yvan
     amount: 1.50
+  visible: False
 
-# swag
-- name: Wristband
-  price: 1.00
-  event_price: 1.50
-  currency: WRISTBAND
-  payback:
-    account: Liabilities:Bar:Members:Marquis
-    amount: 0.50
-  category: swag
-- name: T-Shirt
-  price: 20.00
-  event_price: 20.00
-  currency: TSHIRT
-  category: swag
-- name: Hoodie
-  price: 35.00
-  event_price: 35.00
-  currency: HOODIE
-  category: swag
-- name: Passport
-  price: 2.50
-  event_price: 3.60
-  currency: PASSPORT
-  payback:
-    account: Liabilities:Bar:Members:Bart
-    amount: 1.20
-  category: swag
 #- name: Facemask
 #  price: 4.00
 #  event_price: 4.00
@@ -352,6 +425,7 @@
   event_price: 3.00
   currency: SPRITE
   category: DRINK
+  visible: False
 #- name: "whole #!"
 #  price: 20.00
 #  event_price: 30.00
@@ -367,6 +441,7 @@
   event_price: 0.75
   currency: CHACHA
   category: food
+  visible: False
 #- name: Cider
 #  price: 1.00
 #  event_price: 1.50
@@ -405,8 +480,10 @@
   event_price: 3.00
   category: alcohol
   currency: LEFFE
+  visible: False
 - name: Orval
   price: 3.00
   event_price: 4.50
   category: alcohol
   currency: ORVL
+  visible: False
