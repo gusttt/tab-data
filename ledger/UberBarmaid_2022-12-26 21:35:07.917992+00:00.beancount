@@ -612,3 +612,13 @@
   Liabilities:Bar:Members:Koen   35.00 EUR
   Assets:Cash:Bar               -35.00 EUR
 
+2023-01-01 txn "Els bought 2 items for €3.00"
+  timestamp: "2023-01-01 16:33:13.921741"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 ICETEA
+  Liabilities:Bar:Members:Els      1 ICETEA
+  Assets:Inventory:Bar            -1 FANTA 
+  Liabilities:Bar:Members:Els      1 FANTA 
+  Liabilities:Bar:Members:Els   3.00 EUR   
+  Income:Bar                   -3.00 EUR   
+
