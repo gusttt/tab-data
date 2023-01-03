@@ -708,3 +708,11 @@
   Liabilities:Bar:Members:Superpumpie   2.00 EUR  
   Income:Bar                           -2.00 EUR  
 
+2023-01-03 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2023-01-03 21:30:03.881717"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 JUPILER
+  Liabilities:Bar:Members:Bloemist      1 JUPILER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR    
+  Income:Bar                        -1.50 EUR    
+
