@@ -700,3 +700,11 @@
   Liabilities:Bar:Members:Superpumpie   1.50 EUR    
   Income:Bar                           -1.50 EUR    
 
+2023-01-03 txn "Super​pumpie bought 1 items for €2.00"
+  timestamp: "2023-01-03 20:31:16.312065"
+  type: "purchase"
+  Assets:Inventory:Bar                    -1 CIDER
+  Liabilities:Bar:Members:Superpumpie      1 CIDER
+  Liabilities:Bar:Members:Superpumpie   2.00 EUR  
+  Income:Bar                           -2.00 EUR  
+
