@@ -716,3 +716,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR    
   Income:Bar                        -1.50 EUR    
 
+2023-01-03 txn "Sasja bought 2 items for €3.50"
+  timestamp: "2023-01-03 21:49:20.357788"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 ICETEA
+  Liabilities:Bar:Members:Sasja      1 ICETEA
+  Assets:Inventory:Bar              -1 CIDER 
+  Liabilities:Bar:Members:Sasja      1 CIDER 
+  Liabilities:Bar:Members:Sasja   3.50 EUR   
+  Income:Bar                     -3.50 EUR   
+
