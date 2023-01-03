@@ -644,3 +644,11 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR 
   Income:Bar                     -0.60 EUR 
 
+2023-01-03 txn "Fearless bought 1 items for €0.60"
+  timestamp: "2023-01-03 15:52:26.516814"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KITKAT
+  Liabilities:Bar:Members:Fearless      1 KITKAT
+  Liabilities:Bar:Members:Fearless   0.60 EUR   
+  Income:Bar                        -0.60 EUR   
+
