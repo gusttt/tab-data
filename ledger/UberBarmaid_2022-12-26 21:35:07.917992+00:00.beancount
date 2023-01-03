@@ -686,3 +686,9 @@
   Liabilities:Bar:Members:Sasja   2.00 EUR  
   Income:Bar                     -2.00 EUR  
 
+2023-01-03 txn "Super​pumpie deposited €10.00"
+  timestamp: "2023-01-03 20:28:09.633899"
+  type: "deposit"
+  Liabilities:Bar:Members:Superpumpie  -10.00 EUR
+  Assets:Cash:Bar                       10.00 EUR
+
