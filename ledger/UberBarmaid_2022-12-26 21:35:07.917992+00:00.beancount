@@ -890,3 +890,13 @@
   Assets:Cash:Bar        1.50 EUR   
   Income:Bar            -1.50 EUR   
 
+2023-01-04 txn "Sasja bought 2 items for €2.25"
+  timestamp: "2023-01-04 19:34:13.356523"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 JUPILER
+  Liabilities:Bar:Members:Sasja      1 JUPILER
+  Assets:Inventory:Bar              -1 WATER  
+  Liabilities:Bar:Members:Sasja      1 WATER  
+  Liabilities:Bar:Members:Sasja   2.25 EUR    
+  Income:Bar                     -2.25 EUR    
+
