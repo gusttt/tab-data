@@ -766,3 +766,11 @@
   Liabilities:Bar:Members:Sasja  -13.37 EUR
   Assets:Cash:Bar                 13.37 EUR
 
+2023-01-04 txn "Wouter bought 1 items for €1.00"
+  timestamp: "2023-01-04 10:53:05.471295"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Wouter      1 CHIP
+  Liabilities:Bar:Members:Wouter   1.00 EUR 
+  Income:Bar                      -1.00 EUR 
+
