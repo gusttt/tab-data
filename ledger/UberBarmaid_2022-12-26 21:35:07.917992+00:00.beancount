@@ -866,3 +866,11 @@
   Liabilities:Bar:Members:Superpumpie   0.75 EUR  
   Income:Bar                           -0.75 EUR  
 
+2023-01-04 txn "Wouter bought 1 items for €2.50"
+  timestamp: "2023-01-04 18:53:07.667445"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter      1 FRITZ_ZERO
+  Liabilities:Bar:Members:Wouter   2.50 EUR       
+  Income:Bar                      -2.50 EUR       
+
