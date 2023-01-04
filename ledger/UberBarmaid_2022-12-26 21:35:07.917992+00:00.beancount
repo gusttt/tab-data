@@ -828,3 +828,9 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-01-04 txn "Wouter gave --CASH-- a gift of €1.60"
+  timestamp: "2023-01-04 17:14:44.663160"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   1.60 EUR
+  Assets:Cash:Bar                 -1.60 EUR
+
