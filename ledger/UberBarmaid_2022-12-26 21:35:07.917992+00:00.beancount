@@ -900,3 +900,11 @@
   Liabilities:Bar:Members:Sasja   2.25 EUR    
   Income:Bar                     -2.25 EUR    
 
+2023-01-04 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-01-04 20:05:47.364231"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Wouter      1 JUPILER
+  Liabilities:Bar:Members:Wouter   1.50 EUR    
+  Income:Bar                      -1.50 EUR    
+
