@@ -1046,3 +1046,11 @@
   Liabilities:Bar:Members:Ljaytee   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2023-01-05 txn "ruleant bought 2 items for €3.00"
+  timestamp: "2023-01-05 20:03:40.626989"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 JUPILER
+  Liabilities:Bar:Members:Ruleant      2 JUPILER
+  Liabilities:Bar:Members:Ruleant   3.00 EUR    
+  Income:Bar                       -3.00 EUR    
+
