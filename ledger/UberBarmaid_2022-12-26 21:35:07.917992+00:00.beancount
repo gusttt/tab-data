@@ -1310,3 +1310,11 @@
   Liabilities:Bar:Members:Sasja   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-01-05 txn "Gust bought 1 items for €1.00"
+  timestamp: "2023-01-05 23:50:27.372045"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Liabilities:Bar:Members:Gust   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
