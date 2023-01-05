@@ -1252,3 +1252,11 @@
   Liabilities:Bar:Members:Els   1.50 EUR  
   Income:Bar                   -1.50 EUR  
 
+2023-01-05 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-01-05 22:11:45.660375"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 ICETEA
+  Liabilities:Bar:Members:Wouter      1 ICETEA
+  Liabilities:Bar:Members:Wouter   1.50 EUR   
+  Income:Bar                      -1.50 EUR   
+
