@@ -1132,3 +1132,13 @@
   Liabilities:Bar:Members:Gust   3.00 EUR
   Income:Bar                    -3.00 EUR
 
+2023-01-05 txn "Thomas bought 2 items for €2.50"
+  timestamp: "2023-01-05 20:44:57.382357"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BEER
+  Liabilities:Bar:Members:Thomas      1 BEER
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Thomas      1 CHIP
+  Liabilities:Bar:Members:Thomas   2.50 EUR 
+  Income:Bar                      -2.50 EUR 
+
