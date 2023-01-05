@@ -1000,3 +1000,13 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-01-05 txn "Thomas bought 2 items for €3.50"
+  timestamp: "2023-01-05 19:08:33.265204"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 JUPILER
+  Liabilities:Bar:Members:Thomas      1 JUPILER
+  Assets:Inventory:Bar               -1 LEFFE  
+  Liabilities:Bar:Members:Thomas      1 LEFFE  
+  Liabilities:Bar:Members:Thomas   3.50 EUR    
+  Income:Bar                      -3.50 EUR    
+
