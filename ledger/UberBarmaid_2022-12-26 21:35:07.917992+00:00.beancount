@@ -1318,3 +1318,11 @@
   Liabilities:Bar:Members:Gust   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2023-01-05 txn "Nachtvlinder bought 1 items for €0.60"
+  timestamp: "2023-01-05 23:53:38.193399"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 TWIX
+  Liabilities:Bar:Members:Maja      1 TWIX
+  Liabilities:Bar:Members:Maja   0.60 EUR 
+  Income:Bar                    -0.60 EUR 
+
