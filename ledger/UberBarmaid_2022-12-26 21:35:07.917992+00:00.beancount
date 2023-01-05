@@ -1214,3 +1214,9 @@
   Liabilities:Bar:Members:Elvis    14.00 EUR
   Liabilities:Bar:Members:Thomas  -14.00 EUR
 
+2023-01-05 txn "Evils deposited €50.00"
+  timestamp: "2023-01-05 21:35:05.027750"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
