@@ -1208,3 +1208,9 @@
   Liabilities:Bar:Members:Sasja  -13.37 EUR
   Assets:Cash:Bar                 13.37 EUR
 
+2023-01-05 txn "Evils gave Thomas a gift of €14.00"
+  timestamp: "2023-01-05 21:34:41.953601"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    14.00 EUR
+  Liabilities:Bar:Members:Thomas  -14.00 EUR
+
