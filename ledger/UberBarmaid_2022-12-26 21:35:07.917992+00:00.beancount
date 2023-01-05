@@ -1166,3 +1166,11 @@
   Liabilities:Bar:Members:Koen   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2023-01-05 txn "Stefaan bought 1 items for €0.60"
+  timestamp: "2023-01-05 21:03:39.508140"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 LION
+  Liabilities:Bar:Members:Stefaan      1 LION
+  Liabilities:Bar:Members:Stefaan   0.60 EUR 
+  Income:Bar                       -0.60 EUR 
+
