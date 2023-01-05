@@ -1054,3 +1054,11 @@
   Liabilities:Bar:Members:Ruleant   3.00 EUR    
   Income:Bar                       -3.00 EUR    
 
+2023-01-05 txn "--CASH-- bought 2 items for €3.00"
+  timestamp: "2023-01-05 20:04:33.314714"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 JUPILER
+  Assets:Cash:Bar           2 JUPILER
+  Assets:Cash:Bar        3.00 EUR    
+  Income:Bar            -3.00 EUR    
+
