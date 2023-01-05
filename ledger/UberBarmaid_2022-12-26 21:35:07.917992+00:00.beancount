@@ -1202,3 +1202,9 @@
   Liabilities:Bar:Members:Sasja   0.75 EUR  
   Income:Bar                     -0.75 EUR  
 
+2023-01-05 txn "Sasja deposited €13.37"
+  timestamp: "2023-01-05 21:25:39.339100"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -13.37 EUR
+  Assets:Cash:Bar                 13.37 EUR
+
