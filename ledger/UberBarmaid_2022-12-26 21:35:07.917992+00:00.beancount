@@ -1294,3 +1294,11 @@
   Liabilities:Bar:Members:Koen   3.00 EUR    
   Income:Bar                    -3.00 EUR    
 
+2023-01-05 txn "Koen bought 1 items for €2.50"
+  timestamp: "2023-01-05 23:29:46.373279"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CMCOLA
+  Liabilities:Bar:Members:Koen      1 CMCOLA
+  Liabilities:Bar:Members:Koen   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
