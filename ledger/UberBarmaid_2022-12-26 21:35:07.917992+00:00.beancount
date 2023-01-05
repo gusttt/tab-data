@@ -976,3 +976,11 @@
   Liabilities:Bar:Members:Koen  -3.00 EUR
   Assets:Cash:Bar                3.00 EUR
 
+2023-01-05 txn "Ljaytee bought 1 items for €2.50"
+  timestamp: "2023-01-05 18:59:06.484520"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CMCOLA
+  Liabilities:Bar:Members:Ljaytee      1 CMCOLA
+  Liabilities:Bar:Members:Ljaytee   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
