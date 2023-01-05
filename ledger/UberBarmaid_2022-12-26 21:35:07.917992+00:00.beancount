@@ -1158,3 +1158,11 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2023-01-05 txn "Koen bought 2 items for €3.00"
+  timestamp: "2023-01-05 20:55:36.611342"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 JUPILER
+  Liabilities:Bar:Members:Koen      2 JUPILER
+  Liabilities:Bar:Members:Koen   3.00 EUR    
+  Income:Bar                    -3.00 EUR    
+
