@@ -1342,3 +1342,9 @@
   Liabilities:Bar:Members:Mateo   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2023-01-06 txn "Bloemist gave Koen a gift of €1.69"
+  timestamp: "2023-01-06 00:41:41.325070"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   1.69 EUR
+  Liabilities:Bar:Members:Koen      -1.69 EUR
+
