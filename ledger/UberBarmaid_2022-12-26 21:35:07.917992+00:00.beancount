@@ -1414,3 +1414,9 @@
   Liabilities:Bar:Members:Elvis   0.70 EUR       
   Income:Bar                     -0.70 EUR       
 
+2023-01-06 txn "Ljaytee deposited €50.00"
+  timestamp: "2023-01-06 14:02:27.945187"
+  type: "deposit"
+  Liabilities:Bar:Members:Ljaytee  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
