@@ -1420,3 +1420,11 @@
   Liabilities:Bar:Members:Ljaytee  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2023-01-06 txn "Els bought 2 items for €6.00"
+  timestamp: "2023-01-06 15:08:40.788630"
+  type: "purchase"
+  Assets:Inventory:Bar            -2 CM 
+  Liabilities:Bar:Members:Els      2 CM 
+  Liabilities:Bar:Members:Els   6.00 EUR
+  Income:Bar                   -6.00 EUR
+
