@@ -1480,3 +1480,9 @@
   Liabilities:Bar:Members:Koen  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2023-01-07 txn "Evils deposited €-25.70"
+  timestamp: "2023-01-07 09:36:07.108097"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   25.70 EUR
+  Assets:Cash:Bar                -25.70 EUR
+
