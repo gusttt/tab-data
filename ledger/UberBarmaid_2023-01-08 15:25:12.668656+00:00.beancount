@@ -254,3 +254,11 @@
   Liabilities:Bar:Members:Thequux   3.00 EUR
   Income:Bar                       -3.00 EUR
 
+2023-01-08 txn "Gust bought 1 items for €1.50"
+  timestamp: "2023-01-08 19:27:18.120318"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Gust      1 SODA
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
