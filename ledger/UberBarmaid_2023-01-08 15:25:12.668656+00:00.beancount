@@ -246,3 +246,11 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR   
   Income:Bar                       -2.50 EUR   
 
+2023-01-08 txn "TQ bought 1 items for €3.00"
+  timestamp: "2023-01-08 19:27:03.165092"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Thequux      1 CM 
+  Liabilities:Bar:Members:Thequux   3.00 EUR
+  Income:Bar                       -3.00 EUR
+
