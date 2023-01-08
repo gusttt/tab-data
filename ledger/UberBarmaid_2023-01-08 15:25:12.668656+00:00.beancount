@@ -448,3 +448,11 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-01-08 txn "Sasja bought 1 items for €1.50"
+  timestamp: "2023-01-08 22:26:34.551713"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Sasja      1 BEER
+  Liabilities:Bar:Members:Sasja   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
