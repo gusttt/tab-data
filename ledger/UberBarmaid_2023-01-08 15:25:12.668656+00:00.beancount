@@ -1,0 +1,8 @@
+2023-01-08 txn "Yvan bought 1 items for €0.60"
+  timestamp: "2023-01-08 15:25:12.665822"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Yvan      1 SNACK
+  Liabilities:Bar:Members:Yvan   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
