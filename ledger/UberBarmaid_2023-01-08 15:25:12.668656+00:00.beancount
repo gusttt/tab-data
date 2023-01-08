@@ -222,3 +222,11 @@
   Liabilities:Bar:Members:Els   6.70 EUR   
   Income:Bar                   -6.70 EUR   
 
+2023-01-08 txn "Nachtvlinder bought 1 items for €2.50"
+  timestamp: "2023-01-08 19:18:53.496507"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Maja      1 GERMAN
+  Liabilities:Bar:Members:Maja   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
