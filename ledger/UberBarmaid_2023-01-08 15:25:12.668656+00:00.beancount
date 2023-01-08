@@ -492,3 +492,11 @@
   Liabilities:Bar:Members:Sasja  -13.37 EUR
   Assets:Cash:Bar                 13.37 EUR
 
+2023-01-08 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2023-01-08 23:20:45.663228"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Bloemist      1 BEER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
