@@ -238,3 +238,11 @@
   Liabilities:Bar:Members:Merlijn   2.50 EUR   
   Income:Bar                       -2.50 EUR   
 
+2023-01-08 txn "Elfeera bought 1 items for €2.50"
+  timestamp: "2023-01-08 19:26:54.717428"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Elfeera      1 GERMAN
+  Liabilities:Bar:Members:Elfeera   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
