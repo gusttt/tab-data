@@ -1514,3 +1514,11 @@
   Liabilities:Bar:Members:Elfeera  -20.00 EUR
   Assets:Cash:Bar                   20.00 EUR
 
+2023-01-08 txn "Elfeera bought 1 items for €2.50"
+  timestamp: "2023-01-08 14:18:09.695269"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FRITZ
+  Liabilities:Bar:Members:Elfeera      1 FRITZ
+  Liabilities:Bar:Members:Elfeera   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
