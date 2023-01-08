@@ -130,3 +130,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-01-08 txn "Gust bought 1 items for €0.70"
+  timestamp: "2023-01-08 17:29:18.360444"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHOCO_MILK
+  Liabilities:Bar:Members:Gust      1 CHOCO_MILK
+  Liabilities:Bar:Members:Gust   0.70 EUR       
+  Income:Bar                    -0.70 EUR       
+
