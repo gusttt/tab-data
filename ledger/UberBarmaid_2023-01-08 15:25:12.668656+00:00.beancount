@@ -230,3 +230,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-01-08 txn "Merlijn bought 1 items for €2.50"
+  timestamp: "2023-01-08 19:26:44.174031"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Merlijn      1 GERMAN
+  Liabilities:Bar:Members:Merlijn   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
