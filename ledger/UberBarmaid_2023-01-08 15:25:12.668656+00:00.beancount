@@ -486,3 +486,9 @@
   Liabilities:Bar:Members:Elvis   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-01-08 txn "Sasja deposited €13.37"
+  timestamp: "2023-01-08 23:18:43.077825"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -13.37 EUR
+  Assets:Cash:Bar                 13.37 EUR
+
