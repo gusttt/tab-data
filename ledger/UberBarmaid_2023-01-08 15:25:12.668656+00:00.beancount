@@ -286,3 +286,11 @@
   Liabilities:Bar:Members:Carroarmato0  -50.00 EUR
   Assets:Cash:Bar                        50.00 EUR
 
+2023-01-08 txn "Wouter bought 1 items for €3.00"
+  timestamp: "2023-01-08 20:31:53.865566"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Wouter      1 CM 
+  Liabilities:Bar:Members:Wouter   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
