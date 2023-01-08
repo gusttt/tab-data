@@ -1522,3 +1522,11 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2023-01-08 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2023-01-08 14:47:39.495270"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CMCOLA
+  Liabilities:Bar:Members:DJefke      1 CMCOLA
+  Liabilities:Bar:Members:DJefke   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
