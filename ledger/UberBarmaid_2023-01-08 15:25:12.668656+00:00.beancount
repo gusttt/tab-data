@@ -34,3 +34,11 @@
   Liabilities:Bar:Members:Elfeera   3.10 EUR   
   Income:Bar                       -3.10 EUR   
 
+2023-01-08 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2023-01-08 15:58:19.795822"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 BEER
+  Assets:Cash:Bar           1 BEER
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
