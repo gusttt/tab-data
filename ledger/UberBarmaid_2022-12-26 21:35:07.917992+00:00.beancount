@@ -1508,3 +1508,9 @@
   Assets:Cash:Bar  -20.00 EUR
   Assets:Cash:Bar   20.00 EUR
 
+2023-01-08 txn "Elfeera deposited €20.00"
+  timestamp: "2023-01-08 14:11:16.127891"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -20.00 EUR
+  Assets:Cash:Bar                   20.00 EUR
+
