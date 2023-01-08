@@ -1502,3 +1502,9 @@
   Liabilities:Bar:Members:Bart   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2023-01-08 txn "--CASH-- deposited €20.00"
+  timestamp: "2023-01-08 14:10:56.578881"
+  type: "deposit"
+  Assets:Cash:Bar  -20.00 EUR
+  Assets:Cash:Bar   20.00 EUR
+
