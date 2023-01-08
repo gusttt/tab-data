@@ -74,3 +74,11 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-01-08 txn "Sasja bought 2 items for €3.00"
+  timestamp: "2023-01-08 16:50:36.143801"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 BEER
+  Liabilities:Bar:Members:Sasja      2 BEER
+  Liabilities:Bar:Members:Sasja   3.00 EUR 
+  Income:Bar                     -3.00 EUR 
+
