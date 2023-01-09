@@ -508,3 +508,9 @@
   Liabilities:Bar:Members:Bart   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-01-09 txn "Sasja deposited €2.00"
+  timestamp: "2023-01-09 00:07:42.586093"
+  type: "deposit"
+  Liabilities:Bar:Members:Sasja  -2.00 EUR
+  Assets:Cash:Bar                 2.00 EUR
+
