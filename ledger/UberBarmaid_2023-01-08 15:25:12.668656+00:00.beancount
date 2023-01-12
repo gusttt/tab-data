@@ -654,3 +654,11 @@
   Liabilities:Bar:Members:Elvis   33.50 EUR
   Assets:Cash:Bar                -33.50 EUR
 
+2023-01-12 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-01-12 17:45:29.170798"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
