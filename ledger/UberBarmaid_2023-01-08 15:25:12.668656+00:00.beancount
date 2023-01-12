@@ -738,3 +738,9 @@
   Liabilities:Bar:Members:Wouter   11.00 EUR
   Liabilities:Bar:Members:Elvis   -11.00 EUR
 
+2023-01-12 txn "Miker deposited €50.00"
+  timestamp: "2023-01-12 19:39:55.993781"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
