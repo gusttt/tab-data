@@ -610,3 +610,11 @@
   Liabilities:Bar:Members:Wouter   0.70 EUR
   Assets:Cash:Bar                 -0.70 EUR
 
+2023-01-12 txn "Sander bought 1 items for €0.60"
+  timestamp: "2023-01-12 15:37:09.866105"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Sander      1 SNACK
+  Liabilities:Bar:Members:Sander   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
