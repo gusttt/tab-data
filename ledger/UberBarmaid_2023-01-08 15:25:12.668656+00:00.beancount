@@ -882,3 +882,9 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-01-12 txn "Nachtvlinder deposited €30.00"
+  timestamp: "2023-01-12 21:33:42.175752"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -30.00 EUR
+  Assets:Cash:Bar                30.00 EUR
+
