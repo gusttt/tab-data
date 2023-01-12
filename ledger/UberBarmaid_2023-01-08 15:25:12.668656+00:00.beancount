@@ -944,3 +944,9 @@
   Liabilities:Bar:Members:HansA   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2023-01-12 txn "HansA deposited €20.00"
+  timestamp: "2023-01-12 22:22:26.696632"
+  type: "deposit"
+  Liabilities:Bar:Members:HansA  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
