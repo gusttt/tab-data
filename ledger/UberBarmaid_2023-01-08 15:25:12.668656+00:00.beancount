@@ -786,3 +786,13 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-01-12 txn "Thijs bought 2 items for €2.10"
+  timestamp: "2023-01-12 20:31:13.587368"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER 
+  Liabilities:Bar:Members:Thijs      1 BEER 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Thijs      1 SNACK
+  Liabilities:Bar:Members:Thijs   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+
