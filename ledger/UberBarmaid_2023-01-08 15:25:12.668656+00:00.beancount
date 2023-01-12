@@ -604,3 +604,9 @@
   Liabilities:Bar:Members:Miker   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-01-12 txn "Wouter gave --CASH-- a gift of €0.70"
+  timestamp: "2023-01-12 14:25:37.908096"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   0.70 EUR
+  Assets:Cash:Bar                 -0.70 EUR
+
