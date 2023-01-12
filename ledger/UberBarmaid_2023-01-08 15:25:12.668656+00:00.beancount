@@ -918,3 +918,11 @@
   Liabilities:Bar:Members:Gust   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-01-12 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2023-01-12 22:02:01.855531"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 BEER
+  Assets:Cash:Bar           1 BEER
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
