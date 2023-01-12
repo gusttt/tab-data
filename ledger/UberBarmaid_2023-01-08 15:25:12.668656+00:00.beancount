@@ -812,3 +812,13 @@
   Liabilities:Bar:Members:Gust   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-01-12 txn "HansA bought 2 items for €5.50"
+  timestamp: "2023-01-12 20:42:37.351159"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM   
+  Liabilities:Bar:Members:HansA      1 CM   
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:HansA      1 DUVEL
+  Liabilities:Bar:Members:HansA   5.50 EUR  
+  Income:Bar                     -5.50 EUR  
+
