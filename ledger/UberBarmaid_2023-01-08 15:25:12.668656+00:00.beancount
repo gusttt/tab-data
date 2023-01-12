@@ -902,3 +902,11 @@
   Liabilities:Bar:Members:Maja  -0.25 EUR
   Assets:Cash:Bar                0.25 EUR
 
+2023-01-12 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2023-01-12 21:37:15.099313"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SODA
+  Liabilities:Bar:Members:Fearless      1 SODA
+  Liabilities:Bar:Members:Fearless   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
