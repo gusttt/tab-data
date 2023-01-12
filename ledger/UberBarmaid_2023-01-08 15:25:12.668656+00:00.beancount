@@ -692,3 +692,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-01-12 txn "B0Hr bought 3 items for €7.50"
+  timestamp: "2023-01-12 18:48:04.115989"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 GERMAN
+  Liabilities:Bar:Members:B0Hr      3 GERMAN
+  Liabilities:Bar:Members:B0Hr   7.50 EUR   
+  Income:Bar                    -7.50 EUR   
+
