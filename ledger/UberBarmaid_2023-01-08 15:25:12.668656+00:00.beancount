@@ -950,3 +950,11 @@
   Liabilities:Bar:Members:HansA  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2023-01-12 txn "Evils bought 1 items for €0.60"
+  timestamp: "2023-01-12 22:24:45.288216"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Elvis      1 SNACK
+  Liabilities:Bar:Members:Elvis   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
