@@ -670,3 +670,9 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-01-12 txn "Koen deposited €10.00"
+  timestamp: "2023-01-12 18:15:23.472057"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
