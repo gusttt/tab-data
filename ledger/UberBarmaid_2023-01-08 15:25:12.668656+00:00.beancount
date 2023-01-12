@@ -554,3 +554,11 @@
   Liabilities:Bar:Members:Fearless   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2023-01-12 txn "Wouter bought 1 items for €0.60"
+  timestamp: "2023-01-12 12:27:36.572742"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Wouter      1 SNACK
+  Liabilities:Bar:Members:Wouter   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
