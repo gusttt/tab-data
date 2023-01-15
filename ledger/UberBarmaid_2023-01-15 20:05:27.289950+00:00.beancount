@@ -1,0 +1,8 @@
+2023-01-15 txn "Bloemist bought 1 items for €1.50"
+  timestamp: "2023-01-15 20:05:27.286856"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Bloemist      1 BEER
+  Liabilities:Bar:Members:Bloemist   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
