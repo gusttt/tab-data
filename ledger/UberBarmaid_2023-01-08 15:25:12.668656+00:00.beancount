@@ -1118,3 +1118,11 @@
   Liabilities:Bar:Members:Thijs  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2023-01-15 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2023-01-15 19:13:30.174892"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Fearless      1 BEER
+  Liabilities:Bar:Members:Fearless   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
