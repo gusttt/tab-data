@@ -92,3 +92,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-01-19 txn "Els bought 2 items for €2.10"
+  timestamp: "2023-01-19 17:37:11.966050"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA 
+  Liabilities:Bar:Members:Els      1 SODA 
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   2.10 EUR  
+  Income:Bar                   -2.10 EUR  
+
