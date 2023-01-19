@@ -160,3 +160,13 @@
   Liabilities:Bar:Members:Wouter   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2023-01-19 txn "Matth bought 2 items for €4.00"
+  timestamp: "2023-01-19 19:17:53.559554"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Matth      1 GERMAN
+  Assets:Inventory:Bar              -1 SODA  
+  Liabilities:Bar:Members:Matth      1 SODA  
+  Liabilities:Bar:Members:Matth   4.00 EUR   
+  Income:Bar                     -4.00 EUR   
+
