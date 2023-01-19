@@ -118,3 +118,11 @@
   Liabilities:Bar:Members:Wouter   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2023-01-19 txn "On8wr bought 1 items for €2.50"
+  timestamp: "2023-01-19 18:11:41.214371"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:On8wr      1 GERMAN
+  Liabilities:Bar:Members:On8wr   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
