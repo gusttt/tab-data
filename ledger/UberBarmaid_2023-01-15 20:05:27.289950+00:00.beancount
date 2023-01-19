@@ -406,3 +406,11 @@
   Liabilities:Bar:Members:Elvis   8.75 EUR
   Liabilities:Bar:Members:Bart   -8.75 EUR
 
+2023-01-19 txn "Fearless bought 1 items for €2.00"
+  timestamp: "2023-01-19 22:38:18.604970"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
