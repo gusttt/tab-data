@@ -138,3 +138,9 @@
   Liabilities:Bar:Members:DJefke   10.00 EUR
   Liabilities:Bar:Members:Matth   -10.00 EUR
 
+2023-01-19 txn "DJefke deposited €50.00"
+  timestamp: "2023-01-19 19:13:34.693337"
+  type: "deposit"
+  Liabilities:Bar:Members:DJefke  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
