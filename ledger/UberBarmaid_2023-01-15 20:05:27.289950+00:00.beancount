@@ -384,3 +384,11 @@
   Liabilities:Bar:Members:Elfeera   1.20 EUR  
   Income:Bar                       -1.20 EUR  
 
+2023-01-19 txn "Gust bought 1 items for €1.50"
+  timestamp: "2023-01-19 22:15:59.989732"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Gust      1 SODA
+  Liabilities:Bar:Members:Gust   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
