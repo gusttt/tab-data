@@ -60,7 +60,7 @@
   currency: SNACK
   category: food
   visible: True
-- name: Crisps
+- name: Chips
   price: 1.00
   event_price: 1.50
   currency: CHIP
