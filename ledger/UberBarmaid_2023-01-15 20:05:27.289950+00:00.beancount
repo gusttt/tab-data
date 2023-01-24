@@ -466,3 +466,11 @@
   Liabilities:Bar:Members:Bart   60.00 EUR
   Assets:Cash:Bar               -60.00 EUR
 
+2023-01-24 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2023-01-24 15:14:13.963813"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SODA
+  Liabilities:Bar:Members:Fearless      1 SODA
+  Liabilities:Bar:Members:Fearless   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
