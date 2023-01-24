@@ -460,3 +460,9 @@
   Liabilities:Bar:Members:Bart  -60.00 EUR
   Assets:Cash:Bar                60.00 EUR
 
+2023-01-24 txn "qwaxys gave --CASH-- a gift of €60.00"
+  timestamp: "2023-01-24 12:37:31.667289"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart   60.00 EUR
+  Assets:Cash:Bar               -60.00 EUR
+
