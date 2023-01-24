@@ -516,3 +516,9 @@
   Liabilities:Bar:Members:Thequux   2.50 EUR  
   Income:Bar                       -2.50 EUR  
 
+2023-01-24 txn "Evils deposited €-5.00"
+  timestamp: "2023-01-24 22:59:36.668080"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   5.00 EUR
+  Assets:Cash:Bar                -5.00 EUR
+
