@@ -694,3 +694,11 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-01-26 txn "Stefaan bought 2 items for €1.20"
+  timestamp: "2023-01-26 19:50:07.249475"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 SNACK
+  Liabilities:Bar:Members:Stefaan      2 SNACK
+  Liabilities:Bar:Members:Stefaan   1.20 EUR  
+  Income:Bar                       -1.20 EUR  
+
