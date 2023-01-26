@@ -570,3 +570,13 @@
   Liabilities:Bar:Members:Elfeera   1.20 EUR  
   Income:Bar                       -1.20 EUR  
 
+2023-01-26 txn "Carro​armato0 bought 4 items for €4.30"
+  timestamp: "2023-01-26 17:35:24.140870"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 GERMAN
+  Liabilities:Bar:Members:Carroarmato0      1 GERMAN
+  Assets:Inventory:Bar                     -3 SNACK 
+  Liabilities:Bar:Members:Carroarmato0      3 SNACK 
+  Liabilities:Bar:Members:Carroarmato0   4.30 EUR   
+  Income:Bar                            -4.30 EUR   
+
