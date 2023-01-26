@@ -98,6 +98,14 @@
     amount: 1.20
   category: swag
   visible: True
+- name: Postcard
+  price: 2.50
+  event_price: 3.50
+  currency: POSTCARD
+  payback:
+    account: Liabilities:Bar:Members:NewlineJar
+    amount: 1.00
+
 # ----- end current visible list -----
 # ----- legacy/removed items: -----
 # catchall
