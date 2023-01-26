@@ -782,3 +782,11 @@
   Liabilities:Bar:Members:Elfeera   33.00 EUR
   Liabilities:Bar:Members:Sander   -33.00 EUR
 
+2023-01-26 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-01-26 20:35:02.972304"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
