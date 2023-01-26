@@ -702,3 +702,11 @@
   Liabilities:Bar:Members:Stefaan   1.20 EUR  
   Income:Bar                       -1.20 EUR  
 
+2023-01-26 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2023-01-26 19:50:30.868147"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Cash:Bar        2.50 EUR   
+  Income:Bar            -2.50 EUR   
+
