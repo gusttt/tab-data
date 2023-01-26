@@ -742,3 +742,13 @@
   Liabilities:Bar:Members:Miker   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-01-26 txn "Elfeera bought 2 items for €2.10"
+  timestamp: "2023-01-26 20:12:27.402643"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA 
+  Liabilities:Bar:Members:Elfeera      1 SODA 
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Elfeera      1 SNACK
+  Liabilities:Bar:Members:Elfeera   2.10 EUR  
+  Income:Bar                       -2.10 EUR  
+
