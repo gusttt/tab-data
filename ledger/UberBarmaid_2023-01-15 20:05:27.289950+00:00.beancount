@@ -820,3 +820,11 @@
   Liabilities:Bar:Members:Miker   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-01-26 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2023-01-26 20:52:38.389814"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 SNACK
+  Liabilities:Bar:Members:Carroarmato0      2 SNACK
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR  
+  Income:Bar                            -1.20 EUR  
+
