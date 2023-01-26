@@ -770,3 +770,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-01-26 txn "DJefke gave Sander a gift of €7.50"
+  timestamp: "2023-01-26 20:31:41.770019"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   7.50 EUR
+  Liabilities:Bar:Members:Sander  -7.50 EUR
+
