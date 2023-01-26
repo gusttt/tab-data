@@ -910,3 +910,11 @@
   Liabilities:Bar:Members:Thomas   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-01-26 txn "Miker bought 1 items for €2.50"
+  timestamp: "2023-01-26 22:14:58.052223"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Miker      1 GERMAN
+  Liabilities:Bar:Members:Miker   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
