@@ -580,3 +580,11 @@
   Liabilities:Bar:Members:Carroarmato0   4.30 EUR   
   Income:Bar                            -4.30 EUR   
 
+2023-01-26 txn "Koen bought 1 items for €1.50"
+  timestamp: "2023-01-26 17:36:23.976402"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
