@@ -672,3 +672,9 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2023-01-26 txn "Wouter deposited €20.00"
+  timestamp: "2023-01-26 19:41:54.934006"
+  type: "deposit"
+  Liabilities:Bar:Members:Wouter  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
