@@ -1182,3 +1182,11 @@
   Liabilities:Bar:Members:Els   0.60 EUR  
   Income:Bar                   -0.60 EUR  
 
+2023-01-29 txn "Fearless bought 1 items for €2.00"
+  timestamp: "2023-01-29 20:51:43.988738"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
