@@ -1190,3 +1190,11 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2023-01-29 txn "Evils bought 1 items for €2.50"
+  timestamp: "2023-01-29 21:25:47.195831"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Elvis      1 GERMAN
+  Liabilities:Bar:Members:Elvis   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
