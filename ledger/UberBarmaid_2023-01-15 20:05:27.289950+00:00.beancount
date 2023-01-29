@@ -1122,3 +1122,13 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-01-29 txn "Els bought 2 items for €2.10"
+  timestamp: "2023-01-29 18:54:59.066898"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA 
+  Liabilities:Bar:Members:Els      1 SODA 
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   2.10 EUR  
+  Income:Bar                   -2.10 EUR  
+
