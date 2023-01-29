@@ -1090,3 +1090,11 @@
   Liabilities:Bar:Members:Fearless   2.00 EUR  
   Income:Bar                        -2.00 EUR  
 
+2023-01-29 txn "DJefke bought 2 items for €5.00"
+  timestamp: "2023-01-29 18:28:26.764560"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 GERMAN
+  Liabilities:Bar:Members:DJefke      2 GERMAN
+  Liabilities:Bar:Members:DJefke   5.00 EUR   
+  Income:Bar                      -5.00 EUR   
+
