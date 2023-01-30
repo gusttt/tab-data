@@ -1246,3 +1246,9 @@
   Liabilities:Bar:Members:Renze   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-01-30 txn "Renze deposited €20.00"
+  timestamp: "2023-01-30 16:56:14.666386"
+  type: "deposit"
+  Liabilities:Bar:Members:Renze  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
