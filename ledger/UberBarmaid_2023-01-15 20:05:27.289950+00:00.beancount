@@ -1252,3 +1252,11 @@
   Liabilities:Bar:Members:Renze  -20.00 EUR
   Assets:Cash:Bar                 20.00 EUR
 
+2023-01-30 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2023-01-30 16:56:57.971538"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Bart      1 GERMAN
+  Liabilities:Bar:Members:Bart   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
