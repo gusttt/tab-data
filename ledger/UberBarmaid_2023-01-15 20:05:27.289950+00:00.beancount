@@ -1290,3 +1290,11 @@
   Liabilities:Bar:Members:Bart   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-01-31 txn "Renze bought 1 items for €0.60"
+  timestamp: "2023-01-31 16:06:16.405617"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Renze      1 SNACK
+  Liabilities:Bar:Members:Renze   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
