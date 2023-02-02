@@ -1636,3 +1636,11 @@
   Liabilities:Bar:Members:Elvis  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2023-02-02 txn "Renze bought 2 items for €6.00"
+  timestamp: "2023-02-02 23:31:54.944139"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 CM 
+  Liabilities:Bar:Members:Renze      2 CM 
+  Liabilities:Bar:Members:Renze   6.00 EUR
+  Income:Bar                     -6.00 EUR
+
