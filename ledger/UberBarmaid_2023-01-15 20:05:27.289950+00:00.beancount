@@ -1500,3 +1500,11 @@
   Liabilities:Bar:Members:Miker   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-02-02 txn "Fearless bought 1 items for €2.00"
+  timestamp: "2023-02-02 20:10:48.163926"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER
+  Liabilities:Bar:Members:Fearless      1 CIDER
+  Liabilities:Bar:Members:Fearless   2.00 EUR  
+  Income:Bar                        -2.00 EUR  
+
