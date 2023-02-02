@@ -1534,3 +1534,11 @@
   Liabilities:Bar:Members:Renze   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-02-02 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-02-02 20:39:13.100535"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
