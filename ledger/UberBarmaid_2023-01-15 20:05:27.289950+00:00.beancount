@@ -1366,3 +1366,11 @@
   Liabilities:Bar:Members:Miker   8.50 EUR   
   Income:Bar                     -8.50 EUR   
 
+2023-02-02 txn "Wouter bought 1 items for €3.00"
+  timestamp: "2023-02-02 15:57:00.029391"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Wouter      1 CM 
+  Liabilities:Bar:Members:Wouter   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
