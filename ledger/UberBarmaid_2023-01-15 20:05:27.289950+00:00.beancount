@@ -1550,3 +1550,9 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-02-02 txn "Wouter gave qwaxys a gift of €4.50"
+  timestamp: "2023-02-02 20:45:26.818509"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   4.50 EUR
+  Liabilities:Bar:Members:Bart    -4.50 EUR
+
