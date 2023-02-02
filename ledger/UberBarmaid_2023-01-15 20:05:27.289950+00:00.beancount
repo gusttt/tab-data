@@ -1600,3 +1600,9 @@
   Liabilities:Bar:Members:Maja   8.00 EUR
   Liabilities:Bar:Members:Bart  -8.00 EUR
 
+2023-02-02 txn "Wouter deposited €20.00"
+  timestamp: "2023-02-02 21:18:53.836643"
+  type: "deposit"
+  Liabilities:Bar:Members:Wouter  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
