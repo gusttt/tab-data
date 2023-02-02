@@ -1630,3 +1630,9 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR   
   Income:Bar                        -2.50 EUR   
 
+2023-02-02 txn "Evils deposited €50.00"
+  timestamp: "2023-02-02 22:25:32.621043"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
