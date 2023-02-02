@@ -1588,3 +1588,9 @@
   Liabilities:Bar:Members:Elvis   10.00 EUR
   Liabilities:Bar:Members:Bart   -10.00 EUR
 
+2023-02-02 txn "Bloemist gave qwaxys a gift of €10.00"
+  timestamp: "2023-02-02 21:16:21.463455"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   10.00 EUR
+  Liabilities:Bar:Members:Bart      -10.00 EUR
+
