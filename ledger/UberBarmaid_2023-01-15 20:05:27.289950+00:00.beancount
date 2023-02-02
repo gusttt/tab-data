@@ -1644,3 +1644,13 @@
   Liabilities:Bar:Members:Renze   6.00 EUR
   Income:Bar                     -6.00 EUR
 
+2023-02-02 txn "Nachtvlinder bought 2 items for €1.30"
+  timestamp: "2023-02-02 23:51:04.974648"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK     
+  Liabilities:Bar:Members:Maja      1 SNACK     
+  Assets:Inventory:Bar             -1 CHOCO_MILK
+  Liabilities:Bar:Members:Maja      1 CHOCO_MILK
+  Liabilities:Bar:Members:Maja   1.30 EUR       
+  Income:Bar                    -1.30 EUR       
+
