@@ -1486,3 +1486,9 @@
   Liabilities:Bar:Members:Stefaan   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2023-02-02 txn "Miker deposited €50.00"
+  timestamp: "2023-02-02 19:39:48.560365"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
