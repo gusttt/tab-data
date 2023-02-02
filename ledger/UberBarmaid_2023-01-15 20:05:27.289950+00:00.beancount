@@ -1574,3 +1574,11 @@
   Liabilities:Bar:Members:Miker   2.10 EUR  
   Income:Bar                     -2.10 EUR  
 
+2023-02-02 txn "Gust bought 1 items for €3.00"
+  timestamp: "2023-02-02 21:10:48.413422"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+  Liabilities:Bar:Members:Gust   3.00 EUR
+  Income:Bar                    -3.00 EUR
+
