@@ -1668,3 +1668,11 @@
   Liabilities:Bar:Members:Gust   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-02-03 txn "Nachtvlinder bought 1 items for €1.50"
+  timestamp: "2023-02-03 01:24:10.231655"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Maja      1 SODA
+  Liabilities:Bar:Members:Maja   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
