@@ -1654,3 +1654,9 @@
   Liabilities:Bar:Members:Maja   1.30 EUR       
   Income:Bar                    -1.30 EUR       
 
+2023-02-03 txn "Gust deposited €20.00"
+  timestamp: "2023-02-03 00:42:19.383457"
+  type: "deposit"
+  Liabilities:Bar:Members:Gust  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
