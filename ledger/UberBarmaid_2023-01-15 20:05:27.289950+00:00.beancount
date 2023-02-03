@@ -1676,3 +1676,11 @@
   Liabilities:Bar:Members:Maja   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-02-03 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2023-02-03 20:37:15.569789"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:DJefke      1 SNACK
+  Liabilities:Bar:Members:DJefke   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
