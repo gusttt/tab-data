@@ -1848,3 +1848,9 @@
   Liabilities:Bar:Members:Netman   4.00 EUR
   Liabilities:Bar:Members:Bart    -4.00 EUR
 
+2023-02-07 txn "Evils gave qwaxys a gift of €5.40"
+  timestamp: "2023-02-07 17:41:35.713740"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   5.40 EUR
+  Liabilities:Bar:Members:Bart   -5.40 EUR
+
