@@ -1854,3 +1854,11 @@
   Liabilities:Bar:Members:Elvis   5.40 EUR
   Liabilities:Bar:Members:Bart   -5.40 EUR
 
+2023-02-07 txn "Netman bought 1 items for €1.50"
+  timestamp: "2023-02-07 17:46:32.003635"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BEER
+  Liabilities:Bar:Members:Netman      1 BEER
+  Liabilities:Bar:Members:Netman   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
