@@ -1964,3 +1964,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-02-07 txn "Netman deposited €10.00"
+  timestamp: "2023-02-07 18:49:12.328751"
+  type: "deposit"
+  Liabilities:Bar:Members:Netman  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
