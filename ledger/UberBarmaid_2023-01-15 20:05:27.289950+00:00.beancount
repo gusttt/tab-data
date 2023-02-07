@@ -2052,3 +2052,14 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-02-07 txn "Netman bought 2 items for €4.00"
+  timestamp: "2023-02-07 19:47:47.370351"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 PASSPORT
+  Liabilities:Bar:Members:Netman      1 PASSPORT
+  Assets:Inventory:Bar               -1 BEER    
+  Liabilities:Bar:Members:Netman      1 BEER    
+  Liabilities:Bar:Members:Netman   4.00 EUR     
+  Liabilities:Bar:Members:Bart    -1.20 EUR     
+  Income:Bar                      -2.80 EUR     
+
