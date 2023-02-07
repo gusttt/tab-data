@@ -2157,3 +2157,11 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR  
   Income:Bar                        -2.50 EUR  
 
+2023-02-07 txn "Netman bought 1 items for €1.50"
+  timestamp: "2023-02-07 20:36:39.343729"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 BEER
+  Liabilities:Bar:Members:Netman      1 BEER
+  Liabilities:Bar:Members:Netman   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
