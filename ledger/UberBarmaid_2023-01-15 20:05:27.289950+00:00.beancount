@@ -2101,3 +2101,11 @@
   Liabilities:Bar:Members:Mimor   6.60 EUR  
   Income:Bar                     -6.60 EUR  
 
+2023-02-07 txn "Koen bought 1 items for €1.00"
+  timestamp: "2023-02-07 20:03:01.161017"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Koen      1 CHIP
+  Liabilities:Bar:Members:Koen   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
