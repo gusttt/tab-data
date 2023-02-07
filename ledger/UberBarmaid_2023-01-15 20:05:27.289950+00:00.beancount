@@ -2014,3 +2014,11 @@
   Liabilities:Bar:Members:Mimor   4.00 EUR   
   Income:Bar                     -4.00 EUR   
 
+2023-02-07 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2023-02-07 19:23:45.685050"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:DJefke      1 GERMAN
+  Liabilities:Bar:Members:DJefke   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
