@@ -2069,3 +2069,15 @@
   Liabilities:Bar:Members:Netman  -2.50 EUR
   Assets:Cash:Bar                  2.50 EUR
 
+2023-02-07 txn "Nachtvlinder bought 4 items for €4.90"
+  timestamp: "2023-02-07 19:57:41.944501"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 SNACK     
+  Liabilities:Bar:Members:Maja      2 SNACK     
+  Assets:Inventory:Bar             -1 CM        
+  Liabilities:Bar:Members:Maja      1 CM        
+  Assets:Inventory:Bar             -1 CHOCO_MILK
+  Liabilities:Bar:Members:Maja      1 CHOCO_MILK
+  Liabilities:Bar:Members:Maja   4.90 EUR       
+  Income:Bar                    -4.90 EUR       
+
