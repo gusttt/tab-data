@@ -1978,3 +1978,13 @@
   Liabilities:Bar:Members:Netman   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-02-07 txn "DJefke bought 4 items for €8.10"
+  timestamp: "2023-02-07 18:52:59.494894"
+  type: "purchase"
+  Assets:Inventory:Bar               -3 DUVEL
+  Liabilities:Bar:Members:DJefke      3 DUVEL
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:DJefke      1 SNACK
+  Liabilities:Bar:Members:DJefke   8.10 EUR  
+  Income:Bar                      -8.10 EUR  
+
