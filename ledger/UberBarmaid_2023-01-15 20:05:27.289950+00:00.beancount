@@ -2063,3 +2063,9 @@
   Liabilities:Bar:Members:Bart    -1.20 EUR     
   Income:Bar                      -2.80 EUR     
 
+2023-02-07 txn "Netman deposited €2.50"
+  timestamp: "2023-02-07 19:48:13.926748"
+  type: "deposit"
+  Liabilities:Bar:Members:Netman  -2.50 EUR
+  Assets:Cash:Bar                  2.50 EUR
+
