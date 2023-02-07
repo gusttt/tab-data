@@ -1800,3 +1800,11 @@
   Liabilities:Bar:Members:Fearless   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2023-02-07 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2023-02-07 14:28:39.840476"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Bart      1 GERMAN
+  Liabilities:Bar:Members:Bart   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
