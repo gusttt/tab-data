@@ -2511,3 +2511,15 @@
   Liabilities:Bar:Members:Maja   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-02-09 txn "Bert bought 3 items for €4.60"
+  timestamp: "2023-02-09 22:33:13.724761"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Bert      1 CM   
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bert      1 SNACK
+  Assets:Inventory:Bar             -1 CHIP 
+  Liabilities:Bar:Members:Bert      1 CHIP 
+  Liabilities:Bar:Members:Bert   4.60 EUR  
+  Income:Bar                    -4.60 EUR  
+
