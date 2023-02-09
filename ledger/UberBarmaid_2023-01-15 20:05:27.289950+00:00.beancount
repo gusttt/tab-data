@@ -2299,3 +2299,11 @@
   Liabilities:Bar:Members:Yvan   4.20 EUR  
   Income:Bar                    -4.20 EUR  
 
+2023-02-09 txn "Wouter bought 1 items for €3.00"
+  timestamp: "2023-02-09 16:44:48.226783"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Wouter      1 CM 
+  Liabilities:Bar:Members:Wouter   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
