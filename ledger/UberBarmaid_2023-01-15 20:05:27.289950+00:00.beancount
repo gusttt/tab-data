@@ -2559,3 +2559,11 @@
   Liabilities:Bar:Members:Gust   3.00 EUR
   Income:Bar                    -3.00 EUR
 
+2023-02-09 txn "Bert bought 1 items for €0.60"
+  timestamp: "2023-02-09 23:28:05.572188"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bert      1 SNACK
+  Liabilities:Bar:Members:Bert   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
