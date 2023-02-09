@@ -2341,3 +2341,11 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-02-09 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-02-09 19:02:01.813883"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
