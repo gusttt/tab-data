@@ -2279,3 +2279,13 @@
   Liabilities:Bar:Members:Miker   6.00 EUR
   Liabilities:Bar:Members:Panda  -6.00 EUR
 
+2023-02-09 txn "Yvan bought 4 items for €4.30"
+  timestamp: "2023-02-09 15:58:01.440353"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Yvan      1 GERMAN
+  Assets:Inventory:Bar             -3 SNACK 
+  Liabilities:Bar:Members:Yvan      3 SNACK 
+  Liabilities:Bar:Members:Yvan   4.30 EUR   
+  Income:Bar                    -4.30 EUR   
+
