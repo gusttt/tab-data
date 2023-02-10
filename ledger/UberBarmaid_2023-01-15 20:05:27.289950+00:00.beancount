@@ -2585,3 +2585,13 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-02-10 txn "Bert bought 2 items for €3.10"
+  timestamp: "2023-02-10 00:28:26.112264"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK 
+  Liabilities:Bar:Members:Bert      1 SNACK 
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Bert      1 GERMAN
+  Liabilities:Bar:Members:Bert   3.10 EUR   
+  Income:Bar                    -3.10 EUR   
+
