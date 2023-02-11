@@ -2711,3 +2711,11 @@
   Liabilities:Bar:Members:Alex   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-02-11 txn "Els bought 1 items for €2.50"
+  timestamp: "2023-02-11 13:22:59.990146"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 GERMAN
+  Liabilities:Bar:Members:Els      1 GERMAN
+  Liabilities:Bar:Members:Els   2.50 EUR   
+  Income:Bar                   -2.50 EUR   
+
