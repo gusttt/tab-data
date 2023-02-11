@@ -2703,3 +2703,11 @@
   Liabilities:Bar:Members:Els       20.00 EUR
   Liabilities:Bar:Members:Thequux  -20.00 EUR
 
+2023-02-11 txn "Alex bought 1 items for €2.50"
+  timestamp: "2023-02-11 13:12:17.473417"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Alex      1 GERMAN
+  Liabilities:Bar:Members:Alex   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
