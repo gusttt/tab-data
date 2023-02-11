@@ -2773,3 +2773,11 @@
   Liabilities:Bar:Members:Alex   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-02-11 txn "TQ bought 1 items for €2.50"
+  timestamp: "2023-02-11 16:34:36.539286"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   2.50 EUR  
+  Income:Bar                       -2.50 EUR  
+
