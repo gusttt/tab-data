@@ -2913,3 +2913,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-02-12 txn "Bloemist gave Nachtvlinder a gift of €15.00"
+  timestamp: "2023-02-12 20:19:27.596888"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   15.00 EUR
+  Liabilities:Bar:Members:Maja      -15.00 EUR
+
