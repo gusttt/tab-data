@@ -2809,3 +2809,11 @@
   Liabilities:Bar:Members:Maja   2.10 EUR  
   Income:Bar                    -2.10 EUR  
 
+2023-02-12 txn "Koen bought 1 items for €1.50"
+  timestamp: "2023-02-12 17:10:47.068657"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
