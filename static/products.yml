@@ -78,14 +78,14 @@
   visible: True
   category: swag
 - name: T-Shirt
-  price: 20.00
-  event_price: 20.00
+  price: 15.00
+  event_price: 15.00
   currency: TSHIRT
   category: swag
   visible: True
 - name: Hoodie
-  price: 35.00
-  event_price: 35.00
+  price: 25.00
+  event_price: 25.00
   currency: HOODIE
   category: swag
   visible: True
