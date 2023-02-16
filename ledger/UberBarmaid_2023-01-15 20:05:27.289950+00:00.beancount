@@ -3233,3 +3233,11 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-02-16 txn "Gust bought 1 items for €0.60"
+  timestamp: "2023-02-16 23:35:08.102448"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Gust      1 SNACK
+  Liabilities:Bar:Members:Gust   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
