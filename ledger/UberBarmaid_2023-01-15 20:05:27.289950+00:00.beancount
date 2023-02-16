@@ -3113,3 +3113,11 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-02-16 txn "Gust bought 1 items for €3.00"
+  timestamp: "2023-02-16 20:13:59.971804"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Gust      1 CM 
+  Liabilities:Bar:Members:Gust   3.00 EUR
+  Income:Bar                    -3.00 EUR
+
