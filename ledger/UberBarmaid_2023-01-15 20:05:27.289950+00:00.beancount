@@ -3207,3 +3207,9 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-02-16 txn "qwaxys gave Evils a gift of €4.00"
+  timestamp: "2023-02-16 22:31:24.529237"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart    4.00 EUR
+  Liabilities:Bar:Members:Elvis  -4.00 EUR
+
