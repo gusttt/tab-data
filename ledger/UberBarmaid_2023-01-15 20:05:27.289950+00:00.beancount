@@ -3057,3 +3057,11 @@
   Liabilities:Bar:Members:Wouter   7.80 EUR
   Liabilities:Bar:Members:Koen    -7.80 EUR
 
+2023-02-16 txn "Koen bought 1 items for €1.50"
+  timestamp: "2023-02-16 19:57:31.442057"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
