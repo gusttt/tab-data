@@ -3051,3 +3051,9 @@
   Liabilities:Bar:Members:Wouter  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2023-02-16 txn "Wouter gave Koen a gift of €7.80"
+  timestamp: "2023-02-16 19:46:16.698306"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   7.80 EUR
+  Liabilities:Bar:Members:Koen    -7.80 EUR
+
