@@ -3435,3 +3435,13 @@
   Liabilities:Bar:Members:Joris   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-02-23 txn "Stefaan bought 2 items for €4.00"
+  timestamp: "2023-02-23 19:32:07.866249"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA  
+  Liabilities:Bar:Members:Stefaan      1 SODA  
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Stefaan      1 GERMAN
+  Liabilities:Bar:Members:Stefaan   4.00 EUR   
+  Income:Bar                       -4.00 EUR   
+
