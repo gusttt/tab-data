@@ -3265,3 +3265,13 @@
   Liabilities:Bar:Members:Elvis   0.70 EUR       
   Income:Bar                     -0.70 EUR       
 
+2023-02-23 txn "Nachtvlinder bought 2 items for €3.10"
+  timestamp: "2023-02-23 14:32:34.555643"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Maja      1 GERMAN
+  Assets:Inventory:Bar             -1 SNACK 
+  Liabilities:Bar:Members:Maja      1 SNACK 
+  Liabilities:Bar:Members:Maja   3.10 EUR   
+  Income:Bar                    -3.10 EUR   
+
