@@ -3501,3 +3501,11 @@
   Liabilities:Bar:Members:Elfeera   2.50 EUR   
   Income:Bar                       -2.50 EUR   
 
+2023-02-23 txn "Joris bought 1 items for €1.50"
+  timestamp: "2023-02-23 20:47:02.133613"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Joris      1 BEER
+  Liabilities:Bar:Members:Joris   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
