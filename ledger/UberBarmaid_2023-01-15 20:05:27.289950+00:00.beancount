@@ -3361,3 +3361,9 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-02-23 txn "DJefke gave Wouter a gift of €11.00"
+  timestamp: "2023-02-23 18:32:47.157626"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   11.00 EUR
+  Liabilities:Bar:Members:Wouter  -11.00 EUR
+
