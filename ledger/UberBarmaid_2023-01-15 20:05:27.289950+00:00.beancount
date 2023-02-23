@@ -3389,3 +3389,9 @@
   Liabilities:Bar:Members:Elvis   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-02-23 txn "Wouter gave DJefke a gift of €1.00"
+  timestamp: "2023-02-23 19:07:47.301070"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   1.00 EUR
+  Liabilities:Bar:Members:DJefke  -1.00 EUR
+
