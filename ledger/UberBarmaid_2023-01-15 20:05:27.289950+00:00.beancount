@@ -3381,3 +3381,11 @@
   Liabilities:Bar:Members:Sander   13.50 EUR
   Liabilities:Bar:Members:Wouter  -13.50 EUR
 
+2023-02-23 txn "Evils bought 1 items for €1.50"
+  timestamp: "2023-02-23 18:43:11.617297"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Elvis      1 BEER
+  Liabilities:Bar:Members:Elvis   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
