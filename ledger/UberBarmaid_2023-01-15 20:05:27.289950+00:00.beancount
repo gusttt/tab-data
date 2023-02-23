@@ -3427,3 +3427,11 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-02-23 txn "Joris bought 1 items for €2.50"
+  timestamp: "2023-02-23 19:13:40.272970"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Liabilities:Bar:Members:Joris   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
