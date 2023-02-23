@@ -3367,3 +3367,11 @@
   Liabilities:Bar:Members:DJefke   11.00 EUR
   Liabilities:Bar:Members:Wouter  -11.00 EUR
 
+2023-02-23 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-02-23 18:34:32.308969"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
