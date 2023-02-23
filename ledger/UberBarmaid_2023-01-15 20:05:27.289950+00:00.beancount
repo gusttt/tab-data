@@ -3583,3 +3583,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-02-23 txn "Elfeera bought 2 items for €3.10"
+  timestamp: "2023-02-23 23:00:19.796995"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Elfeera      1 GERMAN
+  Assets:Inventory:Bar                -1 SNACK 
+  Liabilities:Bar:Members:Elfeera      1 SNACK 
+  Liabilities:Bar:Members:Elfeera   3.10 EUR   
+  Income:Bar                       -3.10 EUR   
+
