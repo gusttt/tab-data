@@ -3637,3 +3637,11 @@
   Liabilities:Bar:Members:Yvan   7.90 EUR   
   Income:Bar                    -7.90 EUR   
 
+2023-02-25 txn "Yvan bought 3 items for €4.50"
+  timestamp: "2023-02-25 11:41:55.010941"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 SODA
+  Liabilities:Bar:Members:Yvan      3 SODA
+  Liabilities:Bar:Members:Yvan   4.50 EUR 
+  Income:Bar                    -4.50 EUR 
+
