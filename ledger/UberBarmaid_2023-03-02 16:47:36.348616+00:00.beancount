@@ -182,3 +182,9 @@
   Liabilities:Bar:Members:Wouter   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-03-02 txn "Evils deposited €50.00"
+  timestamp: "2023-03-02 20:38:07.110751"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
