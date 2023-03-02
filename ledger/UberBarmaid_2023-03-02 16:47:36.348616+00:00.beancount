@@ -20,3 +20,11 @@
   Liabilities:Bar:Members:Wouter       1.00 EUR
   Liabilities:Bar:Members:3D-printer  -1.00 EUR
 
+2023-03-02 txn "Sander bought 1 items for €1.50"
+  timestamp: "2023-03-02 16:56:03.407975"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Sander      1 SODA
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
