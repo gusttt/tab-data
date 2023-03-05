@@ -302,3 +302,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-03-05 txn "Evils bought 1 items for €3.00"
+  timestamp: "2023-03-05 15:36:01.263936"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
