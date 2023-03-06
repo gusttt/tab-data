@@ -318,3 +318,15 @@
   Liabilities:Bar:Members:Elvis   1.20 EUR  
   Income:Bar                     -1.20 EUR  
 
+2023-03-06 txn "Evils bought 4 items for €6.70"
+  timestamp: "2023-03-06 13:35:31.881491"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM    
+  Liabilities:Bar:Members:Elvis      1 CM    
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Elvis      1 GERMAN
+  Assets:Inventory:Bar              -2 SNACK 
+  Liabilities:Bar:Members:Elvis      2 SNACK 
+  Liabilities:Bar:Members:Elvis   6.70 EUR   
+  Income:Bar                     -6.70 EUR   
+
