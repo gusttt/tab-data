@@ -330,3 +330,11 @@
   Liabilities:Bar:Members:Elvis   6.70 EUR   
   Income:Bar                     -6.70 EUR   
 
+2023-03-06 txn "Gust bought 1 items for €0.60"
+  timestamp: "2023-03-06 18:17:15.605331"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Gust      1 SNACK
+  Liabilities:Bar:Members:Gust   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
