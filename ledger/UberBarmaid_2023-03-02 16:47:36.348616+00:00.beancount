@@ -368,3 +368,11 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-03-08 txn "Wouter bought 1 items for €0.60"
+  timestamp: "2023-03-08 17:59:24.632207"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Wouter      1 SNACK
+  Liabilities:Bar:Members:Wouter   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
