@@ -570,3 +570,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-03-09 txn "Thijs deposited €25.00"
+  timestamp: "2023-03-09 20:57:28.413515"
+  type: "deposit"
+  Liabilities:Bar:Members:Thijs  -25.00 EUR
+  Assets:Cash:Bar                 25.00 EUR
+
