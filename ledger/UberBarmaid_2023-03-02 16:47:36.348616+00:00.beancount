@@ -426,3 +426,9 @@
   Liabilities:Bar:Members:Yvan   5.40 EUR  
   Income:Bar                    -5.40 EUR  
 
+2023-03-09 txn "Nachtvlinder gave Yvan a gift of €2.50"
+  timestamp: "2023-03-09 14:23:56.409632"
+  type: "transfer"
+  Liabilities:Bar:Members:Maja   2.50 EUR
+  Liabilities:Bar:Members:Yvan  -2.50 EUR
+
