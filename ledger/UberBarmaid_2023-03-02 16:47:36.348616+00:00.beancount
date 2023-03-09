@@ -592,3 +592,13 @@
   Liabilities:Bar:Members:Bart   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-03-09 txn "--CASH-- bought 2 items for €3.10"
+  timestamp: "2023-03-09 21:28:20.212304"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Inventory:Bar     -1 SNACK 
+  Assets:Cash:Bar           1 SNACK 
+  Assets:Cash:Bar        3.10 EUR   
+  Income:Bar            -3.10 EUR   
+
