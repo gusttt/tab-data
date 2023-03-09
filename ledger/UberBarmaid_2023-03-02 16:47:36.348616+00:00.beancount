@@ -490,3 +490,9 @@
   Liabilities:Bar:Members:Fullscreen   0.60 EUR  
   Income:Bar                          -0.60 EUR  
 
+2023-03-09 txn "Evils gave Gust a gift of €7.50"
+  timestamp: "2023-03-09 18:50:18.504549"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis   7.50 EUR
+  Liabilities:Bar:Members:Gust   -7.50 EUR
+
