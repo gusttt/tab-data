@@ -715,3 +715,14 @@
   Assets:Cash:Bar        17.50 EUR   
   Income:Bar            -17.50 EUR   
 
+2023-03-11 txn "--CASH-- bought 2 items for €3.50"
+  timestamp: "2023-03-11 17:02:29.346365"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN   
+  Assets:Cash:Bar                      1 GERMAN   
+  Assets:Inventory:Bar                -1 WRISTBAND
+  Assets:Cash:Bar                      1 WRISTBAND
+  Assets:Cash:Bar                   3.50 EUR      
+  Liabilities:Bar:Members:Marquis  -0.50 EUR      
+  Income:Bar                       -3.00 EUR      
+
