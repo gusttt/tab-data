@@ -734,3 +734,13 @@
   Assets:Cash:Bar        25.00 EUR   
   Income:Bar            -25.00 EUR   
 
+2023-03-11 txn "TQ bought 2 items for €4.00"
+  timestamp: "2023-03-11 17:10:34.700248"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BEER  
+  Liabilities:Bar:Members:Thequux      1 BEER  
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Thequux      1 GERMAN
+  Liabilities:Bar:Members:Thequux   4.00 EUR   
+  Income:Bar                       -4.00 EUR   
+
