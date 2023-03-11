@@ -678,3 +678,11 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2023-03-11 txn "--CASH-- bought 1 items for €2.50"
+  timestamp: "2023-03-11 16:56:33.812109"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 DUVEL
+  Assets:Cash:Bar           1 DUVEL
+  Assets:Cash:Bar        2.50 EUR  
+  Income:Bar            -2.50 EUR  
+
