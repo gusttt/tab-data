@@ -744,3 +744,11 @@
   Liabilities:Bar:Members:Thequux   4.00 EUR   
   Income:Bar                       -4.00 EUR   
 
+2023-03-11 txn "--CASH-- bought 1 items for €25.00"
+  timestamp: "2023-03-11 17:12:55.381459"
+  type: "purchase"
+  Assets:Inventory:Bar      -1 HOODIE
+  Assets:Cash:Bar            1 HOODIE
+  Assets:Cash:Bar        25.00 EUR   
+  Income:Bar            -25.00 EUR   
+
