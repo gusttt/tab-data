@@ -788,3 +788,9 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-03-12 txn "Elfeera deposited €50.00"
+  timestamp: "2023-03-12 17:18:35.219949"
+  type: "deposit"
+  Liabilities:Bar:Members:Elfeera  -50.00 EUR
+  Assets:Cash:Bar                   50.00 EUR
+
