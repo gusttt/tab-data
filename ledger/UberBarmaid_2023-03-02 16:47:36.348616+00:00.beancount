@@ -794,3 +794,11 @@
   Liabilities:Bar:Members:Elfeera  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2023-03-12 txn "Koen bought 1 items for €1.50"
+  timestamp: "2023-03-12 17:26:21.230341"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Koen      1 SODA
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
