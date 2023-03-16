@@ -898,3 +898,9 @@
   Liabilities:Bar:Members:Bart  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2023-03-16 txn "qwaxys gave Joris a gift of €0.11"
+  timestamp: "2023-03-16 16:59:55.729736"
+  type: "transfer"
+  Liabilities:Bar:Members:Bart    0.11 EUR
+  Liabilities:Bar:Members:Joris  -0.11 EUR
+
