@@ -1064,3 +1064,11 @@
   Liabilities:Bar:Members:Elvis   1.20 EUR  
   Income:Bar                     -1.20 EUR  
 
+2023-03-16 txn "Thijs bought 1 items for €2.50"
+  timestamp: "2023-03-16 23:06:17.929481"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Thijs      1 DUVEL
+  Liabilities:Bar:Members:Thijs   2.50 EUR  
+  Income:Bar                     -2.50 EUR  
+
