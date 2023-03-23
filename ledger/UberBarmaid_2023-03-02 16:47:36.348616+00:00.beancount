@@ -1410,3 +1410,9 @@
   Liabilities:Bar:Members:Thijs   3.10 EUR  
   Income:Bar                     -3.10 EUR  
 
+2023-03-23 txn "Thomas deposited €10.00"
+  timestamp: "2023-03-23 21:18:07.319232"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
