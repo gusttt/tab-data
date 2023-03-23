@@ -1196,3 +1196,9 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR   
   Income:Bar                        -2.50 EUR   
 
+2023-03-23 txn "Fearless gave Evils a gift of €6.00"
+  timestamp: "2023-03-23 17:38:03.157353"
+  type: "transfer"
+  Liabilities:Bar:Members:Fearless   6.00 EUR
+  Liabilities:Bar:Members:Elvis     -6.00 EUR
+
