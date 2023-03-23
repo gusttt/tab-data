@@ -40,7 +40,7 @@
   currency: BEER
   category: alcohol
   visible: True
-- name: Heavy beer
+- name: Fancy Beer
   price: 2.50
   event_price: 3.50
   currency: DUVEL
@@ -54,7 +54,7 @@
   visible: True
 
 # Snacks etc:
-- name: Candy bar
+- name: Snack Bar
   price: 0.60
   event_price: 0.90
   currency: SNACK
