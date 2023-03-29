@@ -1510,3 +1510,9 @@
   Liabilities:Bar:Members:Bloemist   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-03-29 txn "qwaxys deposited €5.00"
+  timestamp: "2023-03-29 22:32:26.338811"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -5.00 EUR
+  Assets:Cash:Bar                5.00 EUR
+
