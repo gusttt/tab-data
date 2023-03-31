@@ -262,6 +262,12 @@
   currency: MYSTERY
   category: alcohol
   visible: False
+- name: SpacePils
+  price: 1.33
+  event_price: 3.14
+  currency: CARA
+  category: alcohol
+  visible: true
 
 # snacks
 # catchall
