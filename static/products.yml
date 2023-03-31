@@ -11,7 +11,7 @@
   event_price: 1.00
   currency: CHOCO_MILK
   category: drink
-  visible: True
+  visible: False
 - name: Fritz / Club Mate Cola
   price: 2.50
   event_price: 3.50
@@ -31,7 +31,7 @@
   event_price: 0.75
   currency: TEA
   category: drink
-  visible: True    
+  visible: False    
 
 # Alcohol:
 - name: Beer
@@ -273,7 +273,7 @@
   event_price: 3.14
   currency: CARA
   category: alcohol
-  visible: true
+  visible: True
 
 # snacks
 # catchall
