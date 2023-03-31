@@ -768,3 +768,9 @@
   Liabilities:Bar:Members:Koen   3.14 EUR 
   Income:Bar                    -3.14 EUR 
 
+2023-03-31 txn "--CASH-- gave Koen a gift of €3.14"
+  timestamp: "2023-03-31 22:04:27.609257"
+  type: "transfer"
+  Assets:Cash:Bar                3.14 EUR
+  Liabilities:Bar:Members:Koen  -3.14 EUR
+
