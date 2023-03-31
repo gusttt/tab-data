@@ -372,3 +372,9 @@
   Liabilities:Bar:Members:Matth   5.00 EUR 
   Income:Bar                     -5.00 EUR 
 
+2023-03-31 txn "--CASH-- gave Matth a gift of €5.00"
+  timestamp: "2023-03-31 20:04:20.340704"
+  type: "transfer"
+  Assets:Cash:Bar                 5.00 EUR
+  Liabilities:Bar:Members:Matth  -5.00 EUR
+
