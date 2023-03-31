@@ -222,7 +222,7 @@
   event_price: 1.00
   currency: WATER
   category: drink
-  visible: False
+  visible: True
 
 - name: Kombucha
   price: 3.00
