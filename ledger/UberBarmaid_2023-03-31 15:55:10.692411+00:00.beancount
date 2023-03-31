@@ -254,3 +254,11 @@
   Liabilities:Bar:Members:Thequux  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2023-03-31 txn "Bloemist bought 1 items for €6.00"
+  timestamp: "2023-03-31 19:37:28.295836"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 COCKTAIL
+  Liabilities:Bar:Members:Bloemist      1 COCKTAIL
+  Liabilities:Bar:Members:Bloemist   6.00 EUR     
+  Income:Bar                        -6.00 EUR     
+
