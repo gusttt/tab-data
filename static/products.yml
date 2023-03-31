@@ -223,7 +223,7 @@
   event_price: 3.50
   currency: KOMBUCHA
   category: drink
-  visible: False
+  visible: True
 
 # alcoholics
 - name: Jupiler
