@@ -364,3 +364,11 @@
   Liabilities:Bar:Members:DJefke   3.50 EUR   
   Income:Bar                      -3.50 EUR   
 
+2023-03-31 txn "Matth bought 2 items for €5.00"
+  timestamp: "2023-03-31 20:03:52.307349"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 BEER
+  Liabilities:Bar:Members:Matth      2 BEER
+  Liabilities:Bar:Members:Matth   5.00 EUR 
+  Income:Bar                     -5.00 EUR 
+
