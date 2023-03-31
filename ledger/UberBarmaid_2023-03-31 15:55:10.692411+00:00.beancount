@@ -846,3 +846,11 @@
   Liabilities:Bar:Members:Merlijn   1.00 EUR  
   Income:Bar                       -1.00 EUR  
 
+2023-03-31 txn "Kuro bought 1 items for €1.00"
+  timestamp: "2023-03-31 22:29:52.823042"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Kuro      1 SNACK
+  Liabilities:Bar:Members:Kuro   1.00 EUR  
+  Income:Bar                    -1.00 EUR  
+
