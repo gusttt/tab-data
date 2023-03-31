@@ -894,3 +894,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR  
   Income:Bar                      -1.00 EUR  
 
+2023-03-31 txn "--CASH-- bought 1 items for €3.14"
+  timestamp: "2023-03-31 22:38:59.441684"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CARA
+  Assets:Cash:Bar           1 CARA
+  Assets:Cash:Bar        3.14 EUR 
+  Income:Bar            -3.14 EUR 
+
