@@ -942,3 +942,11 @@
   Assets:Cash:Bar        12.00 EUR     
   Income:Bar            -12.00 EUR     
 
+2023-03-31 txn "Evils bought 1 items for €3.50"
+  timestamp: "2023-03-31 23:11:39.461810"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Elvis      1 GERMAN
+  Liabilities:Bar:Members:Elvis   3.50 EUR   
+  Income:Bar                     -3.50 EUR   
+
