@@ -306,3 +306,13 @@
   Assets:Cash:Bar        4.00 EUR  
   Income:Bar            -4.00 EUR  
 
+2023-03-31 txn "--CASH-- bought 4 items for €17.00"
+  timestamp: "2023-03-31 19:48:28.289418"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 BEER    
+  Assets:Cash:Bar            2 BEER    
+  Assets:Inventory:Bar      -2 COCKTAIL
+  Assets:Cash:Bar            2 COCKTAIL
+  Assets:Cash:Bar        17.00 EUR     
+  Income:Bar            -17.00 EUR     
+
