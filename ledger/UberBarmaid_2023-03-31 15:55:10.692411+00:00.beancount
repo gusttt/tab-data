@@ -496,3 +496,13 @@
   Assets:Cash:Bar        3.14 EUR 
   Income:Bar            -3.14 EUR 
 
+2023-03-31 txn "B0Hr bought 2 items for €5.64"
+  timestamp: "2023-03-31 20:39:38.672370"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CARA
+  Liabilities:Bar:Members:B0Hr      1 CARA
+  Assets:Inventory:Bar             -1 BEER
+  Liabilities:Bar:Members:B0Hr      1 BEER
+  Liabilities:Bar:Members:B0Hr   5.64 EUR 
+  Income:Bar                    -5.64 EUR 
+
