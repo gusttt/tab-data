@@ -726,3 +726,9 @@
   Liabilities:Bar:Members:B0Hr   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-03-31 txn "B0Hr deposited €1.45"
+  timestamp: "2023-03-31 21:48:13.219499"
+  type: "deposit"
+  Liabilities:Bar:Members:B0Hr  -1.45 EUR
+  Assets:Cash:Bar                1.45 EUR
+
