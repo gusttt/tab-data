@@ -120,3 +120,11 @@
   Assets:Cash:Bar        3.50 EUR   
   Income:Bar            -3.50 EUR   
 
+2023-03-31 txn "Bertrand bought 1 items for €3.50"
+  timestamp: "2023-03-31 18:37:20.437730"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Bertrand      1 GERMAN
+  Liabilities:Bar:Members:Bertrand   3.50 EUR   
+  Income:Bar                        -3.50 EUR   
+
