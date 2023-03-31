@@ -460,3 +460,9 @@
   Liabilities:Bar:Members:Betz   6.00 EUR     
   Income:Bar                    -6.00 EUR     
 
+2023-03-31 txn "--CASH-- gave Betz a gift of €6.00"
+  timestamp: "2023-03-31 20:34:37.419502"
+  type: "transfer"
+  Assets:Cash:Bar                6.00 EUR
+  Liabilities:Bar:Members:Betz  -6.00 EUR
+
