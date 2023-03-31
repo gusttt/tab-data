@@ -698,3 +698,9 @@
   Liabilities:Bar:Members:Bloemist   4.50 EUR   
   Income:Bar                        -4.50 EUR   
 
+2023-03-31 txn "--CASH-- gave Bloemist a gift of €1.00"
+  timestamp: "2023-03-31 21:42:37.992115"
+  type: "transfer"
+  Assets:Cash:Bar                    1.00 EUR
+  Liabilities:Bar:Members:Bloemist  -1.00 EUR
+
