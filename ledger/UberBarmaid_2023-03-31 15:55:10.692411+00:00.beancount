@@ -950,3 +950,11 @@
   Liabilities:Bar:Members:Elvis   3.50 EUR   
   Income:Bar                     -3.50 EUR   
 
+2023-03-31 txn "--CASH-- bought 1 items for €1.00"
+  timestamp: "2023-03-31 23:22:49.622721"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SNACK
+  Assets:Cash:Bar           1 SNACK
+  Assets:Cash:Bar        1.00 EUR  
+  Income:Bar            -1.00 EUR  
+
