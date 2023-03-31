@@ -202,3 +202,15 @@
   Liabilities:Bar:Members:Merlijn   8.00 EUR   
   Income:Bar                       -8.00 EUR   
 
+2023-03-31 txn "--CASH-- bought 3 items for €11.00"
+  timestamp: "2023-03-31 19:20:18.225722"
+  type: "purchase"
+  Assets:Inventory:Bar      -1 GERMAN  
+  Assets:Cash:Bar            1 GERMAN  
+  Assets:Inventory:Bar      -1 KOMBUCHA
+  Assets:Cash:Bar            1 KOMBUCHA
+  Assets:Inventory:Bar      -1 CM      
+  Assets:Cash:Bar            1 CM      
+  Assets:Cash:Bar        11.00 EUR     
+  Income:Bar            -11.00 EUR     
+
