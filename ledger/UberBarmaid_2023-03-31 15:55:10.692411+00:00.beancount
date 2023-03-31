@@ -1,0 +1,10 @@
+2023-03-31 txn "Thijs bought 3 items for €9.00"
+  timestamp: "2023-03-31 15:55:10.688880"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 BEER
+  Liabilities:Bar:Members:Thijs      2 BEER
+  Assets:Inventory:Bar              -1 CM  
+  Liabilities:Bar:Members:Thijs      1 CM  
+  Liabilities:Bar:Members:Thijs   9.00 EUR 
+  Income:Bar                     -9.00 EUR 
+
