@@ -394,3 +394,13 @@
   Liabilities:Bar:Members:Thijs   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2023-03-31 txn "--CASH-- bought 2 items for €8.50"
+  timestamp: "2023-03-31 20:10:39.636086"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 BEER    
+  Assets:Cash:Bar           1 BEER    
+  Assets:Inventory:Bar     -1 COCKTAIL
+  Assets:Cash:Bar           1 COCKTAIL
+  Assets:Cash:Bar        8.50 EUR     
+  Income:Bar            -8.50 EUR     
+
