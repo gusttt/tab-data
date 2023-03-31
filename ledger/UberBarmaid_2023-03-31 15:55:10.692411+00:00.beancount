@@ -654,3 +654,13 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR  
   Income:Bar                      -1.00 EUR  
 
+2023-03-31 txn "--CASH-- bought 3 items for €14.50"
+  timestamp: "2023-03-31 21:31:25.541671"
+  type: "purchase"
+  Assets:Inventory:Bar      -1 BEER    
+  Assets:Cash:Bar            1 BEER    
+  Assets:Inventory:Bar      -2 COCKTAIL
+  Assets:Cash:Bar            2 COCKTAIL
+  Assets:Cash:Bar        14.50 EUR     
+  Income:Bar            -14.50 EUR     
+
