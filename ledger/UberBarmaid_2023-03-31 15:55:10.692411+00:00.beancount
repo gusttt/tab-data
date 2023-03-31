@@ -80,3 +80,11 @@
   Liabilities:Bar:Members:Elvis   11.90 EUR
   Liabilities:Bar:Members:Bart   -11.90 EUR
 
+2023-03-31 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2023-03-31 18:23:44.941858"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 WINE
+  Assets:Cash:Bar           1 WINE
+  Assets:Cash:Bar        3.00 EUR 
+  Income:Bar            -3.00 EUR 
+
