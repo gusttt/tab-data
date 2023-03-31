@@ -620,3 +620,11 @@
   Assets:Cash:Bar        12.50 EUR     
   Income:Bar            -12.50 EUR     
 
+2023-03-31 txn "--CASH-- bought 2 items for €6.28"
+  timestamp: "2023-03-31 21:04:58.992061"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 CARA
+  Assets:Cash:Bar           2 CARA
+  Assets:Cash:Bar        6.28 EUR 
+  Income:Bar            -6.28 EUR 
+
