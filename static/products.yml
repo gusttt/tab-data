@@ -52,6 +52,12 @@
   currency: CIDER
   category: alcohol
   visible: True
+- name: Cocktail
+  price: 4.00
+  event_price: 6.00
+  currency: COCKTAIL
+  category: alcohol
+  visible: True
 
 # Snacks etc:
 - name: Snack Bar
