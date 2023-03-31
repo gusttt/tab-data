@@ -246,10 +246,10 @@
   visible: False
 - name: Wine
   price: 1.50
-  event_price: 2.00
+  event_price: 3.00
   currency: WINE
   category: alcohol
-  visible: False
+  visible: True
 - name: Kriek
   price: 1.50
   event_price: 2.50
