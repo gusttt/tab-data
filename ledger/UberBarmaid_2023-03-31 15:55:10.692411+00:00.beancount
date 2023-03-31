@@ -742,3 +742,9 @@
   Liabilities:Bar:Members:Betz   11.00 EUR     
   Income:Bar                    -11.00 EUR     
 
+2023-03-31 txn "Betz deposited €1.00"
+  timestamp: "2023-03-31 21:50:52.996340"
+  type: "deposit"
+  Liabilities:Bar:Members:Betz  -1.00 EUR
+  Assets:Cash:Bar                1.00 EUR
+
