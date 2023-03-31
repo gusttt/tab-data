@@ -506,3 +506,11 @@
   Liabilities:Bar:Members:B0Hr   5.64 EUR 
   Income:Bar                    -5.64 EUR 
 
+2023-03-31 txn "B0Hr bought 1 items for €3.50"
+  timestamp: "2023-03-31 20:40:33.090101"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:B0Hr      1 GERMAN
+  Liabilities:Bar:Members:B0Hr   3.50 EUR   
+  Income:Bar                    -3.50 EUR   
+
