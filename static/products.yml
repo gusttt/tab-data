@@ -42,7 +42,7 @@
   visible: True
 - name: Fancy Beer
   price: 2.50
-  event_price: 3.50
+  event_price: 4.00
   currency: DUVEL
   category: alcohol
   visible: True
