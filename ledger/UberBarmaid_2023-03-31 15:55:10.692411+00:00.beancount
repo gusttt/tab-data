@@ -46,3 +46,9 @@
   Liabilities:Bar:Members:Kuro   1.00 EUR  
   Income:Bar                    -1.00 EUR  
 
+2023-03-31 txn "Thijs deposited €5.00"
+  timestamp: "2023-03-31 17:04:37.342769"
+  type: "deposit"
+  Liabilities:Bar:Members:Thijs  -5.00 EUR
+  Assets:Cash:Bar                 5.00 EUR
+
