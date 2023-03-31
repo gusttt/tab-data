@@ -638,3 +638,11 @@
   Liabilities:Bar:Members:DJefke   4.50 EUR   
   Income:Bar                      -4.50 EUR   
 
+2023-03-31 txn "Anton​Alstublieft bought 1 items for €1.00"
+  timestamp: "2023-03-31 21:23:29.550190"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 WATER
+  Liabilities:Bar:Members:AntonAlstublieft      1 WATER
+  Liabilities:Bar:Members:AntonAlstublieft   1.00 EUR  
+  Income:Bar                                -1.00 EUR  
+
