@@ -760,3 +760,11 @@
   Assets:Cash:Bar        16.00 EUR     
   Income:Bar            -16.00 EUR     
 
+2023-03-31 txn "Koen bought 1 items for €3.14"
+  timestamp: "2023-03-31 22:04:16.694839"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CARA
+  Liabilities:Bar:Members:Koen      1 CARA
+  Liabilities:Bar:Members:Koen   3.14 EUR 
+  Income:Bar                    -3.14 EUR 
+
