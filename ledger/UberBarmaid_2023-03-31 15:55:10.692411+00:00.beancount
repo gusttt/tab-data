@@ -428,3 +428,11 @@
   Assets:Cash:Bar        3.00 EUR 
   Income:Bar            -3.00 EUR 
 
+2023-03-31 txn "qwaxys bought 2 items for €12.00"
+  timestamp: "2023-03-31 20:22:11.321202"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 COCKTAIL
+  Liabilities:Bar:Members:Bart       2 COCKTAIL
+  Liabilities:Bar:Members:Bart   12.00 EUR     
+  Income:Bar                    -12.00 EUR     
+
