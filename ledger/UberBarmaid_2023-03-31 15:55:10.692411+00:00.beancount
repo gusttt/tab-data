@@ -748,3 +748,15 @@
   Liabilities:Bar:Members:Betz  -1.00 EUR
   Assets:Cash:Bar                1.00 EUR
 
+2023-03-31 txn "--CASH-- bought 4 items for €16.00"
+  timestamp: "2023-03-31 22:03:21.666157"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 COCKTAIL
+  Assets:Cash:Bar            2 COCKTAIL
+  Assets:Inventory:Bar      -1 SODA    
+  Assets:Cash:Bar            1 SODA    
+  Assets:Inventory:Bar      -1 CHIP    
+  Assets:Cash:Bar            1 CHIP    
+  Assets:Cash:Bar        16.00 EUR     
+  Income:Bar            -16.00 EUR     
+
