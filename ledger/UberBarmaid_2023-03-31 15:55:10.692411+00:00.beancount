@@ -814,3 +814,11 @@
   Assets:Cash:Bar        15.00 EUR 
   Income:Bar            -15.00 EUR 
 
+2023-03-31 txn "DJefke bought 1 items for €1.50"
+  timestamp: "2023-03-31 22:16:54.507264"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:DJefke      1 CHIP
+  Liabilities:Bar:Members:DJefke   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
