@@ -466,3 +466,13 @@
   Assets:Cash:Bar                6.00 EUR
   Liabilities:Bar:Members:Betz  -6.00 EUR
 
+2023-03-31 txn "--CASH-- bought 2 items for €9.50"
+  timestamp: "2023-03-31 20:35:31.595025"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 COCKTAIL
+  Assets:Cash:Bar           1 COCKTAIL
+  Assets:Inventory:Bar     -1 GERMAN  
+  Assets:Cash:Bar           1 GERMAN  
+  Assets:Cash:Bar        9.50 EUR     
+  Income:Bar            -9.50 EUR     
+
