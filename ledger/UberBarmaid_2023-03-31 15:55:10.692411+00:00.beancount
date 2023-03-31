@@ -192,3 +192,13 @@
   Assets:Cash:Bar        7.50 EUR   
   Income:Bar            -7.50 EUR   
 
+2023-03-31 txn "Merlijn bought 3 items for €8.00"
+  timestamp: "2023-03-31 19:05:27.465352"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 GERMAN
+  Liabilities:Bar:Members:Merlijn      2 GERMAN
+  Assets:Inventory:Bar                -1 SNACK 
+  Liabilities:Bar:Members:Merlijn      1 SNACK 
+  Liabilities:Bar:Members:Merlijn   8.00 EUR   
+  Income:Bar                       -8.00 EUR   
+
