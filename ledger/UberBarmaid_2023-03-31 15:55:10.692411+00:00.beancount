@@ -1448,3 +1448,13 @@
   Liabilities:Bar:Members:Yvan   1.00 EUR  
   Income:Bar                    -1.00 EUR  
 
+2023-04-01 txn "Shmitty bought 2 items for €4.50"
+  timestamp: "2023-04-01 13:39:05.418919"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Shmitty      1 GERMAN
+  Assets:Inventory:Bar                -1 SNACK 
+  Liabilities:Bar:Members:Shmitty      1 SNACK 
+  Liabilities:Bar:Members:Shmitty   4.50 EUR   
+  Income:Bar                       -4.50 EUR   
+
