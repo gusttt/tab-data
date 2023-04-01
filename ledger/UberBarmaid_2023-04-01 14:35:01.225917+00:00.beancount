@@ -146,3 +146,11 @@
   Liabilities:Bar:Members:HansA   5.50 EUR 
   Income:Bar                     -5.50 EUR 
 
+2023-04-01 txn "Merlijn bought 1 items for €4.00"
+  timestamp: "2023-04-01 15:09:08.140850"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 CM 
+  Liabilities:Bar:Members:Merlijn      1 CM 
+  Liabilities:Bar:Members:Merlijn   4.00 EUR
+  Income:Bar                       -4.00 EUR
+
