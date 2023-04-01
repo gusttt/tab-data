@@ -1024,3 +1024,11 @@
   Liabilities:Bar:Members:Bloemist   12.00 EUR     
   Income:Bar                        -12.00 EUR     
 
+2023-04-01 txn "Kuro bought 1 items for €1.50"
+  timestamp: "2023-04-01 00:20:49.064782"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Kuro      1 CHIP
+  Liabilities:Bar:Members:Kuro   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
