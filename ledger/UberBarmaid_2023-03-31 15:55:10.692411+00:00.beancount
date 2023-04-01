@@ -1016,3 +1016,11 @@
   Liabilities:Bar:Members:Kuro   6.00 EUR     
   Income:Bar                    -6.00 EUR     
 
+2023-04-01 txn "Bloemist bought 2 items for €12.00"
+  timestamp: "2023-04-01 00:10:32.151217"
+  type: "purchase"
+  Assets:Inventory:Bar                  -2 COCKTAIL
+  Liabilities:Bar:Members:Bloemist       2 COCKTAIL
+  Liabilities:Bar:Members:Bloemist   12.00 EUR     
+  Income:Bar                        -12.00 EUR     
+
