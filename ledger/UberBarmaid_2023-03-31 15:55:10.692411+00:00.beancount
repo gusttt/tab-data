@@ -1351,3 +1351,15 @@
   Assets:Cash:Bar        2.00 EUR    
   Income:Bar            -2.00 EUR    
 
+2023-04-01 txn "--CASH-- bought 3 items for €8.50"
+  timestamp: "2023-04-01 13:07:32.176437"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD200
+  Assets:Cash:Bar           1 FOOD200
+  Assets:Inventory:Bar     -1 SODA   
+  Assets:Cash:Bar           1 SODA   
+  Assets:Inventory:Bar     -1 CM     
+  Assets:Cash:Bar           1 CM     
+  Assets:Cash:Bar        8.50 EUR    
+  Income:Bar            -8.50 EUR    
+
