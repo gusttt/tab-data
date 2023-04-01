@@ -295,13 +295,13 @@
   event_price: 5.00
   currency: FOOD
   category: food
-  visible: False
+  visible: True
 - name: FOOD 2.5
   price: 2.50
   event_price: 3.75
   currency: FOOD2.5
   category: food
-  visible: False
+  visible: True
 - name: Snickers
   price: 0.60
   event_price: 0.90
