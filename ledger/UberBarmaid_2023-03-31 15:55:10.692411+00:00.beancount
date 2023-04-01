@@ -1319,3 +1319,11 @@
   Liabilities:Bar:Members:Betz  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2023-04-01 txn "Merlijn bought 1 items for €2.50"
+  timestamp: "2023-04-01 12:59:39.360416"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Merlijn      1 SODA
+  Liabilities:Bar:Members:Merlijn   2.50 EUR 
+  Income:Bar                       -2.50 EUR 
+
