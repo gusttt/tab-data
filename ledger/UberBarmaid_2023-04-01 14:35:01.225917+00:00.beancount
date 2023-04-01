@@ -248,3 +248,11 @@
   Assets:Cash:Bar        8.00 EUR
   Income:Bar            -8.00 EUR
 
+2023-04-01 txn "HansA bought 2 items for €4.00"
+  timestamp: "2023-04-01 15:57:46.501088"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 FOOD200
+  Liabilities:Bar:Members:HansA      2 FOOD200
+  Liabilities:Bar:Members:HansA   4.00 EUR    
+  Income:Bar                     -4.00 EUR    
+
