@@ -1032,3 +1032,13 @@
   Liabilities:Bar:Members:Kuro   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-04-01 txn "DJefke bought 2 items for €4.50"
+  timestamp: "2023-04-01 00:22:21.826043"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:DJefke      1 GERMAN
+  Assets:Inventory:Bar               -1 SNACK 
+  Liabilities:Bar:Members:DJefke      1 SNACK 
+  Liabilities:Bar:Members:DJefke   4.50 EUR   
+  Income:Bar                      -4.50 EUR   
+
