@@ -240,3 +240,11 @@
   Assets:Cash:Bar        16.00 EUR     
   Income:Bar            -16.00 EUR     
 
+2023-04-01 txn "--CASH-- bought 2 items for €8.00"
+  timestamp: "2023-04-01 15:57:38.638489"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 CM 
+  Assets:Cash:Bar           2 CM 
+  Assets:Cash:Bar        8.00 EUR
+  Income:Bar            -8.00 EUR
+
