@@ -82,3 +82,11 @@
   Assets:Cash:Bar        8.50 EUR     
   Income:Bar            -8.50 EUR     
 
+2023-04-01 txn "Kuro bought 1 items for €1.00"
+  timestamp: "2023-04-01 20:13:07.292924"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Kuro      1 SNACK
+  Liabilities:Bar:Members:Kuro   1.00 EUR  
+  Income:Bar                    -1.00 EUR  
+
