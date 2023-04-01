@@ -242,3 +242,11 @@
   Assets:Cash:Bar        9.00 EUR 
   Income:Bar            -9.00 EUR 
 
+2023-04-01 txn "Koen bought 1 items for €6.00"
+  timestamp: "2023-04-01 17:21:51.735914"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD
+  Liabilities:Bar:Members:Koen      1 FOOD
+  Liabilities:Bar:Members:Koen   6.00 EUR 
+  Income:Bar                    -6.00 EUR 
+
