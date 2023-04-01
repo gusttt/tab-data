@@ -216,3 +216,11 @@
   Liabilities:Bar:Members:Thequux   6.00 EUR 
   Income:Bar                       -6.00 EUR 
 
+2023-04-01 txn "On8wr bought 1 items for €6.00"
+  timestamp: "2023-04-01 17:20:01.401020"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD
+  Liabilities:Bar:Members:On8wr      1 FOOD
+  Liabilities:Bar:Members:On8wr   6.00 EUR 
+  Income:Bar                     -6.00 EUR 
+
