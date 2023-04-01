@@ -1414,3 +1414,13 @@
   Liabilities:Bar:Members:Marquis  -1.00 EUR      
   Income:Bar                       -4.50 EUR      
 
+2023-04-01 txn "Kuro bought 2 items for €5.00"
+  timestamp: "2023-04-01 13:34:59.408668"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Kuro      1 CM   
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Kuro      1 SNACK
+  Liabilities:Bar:Members:Kuro   5.00 EUR  
+  Income:Bar                    -5.00 EUR  
+
