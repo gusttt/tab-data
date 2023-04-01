@@ -72,3 +72,13 @@
   Liabilities:Bar:Members:Betz   6.50 EUR 
   Income:Bar                    -6.50 EUR 
 
+2023-04-01 txn "Thijs bought 2 items for €5.50"
+  timestamp: "2023-04-01 14:49:15.537798"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD200
+  Liabilities:Bar:Members:Thijs      1 FOOD200
+  Assets:Inventory:Bar              -1 GERMAN 
+  Liabilities:Bar:Members:Thijs      1 GERMAN 
+  Liabilities:Bar:Members:Thijs   5.50 EUR    
+  Income:Bar                     -5.50 EUR    
+
