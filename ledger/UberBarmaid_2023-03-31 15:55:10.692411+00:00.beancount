@@ -1163,3 +1163,13 @@
   Liabilities:Bar:Members:Yvan   5.50 EUR    
   Income:Bar                    -5.50 EUR    
 
+2023-04-01 txn "--CASH-- bought 2 items for €5.50"
+  timestamp: "2023-04-01 12:08:14.902878"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+  Assets:Inventory:Bar     -1 WINE
+  Assets:Cash:Bar           1 WINE
+  Assets:Cash:Bar        5.50 EUR 
+  Income:Bar            -5.50 EUR 
+
