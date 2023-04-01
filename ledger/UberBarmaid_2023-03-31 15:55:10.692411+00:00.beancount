@@ -1052,3 +1052,11 @@
   Liabilities:Bar:Members:Bertrand   6.00 EUR   
   Income:Bar                        -6.00 EUR   
 
+2023-04-01 txn "Kuro bought 1 items for €2.50"
+  timestamp: "2023-04-01 10:00:39.735675"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Kuro      1 SODA
+  Liabilities:Bar:Members:Kuro   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
