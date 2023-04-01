@@ -282,7 +282,7 @@
   event_price: 2.00
   currency: FOOD200
   category: food
-  visible: True
+  visible: False
 - name: Croque
   price: 1.5
   event_price: 2.00
@@ -297,7 +297,7 @@
   visible: False
 - name: Food
   price: 3.50
-  event_price: 5.00
+  event_price: 6.00
   currency: FOOD
   category: food
   visible: True
