@@ -56,3 +56,11 @@
   Liabilities:Bar:Members:Merlijn   3.50 EUR     
   Income:Bar                       -3.50 EUR     
 
+2023-04-01 txn "Wouter bought 1 items for €2.50"
+  timestamp: "2023-04-01 19:56:35.429564"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   2.50 EUR 
+  Income:Bar                      -2.50 EUR 
+
