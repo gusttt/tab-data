@@ -1223,3 +1223,11 @@
   Liabilities:Bar:Members:Miker   4.00 EUR
   Income:Bar                     -4.00 EUR
 
+2023-04-01 txn "Ljaytee bought 2 items for €4.00"
+  timestamp: "2023-04-01 12:28:54.534281"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 FOOD200
+  Liabilities:Bar:Members:Ljaytee      2 FOOD200
+  Liabilities:Bar:Members:Ljaytee   4.00 EUR    
+  Income:Bar                       -4.00 EUR    
+
