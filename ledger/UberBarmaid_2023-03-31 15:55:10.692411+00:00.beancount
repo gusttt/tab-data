@@ -1458,3 +1458,11 @@
   Liabilities:Bar:Members:Shmitty   4.50 EUR   
   Income:Bar                       -4.50 EUR   
 
+2023-04-01 txn "On8wr bought 1 items for €4.00"
+  timestamp: "2023-04-01 13:39:55.226140"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Liabilities:Bar:Members:On8wr   4.00 EUR
+  Income:Bar                     -4.00 EUR
+
