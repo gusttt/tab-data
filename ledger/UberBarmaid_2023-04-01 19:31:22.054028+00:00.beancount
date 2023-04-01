@@ -106,3 +106,11 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2023-04-01 txn "qwaxys bought 1 items for €4.00"
+  timestamp: "2023-04-01 20:14:37.914049"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 DUVEL
+  Liabilities:Bar:Members:Bart      1 DUVEL
+  Liabilities:Bar:Members:Bart   4.00 EUR  
+  Income:Bar                    -4.00 EUR  
+
