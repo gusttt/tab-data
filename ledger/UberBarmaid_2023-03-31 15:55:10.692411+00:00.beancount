@@ -1231,3 +1231,11 @@
   Liabilities:Bar:Members:Ljaytee   4.00 EUR    
   Income:Bar                       -4.00 EUR    
 
+2023-04-01 txn "--CASH-- bought 2 items for €7.00"
+  timestamp: "2023-04-01 12:29:37.140826"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 GERMAN
+  Assets:Cash:Bar           2 GERMAN
+  Assets:Cash:Bar        7.00 EUR   
+  Income:Bar            -7.00 EUR   
+
