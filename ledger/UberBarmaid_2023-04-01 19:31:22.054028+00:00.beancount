@@ -40,3 +40,11 @@
   Liabilities:Bar:Members:On8wr   7.50 EUR     
   Income:Bar                     -7.50 EUR     
 
+2023-04-01 txn "Els bought 1 items for €1.00"
+  timestamp: "2023-04-01 19:54:25.062464"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SNACK
+  Liabilities:Bar:Members:Els      1 SNACK
+  Liabilities:Bar:Members:Els   1.00 EUR  
+  Income:Bar                   -1.00 EUR  
+
