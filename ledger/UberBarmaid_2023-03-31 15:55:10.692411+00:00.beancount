@@ -1185,3 +1185,9 @@
   Liabilities:Bar:Members:Els  -42.00 EUR
   Assets:Cash:Bar               42.00 EUR
 
+2023-04-01 txn "Shmitty deposited €10.00"
+  timestamp: "2023-04-01 12:15:41.774536"
+  type: "deposit"
+  Liabilities:Bar:Members:Shmitty  -10.00 EUR
+  Assets:Cash:Bar                   10.00 EUR
+
