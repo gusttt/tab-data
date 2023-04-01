@@ -138,3 +138,13 @@
   Liabilities:Bar:Members:Kuro   5.00 EUR   
   Income:Bar                    -5.00 EUR   
 
+2023-04-01 txn "--CASH-- bought 3 items for €9.50"
+  timestamp: "2023-04-01 17:00:12.618363"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CHIP
+  Assets:Cash:Bar           1 CHIP
+  Assets:Inventory:Bar     -2 CM  
+  Assets:Cash:Bar           2 CM  
+  Assets:Cash:Bar        9.50 EUR 
+  Income:Bar            -9.50 EUR 
+
