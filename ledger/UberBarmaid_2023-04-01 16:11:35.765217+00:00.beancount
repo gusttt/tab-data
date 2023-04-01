@@ -128,3 +128,13 @@
   Liabilities:Bar:Members:On8wr   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-04-01 txn "Kuro bought 2 items for €5.00"
+  timestamp: "2023-04-01 16:58:29.654254"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Kuro      1 GERMAN
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Kuro      1 CHIP  
+  Liabilities:Bar:Members:Kuro   5.00 EUR   
+  Income:Bar                    -5.00 EUR   
+
