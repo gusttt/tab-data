@@ -1403,3 +1403,14 @@
   Liabilities:Bar:Members:Bloemist   1.00 EUR  
   Income:Bar                        -1.00 EUR  
 
+2023-04-01 txn "--CASH-- bought 3 items for €5.50"
+  timestamp: "2023-04-01 13:33:19.685466"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 WRISTBAND
+  Assets:Cash:Bar                      2 WRISTBAND
+  Assets:Inventory:Bar                -1 SODA     
+  Assets:Cash:Bar                      1 SODA     
+  Assets:Cash:Bar                   5.50 EUR      
+  Liabilities:Bar:Members:Marquis  -1.00 EUR      
+  Income:Bar                       -4.50 EUR      
+
