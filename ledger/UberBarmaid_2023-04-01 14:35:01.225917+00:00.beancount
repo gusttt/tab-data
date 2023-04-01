@@ -172,3 +172,17 @@
   Liabilities:Bar:Members:Els   2.50 EUR 
   Income:Bar                   -2.50 EUR 
 
+2023-04-01 txn "--CASH-- bought 5 items for €15.50"
+  timestamp: "2023-04-01 15:28:13.762054"
+  type: "purchase"
+  Assets:Inventory:Bar      -2 GERMAN
+  Assets:Cash:Bar            2 GERMAN
+  Assets:Inventory:Bar      -1 WINE  
+  Assets:Cash:Bar            1 WINE  
+  Assets:Inventory:Bar      -1 CM    
+  Assets:Cash:Bar            1 CM    
+  Assets:Inventory:Bar      -1 CHIP  
+  Assets:Cash:Bar            1 CHIP  
+  Assets:Cash:Bar        15.50 EUR   
+  Income:Bar            -15.50 EUR   
+
