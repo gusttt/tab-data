@@ -154,3 +154,13 @@
   Liabilities:Bar:Members:Merlijn   4.00 EUR
   Income:Bar                       -4.00 EUR
 
+2023-04-01 txn "Miker bought 2 items for €7.50"
+  timestamp: "2023-04-01 15:15:59.635019"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KOMBUCHA
+  Liabilities:Bar:Members:Miker      1 KOMBUCHA
+  Assets:Inventory:Bar              -1 DUVEL   
+  Liabilities:Bar:Members:Miker      1 DUVEL   
+  Liabilities:Bar:Members:Miker   7.50 EUR     
+  Income:Bar                     -7.50 EUR     
+
