@@ -30,3 +30,13 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-04-01 txn "On8wr bought 2 items for €7.50"
+  timestamp: "2023-04-01 19:48:57.322945"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL   
+  Liabilities:Bar:Members:On8wr      1 DUVEL   
+  Assets:Inventory:Bar              -1 KOMBUCHA
+  Liabilities:Bar:Members:On8wr      1 KOMBUCHA
+  Liabilities:Bar:Members:On8wr   7.50 EUR     
+  Income:Bar                     -7.50 EUR     
+
