@@ -112,3 +112,11 @@
   Assets:Cash:Bar        8.00 EUR  
   Income:Bar            -8.00 EUR  
 
+2023-04-01 txn "--CASH-- bought 1 items for €3.50"
+  timestamp: "2023-04-01 16:52:13.149745"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 GERMAN
+  Assets:Cash:Bar           1 GERMAN
+  Assets:Cash:Bar        3.50 EUR   
+  Income:Bar            -3.50 EUR   
+
