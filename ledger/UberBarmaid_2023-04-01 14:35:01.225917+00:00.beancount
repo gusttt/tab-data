@@ -62,3 +62,13 @@
   Assets:Cash:Bar        3.50 EUR   
   Income:Bar            -3.50 EUR   
 
+2023-04-01 txn "Betz bought 2 items for €6.50"
+  timestamp: "2023-04-01 14:48:22.546788"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Betz      1 SODA
+  Assets:Inventory:Bar             -1 CM  
+  Liabilities:Bar:Members:Betz      1 CM  
+  Liabilities:Bar:Members:Betz   6.50 EUR 
+  Income:Bar                    -6.50 EUR 
+
