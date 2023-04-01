@@ -1191,3 +1191,11 @@
   Liabilities:Bar:Members:Shmitty  -10.00 EUR
   Assets:Cash:Bar                   10.00 EUR
 
+2023-04-01 txn "Shmitty bought 1 items for €3.50"
+  timestamp: "2023-04-01 12:16:44.436133"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Shmitty      1 GERMAN
+  Liabilities:Bar:Members:Shmitty   3.50 EUR   
+  Income:Bar                       -3.50 EUR   
+
