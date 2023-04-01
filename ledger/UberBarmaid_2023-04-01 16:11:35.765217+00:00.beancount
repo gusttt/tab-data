@@ -570,3 +570,11 @@
   Liabilities:Bar:Members:Merlijn   3.50 EUR   
   Income:Bar                       -3.50 EUR   
 
+2023-04-01 txn "TQ bought 1 items for €4.00"
+  timestamp: "2023-04-01 18:30:36.221791"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 DUVEL
+  Liabilities:Bar:Members:Thequux      1 DUVEL
+  Liabilities:Bar:Members:Thequux   4.00 EUR  
+  Income:Bar                       -4.00 EUR  
+
