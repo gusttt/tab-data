@@ -292,3 +292,11 @@
   Liabilities:Bar:Members:Bart   3.50 EUR   
   Income:Bar                    -3.50 EUR   
 
+2023-04-01 txn "Betz bought 2 items for €7.00"
+  timestamp: "2023-04-01 17:28:16.395595"
+  type: "purchase"
+  Assets:Inventory:Bar             -2 GERMAN
+  Liabilities:Bar:Members:Betz      2 GERMAN
+  Liabilities:Bar:Members:Betz   7.00 EUR   
+  Income:Bar                    -7.00 EUR   
+
