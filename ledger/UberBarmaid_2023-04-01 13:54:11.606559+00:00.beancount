@@ -1,0 +1,8 @@
+2023-04-01 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2023-04-01 13:54:11.603204"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD200
+  Assets:Cash:Bar           1 FOOD200
+  Assets:Cash:Bar        2.00 EUR    
+  Income:Bar            -2.00 EUR    
+
