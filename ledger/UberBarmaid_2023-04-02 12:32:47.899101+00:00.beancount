@@ -140,3 +140,11 @@
   Liabilities:Bar:Members:Bloemist   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2023-04-02 txn "On8wr bought 1 items for €4.00"
+  timestamp: "2023-04-02 14:40:54.194600"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:On8wr      1 CM 
+  Liabilities:Bar:Members:On8wr   4.00 EUR
+  Income:Bar                     -4.00 EUR
+
