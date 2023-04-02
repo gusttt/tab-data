@@ -6,3 +6,11 @@
   Assets:Cash:Bar        6.00 EUR 
   Income:Bar            -6.00 EUR 
 
+2023-04-02 txn "Fearless bought 1 items for €3.50"
+  timestamp: "2023-04-02 11:14:54.815423"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Fearless      1 GERMAN
+  Liabilities:Bar:Members:Fearless   3.50 EUR   
+  Income:Bar                        -3.50 EUR   
+
