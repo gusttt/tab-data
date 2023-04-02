@@ -22,3 +22,9 @@
   Assets:Cash:Bar        4.00 EUR
   Income:Bar            -4.00 EUR
 
+2023-04-02 txn "Sander deposited €35.00"
+  timestamp: "2023-04-02 12:50:09.322754"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -35.00 EUR
+  Assets:Cash:Bar                  35.00 EUR
+
