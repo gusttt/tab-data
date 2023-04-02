@@ -148,3 +148,11 @@
   Liabilities:Bar:Members:On8wr   4.00 EUR
   Income:Bar                     -4.00 EUR
 
+2023-04-02 txn "qwaxys bought 1 items for €2.50"
+  timestamp: "2023-04-02 14:43:53.158987"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Bart      1 SODA
+  Liabilities:Bar:Members:Bart   2.50 EUR 
+  Income:Bar                    -2.50 EUR 
+
