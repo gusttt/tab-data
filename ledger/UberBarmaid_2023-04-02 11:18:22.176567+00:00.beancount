@@ -62,3 +62,11 @@
   Liabilities:Bar:Members:Wouter   3.50 EUR   
   Income:Bar                      -3.50 EUR   
 
+2023-04-02 txn "Bertrand bought 1 items for €3.50"
+  timestamp: "2023-04-02 11:51:54.659431"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Bertrand      1 GERMAN
+  Liabilities:Bar:Members:Bertrand   3.50 EUR   
+  Income:Bar                        -3.50 EUR   
+
