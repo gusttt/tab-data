@@ -66,3 +66,15 @@
   Liabilities:Bar:Members:Bertrand   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2023-04-02 txn "Thijs bought 4 items for €9.10"
+  timestamp: "2023-04-02 18:01:14.965788"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Thijs      1 GERMAN
+  Assets:Inventory:Bar              -2 CM    
+  Liabilities:Bar:Members:Thijs      2 CM    
+  Assets:Inventory:Bar              -1 SNACK 
+  Liabilities:Bar:Members:Thijs      1 SNACK 
+  Liabilities:Bar:Members:Thijs   9.10 EUR   
+  Income:Bar                     -9.10 EUR   
+
