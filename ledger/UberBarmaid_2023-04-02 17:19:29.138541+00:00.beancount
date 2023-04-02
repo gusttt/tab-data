@@ -40,3 +40,11 @@
   Liabilities:Bar:Members:Thijs   3.50 EUR     
   Income:Bar                     -3.50 EUR     
 
+2023-04-02 txn "Wouter bought 1 items for €4.00"
+  timestamp: "2023-04-02 17:46:09.038485"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Wouter      1 DUVEL
+  Liabilities:Bar:Members:Wouter   4.00 EUR  
+  Income:Bar                      -4.00 EUR  
+
