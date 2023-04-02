@@ -52,3 +52,13 @@
   Assets:Cash:Bar        2.50 EUR 
   Income:Bar            -2.50 EUR 
 
+2023-04-02 txn "Carro​armato0 bought 2 items for €4.50"
+  timestamp: "2023-04-02 13:00:11.802691"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 GERMAN
+  Liabilities:Bar:Members:Carroarmato0      1 GERMAN
+  Assets:Inventory:Bar                     -1 SNACK 
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK 
+  Liabilities:Bar:Members:Carroarmato0   4.50 EUR   
+  Income:Bar                            -4.50 EUR   
+
