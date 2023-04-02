@@ -118,3 +118,11 @@
   Liabilities:Bar:Members:Merlijn  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2023-04-02 txn "Bertrand bought 1 items for €2.50"
+  timestamp: "2023-04-02 18:40:19.870357"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Bertrand      1 GERMAN
+  Liabilities:Bar:Members:Bertrand   2.50 EUR   
+  Income:Bar                        -2.50 EUR   
+
