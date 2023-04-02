@@ -58,3 +58,11 @@
   Liabilities:Bar:Members:DJefke   5.00 EUR   
   Income:Bar                      -5.00 EUR   
 
+2023-04-02 txn "Bertrand bought 1 items for €0.60"
+  timestamp: "2023-04-02 18:00:50.114893"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 SNACK
+  Liabilities:Bar:Members:Bertrand      1 SNACK
+  Liabilities:Bar:Members:Bertrand   0.60 EUR  
+  Income:Bar                        -0.60 EUR  
+
