@@ -142,3 +142,11 @@
   Liabilities:Bar:Members:Elvis   1.20 EUR  
   Income:Bar                     -1.20 EUR  
 
+2023-04-02 txn "On8wr bought 2 items for €5.00"
+  timestamp: "2023-04-02 19:03:47.207839"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 DUVEL
+  Liabilities:Bar:Members:On8wr      2 DUVEL
+  Liabilities:Bar:Members:On8wr   5.00 EUR  
+  Income:Bar                     -5.00 EUR  
+
