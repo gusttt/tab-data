@@ -70,3 +70,11 @@
   Liabilities:Bar:Members:Bertrand   3.50 EUR   
   Income:Bar                        -3.50 EUR   
 
+2023-04-02 txn "--CASH-- bought 2 items for €7.00"
+  timestamp: "2023-04-02 11:52:46.444858"
+  type: "purchase"
+  Assets:Inventory:Bar     -2 GERMAN
+  Assets:Cash:Bar           2 GERMAN
+  Assets:Cash:Bar        7.00 EUR   
+  Income:Bar            -7.00 EUR   
+
