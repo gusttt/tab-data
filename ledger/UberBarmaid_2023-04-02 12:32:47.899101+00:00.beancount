@@ -196,3 +196,13 @@
   Liabilities:Bar:Members:Wouter   4.00 EUR
   Income:Bar                      -4.00 EUR
 
+2023-04-02 txn "Merlijn bought 2 items for €4.50"
+  timestamp: "2023-04-02 15:05:52.732418"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Merlijn      1 GERMAN
+  Assets:Inventory:Bar                -1 SNACK 
+  Liabilities:Bar:Members:Merlijn      1 SNACK 
+  Liabilities:Bar:Members:Merlijn   4.50 EUR   
+  Income:Bar                       -4.50 EUR   
+
