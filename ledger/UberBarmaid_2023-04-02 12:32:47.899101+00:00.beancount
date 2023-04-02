@@ -234,3 +234,9 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR  
   Income:Bar                      -1.00 EUR  
 
+2023-04-02 txn "On8wr deposited €40.00"
+  timestamp: "2023-04-02 15:11:02.322815"
+  type: "deposit"
+  Liabilities:Bar:Members:On8wr  -40.00 EUR
+  Assets:Cash:Bar                 40.00 EUR
+
