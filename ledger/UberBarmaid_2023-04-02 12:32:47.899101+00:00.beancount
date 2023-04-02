@@ -62,3 +62,11 @@
   Liabilities:Bar:Members:Carroarmato0   4.50 EUR   
   Income:Bar                            -4.50 EUR   
 
+2023-04-02 txn "Kuro bought 1 items for €4.00"
+  timestamp: "2023-04-02 13:16:31.957279"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CM 
+  Liabilities:Bar:Members:Kuro      1 CM 
+  Liabilities:Bar:Members:Kuro   4.00 EUR
+  Income:Bar                    -4.00 EUR
+
