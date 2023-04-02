@@ -324,3 +324,9 @@
   Liabilities:Bar:Members:Wouter   4.00 EUR 
   Income:Bar                      -4.00 EUR 
 
+2023-04-02 txn "Wouter deposited €20.00"
+  timestamp: "2023-04-02 10:03:04.713443"
+  type: "deposit"
+  Liabilities:Bar:Members:Wouter  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
