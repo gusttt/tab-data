@@ -116,3 +116,11 @@
   Liabilities:Bar:Members:Sander   15.00 EUR
   Liabilities:Bar:Members:Yvan    -15.00 EUR
 
+2023-04-02 txn "--CASH-- bought 1 items for €4.00"
+  timestamp: "2023-04-02 14:26:09.697311"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CM 
+  Assets:Cash:Bar           1 CM 
+  Assets:Cash:Bar        4.00 EUR
+  Income:Bar            -4.00 EUR
+
