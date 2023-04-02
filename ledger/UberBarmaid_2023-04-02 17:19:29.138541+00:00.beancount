@@ -24,3 +24,11 @@
   Liabilities:Bar:Members:On8wr   3.50 EUR   
   Income:Bar                     -3.50 EUR   
 
+2023-04-02 txn "DJefke bought 1 items for €3.50"
+  timestamp: "2023-04-02 17:34:53.820529"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:DJefke      1 GERMAN
+  Liabilities:Bar:Members:DJefke   3.50 EUR   
+  Income:Bar                      -3.50 EUR   
+
