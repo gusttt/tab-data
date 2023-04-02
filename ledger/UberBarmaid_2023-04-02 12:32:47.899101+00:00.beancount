@@ -124,3 +124,11 @@
   Assets:Cash:Bar        4.00 EUR
   Income:Bar            -4.00 EUR
 
+2023-04-02 txn "On8wr bought 1 items for €6.00"
+  timestamp: "2023-04-02 14:32:16.096379"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD
+  Liabilities:Bar:Members:On8wr      1 FOOD
+  Liabilities:Bar:Members:On8wr   6.00 EUR 
+  Income:Bar                     -6.00 EUR 
+
