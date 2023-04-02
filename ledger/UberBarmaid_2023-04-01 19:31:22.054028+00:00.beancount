@@ -434,3 +434,11 @@
   Liabilities:Bar:Members:Bart   3.50 EUR   
   Income:Bar                    -3.50 EUR   
 
+2023-04-02 txn "Wouter bought 1 items for €1.00"
+  timestamp: "2023-04-02 11:05:24.695648"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 WATER
+  Liabilities:Bar:Members:Wouter      1 WATER
+  Liabilities:Bar:Members:Wouter   1.00 EUR  
+  Income:Bar                      -1.00 EUR  
+
