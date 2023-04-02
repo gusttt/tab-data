@@ -410,3 +410,11 @@
   Liabilities:Bar:Members:Carroarmato0   6.00 EUR 
   Income:Bar                            -6.00 EUR 
 
+2023-04-02 txn "--CASH-- bought 1 items for €6.00"
+  timestamp: "2023-04-02 11:00:54.939309"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 FOOD
+  Assets:Cash:Bar           1 FOOD
+  Assets:Cash:Bar        6.00 EUR 
+  Income:Bar            -6.00 EUR 
+
