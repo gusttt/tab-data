@@ -134,3 +134,11 @@
   Liabilities:Bar:Members:Bloemist   0.60 EUR  
   Income:Bar                        -0.60 EUR  
 
+2023-04-02 txn "Evils bought 2 items for €1.20"
+  timestamp: "2023-04-02 18:40:30.836729"
+  type: "purchase"
+  Assets:Inventory:Bar              -2 SNACK
+  Liabilities:Bar:Members:Elvis      2 SNACK
+  Liabilities:Bar:Members:Elvis   1.20 EUR  
+  Income:Bar                     -1.20 EUR  
+
