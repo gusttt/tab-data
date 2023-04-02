@@ -16,3 +16,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2023-04-02 txn "On8wr bought 1 items for €3.50"
+  timestamp: "2023-04-02 17:23:48.661086"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:On8wr      1 GERMAN
+  Liabilities:Bar:Members:On8wr   3.50 EUR   
+  Income:Bar                     -3.50 EUR   
+
