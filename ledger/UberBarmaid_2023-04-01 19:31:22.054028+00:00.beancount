@@ -352,3 +352,11 @@
   Liabilities:Bar:Members:Kuro  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2023-04-02 txn "Kuro bought 1 items for €6.00"
+  timestamp: "2023-04-02 10:49:51.341134"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD
+  Liabilities:Bar:Members:Kuro      1 FOOD
+  Liabilities:Bar:Members:Kuro   6.00 EUR 
+  Income:Bar                    -6.00 EUR 
+
