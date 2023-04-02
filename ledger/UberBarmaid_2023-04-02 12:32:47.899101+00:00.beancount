@@ -216,3 +216,13 @@
   Liabilities:Bar:Members:Maja   4.50 EUR   
   Income:Bar                    -4.50 EUR   
 
+2023-04-02 txn "Bertrand bought 3 items for €14.00"
+  timestamp: "2023-04-02 15:09:23.153468"
+  type: "purchase"
+  Assets:Inventory:Bar                  -2 DUVEL
+  Liabilities:Bar:Members:Bertrand       2 DUVEL
+  Assets:Inventory:Bar                  -1 FOOD 
+  Liabilities:Bar:Members:Bertrand       1 FOOD 
+  Liabilities:Bar:Members:Bertrand   14.00 EUR  
+  Income:Bar                        -14.00 EUR  
+
