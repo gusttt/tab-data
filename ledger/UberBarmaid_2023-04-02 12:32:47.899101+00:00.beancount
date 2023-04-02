@@ -206,3 +206,13 @@
   Liabilities:Bar:Members:Merlijn   4.50 EUR   
   Income:Bar                       -4.50 EUR   
 
+2023-04-02 txn "Nachtvlinder bought 2 items for €4.50"
+  timestamp: "2023-04-02 15:06:26.318323"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Maja      1 GERMAN
+  Assets:Inventory:Bar             -1 SNACK 
+  Liabilities:Bar:Members:Maja      1 SNACK 
+  Liabilities:Bar:Members:Maja   4.50 EUR   
+  Income:Bar                    -4.50 EUR   
+
