@@ -306,3 +306,11 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR  
   Income:Bar                      -1.00 EUR  
 
+2023-04-02 txn "TQ bought 1 items for €3.50"
+  timestamp: "2023-04-02 09:45:40.109930"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Thequux      1 GERMAN
+  Liabilities:Bar:Members:Thequux   3.50 EUR   
+  Income:Bar                       -3.50 EUR   
+
