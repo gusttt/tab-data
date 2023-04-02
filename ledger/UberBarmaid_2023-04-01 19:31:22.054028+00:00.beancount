@@ -314,3 +314,13 @@
   Liabilities:Bar:Members:Thequux   3.50 EUR   
   Income:Bar                       -3.50 EUR   
 
+2023-04-02 txn "Wouter bought 2 items for €4.00"
+  timestamp: "2023-04-02 10:01:47.169710"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Wouter      1 CHIP
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   4.00 EUR 
+  Income:Bar                      -4.00 EUR 
+
