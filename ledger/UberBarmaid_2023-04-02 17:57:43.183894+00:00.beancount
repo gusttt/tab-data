@@ -96,3 +96,11 @@
   Liabilities:Bar:Members:Mateo   5.60 EUR   
   Income:Bar                     -5.60 EUR   
 
+2023-04-02 txn "Evils bought 1 items for €3.00"
+  timestamp: "2023-04-02 18:07:50.890908"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
