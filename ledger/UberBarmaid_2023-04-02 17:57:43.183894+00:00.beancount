@@ -1,0 +1,10 @@
+2023-04-02 txn "Fearless bought 2 items for €4.50"
+  timestamp: "2023-04-02 17:57:43.180785"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CIDER 
+  Liabilities:Bar:Members:Fearless      1 CIDER 
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Fearless      1 GERMAN
+  Liabilities:Bar:Members:Fearless   4.50 EUR   
+  Income:Bar                        -4.50 EUR   
+
