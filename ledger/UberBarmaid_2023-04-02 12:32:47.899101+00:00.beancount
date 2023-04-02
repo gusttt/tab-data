@@ -78,3 +78,11 @@
   Liabilities:Bar:Members:Fearless   3.50 EUR   
   Income:Bar                        -3.50 EUR   
 
+2023-04-02 txn "Sander bought 1 items for €1.00"
+  timestamp: "2023-04-02 13:19:33.351343"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 WATER
+  Liabilities:Bar:Members:Sander      1 WATER
+  Liabilities:Bar:Members:Sander   1.00 EUR  
+  Income:Bar                      -1.00 EUR  
+
