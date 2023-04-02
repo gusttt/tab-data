@@ -51,7 +51,7 @@
   event_price: 3.00
   currency: CIDER
   category: alcohol
-  visible: False
+  visible: True
 - name: Cocktail
   price: 4.00
   event_price: 6.00
