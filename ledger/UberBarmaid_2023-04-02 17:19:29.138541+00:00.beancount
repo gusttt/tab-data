@@ -1,0 +1,10 @@
+2023-04-02 txn "Kuro bought 2 items for €5.00"
+  timestamp: "2023-04-02 17:19:29.134298"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Kuro      1 SNACK
+  Assets:Inventory:Bar             -1 CM   
+  Liabilities:Bar:Members:Kuro      1 CM   
+  Liabilities:Bar:Members:Kuro   5.00 EUR  
+  Income:Bar                    -5.00 EUR  
+
