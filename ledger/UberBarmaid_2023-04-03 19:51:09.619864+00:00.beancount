@@ -20,3 +20,11 @@
   Liabilities:Bar:Members:Elvis        0.20 EUR
   Liabilities:Bar:Members:3D-printer  -0.20 EUR
 
+2023-04-03 txn "Thijs bought 3 items for €7.50"
+  timestamp: "2023-04-03 19:51:55.838485"
+  type: "purchase"
+  Assets:Inventory:Bar              -3 GERMAN
+  Liabilities:Bar:Members:Thijs      3 GERMAN
+  Liabilities:Bar:Members:Thijs   7.50 EUR   
+  Income:Bar                     -7.50 EUR   
+
