@@ -78,3 +78,9 @@
   Liabilities:Bar:Members:Koen  -40.00 EUR
   Assets:Cash:Bar                40.00 EUR
 
+2023-04-03 txn "Bloemist deposited €75.00"
+  timestamp: "2023-04-03 19:56:01.591858"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -75.00 EUR
+  Assets:Cash:Bar                    75.00 EUR
+
