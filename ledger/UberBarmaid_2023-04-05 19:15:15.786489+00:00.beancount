@@ -1,0 +1,8 @@
+2023-04-05 txn "Evils bought 1 items for €2.50"
+  timestamp: "2023-04-05 19:17:13.943242"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Elvis      1 GERMAN
+  Liabilities:Bar:Members:Elvis   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
