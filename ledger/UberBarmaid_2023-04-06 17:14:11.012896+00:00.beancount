@@ -128,3 +128,11 @@
   Liabilities:Bar:Members:Bloemist   14.40 EUR
   Liabilities:Bar:Members:Wouter    -14.40 EUR
 
+2023-04-06 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2023-04-06 20:17:10.141559"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR     
+  Income:Bar                        -3.00 EUR     
+
