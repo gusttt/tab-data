@@ -62,3 +62,9 @@
   Liabilities:Bar:Members:Bart    68.28 EUR
   Liabilities:Bar:Members:Elvis  -68.28 EUR
 
+2023-04-06 txn "Evils gave Wouter a gift of €11.90"
+  timestamp: "2023-04-06 19:39:19.699501"
+  type: "transfer"
+  Liabilities:Bar:Members:Elvis    11.90 EUR
+  Liabilities:Bar:Members:Wouter  -11.90 EUR
+
