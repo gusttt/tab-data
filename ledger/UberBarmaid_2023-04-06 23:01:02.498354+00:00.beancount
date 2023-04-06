@@ -12,3 +12,11 @@
   Liabilities:Bar:Members:Mateo   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-04-06 txn "--CASH-- bought 1 items for €2.00"
+  timestamp: "2023-04-06 23:13:03.445929"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 CIDER
+  Assets:Cash:Bar           1 CIDER
+  Assets:Cash:Bar        2.00 EUR  
+  Income:Bar            -2.00 EUR  
+
