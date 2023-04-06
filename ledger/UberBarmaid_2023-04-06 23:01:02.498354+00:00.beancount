@@ -1,0 +1,6 @@
+2023-04-06 txn "Mateo deposited €15.00"
+  timestamp: "2023-04-06 23:01:02.495500"
+  type: "deposit"
+  Liabilities:Bar:Members:Mateo  -15.00 EUR
+  Assets:Cash:Bar                 15.00 EUR
+
