@@ -92,3 +92,9 @@
   Liabilities:Bar:Members:Wouter   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2023-04-06 txn "qwaxys deposited €120.00"
+  timestamp: "2023-04-06 19:53:19.052439"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -120.00 EUR
+  Assets:Cash:Bar                120.00 EUR
+
