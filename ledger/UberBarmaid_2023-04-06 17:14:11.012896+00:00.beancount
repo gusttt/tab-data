@@ -98,3 +98,11 @@
   Liabilities:Bar:Members:Bart  -120.00 EUR
   Assets:Cash:Bar                120.00 EUR
 
+2023-04-06 txn "Miker bought 1 items for €2.50"
+  timestamp: "2023-04-06 20:06:58.336320"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Miker      1 GERMAN
+  Liabilities:Bar:Members:Miker   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
