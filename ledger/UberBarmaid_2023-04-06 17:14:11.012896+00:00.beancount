@@ -122,3 +122,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-04-06 txn "Bloemist gave Wouter a gift of €14.40"
+  timestamp: "2023-04-06 20:15:58.394848"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   14.40 EUR
+  Liabilities:Bar:Members:Wouter    -14.40 EUR
+
