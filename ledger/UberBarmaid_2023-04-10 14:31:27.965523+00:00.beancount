@@ -1,0 +1,8 @@
+2023-04-10 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2023-04-10 14:31:27.962459"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR     
+  Income:Bar                        -3.00 EUR     
+
