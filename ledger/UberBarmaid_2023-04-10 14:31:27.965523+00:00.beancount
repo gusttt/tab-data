@@ -200,3 +200,9 @@
   Liabilities:Bar:Members:Yvan   50.00 EUR
   Assets:Cash:Bar               -50.00 EUR
 
+2023-04-12 txn "Thijs deposited €50.00"
+  timestamp: "2023-04-12 19:21:18.601280"
+  type: "deposit"
+  Liabilities:Bar:Members:Thijs  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
