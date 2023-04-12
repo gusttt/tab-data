@@ -52,3 +52,11 @@
   Liabilities:Bar:Members:Elvis   5.00 EUR
   Assets:Cash:Bar                -5.00 EUR
 
+2023-04-12 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2023-04-12 06:58:22.162564"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR     
+  Income:Bar                        -3.00 EUR     
+
