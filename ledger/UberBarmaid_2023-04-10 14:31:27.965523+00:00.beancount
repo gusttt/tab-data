@@ -410,3 +410,13 @@
   Liabilities:Bar:Members:Yvan   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2023-04-13 txn "Joris bought 2 items for €2.10"
+  timestamp: "2023-04-13 19:40:43.382729"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Joris      1 SODA 
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Joris      1 SNACK
+  Liabilities:Bar:Members:Joris   2.10 EUR  
+  Income:Bar                     -2.10 EUR  
+
