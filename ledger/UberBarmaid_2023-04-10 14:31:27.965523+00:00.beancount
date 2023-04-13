@@ -308,3 +308,9 @@
   Liabilities:Bar:Members:Thomas  -20.00 EUR
   Assets:Cash:Bar                  20.00 EUR
 
+2023-04-13 txn "Joris deposited €10.00"
+  timestamp: "2023-04-13 18:25:03.138480"
+  type: "deposit"
+  Liabilities:Bar:Members:Joris  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
