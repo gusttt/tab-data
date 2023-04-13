@@ -574,3 +574,9 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-04-13 txn "Thijs gave 3D-printer a gift of €2.00"
+  timestamp: "2023-04-13 23:30:02.943639"
+  type: "transfer"
+  Liabilities:Bar:Members:Thijs        2.00 EUR
+  Liabilities:Bar:Members:3D-printer  -2.00 EUR
+
