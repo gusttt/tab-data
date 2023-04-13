@@ -356,3 +356,11 @@
   Liabilities:Bar:Members:Koen   2.50 EUR  
   Income:Bar                    -2.50 EUR  
 
+2023-04-13 txn "On8wr bought 1 items for €2.50"
+  timestamp: "2023-04-13 19:02:45.100458"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:On8wr      1 GERMAN
+  Liabilities:Bar:Members:On8wr   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
