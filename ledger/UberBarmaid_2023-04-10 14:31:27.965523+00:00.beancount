@@ -508,3 +508,13 @@
   Liabilities:Bar:Members:Maja   0.75 EUR  
   Income:Bar                    -0.75 EUR  
 
+2023-04-13 txn "Evils bought 2 items for €4.00"
+  timestamp: "2023-04-13 21:20:09.025364"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM  
+  Liabilities:Bar:Members:Elvis      1 CM  
+  Assets:Inventory:Bar              -1 CHIP
+  Liabilities:Bar:Members:Elvis      1 CHIP
+  Liabilities:Bar:Members:Elvis   4.00 EUR 
+  Income:Bar                     -4.00 EUR 
+
