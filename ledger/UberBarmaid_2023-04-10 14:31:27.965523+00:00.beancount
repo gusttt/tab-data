@@ -302,3 +302,9 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR
   Income:Bar                        -3.00 EUR
 
+2023-04-13 txn "Thomas deposited €20.00"
+  timestamp: "2023-04-13 18:24:36.996970"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
