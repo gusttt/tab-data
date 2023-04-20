@@ -686,3 +686,9 @@
   Liabilities:Bar:Members:Alex   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-04-20 txn "Alex deposited €0.10"
+  timestamp: "2023-04-20 09:31:25.849948"
+  type: "deposit"
+  Liabilities:Bar:Members:Alex  -0.10 EUR
+  Assets:Cash:Bar                0.10 EUR
+
