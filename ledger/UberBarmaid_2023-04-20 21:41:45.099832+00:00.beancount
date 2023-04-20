@@ -50,3 +50,11 @@
   Liabilities:Bar:Members:Mateo   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2023-04-20 txn "Bloemist bought 1 items for €3.00"
+  timestamp: "2023-04-20 23:19:01.068775"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist      1 KOMBUCHA
+  Liabilities:Bar:Members:Bloemist   3.00 EUR     
+  Income:Bar                        -3.00 EUR     
+
