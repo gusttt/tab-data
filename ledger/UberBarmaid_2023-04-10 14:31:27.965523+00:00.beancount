@@ -692,3 +692,11 @@
   Liabilities:Bar:Members:Alex  -0.10 EUR
   Assets:Cash:Bar                0.10 EUR
 
+2023-04-20 txn "Els bought 1 items for €1.50"
+  timestamp: "2023-04-20 10:05:12.848931"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA
+  Liabilities:Bar:Members:Els      1 SODA
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
