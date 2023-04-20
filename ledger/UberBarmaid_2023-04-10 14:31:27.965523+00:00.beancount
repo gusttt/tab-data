@@ -746,3 +746,11 @@
   Liabilities:Bar:Members:Thijs  -5.00 EUR
   Assets:Cash:Bar                 5.00 EUR
 
+2023-04-20 txn "Wouter bought 1 items for €3.00"
+  timestamp: "2023-04-20 16:00:27.176566"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Wouter      1 CM 
+  Liabilities:Bar:Members:Wouter   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
