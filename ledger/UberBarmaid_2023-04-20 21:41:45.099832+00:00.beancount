@@ -36,3 +36,9 @@
   Liabilities:Bar:Members:Err0r   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-04-20 txn "Err0r gave CNC a gift of €10.00"
+  timestamp: "2023-04-20 22:47:12.882955"
+  type: "transfer"
+  Liabilities:Bar:Members:Err0r   10.00 EUR
+  Liabilities:Bar:Members:CNC    -10.00 EUR
+
