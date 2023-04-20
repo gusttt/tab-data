@@ -896,3 +896,9 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR
   Liabilities:Bar:Members:Bert    -0.60 EUR
 
+2023-04-20 txn "qwaxys deposited €1.64"
+  timestamp: "2023-04-20 20:07:07.694311"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -1.64 EUR
+  Assets:Cash:Bar                1.64 EUR
+
