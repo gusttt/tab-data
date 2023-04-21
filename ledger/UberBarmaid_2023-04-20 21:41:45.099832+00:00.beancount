@@ -92,3 +92,9 @@
   Liabilities:Bar:Members:Mateo   5.00 EUR 
   Income:Bar                     -5.00 EUR 
 
+2023-04-21 txn "--CASH-- gave Mateo a gift of €3.50"
+  timestamp: "2023-04-21 01:09:51.246115"
+  type: "transfer"
+  Assets:Cash:Bar                 3.50 EUR
+  Liabilities:Bar:Members:Mateo  -3.50 EUR
+
