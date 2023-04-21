@@ -82,3 +82,13 @@
   Liabilities:Bar:Members:Elvis   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-04-21 txn "Mateo bought 2 items for €5.00"
+  timestamp: "2023-04-21 01:08:46.367210"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD
+  Liabilities:Bar:Members:Mateo      1 FOOD
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Mateo      1 SODA
+  Liabilities:Bar:Members:Mateo   5.00 EUR 
+  Income:Bar                     -5.00 EUR 
+
