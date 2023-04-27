@@ -510,3 +510,11 @@
   Liabilities:Bar:Members:Carroarmato0   0.60 EUR  
   Income:Bar                            -0.60 EUR  
 
+2023-04-27 txn "Err0r bought 1 items for €0.60"
+  timestamp: "2023-04-27 20:37:43.553348"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SNACK
+  Liabilities:Bar:Members:Err0r      1 SNACK
+  Liabilities:Bar:Members:Err0r   0.60 EUR  
+  Income:Bar                     -0.60 EUR  
+
