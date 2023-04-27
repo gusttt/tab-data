@@ -618,3 +618,9 @@
   Liabilities:Bar:Members:Bloemist   7.00 EUR
   Assets:Cash:Bar                   -7.00 EUR
 
+2023-04-27 txn "Err0r deposited €7.00"
+  timestamp: "2023-04-27 22:43:42.065003"
+  type: "deposit"
+  Liabilities:Bar:Members:Err0r  -7.00 EUR
+  Assets:Cash:Bar                 7.00 EUR
+
