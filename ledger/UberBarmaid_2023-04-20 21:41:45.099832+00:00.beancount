@@ -576,3 +576,9 @@
   Liabilities:Bar:Members:Err0r   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-04-27 txn "Wouter gave Sander a gift of €3.20"
+  timestamp: "2023-04-27 21:36:57.496385"
+  type: "transfer"
+  Liabilities:Bar:Members:Wouter   3.20 EUR
+  Liabilities:Bar:Members:Sander  -3.20 EUR
+
