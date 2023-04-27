@@ -404,3 +404,9 @@
   Liabilities:Bar:Members:Elfeera   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2023-04-27 txn "Evils deposited €-27.60"
+  timestamp: "2023-04-27 18:59:54.772521"
+  type: "deposit"
+  Liabilities:Bar:Members:Elvis   27.60 EUR
+  Assets:Cash:Bar                -27.60 EUR
+
