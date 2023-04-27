@@ -534,3 +534,13 @@
   Liabilities:Bar:Members:Gust   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-04-27 txn "Miker bought 2 items for €4.50"
+  timestamp: "2023-04-27 20:43:19.997679"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA    
+  Liabilities:Bar:Members:Miker      1 SODA    
+  Assets:Inventory:Bar              -1 KOMBUCHA
+  Liabilities:Bar:Members:Miker      1 KOMBUCHA
+  Liabilities:Bar:Members:Miker   4.50 EUR     
+  Income:Bar                     -4.50 EUR     
+
