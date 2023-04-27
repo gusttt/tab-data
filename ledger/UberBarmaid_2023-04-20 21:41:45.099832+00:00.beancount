@@ -266,3 +266,13 @@
   Liabilities:Bar:Members:Wouter  -10.00 EUR
   Assets:Cash:Bar                  10.00 EUR
 
+2023-04-27 txn "Gust bought 2 items for €4.00"
+  timestamp: "2023-04-27 17:15:57.330717"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Gust      1 CHIP
+  Assets:Inventory:Bar             -1 CM  
+  Liabilities:Bar:Members:Gust      1 CM  
+  Liabilities:Bar:Members:Gust   4.00 EUR 
+  Income:Bar                    -4.00 EUR 
+
