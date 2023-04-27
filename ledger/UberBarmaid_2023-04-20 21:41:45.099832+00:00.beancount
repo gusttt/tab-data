@@ -340,3 +340,11 @@
   Liabilities:Bar:Members:Els   2.50 EUR   
   Income:Bar                   -2.50 EUR   
 
+2023-04-27 txn "Elfeera bought 1 items for €2.50"
+  timestamp: "2023-04-27 18:06:03.039799"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Elfeera      1 GERMAN
+  Liabilities:Bar:Members:Elfeera   2.50 EUR   
+  Income:Bar                       -2.50 EUR   
+
