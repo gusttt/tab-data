@@ -168,3 +168,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-04-27 txn "Evils bought 1 items for €3.00"
+  timestamp: "2023-04-27 16:35:46.820574"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Elvis      1 CM 
+  Liabilities:Bar:Members:Elvis   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
