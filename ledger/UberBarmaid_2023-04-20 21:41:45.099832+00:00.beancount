@@ -160,3 +160,11 @@
   Liabilities:Bar:Members:Wouter   3.00 EUR
   Income:Bar                      -3.00 EUR
 
+2023-04-27 txn "DJefke bought 1 items for €2.50"
+  timestamp: "2023-04-27 16:33:16.871427"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:DJefke      1 GERMAN
+  Liabilities:Bar:Members:DJefke   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
