@@ -214,3 +214,11 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-04-27 txn "Els bought 1 items for €0.75"
+  timestamp: "2023-04-27 17:02:49.362941"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 WATER
+  Liabilities:Bar:Members:Els      1 WATER
+  Liabilities:Bar:Members:Els   0.75 EUR  
+  Income:Bar                   -0.75 EUR  
+
