@@ -316,3 +316,11 @@
   Liabilities:Bar:Members:Carroarmato0   2.50 EUR   
   Income:Bar                            -2.50 EUR   
 
+2023-04-27 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-04-27 18:01:43.307566"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
