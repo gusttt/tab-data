@@ -518,3 +518,11 @@
   Liabilities:Bar:Members:Err0r   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-04-27 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2023-04-27 20:39:07.063192"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 SODA
+  Assets:Cash:Bar           1 SODA
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
