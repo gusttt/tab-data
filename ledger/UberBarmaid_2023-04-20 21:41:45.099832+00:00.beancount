@@ -492,3 +492,13 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-04-27 txn "Err0r bought 2 items for €3.10"
+  timestamp: "2023-04-27 20:19:06.844791"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Err0r      1 GERMAN
+  Assets:Inventory:Bar              -1 SNACK 
+  Liabilities:Bar:Members:Err0r      1 SNACK 
+  Liabilities:Bar:Members:Err0r   3.10 EUR   
+  Income:Bar                     -3.10 EUR   
+
