@@ -444,3 +444,11 @@
   Liabilities:Bar:Members:Thijs   4.00 EUR  
   Income:Bar                     -4.00 EUR  
 
+2023-04-27 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2023-04-27 19:36:12.504472"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:DJefke      1 SNACK
+  Liabilities:Bar:Members:DJefke   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
