@@ -434,3 +434,13 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2023-04-27 txn "Thijs bought 2 items for €4.00"
+  timestamp: "2023-04-27 19:35:23.499945"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA 
+  Liabilities:Bar:Members:Thijs      1 SODA 
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Thijs      1 DUVEL
+  Liabilities:Bar:Members:Thijs   4.00 EUR  
+  Income:Bar                     -4.00 EUR  
+
