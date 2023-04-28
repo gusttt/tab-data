@@ -640,3 +640,11 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR
   Income:Bar                        -3.00 EUR
 
+2023-04-28 txn "--CASH-- bought 1 items for €3.00"
+  timestamp: "2023-04-28 00:11:07.899178"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 KOMBUCHA
+  Assets:Cash:Bar           1 KOMBUCHA
+  Assets:Cash:Bar        3.00 EUR     
+  Income:Bar            -3.00 EUR     
+
