@@ -758,3 +758,11 @@
   Liabilities:Bar:Members:Koen  -17.55 EUR
   Assets:Cash:Bar                17.55 EUR
 
+2023-05-04 txn "Wouter bought 1 items for €3.00"
+  timestamp: "2023-05-04 16:45:05.674498"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Wouter      1 CM 
+  Liabilities:Bar:Members:Wouter   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
