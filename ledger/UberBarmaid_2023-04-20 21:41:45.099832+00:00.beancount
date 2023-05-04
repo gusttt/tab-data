@@ -828,3 +828,9 @@
   Liabilities:Bar:Members:Sander   4.00 EUR
   Liabilities:Bar:Members:Els     -4.00 EUR
 
+2023-05-04 txn "Els deposited €42.00"
+  timestamp: "2023-05-04 18:40:21.202322"
+  type: "deposit"
+  Liabilities:Bar:Members:Els  -42.00 EUR
+  Assets:Cash:Bar               42.00 EUR
+
