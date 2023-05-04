@@ -822,3 +822,9 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-05-04 txn "Sander gave Els a gift of €4.00"
+  timestamp: "2023-05-04 18:40:16.548282"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   4.00 EUR
+  Liabilities:Bar:Members:Els     -4.00 EUR
+
