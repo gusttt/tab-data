@@ -998,3 +998,13 @@
   Liabilities:Bar:Members:Bloemist   1.33 EUR 
   Income:Bar                        -1.33 EUR 
 
+2023-05-06 txn "Fearless bought 3 items for €6.50"
+  timestamp: "2023-05-06 13:58:58.724623"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 GERMAN
+  Liabilities:Bar:Members:Fearless      2 GERMAN
+  Assets:Inventory:Bar                 -1 SODA  
+  Liabilities:Bar:Members:Fearless      1 SODA  
+  Liabilities:Bar:Members:Fearless   6.50 EUR   
+  Income:Bar                        -6.50 EUR   
+
