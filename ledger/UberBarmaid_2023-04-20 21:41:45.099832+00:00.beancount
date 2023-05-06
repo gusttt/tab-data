@@ -1126,3 +1126,9 @@
   Liabilities:Bar:Members:Thijs   17.10 EUR
   Liabilities:Bar:Members:Yvan   -17.10 EUR
 
+2023-05-06 txn "Sander gave Yvan a gift of €20.10"
+  timestamp: "2023-05-06 18:07:08.257031"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   20.10 EUR
+  Liabilities:Bar:Members:Yvan    -20.10 EUR
+
