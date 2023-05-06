@@ -1158,3 +1158,11 @@
   Liabilities:Bar:Members:Els   2.00 EUR
   Assets:Cash:Bar              -2.00 EUR
 
+2023-05-06 txn "Sander bought 1 items for €2.50"
+  timestamp: "2023-05-06 18:49:55.249861"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:Sander      1 GERMAN
+  Liabilities:Bar:Members:Sander   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
