@@ -1174,3 +1174,9 @@
   Liabilities:Bar:Members:Bloemist   1.33 EUR 
   Income:Bar                        -1.33 EUR 
 
+2023-05-06 txn "Bloemist gave Yvan a gift of €18.90"
+  timestamp: "2023-05-06 19:13:48.561863"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   18.90 EUR
+  Liabilities:Bar:Members:Yvan      -18.90 EUR
+
