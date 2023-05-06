@@ -1048,3 +1048,11 @@
   Liabilities:Bar:Members:Thijs   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-05-06 txn "Carro​armato0 bought 1 items for €1.50"
+  timestamp: "2023-05-06 15:05:42.703540"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 BEER
+  Liabilities:Bar:Members:Carroarmato0      1 BEER
+  Liabilities:Bar:Members:Carroarmato0   1.50 EUR 
+  Income:Bar                            -1.50 EUR 
+
