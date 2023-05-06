@@ -1180,3 +1180,9 @@
   Liabilities:Bar:Members:Bloemist   18.90 EUR
   Liabilities:Bar:Members:Yvan      -18.90 EUR
 
+2023-05-06 txn "Bloemist deposited €80.00"
+  timestamp: "2023-05-06 19:14:47.446684"
+  type: "deposit"
+  Liabilities:Bar:Members:Bloemist  -80.00 EUR
+  Assets:Cash:Bar                    80.00 EUR
+
