@@ -1120,3 +1120,9 @@
   Liabilities:Bar:Members:Thijs   6.50 EUR     
   Income:Bar                     -6.50 EUR     
 
+2023-05-06 txn "Thijs gave Yvan a gift of €17.10"
+  timestamp: "2023-05-06 18:06:22.753749"
+  type: "transfer"
+  Liabilities:Bar:Members:Thijs   17.10 EUR
+  Liabilities:Bar:Members:Yvan   -17.10 EUR
+
