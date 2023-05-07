@@ -1320,3 +1320,11 @@
   Liabilities:Bar:Members:Sander   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-05-07 txn "Bloemist bought 2 items for €2.66"
+  timestamp: "2023-05-07 18:54:07.467868"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 CARA
+  Liabilities:Bar:Members:Bloemist      2 CARA
+  Liabilities:Bar:Members:Bloemist   2.66 EUR 
+  Income:Bar                        -2.66 EUR 
+
