@@ -1234,3 +1234,11 @@
   Assets:Cash:Bar        2.50 EUR   
   Income:Bar            -2.50 EUR   
 
+2023-05-07 txn "Thijs bought 1 items for €3.00"
+  timestamp: "2023-05-07 13:07:02.293892"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Thijs      1 CM 
+  Liabilities:Bar:Members:Thijs   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
