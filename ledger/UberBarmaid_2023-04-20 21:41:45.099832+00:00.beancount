@@ -1328,3 +1328,11 @@
   Liabilities:Bar:Members:Bloemist   2.66 EUR 
   Income:Bar                        -2.66 EUR 
 
+2023-05-08 txn "Nachtvlinder bought 1 items for €25.00"
+  timestamp: "2023-05-08 15:43:01.613476"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 HOODIE
+  Liabilities:Bar:Members:Maja       1 HOODIE
+  Liabilities:Bar:Members:Maja   25.00 EUR   
+  Income:Bar                    -25.00 EUR   
+
