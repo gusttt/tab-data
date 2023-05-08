@@ -1336,3 +1336,9 @@
   Liabilities:Bar:Members:Maja   25.00 EUR   
   Income:Bar                    -25.00 EUR   
 
+2023-05-08 txn "Nachtvlinder deposited €-20.00"
+  timestamp: "2023-05-08 15:48:03.561934"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja   20.00 EUR
+  Assets:Cash:Bar               -20.00 EUR
+
