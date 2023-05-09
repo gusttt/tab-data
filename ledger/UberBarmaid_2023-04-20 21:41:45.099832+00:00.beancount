@@ -1358,3 +1358,11 @@
   Liabilities:Bar:Members:Maja   3.00 EUR     
   Income:Bar                    -3.00 EUR     
 
+2023-05-09 txn "Nachtvlinder bought 1 items for €3.00"
+  timestamp: "2023-05-09 16:13:29.006231"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 KOMBUCHA
+  Liabilities:Bar:Members:Maja      1 KOMBUCHA
+  Liabilities:Bar:Members:Maja   3.00 EUR     
+  Income:Bar                    -3.00 EUR     
+
