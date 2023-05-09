@@ -39,3 +39,12 @@
 2020-03-09 txn "Personal transaction"
   Liabilities:Bar:Members:Thequux            15 EUR
   Liabilities:Bar:Members:Yvan              -15 EUR
+
+2023-05-09 txn "Revert accidental transaction by nachtvlinder" #adjustment
+  timestamp: "2023-05-08 15:43:01.613476"
+  type: "purchase"
+  Assets:Inventory:Bar               1 HOODIE
+  Liabilities:Bar:Members:Maja      -1 HOODIE
+  Liabilities:Bar:Members:Maja  -25.00 EUR   
+  Income:Bar                     25.00 EUR   
+
