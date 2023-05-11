@@ -1444,3 +1444,11 @@
   Liabilities:Bar:Members:Sander   8.50 EUR
   Liabilities:Bar:Members:Thijs   -8.50 EUR
 
+2023-05-11 txn "Bloemist bought 1 items for €1.33"
+  timestamp: "2023-05-11 18:15:32.537064"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CARA
+  Liabilities:Bar:Members:Bloemist      1 CARA
+  Liabilities:Bar:Members:Bloemist   1.33 EUR 
+  Income:Bar                        -1.33 EUR 
+
