@@ -1476,3 +1476,9 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-05-11 txn "Bloemist gave Wouter a gift of €11.00"
+  timestamp: "2023-05-11 19:42:48.319641"
+  type: "transfer"
+  Liabilities:Bar:Members:Bloemist   11.00 EUR
+  Liabilities:Bar:Members:Wouter    -11.00 EUR
+
