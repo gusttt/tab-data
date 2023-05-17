@@ -216,3 +216,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-05-17 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2023-05-17 16:19:50.084669"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Elfeera      1 SODA
+  Liabilities:Bar:Members:Elfeera   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
