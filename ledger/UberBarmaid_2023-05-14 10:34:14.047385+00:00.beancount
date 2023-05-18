@@ -488,3 +488,13 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-05-18 txn "Nachtvlinder bought 2 items for €3.50"
+  timestamp: "2023-05-18 21:19:30.945048"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP  
+  Liabilities:Bar:Members:Maja      1 CHIP  
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Maja      1 GERMAN
+  Liabilities:Bar:Members:Maja   3.50 EUR   
+  Income:Bar                    -3.50 EUR   
+
