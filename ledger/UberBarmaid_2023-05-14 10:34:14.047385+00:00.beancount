@@ -542,3 +542,9 @@
   Liabilities:Bar:Members:Sander   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-05-18 txn "Nachtvlinder deposited €-15.00"
+  timestamp: "2023-05-18 22:51:23.621046"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja   15.00 EUR
+  Assets:Cash:Bar               -15.00 EUR
+
