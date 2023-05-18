@@ -300,3 +300,13 @@
   Assets:Cash:Bar        2.50 EUR   
   Income:Bar            -2.50 EUR   
 
+2023-05-18 txn "Elfeera bought 2 items for €3.25"
+  timestamp: "2023-05-18 18:41:29.911975"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER 
+  Liabilities:Bar:Members:Elfeera      1 WATER 
+  Assets:Inventory:Bar                -1 GERMAN
+  Liabilities:Bar:Members:Elfeera      1 GERMAN
+  Liabilities:Bar:Members:Elfeera   3.25 EUR   
+  Income:Bar                       -3.25 EUR   
+
