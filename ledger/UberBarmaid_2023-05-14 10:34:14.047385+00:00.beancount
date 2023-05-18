@@ -266,3 +266,11 @@
   Liabilities:Bar:Members:Elfeera   3.10 EUR   
   Income:Bar                       -3.10 EUR   
 
+2023-05-18 txn "Thijs bought 1 items for €3.00"
+  timestamp: "2023-05-18 17:53:41.028661"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Thijs      1 CM 
+  Liabilities:Bar:Members:Thijs   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
