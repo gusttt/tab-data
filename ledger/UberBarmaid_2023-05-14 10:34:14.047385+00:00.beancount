@@ -644,3 +644,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-05-21 txn "Nachtvlinder bought 2 items for €2.10"
+  timestamp: "2023-05-21 19:51:27.397277"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA 
+  Liabilities:Bar:Members:Maja      1 SODA 
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Maja      1 SNACK
+  Liabilities:Bar:Members:Maja   2.10 EUR  
+  Income:Bar                    -2.10 EUR  
+
