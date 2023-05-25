@@ -974,3 +974,9 @@
   Liabilities:Bar:Members:Bloemist   1.33 EUR 
   Income:Bar                        -1.33 EUR 
 
+2023-05-25 txn "Koen gave Sander a gift of €3.50"
+  timestamp: "2023-05-25 20:51:36.895558"
+  type: "transfer"
+  Liabilities:Bar:Members:Koen     3.50 EUR
+  Liabilities:Bar:Members:Sander  -3.50 EUR
+
