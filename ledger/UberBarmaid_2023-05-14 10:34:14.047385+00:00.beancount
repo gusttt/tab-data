@@ -1002,3 +1002,9 @@
   Liabilities:Bar:Members:Matth   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-05-25 txn "Carro​armato0 gave Sander a gift of €3.70"
+  timestamp: "2023-05-25 21:02:12.777155"
+  type: "transfer"
+  Liabilities:Bar:Members:Carroarmato0   3.70 EUR
+  Liabilities:Bar:Members:Sander        -3.70 EUR
+
