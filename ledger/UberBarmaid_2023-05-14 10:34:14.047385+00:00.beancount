@@ -730,3 +730,13 @@
   Liabilities:Bar:Members:Maja   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2023-05-25 txn "Sander bought 2 items for €1.35"
+  timestamp: "2023-05-25 15:05:50.261600"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 WATER
+  Liabilities:Bar:Members:Sander      1 WATER
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:Sander      1 SNACK
+  Liabilities:Bar:Members:Sander   1.35 EUR  
+  Income:Bar                      -1.35 EUR  
+
