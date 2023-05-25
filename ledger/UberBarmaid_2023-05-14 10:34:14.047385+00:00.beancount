@@ -858,3 +858,13 @@
   Liabilities:Bar:Members:Bloemist   1.33 EUR 
   Income:Bar                        -1.33 EUR 
 
+2023-05-25 txn "Carro​armato0 bought 2 items for €3.10"
+  timestamp: "2023-05-25 19:20:30.233015"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 SNACK 
+  Liabilities:Bar:Members:Carroarmato0      1 SNACK 
+  Assets:Inventory:Bar                     -1 GERMAN
+  Liabilities:Bar:Members:Carroarmato0      1 GERMAN
+  Liabilities:Bar:Members:Carroarmato0   3.10 EUR   
+  Income:Bar                            -3.10 EUR   
+
