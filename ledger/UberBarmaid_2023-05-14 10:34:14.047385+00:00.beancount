@@ -994,3 +994,11 @@
   Liabilities:Bar:Members:Elfeera   3.20 EUR
   Liabilities:Bar:Members:Sander   -3.20 EUR
 
+2023-05-25 txn "Matth bought 1 items for €1.50"
+  timestamp: "2023-05-25 21:01:37.674934"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Matth      1 SODA
+  Liabilities:Bar:Members:Matth   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
