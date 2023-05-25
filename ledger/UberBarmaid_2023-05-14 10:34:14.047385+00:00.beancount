@@ -942,3 +942,11 @@
   Liabilities:Bar:Members:Maja   20.00 EUR
   Assets:Cash:Bar               -20.00 EUR
 
+2023-05-25 txn "Miker bought 1 items for €3.00"
+  timestamp: "2023-05-25 20:12:15.049092"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Miker      1 CM 
+  Liabilities:Bar:Members:Miker   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
