@@ -774,3 +774,13 @@
   Liabilities:Bar:Members:Maja   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2023-05-25 txn "Carro​armato0 bought 3 items for €3.70"
+  timestamp: "2023-05-25 17:22:01.506818"
+  type: "purchase"
+  Assets:Inventory:Bar                     -1 GERMAN
+  Liabilities:Bar:Members:Carroarmato0      1 GERMAN
+  Assets:Inventory:Bar                     -2 SNACK 
+  Liabilities:Bar:Members:Carroarmato0      2 SNACK 
+  Liabilities:Bar:Members:Carroarmato0   3.70 EUR   
+  Income:Bar                            -3.70 EUR   
+
