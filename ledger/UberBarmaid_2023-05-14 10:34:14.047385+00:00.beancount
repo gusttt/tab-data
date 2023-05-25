@@ -884,3 +884,9 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-05-25 txn "Matth deposited €10.00"
+  timestamp: "2023-05-25 19:42:31.206638"
+  type: "deposit"
+  Liabilities:Bar:Members:Matth  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
