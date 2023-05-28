@@ -1206,3 +1206,11 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-05-28 txn "Koen bought 1 items for €1.50"
+  timestamp: "2023-05-28 18:28:55.042432"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BEER
+  Liabilities:Bar:Members:Koen      1 BEER
+  Liabilities:Bar:Members:Koen   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
