@@ -1292,3 +1292,11 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-05-28 txn "Fearless bought 1 items for €1.50"
+  timestamp: "2023-05-28 20:43:53.693990"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Fearless      1 BEER
+  Liabilities:Bar:Members:Fearless   1.50 EUR 
+  Income:Bar                        -1.50 EUR 
+
