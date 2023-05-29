@@ -1432,3 +1432,11 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-05-29 txn "Elfeera bought 1 items for €0.75"
+  timestamp: "2023-05-29 17:04:22.999437"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Elfeera      1 WATER
+  Liabilities:Bar:Members:Elfeera   0.75 EUR  
+  Income:Bar                       -0.75 EUR  
+
