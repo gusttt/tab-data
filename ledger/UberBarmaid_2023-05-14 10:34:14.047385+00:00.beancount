@@ -1480,3 +1480,13 @@
   Liabilities:Bar:Members:Wouter   1.00 EUR 
   Income:Bar                      -1.00 EUR 
 
+2023-05-30 txn "Wouter bought 2 items for €4.00"
+  timestamp: "2023-05-30 16:35:15.774276"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM  
+  Liabilities:Bar:Members:Wouter      1 CM  
+  Assets:Inventory:Bar               -1 CHIP
+  Liabilities:Bar:Members:Wouter      1 CHIP
+  Liabilities:Bar:Members:Wouter   4.00 EUR 
+  Income:Bar                      -4.00 EUR 
+
