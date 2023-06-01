@@ -1816,3 +1816,11 @@
   Liabilities:Bar:Members:On8wr   0.60 EUR  
   Income:Bar                     -0.60 EUR  
 
+2023-06-01 txn "On8wr bought 1 items for €1.50"
+  timestamp: "2023-06-01 23:16:21.871883"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:On8wr      1 SODA
+  Liabilities:Bar:Members:On8wr   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
