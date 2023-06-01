@@ -1730,3 +1730,13 @@
   Liabilities:Bar:Members:Maja   1.00 EUR 
   Income:Bar                    -1.00 EUR 
 
+2023-06-01 txn "Fearless bought 2 items for €2.50"
+  timestamp: "2023-06-01 20:54:52.999208"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CHIP
+  Liabilities:Bar:Members:Fearless      1 CHIP
+  Assets:Inventory:Bar                 -1 BEER
+  Liabilities:Bar:Members:Fearless      1 BEER
+  Liabilities:Bar:Members:Fearless   2.50 EUR 
+  Income:Bar                        -2.50 EUR 
+
