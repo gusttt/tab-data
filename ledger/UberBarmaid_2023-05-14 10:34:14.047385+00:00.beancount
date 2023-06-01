@@ -1762,3 +1762,11 @@
   Liabilities:Bar:Members:On8wr  -15.00 EUR
   Assets:Cash:Bar                 15.00 EUR
 
+2023-06-01 txn "qwaxys bought 1 items for €0.60"
+  timestamp: "2023-06-01 21:28:10.760192"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK
+  Liabilities:Bar:Members:Bart      1 SNACK
+  Liabilities:Bar:Members:Bart   0.60 EUR  
+  Income:Bar                    -0.60 EUR  
+
