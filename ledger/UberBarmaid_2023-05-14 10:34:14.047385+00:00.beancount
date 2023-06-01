@@ -1824,3 +1824,9 @@
   Liabilities:Bar:Members:On8wr   1.50 EUR 
   Income:Bar                     -1.50 EUR 
 
+2023-06-01 txn "qwaxys deposited €4.00"
+  timestamp: "2023-06-01 23:44:32.577278"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -4.00 EUR
+  Assets:Cash:Bar                4.00 EUR
+
