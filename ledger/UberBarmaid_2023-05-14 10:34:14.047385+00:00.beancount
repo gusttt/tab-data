@@ -1570,3 +1570,13 @@
   Liabilities:Bar:Members:Joris  -4.50 EUR
   Assets:Cash:Bar                 4.50 EUR
 
+2023-06-01 txn "--CASH-- bought 2 items for €4.50"
+  timestamp: "2023-06-01 18:13:52.588415"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 KOMBUCHA
+  Assets:Cash:Bar           1 KOMBUCHA
+  Assets:Inventory:Bar     -1 SODA    
+  Assets:Cash:Bar           1 SODA    
+  Assets:Cash:Bar        4.50 EUR     
+  Income:Bar            -4.50 EUR     
+
