@@ -1784,3 +1784,9 @@
   Liabilities:Bar:Members:Err0r   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-06-01 txn "Err0r gave --CASH-- a gift of €15.80"
+  timestamp: "2023-06-01 22:03:49.489120"
+  type: "transfer"
+  Liabilities:Bar:Members:Err0r   15.80 EUR
+  Assets:Cash:Bar                -15.80 EUR
+
