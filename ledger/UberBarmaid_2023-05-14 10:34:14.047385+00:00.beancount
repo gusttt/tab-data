@@ -1740,3 +1740,11 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR 
   Income:Bar                        -2.50 EUR 
 
+2023-06-01 txn "Nachtvlinder bought 1 items for €1.50"
+  timestamp: "2023-06-01 21:22:42.039567"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:Maja      1 SODA
+  Liabilities:Bar:Members:Maja   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
