@@ -1928,3 +1928,11 @@
   Liabilities:Bar:Members:Sander   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-06-04 txn "Nachtvlinder bought 1 items for €0.75"
+  timestamp: "2023-06-04 17:34:37.491322"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 WATER
+  Liabilities:Bar:Members:Maja      1 WATER
+  Liabilities:Bar:Members:Maja   0.75 EUR  
+  Income:Bar                    -0.75 EUR  
+
