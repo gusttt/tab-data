@@ -2114,3 +2114,11 @@
   Liabilities:Bar:Members:Elfeera   1.50 EUR 
   Income:Bar                       -1.50 EUR 
 
+2023-06-08 txn "Anton​Alstublieft bought 1 items for €1.50"
+  timestamp: "2023-06-08 20:00:49.485230"
+  type: "purchase"
+  Assets:Inventory:Bar                         -1 SODA
+  Liabilities:Bar:Members:AntonAlstublieft      1 SODA
+  Liabilities:Bar:Members:AntonAlstublieft   1.50 EUR 
+  Income:Bar                                -1.50 EUR 
+
