@@ -2106,3 +2106,11 @@
   Liabilities:Bar:Members:Maja   3.10 EUR   
   Income:Bar                    -3.10 EUR   
 
+2023-06-08 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2023-06-08 19:24:55.979469"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 BEER
+  Liabilities:Bar:Members:Elfeera      1 BEER
+  Liabilities:Bar:Members:Elfeera   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
