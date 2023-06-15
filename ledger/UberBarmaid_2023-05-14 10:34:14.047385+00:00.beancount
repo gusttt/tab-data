@@ -2436,3 +2436,11 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-06-15 txn "Elfeera bought 1 items for €0.75"
+  timestamp: "2023-06-15 17:18:01.801731"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 WATER
+  Liabilities:Bar:Members:Elfeera      1 WATER
+  Liabilities:Bar:Members:Elfeera   0.75 EUR  
+  Income:Bar                       -0.75 EUR  
+
