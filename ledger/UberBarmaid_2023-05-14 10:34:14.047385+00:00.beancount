@@ -2748,3 +2748,11 @@
   Liabilities:Bar:Members:Elfeera  -5.00 EUR
   Assets:Cash:Bar                   5.00 EUR
 
+2023-06-15 txn "Elfeera bought 1 items for €0.60"
+  timestamp: "2023-06-15 22:03:41.910807"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SNACK
+  Liabilities:Bar:Members:Elfeera      1 SNACK
+  Liabilities:Bar:Members:Elfeera   0.60 EUR  
+  Income:Bar                       -0.60 EUR  
+
