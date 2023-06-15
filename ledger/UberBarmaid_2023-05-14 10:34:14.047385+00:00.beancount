@@ -2578,3 +2578,11 @@
   Liabilities:Bar:Members:Bart   10.00 EUR 
   Income:Bar                    -10.00 EUR 
 
+2023-06-15 txn "Sander bought 1 items for €10.00"
+  timestamp: "2023-06-15 19:04:16.671223"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Sander       1 FOOD
+  Liabilities:Bar:Members:Sander   10.00 EUR 
+  Income:Bar                      -10.00 EUR 
+
