@@ -2764,3 +2764,11 @@
   Liabilities:Bar:Members:Elfeera   0.60 EUR  
   Income:Bar                       -0.60 EUR  
 
+2023-06-15 txn "qwaxys bought 1 items for €10.00"
+  timestamp: "2023-06-15 22:12:43.063500"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 FOOD
+  Liabilities:Bar:Members:Bart       1 FOOD
+  Liabilities:Bar:Members:Bart   10.00 EUR 
+  Income:Bar                    -10.00 EUR 
+
