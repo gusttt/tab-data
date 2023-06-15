@@ -2710,3 +2710,11 @@
   Liabilities:Bar:Members:Bart  -15.50 EUR
   Assets:Cash:Bar                15.50 EUR
 
+2023-06-15 txn "Thomas bought 1 items for €2.50"
+  timestamp: "2023-06-15 21:20:50.867833"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:Thomas      1 GERMAN
+  Liabilities:Bar:Members:Thomas   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
