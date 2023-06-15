@@ -2526,3 +2526,11 @@
   Liabilities:Bar:Members:Bart   4.50 EUR 
   Income:Bar                    -4.50 EUR 
 
+2023-06-15 txn "Carro​armato0 bought 1 items for €10.00"
+  timestamp: "2023-06-15 18:48:25.501302"
+  type: "purchase"
+  Assets:Inventory:Bar                      -1 FOOD
+  Liabilities:Bar:Members:Carroarmato0       1 FOOD
+  Liabilities:Bar:Members:Carroarmato0   10.00 EUR 
+  Income:Bar                            -10.00 EUR 
+
