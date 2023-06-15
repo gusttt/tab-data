@@ -2494,3 +2494,11 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2023-06-15 txn "Jens bought 1 items for €2.50"
+  timestamp: "2023-06-15 18:30:53.050628"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Jens      1 GERMAN
+  Liabilities:Bar:Members:Jens   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
