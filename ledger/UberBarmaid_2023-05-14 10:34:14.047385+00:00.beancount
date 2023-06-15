@@ -2516,3 +2516,13 @@
   Liabilities:Bar:Members:Carroarmato0   2.50 EUR   
   Income:Bar                            -2.50 EUR   
 
+2023-06-15 txn "qwaxys bought 2 items for €4.50"
+  timestamp: "2023-06-15 18:38:55.650182"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 BEER
+  Liabilities:Bar:Members:Bart      1 BEER
+  Assets:Inventory:Bar             -1 CM  
+  Liabilities:Bar:Members:Bart      1 CM  
+  Liabilities:Bar:Members:Bart   4.50 EUR 
+  Income:Bar                    -4.50 EUR 
+
