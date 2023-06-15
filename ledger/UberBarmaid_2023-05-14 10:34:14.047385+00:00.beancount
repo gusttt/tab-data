@@ -2678,3 +2678,13 @@
   Liabilities:Bar:Members:Thomas   2.50 EUR  
   Income:Bar                      -2.50 EUR  
 
+2023-06-15 txn "Thijs bought 3 items for €10.50"
+  timestamp: "2023-06-15 20:33:59.412462"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 COCKTAIL
+  Liabilities:Bar:Members:Thijs       2 COCKTAIL
+  Assets:Inventory:Bar               -1 DUVEL   
+  Liabilities:Bar:Members:Thijs       1 DUVEL   
+  Liabilities:Bar:Members:Thijs   10.50 EUR     
+  Income:Bar                     -10.50 EUR     
+
