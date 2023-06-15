@@ -2366,3 +2366,11 @@
   Liabilities:Bar:Members:Thijs   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-06-15 txn "Elfeera bought 1 items for €1.50"
+  timestamp: "2023-06-15 16:54:31.223893"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Elfeera      1 SODA
+  Liabilities:Bar:Members:Elfeera   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
