@@ -2778,3 +2778,11 @@
   Liabilities:Bar:Members:Bart  -10.00 EUR
   Assets:Cash:Bar                10.00 EUR
 
+2023-06-15 txn "Thijs bought 1 items for €10.00"
+  timestamp: "2023-06-15 22:16:06.318410"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FOOD
+  Liabilities:Bar:Members:Thijs       1 FOOD
+  Liabilities:Bar:Members:Thijs   10.00 EUR 
+  Income:Bar                     -10.00 EUR 
+
