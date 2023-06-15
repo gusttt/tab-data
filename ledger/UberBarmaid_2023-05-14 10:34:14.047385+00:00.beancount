@@ -2786,3 +2786,9 @@
   Liabilities:Bar:Members:Thijs   10.00 EUR 
   Income:Bar                     -10.00 EUR 
 
+2023-06-15 txn "Miker deposited €50.00"
+  timestamp: "2023-06-15 22:17:10.658004"
+  type: "deposit"
+  Liabilities:Bar:Members:Miker  -50.00 EUR
+  Assets:Cash:Bar                 50.00 EUR
+
