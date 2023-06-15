@@ -2312,3 +2312,9 @@
   Liabilities:Bar:Members:Sander   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-06-15 txn "qwaxys deposited €10.00"
+  timestamp: "2023-06-15 14:50:54.918204"
+  type: "deposit"
+  Liabilities:Bar:Members:Bart  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
