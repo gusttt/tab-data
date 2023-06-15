@@ -2540,3 +2540,11 @@
   Liabilities:Bar:Members:Carroarmato0  -20.00 EUR
   Assets:Cash:Bar                        20.00 EUR
 
+2023-06-15 txn "Fearless bought 2 items for €20.00"
+  timestamp: "2023-06-15 18:55:12.620275"
+  type: "purchase"
+  Assets:Inventory:Bar                  -2 FOOD
+  Liabilities:Bar:Members:Fearless       2 FOOD
+  Liabilities:Bar:Members:Fearless   20.00 EUR 
+  Income:Bar                        -20.00 EUR 
+
