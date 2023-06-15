@@ -296,8 +296,8 @@
   category: food
   visible: False
 - name: Food
-  price: 3.50
-  event_price: 6.00
+  price: 10.00
+  event_price: 15.00
   currency: FOOD
   category: food
   visible: True
