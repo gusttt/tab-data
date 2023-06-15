@@ -2326,3 +2326,9 @@
   Liabilities:Bar:Members:Bart   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-06-15 txn "Fearless deposited €50.00"
+  timestamp: "2023-06-15 14:54:16.718403"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -50.00 EUR
+  Assets:Cash:Bar                    50.00 EUR
+
