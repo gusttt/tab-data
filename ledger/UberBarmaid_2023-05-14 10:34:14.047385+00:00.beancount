@@ -2358,3 +2358,11 @@
   Liabilities:Bar:Members:Koen   3.00 EUR
   Income:Bar                    -3.00 EUR
 
+2023-06-15 txn "Thijs bought 1 items for €3.00"
+  timestamp: "2023-06-15 16:41:58.670405"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Thijs      1 CM 
+  Liabilities:Bar:Members:Thijs   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
