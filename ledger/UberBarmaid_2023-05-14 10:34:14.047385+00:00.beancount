@@ -2656,3 +2656,9 @@
   Assets:Cash:Bar        13.00 EUR 
   Income:Bar            -13.00 EUR 
 
+2023-06-15 txn "Thomas deposited €10.00"
+  timestamp: "2023-06-15 19:52:40.402969"
+  type: "deposit"
+  Liabilities:Bar:Members:Thomas  -10.00 EUR
+  Assets:Cash:Bar                  10.00 EUR
+
