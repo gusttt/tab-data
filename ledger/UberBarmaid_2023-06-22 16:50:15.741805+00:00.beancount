@@ -216,3 +216,11 @@
   Liabilities:Bar:Members:Yvan   6.50 EUR   
   Income:Bar                    -6.50 EUR   
 
+2023-06-22 txn "Wouter bought 1 items for €1.50"
+  timestamp: "2023-06-22 19:12:12.771616"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Wouter      1 SODA
+  Liabilities:Bar:Members:Wouter   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
