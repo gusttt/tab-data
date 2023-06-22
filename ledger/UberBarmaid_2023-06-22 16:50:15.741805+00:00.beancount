@@ -334,3 +334,13 @@
   Liabilities:Bar:Members:Sander   4.00 EUR 
   Income:Bar                      -4.00 EUR 
 
+2023-06-22 txn "Fearless bought 5 items for €17.50"
+  timestamp: "2023-06-22 19:40:01.915575"
+  type: "purchase"
+  Assets:Inventory:Bar                  -4 FOOD
+  Liabilities:Bar:Members:Fearless       4 FOOD
+  Assets:Inventory:Bar                  -1 SODA
+  Liabilities:Bar:Members:Fearless       1 SODA
+  Liabilities:Bar:Members:Fearless   17.50 EUR 
+  Income:Bar                        -17.50 EUR 
+
