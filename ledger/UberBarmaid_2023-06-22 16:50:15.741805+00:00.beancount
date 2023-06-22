@@ -92,3 +92,9 @@
   Liabilities:Bar:Members:Sander  -50.00 EUR
   Assets:Cash:Bar                  50.00 EUR
 
+2023-06-22 txn "Sander gave Thijs a gift of €27.50"
+  timestamp: "2023-06-22 18:26:46.811514"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   27.50 EUR
+  Liabilities:Bar:Members:Thijs   -27.50 EUR
+
