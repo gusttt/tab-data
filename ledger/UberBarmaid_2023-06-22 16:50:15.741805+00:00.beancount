@@ -154,3 +154,11 @@
   Liabilities:Bar:Members:SamL   4.00 EUR 
   Income:Bar                    -4.00 EUR 
 
+2023-06-22 txn "Wouter bought 1 items for €4.00"
+  timestamp: "2023-06-22 18:53:04.006547"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FOOD
+  Liabilities:Bar:Members:Wouter      1 FOOD
+  Liabilities:Bar:Members:Wouter   4.00 EUR 
+  Income:Bar                      -4.00 EUR 
+
