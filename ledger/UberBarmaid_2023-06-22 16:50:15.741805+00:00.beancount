@@ -308,3 +308,13 @@
   Liabilities:Bar:Members:SamL  -20.00 EUR
   Assets:Cash:Bar                20.00 EUR
 
+2023-06-22 txn "Elfeera bought 4 items for €12.75"
+  timestamp: "2023-06-22 19:38:33.369373"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 WATER
+  Liabilities:Bar:Members:Elfeera       1 WATER
+  Assets:Inventory:Bar                 -3 FOOD 
+  Liabilities:Bar:Members:Elfeera       3 FOOD 
+  Liabilities:Bar:Members:Elfeera   12.75 EUR  
+  Income:Bar                       -12.75 EUR  
+
