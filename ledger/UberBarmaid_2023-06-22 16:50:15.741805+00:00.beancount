@@ -130,3 +130,11 @@
   Liabilities:Bar:Members:Yvan   4.00 EUR 
   Income:Bar                    -4.00 EUR 
 
+2023-06-22 txn "On8wr bought 3 items for €12.00"
+  timestamp: "2023-06-22 18:50:02.425013"
+  type: "purchase"
+  Assets:Inventory:Bar               -3 FOOD
+  Liabilities:Bar:Members:On8wr       3 FOOD
+  Liabilities:Bar:Members:On8wr   12.00 EUR 
+  Income:Bar                     -12.00 EUR 
+
