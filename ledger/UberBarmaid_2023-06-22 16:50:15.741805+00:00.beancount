@@ -80,3 +80,9 @@
   Liabilities:Bar:Members:ON8LTE   4.00 EUR   
   Income:Bar                      -4.00 EUR   
 
+2023-06-22 txn "DJefke gave Thijs a gift of €10.00"
+  timestamp: "2023-06-22 18:25:16.313387"
+  type: "transfer"
+  Liabilities:Bar:Members:DJefke   10.00 EUR
+  Liabilities:Bar:Members:Thijs   -10.00 EUR
+
