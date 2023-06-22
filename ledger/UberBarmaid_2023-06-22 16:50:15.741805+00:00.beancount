@@ -190,3 +190,11 @@
   Liabilities:Bar:Members:Fearless   10.00 EUR   
   Income:Bar                        -10.00 EUR   
 
+2023-06-22 txn "Sander bought 2 items for €5.00"
+  timestamp: "2023-06-22 19:01:23.626376"
+  type: "purchase"
+  Assets:Inventory:Bar               -2 GERMAN
+  Liabilities:Bar:Members:Sander      2 GERMAN
+  Liabilities:Bar:Members:Sander   5.00 EUR   
+  Income:Bar                      -5.00 EUR   
+
