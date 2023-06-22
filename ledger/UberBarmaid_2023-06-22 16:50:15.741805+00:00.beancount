@@ -32,3 +32,11 @@
   Liabilities:Bar:Members:Fearless   5.00 EUR   
   Income:Bar                        -5.00 EUR   
 
+2023-06-22 txn "Koen bought 1 items for €2.50"
+  timestamp: "2023-06-22 17:42:29.424764"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Koen      1 GERMAN
+  Liabilities:Bar:Members:Koen   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
