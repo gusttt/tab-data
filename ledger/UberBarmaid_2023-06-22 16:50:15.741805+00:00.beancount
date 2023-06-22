@@ -504,3 +504,13 @@
   Liabilities:Bar:Members:Miker   50.00 EUR
   Liabilities:Bar:Members:CNC    -50.00 EUR
 
+2023-06-22 txn "Joren bought 2 items for €4.50"
+  timestamp: "2023-06-22 21:38:51.865786"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 KOMBUCHA
+  Liabilities:Bar:Members:Joren      1 KOMBUCHA
+  Assets:Inventory:Bar              -1 BEER    
+  Liabilities:Bar:Members:Joren      1 BEER    
+  Liabilities:Bar:Members:Joren   4.50 EUR     
+  Income:Bar                     -4.50 EUR     
+
