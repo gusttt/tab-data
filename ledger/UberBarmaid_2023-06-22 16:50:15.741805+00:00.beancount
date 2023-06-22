@@ -146,3 +146,11 @@
   Liabilities:Bar:Members:SamL   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-06-22 txn "SamL bought 1 items for €4.00"
+  timestamp: "2023-06-22 18:51:16.357658"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 FOOD
+  Liabilities:Bar:Members:SamL      1 FOOD
+  Liabilities:Bar:Members:SamL   4.00 EUR 
+  Income:Bar                    -4.00 EUR 
+
