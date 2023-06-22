@@ -138,3 +138,11 @@
   Liabilities:Bar:Members:On8wr   12.00 EUR 
   Income:Bar                     -12.00 EUR 
 
+2023-06-22 txn "SamL bought 1 items for €1.50"
+  timestamp: "2023-06-22 18:50:53.427594"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SODA
+  Liabilities:Bar:Members:SamL      1 SODA
+  Liabilities:Bar:Members:SamL   1.50 EUR 
+  Income:Bar                    -1.50 EUR 
+
