@@ -452,3 +452,11 @@
   Liabilities:Bar:Members:ON8LTE   4.00 EUR 
   Income:Bar                      -4.00 EUR 
 
+2023-06-22 txn "Sander bought 1 items for €4.00"
+  timestamp: "2023-06-22 20:52:33.195956"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FOOD
+  Liabilities:Bar:Members:Sander      1 FOOD
+  Liabilities:Bar:Members:Sander   4.00 EUR 
+  Income:Bar                      -4.00 EUR 
+
