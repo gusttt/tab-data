@@ -372,3 +372,11 @@
   Liabilities:Bar:Members:Joren   4.00 EUR 
   Income:Bar                     -4.00 EUR 
 
+2023-06-22 txn "--CASH-- bought 1 items for €1.50"
+  timestamp: "2023-06-22 20:03:09.594101"
+  type: "purchase"
+  Assets:Inventory:Bar     -1 BEER
+  Assets:Cash:Bar           1 BEER
+  Assets:Cash:Bar        1.50 EUR 
+  Income:Bar            -1.50 EUR 
+
