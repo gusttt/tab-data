@@ -24,3 +24,11 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-06-22 txn "Fearless bought 2 items for €5.00"
+  timestamp: "2023-06-22 17:18:44.600407"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 GERMAN
+  Liabilities:Bar:Members:Fearless      2 GERMAN
+  Liabilities:Bar:Members:Fearless   5.00 EUR   
+  Income:Bar                        -5.00 EUR   
+
