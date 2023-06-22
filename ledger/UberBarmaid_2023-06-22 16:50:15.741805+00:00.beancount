@@ -498,3 +498,9 @@
   Liabilities:Bar:Members:Miker  -50.00 EUR
   Assets:Cash:Bar                 50.00 EUR
 
+2023-06-22 txn "Miker gave CNC a gift of €50.00"
+  timestamp: "2023-06-22 21:36:25.550715"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker   50.00 EUR
+  Liabilities:Bar:Members:CNC    -50.00 EUR
+
