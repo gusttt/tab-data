@@ -224,3 +224,11 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-06-22 txn "qwaxys bought 1 items for €4.00"
+  timestamp: "2023-06-22 19:12:46.650349"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 COCKTAIL
+  Liabilities:Bar:Members:Bart      1 COCKTAIL
+  Liabilities:Bar:Members:Bart   4.00 EUR     
+  Income:Bar                    -4.00 EUR     
+
