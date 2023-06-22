@@ -478,3 +478,9 @@
   Liabilities:Bar:Members:On8wr   3.10 EUR   
   Income:Bar                     -3.10 EUR   
 
+2023-06-22 txn "On8wr deposited €30.00"
+  timestamp: "2023-06-22 21:03:35.779292"
+  type: "deposit"
+  Liabilities:Bar:Members:On8wr  -30.00 EUR
+  Assets:Cash:Bar                 30.00 EUR
+
