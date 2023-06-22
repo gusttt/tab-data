@@ -514,3 +514,11 @@
   Liabilities:Bar:Members:Joren   4.50 EUR     
   Income:Bar                     -4.50 EUR     
 
+2023-06-22 txn "DJefke bought 1 items for €0.60"
+  timestamp: "2023-06-22 21:46:46.404839"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SNACK
+  Liabilities:Bar:Members:DJefke      1 SNACK
+  Liabilities:Bar:Members:DJefke   0.60 EUR  
+  Income:Bar                      -0.60 EUR  
+
