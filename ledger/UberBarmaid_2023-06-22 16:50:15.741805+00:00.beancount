@@ -178,3 +178,15 @@
   Liabilities:Bar:Members:DJefke   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-06-22 txn "Fearless bought 5 items for €10.00"
+  timestamp: "2023-06-22 19:00:43.684282"
+  type: "purchase"
+  Assets:Inventory:Bar                  -3 GERMAN
+  Liabilities:Bar:Members:Fearless       3 GERMAN
+  Assets:Inventory:Bar                  -1 CHIP  
+  Liabilities:Bar:Members:Fearless       1 CHIP  
+  Assets:Inventory:Bar                  -1 BEER  
+  Liabilities:Bar:Members:Fearless       1 BEER  
+  Liabilities:Bar:Members:Fearless   10.00 EUR   
+  Income:Bar                        -10.00 EUR   
+
