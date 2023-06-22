@@ -396,3 +396,11 @@
   Liabilities:Bar:Members:Sander   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-06-22 txn "Elfeera bought 1 items for €4.00"
+  timestamp: "2023-06-22 20:17:55.671661"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 FOOD
+  Liabilities:Bar:Members:Elfeera      1 FOOD
+  Liabilities:Bar:Members:Elfeera   4.00 EUR 
+  Income:Bar                       -4.00 EUR 
+
