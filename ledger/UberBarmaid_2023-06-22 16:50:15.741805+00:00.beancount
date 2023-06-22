@@ -358,3 +358,9 @@
   Liabilities:Bar:Members:Joren   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-06-22 txn "Joren deposited €20.00"
+  timestamp: "2023-06-22 19:56:49.939167"
+  type: "deposit"
+  Liabilities:Bar:Members:Joren  -20.00 EUR
+  Assets:Cash:Bar                 20.00 EUR
+
