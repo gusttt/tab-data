@@ -64,3 +64,9 @@
   Liabilities:Bar:Members:Wouter   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-06-22 txn "ON8LTE deposited €25.00"
+  timestamp: "2023-06-22 18:19:21.792394"
+  type: "deposit"
+  Liabilities:Bar:Members:ON8LTE  -25.00 EUR
+  Assets:Cash:Bar                  25.00 EUR
+
