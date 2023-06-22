@@ -206,3 +206,13 @@
   Liabilities:Bar:Members:Fearless   1.50 EUR 
   Income:Bar                        -1.50 EUR 
 
+2023-06-22 txn "Yvan bought 2 items for €6.50"
+  timestamp: "2023-06-22 19:08:33.025298"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Yvan      1 GERMAN
+  Assets:Inventory:Bar             -1 FOOD  
+  Liabilities:Bar:Members:Yvan      1 FOOD  
+  Liabilities:Bar:Members:Yvan   6.50 EUR   
+  Income:Bar                    -6.50 EUR   
+
