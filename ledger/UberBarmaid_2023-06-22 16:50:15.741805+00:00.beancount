@@ -70,3 +70,13 @@
   Liabilities:Bar:Members:ON8LTE  -25.00 EUR
   Assets:Cash:Bar                  25.00 EUR
 
+2023-06-22 txn "ON8LTE bought 2 items for €4.00"
+  timestamp: "2023-06-22 18:19:56.359414"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA  
+  Liabilities:Bar:Members:ON8LTE      1 SODA  
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:ON8LTE      1 GERMAN
+  Liabilities:Bar:Members:ON8LTE   4.00 EUR   
+  Income:Bar                      -4.00 EUR   
+
