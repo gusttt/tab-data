@@ -318,3 +318,11 @@
   Liabilities:Bar:Members:Elfeera   12.75 EUR  
   Income:Bar                       -12.75 EUR  
 
+2023-06-22 txn "ON8LTE bought 1 items for €4.00"
+  timestamp: "2023-06-22 19:39:10.682162"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 FOOD
+  Liabilities:Bar:Members:ON8LTE      1 FOOD
+  Liabilities:Bar:Members:ON8LTE   4.00 EUR 
+  Income:Bar                      -4.00 EUR 
+
