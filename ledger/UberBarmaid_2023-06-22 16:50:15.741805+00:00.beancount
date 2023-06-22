@@ -302,3 +302,9 @@
   Liabilities:Bar:Members:SamL   4.00 EUR 
   Income:Bar                    -4.00 EUR 
 
+2023-06-22 txn "SamL deposited €20.00"
+  timestamp: "2023-06-22 19:38:13.149551"
+  type: "deposit"
+  Liabilities:Bar:Members:SamL  -20.00 EUR
+  Assets:Cash:Bar                20.00 EUR
+
