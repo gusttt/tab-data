@@ -660,3 +660,13 @@
   Liabilities:Bar:Members:Koen   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-06-26 txn "Els bought 3 items for €7.50"
+  timestamp: "2023-06-26 05:44:05.732324"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA
+  Liabilities:Bar:Members:Els      1 SODA
+  Assets:Inventory:Bar            -2 CM  
+  Liabilities:Bar:Members:Els      2 CM  
+  Liabilities:Bar:Members:Els   7.50 EUR 
+  Income:Bar                   -7.50 EUR 
+
