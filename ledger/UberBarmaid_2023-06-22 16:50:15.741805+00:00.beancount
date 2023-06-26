@@ -702,3 +702,9 @@
   Liabilities:Bar:Members:Fearless   2.50 EUR   
   Income:Bar                        -2.50 EUR   
 
+2023-06-26 txn "Nachtvlinder deposited €150.00"
+  timestamp: "2023-06-26 17:37:41.186375"
+  type: "deposit"
+  Liabilities:Bar:Members:Maja  -150.00 EUR
+  Assets:Cash:Bar                150.00 EUR
+
