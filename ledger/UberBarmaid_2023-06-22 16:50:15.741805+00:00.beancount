@@ -760,3 +760,9 @@
   Liabilities:Bar:Members:Err0r   2.50 EUR   
   Income:Bar                     -2.50 EUR   
 
+2023-06-27 txn "Fearless deposited €71.31"
+  timestamp: "2023-06-27 13:52:02.217433"
+  type: "deposit"
+  Liabilities:Bar:Members:Fearless  -71.31 EUR
+  Assets:Cash:Bar                    71.31 EUR
+
