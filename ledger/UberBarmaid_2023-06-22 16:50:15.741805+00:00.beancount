@@ -782,3 +782,11 @@
   Assets:Cash:Bar        1.50 EUR 
   Income:Bar            -1.50 EUR 
 
+2023-06-27 txn "Err0r bought 1 items for €3.00"
+  timestamp: "2023-06-27 15:06:15.761325"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 CM 
+  Liabilities:Bar:Members:Err0r      1 CM 
+  Liabilities:Bar:Members:Err0r   3.00 EUR
+  Income:Bar                     -3.00 EUR
+
