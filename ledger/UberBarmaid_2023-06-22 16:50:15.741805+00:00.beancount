@@ -840,3 +840,9 @@
   Liabilities:Bar:Members:Yvan   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-06-29 txn "Koen deposited €10.00"
+  timestamp: "2023-06-29 16:10:45.834300"
+  type: "deposit"
+  Liabilities:Bar:Members:Koen  -10.00 EUR
+  Assets:Cash:Bar                10.00 EUR
+
