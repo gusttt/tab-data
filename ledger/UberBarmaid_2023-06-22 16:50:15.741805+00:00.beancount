@@ -934,3 +934,9 @@
   Liabilities:Bar:Members:Maja   2.50 EUR 
   Income:Bar                    -2.50 EUR 
 
+2023-06-29 txn "Frp deposited €20.00"
+  timestamp: "2023-06-29 18:56:10.078757"
+  type: "deposit"
+  Liabilities:Bar:Members:Frp  -20.00 EUR
+  Assets:Cash:Bar               20.00 EUR
+
