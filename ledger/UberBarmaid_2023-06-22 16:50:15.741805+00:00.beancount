@@ -892,3 +892,11 @@
   Liabilities:Bar:Members:Elfeera  -50.00 EUR
   Assets:Cash:Bar                   50.00 EUR
 
+2023-06-29 txn "Yvan bought 1 items for €1.00"
+  timestamp: "2023-06-29 18:08:29.596277"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 CHIP
+  Liabilities:Bar:Members:Yvan      1 CHIP
+  Liabilities:Bar:Members:Yvan   1.00 EUR 
+  Income:Bar                    -1.00 EUR 
+
