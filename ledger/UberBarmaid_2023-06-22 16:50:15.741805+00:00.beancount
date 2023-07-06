@@ -1226,3 +1226,11 @@
   Liabilities:Bar:Members:Sander   20.00 EUR
   Liabilities:Bar:Members:Thijs   -20.00 EUR
 
+2023-07-06 txn "Miker bought 1 items for €2.50"
+  timestamp: "2023-07-06 19:52:53.838643"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 GERMAN
+  Liabilities:Bar:Members:Miker      1 GERMAN
+  Liabilities:Bar:Members:Miker   2.50 EUR   
+  Income:Bar                     -2.50 EUR   
+
