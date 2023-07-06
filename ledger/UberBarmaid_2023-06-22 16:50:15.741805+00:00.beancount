@@ -1258,3 +1258,11 @@
   Liabilities:Bar:Members:Frp   2.50 EUR   
   Income:Bar                   -2.50 EUR   
 
+2023-07-06 txn "Sander bought 1 items for €1.50"
+  timestamp: "2023-07-06 21:36:57.885195"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 SODA
+  Liabilities:Bar:Members:Sander      1 SODA
+  Liabilities:Bar:Members:Sander   1.50 EUR 
+  Income:Bar                      -1.50 EUR 
+
