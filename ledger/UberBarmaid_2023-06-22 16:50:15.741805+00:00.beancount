@@ -1340,3 +1340,11 @@
   Liabilities:Bar:Members:Maja   1.50 EUR 
   Income:Bar                    -1.50 EUR 
 
+2023-07-11 txn "Els bought 1 items for €1.50"
+  timestamp: "2023-07-11 10:40:54.642262"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 SODA
+  Liabilities:Bar:Members:Els      1 SODA
+  Liabilities:Bar:Members:Els   1.50 EUR 
+  Income:Bar                   -1.50 EUR 
+
