@@ -22,3 +22,9 @@
   Liabilities:Bar:Members:Sander   2.50 EUR   
   Income:Bar                      -2.50 EUR   
 
+2023-07-13 txn "Miker gave Fearless a gift of €9.66"
+  timestamp: "2023-07-13 17:16:37.095865"
+  type: "transfer"
+  Liabilities:Bar:Members:Miker      9.66 EUR
+  Liabilities:Bar:Members:Fearless  -9.66 EUR
+
