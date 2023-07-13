@@ -188,3 +188,13 @@
   Liabilities:Bar:Members:Joris  -5.00 EUR
   Assets:Cash:Bar                 5.00 EUR
 
+2023-07-13 txn "Joris bought 2 items for €3.50"
+  timestamp: "2023-07-13 19:23:15.955951"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 DUVEL
+  Liabilities:Bar:Members:Joris      1 DUVEL
+  Assets:Inventory:Bar              -1 CHIP 
+  Liabilities:Bar:Members:Joris      1 CHIP 
+  Liabilities:Bar:Members:Joris   3.50 EUR  
+  Income:Bar                     -3.50 EUR  
+
