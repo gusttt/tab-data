@@ -274,3 +274,9 @@
   Liabilities:Bar:Members:ON8LTE   1.50 EUR 
   Income:Bar                      -1.50 EUR 
 
+2023-07-13 txn "Mateo gave Carro​armato0 a gift of €1.00"
+  timestamp: "2023-07-13 22:38:07.141327"
+  type: "transfer"
+  Liabilities:Bar:Members:Mateo          1.00 EUR
+  Liabilities:Bar:Members:Carroarmato0  -1.00 EUR
+
