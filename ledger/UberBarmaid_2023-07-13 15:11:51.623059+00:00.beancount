@@ -172,3 +172,13 @@
   Liabilities:Bar:Members:Thijs   2.50 EUR  
   Income:Bar                     -2.50 EUR  
 
+2023-07-13 txn "Thomas bought 2 items for €3.50"
+  timestamp: "2023-07-13 19:20:23.614509"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 DUVEL
+  Liabilities:Bar:Members:Thomas      1 DUVEL
+  Assets:Inventory:Bar               -1 CHIP 
+  Liabilities:Bar:Members:Thomas      1 CHIP 
+  Liabilities:Bar:Members:Thomas   3.50 EUR  
+  Income:Bar                      -3.50 EUR  
+
