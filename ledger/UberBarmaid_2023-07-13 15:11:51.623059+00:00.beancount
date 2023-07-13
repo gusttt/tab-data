@@ -252,3 +252,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-07-13 txn "ON8LTE bought 2 items for €50.00"
+  timestamp: "2023-07-13 22:35:09.139286"
+  type: "purchase"
+  Assets:Inventory:Bar                -2 HOODIE
+  Liabilities:Bar:Members:ON8LTE       2 HOODIE
+  Liabilities:Bar:Members:ON8LTE   50.00 EUR   
+  Income:Bar                      -50.00 EUR   
+
