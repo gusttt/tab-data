@@ -260,3 +260,9 @@
   Liabilities:Bar:Members:ON8LTE   50.00 EUR   
   Income:Bar                      -50.00 EUR   
 
+2023-07-13 txn "ON8LTE deposited €50.00"
+  timestamp: "2023-07-13 22:36:16.057047"
+  type: "deposit"
+  Liabilities:Bar:Members:ON8LTE  -50.00 EUR
+  Assets:Cash:Bar                  50.00 EUR
+
