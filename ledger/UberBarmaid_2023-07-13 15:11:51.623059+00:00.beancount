@@ -368,3 +368,11 @@
   Liabilities:Bar:Members:Matth   1.00 EUR 
   Income:Bar                     -1.00 EUR 
 
+2023-07-20 txn "Matth bought 1 items for €1.50"
+  timestamp: "2023-07-20 18:28:07.695484"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 SODA
+  Liabilities:Bar:Members:Matth      1 SODA
+  Liabilities:Bar:Members:Matth   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
