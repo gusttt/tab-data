@@ -392,3 +392,11 @@
   Assets:Cash:Bar        3.00 EUR
   Income:Bar            -3.00 EUR
 
+2023-07-20 txn "Frp bought 1 items for €3.00"
+  timestamp: "2023-07-20 18:53:28.001354"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Frp      1 CM 
+  Liabilities:Bar:Members:Frp   3.00 EUR
+  Income:Bar                   -3.00 EUR
+
