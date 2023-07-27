@@ -88,3 +88,11 @@
   Liabilities:Bar:Members:DJefke   0.60 EUR  
   Income:Bar                      -0.60 EUR  
 
+2023-07-27 txn "Carro​armato0 bought 2 items for €1.20"
+  timestamp: "2023-07-27 18:32:25.312270"
+  type: "purchase"
+  Assets:Inventory:Bar                     -2 SNACK
+  Liabilities:Bar:Members:Carroarmato0      2 SNACK
+  Liabilities:Bar:Members:Carroarmato0   1.20 EUR  
+  Income:Bar                            -1.20 EUR  
+
