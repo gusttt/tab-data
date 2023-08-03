@@ -48,3 +48,11 @@
   Liabilities:Bar:Members:Thijs        1.00 EUR
   Liabilities:Bar:Members:3D-printer  -1.00 EUR
 
+2023-08-03 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2023-08-03 18:58:14.996269"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Thijs      1 BEER
+  Liabilities:Bar:Members:Thijs   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
