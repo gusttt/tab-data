@@ -42,3 +42,9 @@
   Liabilities:Bar:Members:Bloemist   3.00 EUR 
   Income:Bar                        -3.00 EUR 
 
+2023-08-03 txn "Thijs gave 3D-printer a gift of €1.00"
+  timestamp: "2023-08-03 18:21:25.300909"
+  type: "transfer"
+  Liabilities:Bar:Members:Thijs        1.00 EUR
+  Liabilities:Bar:Members:3D-printer  -1.00 EUR
+
