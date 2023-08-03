@@ -18,3 +18,11 @@
   Liabilities:Bar:Members:Els   3.60 EUR  
   Income:Bar                   -3.60 EUR  
 
+2023-08-03 txn "Wouter bought 1 items for €2.50"
+  timestamp: "2023-08-03 17:43:50.443259"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:Wouter      1 GERMAN
+  Liabilities:Bar:Members:Wouter   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
