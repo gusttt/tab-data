@@ -80,3 +80,24 @@
   Liabilities:Bar:Members:Maja   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-08-03 txn "Els bought 30 items for €118.00"
+  timestamp: "2023-08-03 20:46:10.962192"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 COCKTAIL
+  Liabilities:Bar:Members:Els         1 COCKTAIL
+  Assets:Inventory:Bar               -3 GERMAN  
+  Liabilities:Bar:Members:Els         3 GERMAN  
+  Assets:Inventory:Bar               -6 DUVEL   
+  Liabilities:Bar:Members:Els         6 DUVEL   
+  Assets:Inventory:Bar               -8 CHIP    
+  Liabilities:Bar:Members:Els         8 CHIP    
+  Assets:Inventory:Bar               -8 WATER   
+  Liabilities:Bar:Members:Els         8 WATER   
+  Assets:Inventory:Bar               -3 HOODIE  
+  Liabilities:Bar:Members:Els         3 HOODIE  
+  Assets:Inventory:Bar               -1 PASSPORT
+  Liabilities:Bar:Members:Els         1 PASSPORT
+  Liabilities:Bar:Members:Els    118.00 EUR     
+  Liabilities:Bar:Members:Bart    -1.20 EUR     
+  Income:Bar                    -116.80 EUR     
+
