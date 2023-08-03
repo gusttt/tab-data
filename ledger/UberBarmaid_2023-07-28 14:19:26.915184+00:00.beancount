@@ -34,3 +34,11 @@
   Liabilities:Bar:Members:Thijs   3.00 EUR
   Income:Bar                     -3.00 EUR
 
+2023-08-03 txn "Bloemist bought 2 items for €3.00"
+  timestamp: "2023-08-03 18:03:11.323338"
+  type: "purchase"
+  Assets:Inventory:Bar                 -2 BEER
+  Liabilities:Bar:Members:Bloemist      2 BEER
+  Liabilities:Bar:Members:Bloemist   3.00 EUR 
+  Income:Bar                        -3.00 EUR 
+
