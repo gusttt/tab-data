@@ -8,12 +8,14 @@
 1970-01-01 open Liabilities:Bar:Members:Bloemist
 1970-01-01 open Liabilities:Bar:Members:David
 1970-01-01 open Liabilities:Bar:Members:Els
+  mm_name: "betty"
 1970-01-01 open Liabilities:Bar:Members:Elvis
   display_name: "Evils"
 1970-01-01 open Liabilities:Bar:Members:Enzian
 1970-01-01 open Liabilities:Bar:Members:Ewaut
 1970-01-01 open Liabilities:Bar:Members:Folkaholic
 1970-01-01 open Liabilities:Bar:Members:Gust
+  mm_name: "gust"
 1970-01-01 open Liabilities:Bar:Members:Jens
 1970-01-01 open Liabilities:Bar:Members:Joren
 1970-01-01 open Liabilities:Bar:Members:Joris
@@ -38,10 +40,12 @@
   display_name: "Super​pumpie"
 1970-01-01 open Liabilities:Bar:Members:Thequux
   display_name: "TQ"
+  mm_name: "thequux"
 1970-01-01 open Liabilities:Bar:Members:Thijs
 1970-01-01 open Liabilities:Bar:Members:Thomas
 2018-10-25 open Liabilities:Bar:Members:Maja
   display_name: "Nachtvlinder"
+  mm_name: "nachtvlinder"
 2018-11-08 open Liabilities:Bar:Members:Manon
 2019-02-07 open Liabilities:Bar:Members:Yvan
   display_name: "Yvan"
@@ -49,6 +53,7 @@
   display_name: "MrProzakc"
 2019-06-09 open Liabilities:Bar:Members:Lisa
 2019-08-29 open Liabilities:Bar:Members:Miker
+  mm_name: "miker"
 2019-11-28 open Liabilities:Bar:Members:Carroarmato0
   display_name: "Carro​armato0"
 2019-11-28 open Liabilities:Bar:Members:Sven
@@ -57,6 +62,7 @@
   display_name: "Anton​Alstublieft"
 2019-11-28 open Liabilities:Bar:Members:B0Hr
 2020-07-29 open Liabilities:Bar:Members:Sander
+  mm_name: "sander"
 2020-12-30 open Liabilities:Bar:Members:Ljaytee
 2021-02-06 open Liabilities:Bar:Members:Jobj
 2021-02-20 open Liabilities:Bar:Members:Lonelycelt
