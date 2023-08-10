@@ -152,3 +152,9 @@
   Liabilities:Bar:Members:Thomas   2.10 EUR  
   Income:Bar                      -2.10 EUR  
 
+2023-08-10 txn "Err0r deposited €10.00"
+  timestamp: "2023-08-10 19:55:18.748592"
+  type: "deposit"
+  Liabilities:Bar:Members:Err0r  -10.00 EUR
+  Assets:Cash:Bar                 10.00 EUR
+
