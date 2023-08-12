@@ -1,0 +1,36 @@
+# This workflow will install Python dependencies and run a python script to send a Mattermost message
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Mattermost bot
+
+env:
+  MM_URL: https://chat.hackerspace.gent/
+  
+on:
+  push:
+    branches: [ "main" ]
+    paths: [ "ledger/*.beancount" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: '2'
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+        cache: 'pip'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f mmbot/requirements.txt ]; then pip install -r mmbot/requirements.txt; fi
+    - name: Run mmbot-tx.py
+      run: python mmbot/mmbot-tx.py ${{ env.MM_URL }} ${{ secrets.MMBOT_TOKEN }}
