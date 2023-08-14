@@ -294,3 +294,11 @@
   Liabilities:Bar:Members:Maja   2.50 EUR   
   Income:Bar                    -2.50 EUR   
 
+2023-08-14 txn "Els bought 1 items for €3.00"
+  timestamp: "2023-08-14 10:33:15.826885"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Els      1 CM 
+  Liabilities:Bar:Members:Els   3.00 EUR
+  Income:Bar                   -3.00 EUR
+
