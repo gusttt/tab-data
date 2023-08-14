@@ -2,6 +2,7 @@
 2018-08-05 open Liabilities:Bar:Members:Alex
 1970-01-01 open Liabilities:Bar:Members:Bart
   display_name: "qwaxys"
+  mm_name: "qwaxys"
 1970-01-01 open Liabilities:Bar:Members:Bert
 1970-01-01 open Liabilities:Bar:Members:Bertrand
 1970-01-01 open Liabilities:Bar:Members:Betz
@@ -23,6 +24,7 @@
 1970-01-01 open Liabilities:Bar:Members:Lies
 1970-01-01 open Liabilities:Bar:Members:Marquis
 1970-01-01 open Liabilities:Bar:Members:Merlijn
+  mm_name: "merlijn"
 1970-01-01 open Liabilities:Bar:Members:Michael
 1970-01-01 open Liabilities:Bar:Members:Mimor
 1970-01-01 open Liabilities:Bar:Members:Nomaster
@@ -33,6 +35,7 @@
   display_name: "ruleant"
 1970-01-01 open Liabilities:Bar:Members:Sandb
 1970-01-01 open Liabilities:Bar:Members:Sasja
+  mm_name: "sasja"
 1970-01-01 open Liabilities:Bar:Members:Simon
 1970-01-01 open Liabilities:Bar:Members:Snicksie
 1970-01-01 open Liabilities:Bar:Members:Stefaan
@@ -68,6 +71,7 @@
 2021-02-20 open Liabilities:Bar:Members:Lonelycelt
   display_name: "lonely​celt"
 2021-09-02 open Liabilities:Bar:Members:Fearless
+  mm_name: "fearless"
 2021-09-02 open Liabilities:Bar:Members:Spider
 2021-09-03 open Liabilities:Bar:Members:Shmitty
 2021-09-03 open Liabilities:Bar:Members:HansA
