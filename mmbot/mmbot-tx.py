@@ -81,9 +81,11 @@ def get_mm_user(user):
     for member_entry in members_entries:
         logging.debug('Entry: %s', member_entry)
         logging.debug('Account: %s', member_entry.account)
+        logging.debug('Display name: %s', member_entry.meta.get("display_name"))
         if (
             member_entry.__class__.__name__ == "Open" and
-            member_entry.account == f"Liabilities:Bar:Members:{member_name}"
+            member_entry.account == f"Liabilities:Bar:Members:{member_name}" or
+            member_entry.meta.get("display_name") == f"{member_name}"
         ):
             mm_name = member_entry.meta.get("mm_name")
             break
