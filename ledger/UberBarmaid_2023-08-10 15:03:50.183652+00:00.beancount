@@ -338,3 +338,13 @@
   Liabilities:Bar:Members:Maja   0.60 EUR  
   Income:Bar                    -0.60 EUR  
 
+2023-08-15 txn "Yvan bought 4 items for €4.30"
+  timestamp: "2023-08-15 11:40:54.232658"
+  type: "purchase"
+  Assets:Inventory:Bar             -3 SNACK 
+  Liabilities:Bar:Members:Yvan      3 SNACK 
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Yvan      1 GERMAN
+  Liabilities:Bar:Members:Yvan   4.30 EUR   
+  Income:Bar                    -4.30 EUR   
+
