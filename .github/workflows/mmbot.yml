@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies and run a python script to send a Mattermost message
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Mattermost bot
+name: Mattermost barbot
   
 on:
   push:
@@ -29,5 +29,5 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f mmbot/requirements.txt ]; then pip install -r mmbot/requirements.txt; fi
-    - name: Run mmbot-tx.py
-      run: python mmbot/mmbot-tx.py ${{ env.MM_URL }} ${{ secrets.MMBOT_TOKEN }}
+    - name: Run mmbarbot.py
+      run: python mmbot/mmbarbot.py ${{ env.MM_URL }} ${{ secrets.MMBOT_TOKEN }}
