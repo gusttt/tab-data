@@ -35,9 +35,13 @@ class MattermostAPI:
 
         response = requests.post(self.server_url + self.api_endpoint + api_path, headers=self.headers, data=json.dumps(data))
         if response.status_code == 200:
-            logging.debug('Response mm_search_userid:\n %s', pformat(response.json()))            
-            user = response.json()
-            return user[0]['id']
+            if response.json():
+                logging.debug('Response mm_search_userid:\n %s', pformat(response.json()))
+                user = response.json()
+                return user[0]['id']
+            else:
+                logging.error('mm_name \"%s\" is configured in members.beancount but this user is not found at server %s. Typo in the members.beancount file?', user_name, self.server_url)
+                exit(1)
         else:
             logging.error("Error mm_search_userid: %s", response.text)
 
@@ -95,8 +99,8 @@ class BeancountParser():
             logging.info('Mattermost user for %s is: %s', member_name, mm_name)
             return mm_name
         else:
-            logging.info('Mattermost user (mm_name) not found for %s in members.beancount. Stopping here.', member_name)
-            sys.exit()
+            logging.info('Mattermost user (mm_name) not found for %s in members.beancount.', member_name)
+            return None
 
 
     def get_user_from_tx(self, added_transactions):
@@ -143,7 +147,6 @@ class BeancountParser():
             return False
         else:
             return True
-            sys.exit(0)
 
 
 if __name__ == '__main__':
@@ -168,6 +171,9 @@ if __name__ == '__main__':
     member_name = bcparser.get_user_from_tx(added_transactions)
     logging.info('Membername from transaction: %s', member_name)
     mm_user = bcparser.get_mm_user(member_name)
+    if mm_user is None:
+        logging.info('Mattermost user not found. Stopping here.')
+        sys.exit(0)
 
     api = MattermostAPI(mm_url, token)
     # Setup mattermost direct message channel between barbot and transaction user
