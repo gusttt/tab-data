@@ -406,3 +406,95 @@
   Liabilities:Bar:Members:Yvan   3.70 EUR   
   Income:Bar                    -3.70 EUR   
 
+2023-08-17 txn "Yvan bought 2 items for €3.10"
+  timestamp: "2023-08-17 16:09:25.549359"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 SNACK 
+  Liabilities:Bar:Members:Yvan      1 SNACK 
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Yvan      1 GERMAN
+  Liabilities:Bar:Members:Yvan   3.10 EUR   
+  Income:Bar                    -3.10 EUR   
+
+2023-08-17 txn "Sander bought 1 items for €3.00"
+  timestamp: "2023-08-17 17:07:47.333493"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 CM 
+  Liabilities:Bar:Members:Sander      1 CM 
+  Liabilities:Bar:Members:Sander   3.00 EUR
+  Income:Bar                      -3.00 EUR
+
+2023-08-17 txn "Yvan bought 1 items for €2.50"
+  timestamp: "2023-08-17 18:08:47.871619"
+  type: "purchase"
+  Assets:Inventory:Bar             -1 GERMAN
+  Liabilities:Bar:Members:Yvan      1 GERMAN
+  Liabilities:Bar:Members:Yvan   2.50 EUR   
+  Income:Bar                    -2.50 EUR   
+
+2023-08-17 txn "ruleant bought 1 items for €1.50"
+  timestamp: "2023-08-17 18:24:38.685087"
+  type: "purchase"
+  Assets:Inventory:Bar                -1 SODA
+  Liabilities:Bar:Members:Ruleant      1 SODA
+  Liabilities:Bar:Members:Ruleant   1.50 EUR 
+  Income:Bar                       -1.50 EUR 
+
+2023-08-17 txn "Thijs bought 1 items for €1.50"
+  timestamp: "2023-08-17 19:03:18.458302"
+  type: "purchase"
+  Assets:Inventory:Bar              -1 BEER
+  Liabilities:Bar:Members:Thijs      1 BEER
+  Liabilities:Bar:Members:Thijs   1.50 EUR 
+  Income:Bar                     -1.50 EUR 
+
+2023-08-17 txn "Sander bought 1 items for €2.50"
+  timestamp: "2023-08-17 19:05:24.298515"
+  type: "purchase"
+  Assets:Inventory:Bar               -1 GERMAN
+  Liabilities:Bar:Members:Sander      1 GERMAN
+  Liabilities:Bar:Members:Sander   2.50 EUR   
+  Income:Bar                      -2.50 EUR   
+
+2023-08-17 txn "Sander gave --CASH-- a gift of €5.00"
+  timestamp: "2023-08-17 19:05:49.330510"
+  type: "transfer"
+  Liabilities:Bar:Members:Sander   5.00 EUR
+  Assets:Cash:Bar                 -5.00 EUR
+
+2023-08-17 txn "Sander deposited €5.00"
+  timestamp: "2023-08-17 19:06:05.229201"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -5.00 EUR
+  Assets:Cash:Bar                  5.00 EUR
+
+2023-08-17 txn "Sander deposited €20.00"
+  timestamp: "2023-08-17 19:06:15.841213"
+  type: "deposit"
+  Liabilities:Bar:Members:Sander  -20.00 EUR
+  Assets:Cash:Bar                  20.00 EUR
+
+2023-08-17 txn "Frp bought 1 items for €3.00"
+  timestamp: "2023-08-17 19:09:02.420074"
+  type: "purchase"
+  Assets:Inventory:Bar            -1 CM 
+  Liabilities:Bar:Members:Frp      1 CM 
+  Liabilities:Bar:Members:Frp   3.00 EUR
+  Income:Bar                   -3.00 EUR
+
+2023-08-17 txn "Bloemist bought 1 items for €1.33"
+  timestamp: "2023-08-17 19:49:08.392236"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 CARA
+  Liabilities:Bar:Members:Bloemist      1 CARA
+  Liabilities:Bar:Members:Bloemist   1.33 EUR 
+  Income:Bar                        -1.33 EUR 
+
+2023-08-17 txn "Bloemist bought 1 items for €2.50"
+  timestamp: "2023-08-17 20:56:25.570536"
+  type: "purchase"
+  Assets:Inventory:Bar                 -1 GERMAN
+  Liabilities:Bar:Members:Bloemist      1 GERMAN
+  Liabilities:Bar:Members:Bloemist   2.50 EUR   
+  Income:Bar                        -2.50 EUR   
+
