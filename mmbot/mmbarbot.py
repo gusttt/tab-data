@@ -130,7 +130,12 @@ class BeancountParser():
                 if line.startswith('++'):
                     continue
                 tx = tx + line.lstrip('+') + '\n'
-        return tx
+
+        if tx.startswith('include '):
+            logging.info("Not a transaction but a new beancount file include. Git commit msg:\n %s", tx)
+            return None
+        else:
+            return tx
     
 
     def check_if_transaction(self, commit_hash=None):
@@ -167,7 +172,11 @@ if __name__ == '__main__':
         sys.exit(0)
 
     added_transactions = bcparser.extract_added_transactions_from_git_patch(git_commit_hash)
+    if added_transactions is None:
+        logging.info("Not a transaction. Stopping here.")
+        sys.exit(0)
     logging.info('Git commit msg:\n %s', added_transactions)
+
     member_name = bcparser.get_user_from_tx(added_transactions)
     logging.info('Membername from transaction: %s', member_name)
     mm_user = bcparser.get_mm_user(member_name)
